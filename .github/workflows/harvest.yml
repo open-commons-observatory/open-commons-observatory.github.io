@@ -18,12 +18,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: dtolnay/rust-toolchain@stable
-      - name: the engine
-        run: cargo install --locked --git https://github.com/open-commons-observatory/oco oco
+      - name: ocoeco gathers, the engine renders
+        run: |
+          cargo install --locked --git https://github.com/open-commons-observatory/ocoeco ocoeco
+          cargo install --locked --git https://github.com/open-commons-observatory/oco oco
       - name: harvest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: oco harvest --out data
+        run: ocoeco harvest --out data
       - name: commit what changed
         run: |
           git add data
