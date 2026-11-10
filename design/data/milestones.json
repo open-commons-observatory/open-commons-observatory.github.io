@@ -1,0 +1,7 @@
+{"id":"obs-agents","subject":"observatory","ord":6,"title":"Agents instruct themselves","horizon":"ongoing","readiness":8,"criteria":"backlog:oco-agent-guide","why":"lab-agent guide: the living practices."}
+{"id":"obs-boards","subject":"observatory","ord":4,"title":"Boards beside the paths","horizon":"perfection","readiness":8,"criteria":"backlog:oco-board-export","why":"What is being done now, next to where it leads."}
+{"id":"obs-gathers","subject":"observatory","ord":1,"title":"Finds and gathers every project","horizon":"working","readiness":6,"criteria":"backlog:oco-mark backlog:oco-harvest","why":"The mark, discovery and the harvest."}
+{"id":"obs-paths","subject":"observatory","ord":3,"title":"Every project's path","horizon":"perfection","readiness":8,"criteria":"backlog:oco-path backlog:oco-milestones-data backlog:oco-project-pages","why":"How close each project is, the same way for all."}
+{"id":"obs-perfecting","subject":"observatory","ord":7,"title":"Still perfecting","horizon":"ongoing","readiness":9,"criteria":"backlog:oco-perfecting","why":"Every improvement carried back."}
+{"id":"obs-shows","subject":"observatory","ord":2,"title":"Shows the picture","horizon":"working","readiness":7,"criteria":"backlog:oco-site backlog:oco-concepts-view","why":"The site, from the data alone."}
+{"id":"obs-tad","subject":"observatory","ord":5,"title":"tad in Rust","horizon":"perfection","readiness":9,"criteria":"backlog:oco-tad-rust","why":"The heart, on sturdier machinery."}
