@@ -6,6 +6,7 @@ id = "open-commons-observatory/open-commons-observatory.github.io"
 name = "Open Commons Observatory: one living picture of the open commons"
 title = "Observatory"
 kind = "observatory"
+order = 1
 parent = "open-commons-observatory"
 
 [exports]
