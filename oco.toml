@@ -10,6 +10,7 @@ order = 1
 parent = "open-commons-observatory"
 
 [exports]
+workings = "design/data/workings.json"
 idea = "design/data/idea.json"
 concepts = "design/data/concepts.json"
 decisions = "design/data/decisions.json"
