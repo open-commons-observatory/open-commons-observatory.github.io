@@ -1,11 +1,14 @@
 name: harvest
-# Every marked project's exported tables, gathered into data/ - the picture keeps itself current.
+# Every marked project's exported tables, gathered into data/, and the site rendered from them and
+# published - the picture keeps itself current.
 on:
   schedule:
     - cron: "17 */6 * * *"
   workflow_dispatch:
 permissions:
   contents: write
+  pages: write
+  id-token: write
 concurrency:
   group: harvest
   cancel-in-progress: false
@@ -27,3 +30,17 @@ jobs:
           if git diff --cached --quiet; then echo "nothing changed"; exit 0; fi
           git -c user.name="oco harvest" -c user.email="actions@users.noreply.github.com" commit -m "data: the harvest"
           git push
+      - name: the site
+        run: oco site --data data --out _site
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+  publish:
+    needs: harvest
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4
