@@ -1,0 +1,15 @@
+# This repository's mark: the observatory itself, as a piece of its own picture.
+schema = 1
+
+[project]
+id = "open-commons-observatory/open-commons-observatory.github.io"
+name = "Open Commons Observatory: one living picture of the open commons"
+title = "Observatory"
+kind = "observatory"
+parent = "open-commons-observatory"
+
+[exports]
+concepts = "design/data/concepts.json"
+decisions = "design/data/decisions.json"
+backlog = "design/data/backlog.json"
+session_log = "design/data/session_log.json"
