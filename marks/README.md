@@ -11,7 +11,8 @@ schema = 1                      # this mark's version
 [project]
 id = "owner/repo"               # the repository
 name = "What it is, in a few words"
-kind = "device-lab"             # picture | conveyor | device-lab | tool | research
+kind = "device-lab"             # observatory | picture | conveyor | device-lab | tool | research
+title = "Short name"            # optional: the name in navigation
 parent = "linux-phone-oco"      # the larger project it belongs to
 
 [exports]                       # tad tables others may read: name = path in this repository
@@ -31,6 +32,9 @@ line) with at least these columns:
 | `support_status` | device_id, component_id, status | what works on which device |
 | `feature_support` | feature_id, platform_id, status | features against platforms |
 | `landscape` | id, name, project, what, for_us, link, checked | the projects around ours |
+| `milestones` | id, title, horizon, readiness, criteria, status | the path: stops on the three horizons |
+| `concepts` | id, name, summary, why | what the project's ideas are |
+| `decisions` | id, date, decision, why, rejected | what was chosen, and what was not |
 
 A project exports only what it keeps; more columns are welcome. The harvest tags every row with the
 project it came from.
