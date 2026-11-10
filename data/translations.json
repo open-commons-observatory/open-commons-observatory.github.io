@@ -165,6 +165,7 @@
 {"by":"machine","column":"lens.goal","id":"lenses:rhizome-oco/lens:lens.goal:ru","lang":"ru","project":"rhizome-oco/lens","row":"rhizome-oco/lens","table":"lenses","text":"перестать управлять софтом — начать его выращивать"}
 {"by":"machine","column":"lens.title","id":"lenses:rhizome-oco/lens:lens.title:ru","lang":"ru","project":"rhizome-oco/lens","row":"rhizome-oco/lens","table":"lenses","text":"Ризома"}
 {"by":"machine","column":"view.backlog.title","id":"lenses:rhizome-oco/lens:view.backlog.title:ru","lang":"ru","project":"rhizome-oco/lens","row":"rhizome-oco/lens","table":"lenses","text":"Бэклог"}
+{"by":"machine","column":"view.essence.title","id":"lenses:rhizome-oco/lens:view.essence.title:ru","lang":"ru","project":"rhizome-oco/lens","row":"rhizome-oco/lens","table":"lenses","text":"Суть"}
 {"by":"machine","column":"view.ideas.lead","id":"lenses:rhizome-oco/lens:view.ideas.lead:ru","lang":"ru","project":"rhizome-oco/lens","row":"rhizome-oco/lens","table":"lenses","text":"Одна идея, повторённая много раз: заменить догадку вычислением."}
 {"by":"machine","column":"view.ideas.title","id":"lenses:rhizome-oco/lens:view.ideas.title:ru","lang":"ru","project":"rhizome-oco/lens","row":"rhizome-oco/lens","table":"lenses","text":"Понятия и решения"}
 {"by":"machine","column":"view.index.title","id":"lenses:rhizome-oco/lens:view.index.title:ru","lang":"ru","project":"rhizome-oco/lens","row":"rhizome-oco/lens","table":"lenses","text":"Идея"}
