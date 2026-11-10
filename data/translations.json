@@ -1,3 +1,144 @@
+{"by":"machine","column":"name","id":"components:audio-earpiece:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"audio-earpiece","table":"components","text":"Разговорный динамик"}
+{"by":"machine","column":"name","id":"components:audio-headphone:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"audio-headphone","table":"components","text":"Выход на наушники (3,5 мм)"}
+{"by":"machine","column":"name","id":"components:audio-mic:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"audio-mic","table":"components","text":"Микрофон"}
+{"by":"machine","column":"name","id":"components:audio-speaker:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"audio-speaker","table":"components","text":"Динамик"}
+{"by":"machine","column":"name","id":"components:bluetooth:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"bluetooth","table":"components","text":"Bluetooth"}
+{"by":"machine","column":"name","id":"components:camera-front:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"camera-front","table":"components","text":"Фронтальная камера"}
+{"by":"machine","column":"name","id":"components:camera-rear:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"camera-rear","table":"components","text":"Основная камера"}
+{"by":"machine","column":"name","id":"components:display-panel:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"display-panel","table":"components","text":"Экран"}
+{"by":"machine","column":"name","id":"components:fastboot:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"fastboot","table":"components","text":"Fastboot"}
+{"by":"machine","column":"name","id":"components:fingerprint:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"fingerprint","table":"components","text":"Сканер отпечатков"}
+{"by":"machine","column":"name","id":"components:haptics:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"haptics","table":"components","text":"Вибрация"}
+{"by":"machine","column":"name","id":"components:kernel:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"kernel","table":"components","text":"Ядро"}
+{"by":"machine","column":"name","id":"components:modem-calls:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"modem-calls","table":"components","text":"Модем: звонки"}
+{"by":"machine","column":"name","id":"components:modem-data:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"modem-data","table":"components","text":"Модем: передача данных"}
+{"by":"machine","column":"name","id":"components:modem-sms:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"modem-sms","table":"components","text":"Модем: SMS"}
+{"by":"machine","column":"name","id":"components:nfc:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"nfc","table":"components","text":"NFC"}
+{"by":"machine","column":"name","id":"components:sensors:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"sensors","table":"components","text":"Датчики"}
+{"by":"machine","column":"name","id":"components:touchscreen:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"touchscreen","table":"components","text":"Сенсор экрана"}
+{"by":"machine","column":"name","id":"components:usb-otg:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"usb-otg","table":"components","text":"USB OTG"}
+{"by":"machine","column":"name","id":"components:wifi:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"wifi","table":"components","text":"Wi-Fi"}
+{"by":"machine","column":"category","id":"features:all-day-battery:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"all-day-battery","table":"features","text":"питание"}
+{"by":"machine","column":"name","id":"features:all-day-battery:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"all-day-battery","table":"features","text":"Батарея на весь день"}
+{"by":"machine","column":"category","id":"features:android-apps:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"android-apps","table":"features","text":"приложения"}
+{"by":"machine","column":"name","id":"features:android-apps:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"android-apps","table":"features","text":"Приложения Android"}
+{"by":"machine","column":"category","id":"features:app-sandboxing:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"app-sandboxing","table":"features","text":"безопасность"}
+{"by":"machine","column":"name","id":"features:app-sandboxing:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"app-sandboxing","table":"features","text":"Изоляция приложений"}
+{"by":"machine","column":"category","id":"features:app-store:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"app-store","table":"features","text":"приложения"}
+{"by":"machine","column":"name","id":"features:app-store:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"app-store","table":"features","text":"Магазин приложений"}
+{"by":"machine","column":"category","id":"features:auto-brightness:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"auto-brightness","table":"features","text":"экран и ввод"}
+{"by":"machine","column":"name","id":"features:auto-brightness:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"auto-brightness","table":"features","text":"Автояркость"}
+{"by":"machine","column":"category","id":"features:auto-rotate:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"auto-rotate","table":"features","text":"экран и ввод"}
+{"by":"machine","column":"name","id":"features:auto-rotate:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"auto-rotate","table":"features","text":"Автоповорот"}
+{"by":"machine","column":"category","id":"features:backup:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"backup","table":"features","text":"синхронизация"}
+{"by":"machine","column":"name","id":"features:backup:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"backup","table":"features","text":"Резервное копирование"}
+{"by":"machine","column":"category","id":"features:banking-apps:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"banking-apps","table":"features","text":"сервисы"}
+{"by":"machine","column":"name","id":"features:banking-apps:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"banking-apps","table":"features","text":"Банковские приложения"}
+{"by":"machine","column":"category","id":"features:bluetooth-audio:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"bluetooth-audio","table":"features","text":"звук"}
+{"by":"machine","column":"name","id":"features:bluetooth-audio:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"bluetooth-audio","table":"features","text":"Звук по Bluetooth"}
+{"by":"machine","column":"category","id":"features:bluetooth:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"bluetooth","table":"features","text":"связь"}
+{"by":"machine","column":"name","id":"features:bluetooth:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"bluetooth","table":"features","text":"Bluetooth"}
+{"by":"machine","column":"category","id":"features:charging:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"charging","table":"features","text":"питание"}
+{"by":"machine","column":"name","id":"features:charging:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"charging","table":"features","text":"Зарядка"}
+{"by":"machine","column":"category","id":"features:contactless-payments:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"contactless-payments","table":"features","text":"сервисы"}
+{"by":"machine","column":"name","id":"features:contactless-payments:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"contactless-payments","table":"features","text":"Бесконтактная оплата"}
+{"by":"machine","column":"category","id":"features:contacts-calendar-sync:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"contacts-calendar-sync","table":"features","text":"синхронизация"}
+{"by":"machine","column":"name","id":"features:contacts-calendar-sync:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"contacts-calendar-sync","table":"features","text":"Синхронизация контактов и календаря"}
+{"by":"machine","column":"category","id":"features:deep-sleep:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"deep-sleep","table":"features","text":"питание"}
+{"by":"machine","column":"name","id":"features:deep-sleep:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"deep-sleep","table":"features","text":"Глубокий сон"}
+{"by":"machine","column":"category","id":"features:earpiece:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"earpiece","table":"features","text":"звук"}
+{"by":"machine","column":"name","id":"features:earpiece:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"earpiece","table":"features","text":"Разговорный динамик"}
+{"by":"machine","column":"category","id":"features:emergency-calls:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"emergency-calls","table":"features","text":"звонки и сообщения"}
+{"by":"machine","column":"name","id":"features:emergency-calls:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"emergency-calls","table":"features","text":"Экстренные вызовы"}
+{"by":"machine","column":"category","id":"features:encryption:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"encryption","table":"features","text":"безопасность"}
+{"by":"machine","column":"name","id":"features:encryption:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"encryption","table":"features","text":"Шифрование"}
+{"by":"machine","column":"category","id":"features:esim:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"esim","table":"features","text":"звонки и сообщения"}
+{"by":"machine","column":"name","id":"features:esim:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"esim","table":"features","text":"eSIM"}
+{"by":"machine","column":"category","id":"features:fingerprint:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"fingerprint","table":"features","text":"датчики"}
+{"by":"machine","column":"name","id":"features:fingerprint:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"fingerprint","table":"features","text":"Отпечаток пальца"}
+{"by":"machine","column":"category","id":"features:gps:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"gps","table":"features","text":"связь"}
+{"by":"machine","column":"name","id":"features:gps:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"gps","table":"features","text":"GPS и навигация"}
+{"by":"machine","column":"category","id":"features:headphones:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"headphones","table":"features","text":"звук"}
+{"by":"machine","column":"name","id":"features:headphones:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"headphones","table":"features","text":"Наушники"}
+{"by":"machine","column":"category","id":"features:hotspot:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"hotspot","table":"features","text":"связь"}
+{"by":"machine","column":"name","id":"features:hotspot:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"hotspot","table":"features","text":"Точка доступа"}
+{"by":"machine","column":"category","id":"features:microphone:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"microphone","table":"features","text":"звук"}
+{"by":"machine","column":"name","id":"features:microphone:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"microphone","table":"features","text":"Микрофон"}
+{"by":"machine","column":"category","id":"features:mms:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"mms","table":"features","text":"звонки и сообщения"}
+{"by":"machine","column":"name","id":"features:mms:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"mms","table":"features","text":"MMS"}
+{"by":"machine","column":"category","id":"features:mobile-data:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"mobile-data","table":"features","text":"связь"}
+{"by":"machine","column":"name","id":"features:mobile-data:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"mobile-data","table":"features","text":"Мобильный интернет"}
+{"by":"machine","column":"category","id":"features:native-apps:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"native-apps","table":"features","text":"приложения"}
+{"by":"machine","column":"name","id":"features:native-apps:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"native-apps","table":"features","text":"Родные приложения"}
+{"by":"machine","column":"category","id":"features:nfc:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"nfc","table":"features","text":"связь"}
+{"by":"machine","column":"name","id":"features:nfc:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"nfc","table":"features","text":"NFC"}
+{"by":"machine","column":"category","id":"features:on-screen-keyboard:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"on-screen-keyboard","table":"features","text":"экран и ввод"}
+{"by":"machine","column":"name","id":"features:on-screen-keyboard:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"on-screen-keyboard","table":"features","text":"Экранная клавиатура"}
+{"by":"machine","column":"category","id":"features:ota-updates:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"ota-updates","table":"features","text":"обновления"}
+{"by":"machine","column":"name","id":"features:ota-updates:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"ota-updates","table":"features","text":"Обновления по воздуху"}
+{"by":"machine","column":"category","id":"features:photo:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"photo","table":"features","text":"камера"}
+{"by":"machine","column":"name","id":"features:photo:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"photo","table":"features","text":"Фото"}
+{"by":"machine","column":"category","id":"features:power-discipline:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"power-discipline","table":"features","text":"питание"}
+{"by":"machine","column":"name","id":"features:power-discipline:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"power-discipline","table":"features","text":"Бережный расход энергии"}
+{"by":"machine","column":"category","id":"features:proximity:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"proximity","table":"features","text":"датчики"}
+{"by":"machine","column":"name","id":"features:proximity:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"proximity","table":"features","text":"Датчик приближения"}
+{"by":"machine","column":"category","id":"features:push-notifications:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"push-notifications","table":"features","text":"сервисы"}
+{"by":"machine","column":"name","id":"features:push-notifications:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"push-notifications","table":"features","text":"Push-уведомления"}
+{"by":"machine","column":"category","id":"features:qr-scan:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"qr-scan","table":"features","text":"камера"}
+{"by":"machine","column":"name","id":"features:qr-scan:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"qr-scan","table":"features","text":"Сканирование QR-кодов"}
+{"by":"machine","column":"category","id":"features:rollback:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"rollback","table":"features","text":"обновления"}
+{"by":"machine","column":"name","id":"features:rollback:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"rollback","table":"features","text":"Откат обновлений"}
+{"by":"machine","column":"category","id":"features:secure-element:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"secure-element","table":"features","text":"безопасность"}
+{"by":"machine","column":"name","id":"features:secure-element:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"secure-element","table":"features","text":"Защищённый элемент"}
+{"by":"machine","column":"category","id":"features:sms:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"sms","table":"features","text":"звонки и сообщения"}
+{"by":"machine","column":"name","id":"features:sms:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"sms","table":"features","text":"SMS"}
+{"by":"machine","column":"category","id":"features:speaker:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"speaker","table":"features","text":"звук"}
+{"by":"machine","column":"name","id":"features:speaker:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"speaker","table":"features","text":"Динамик"}
+{"by":"machine","column":"category","id":"features:support-years:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"support-years","table":"features","text":"обновления"}
+{"by":"machine","column":"name","id":"features:support-years:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"support-years","table":"features","text":"Годы поддержки"}
+{"by":"machine","column":"category","id":"features:touch:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"touch","table":"features","text":"экран и ввод"}
+{"by":"machine","column":"name","id":"features:touch:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"touch","table":"features","text":"Сенсорный экран"}
+{"by":"machine","column":"category","id":"features:verified-boot:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"verified-boot","table":"features","text":"безопасность"}
+{"by":"machine","column":"name","id":"features:verified-boot:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"verified-boot","table":"features","text":"Проверенная загрузка"}
+{"by":"machine","column":"category","id":"features:video-recording:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"video-recording","table":"features","text":"камера"}
+{"by":"machine","column":"name","id":"features:video-recording:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"video-recording","table":"features","text":"Запись видео"}
+{"by":"machine","column":"category","id":"features:voice-calls:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"voice-calls","table":"features","text":"звонки и сообщения"}
+{"by":"machine","column":"name","id":"features:voice-calls:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"voice-calls","table":"features","text":"Голосовые звонки"}
+{"by":"machine","column":"category","id":"features:voicemail:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"voicemail","table":"features","text":"звонки и сообщения"}
+{"by":"machine","column":"name","id":"features:voicemail:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"voicemail","table":"features","text":"Голосовая почта"}
+{"by":"machine","column":"category","id":"features:volte:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"volte","table":"features","text":"звонки и сообщения"}
+{"by":"machine","column":"name","id":"features:volte:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"volte","table":"features","text":"VoLTE и звонки по Wi-Fi"}
+{"by":"machine","column":"category","id":"features:wifi:category:ru","lang":"ru","project":"linux-phone-oco/docs","row":"wifi","table":"features","text":"связь"}
+{"by":"machine","column":"name","id":"features:wifi:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"wifi","table":"features","text":"Wi-Fi"}
+{"by":"machine","column":"title","id":"milestones:lp-apps-and-services:title:ru","lang":"ru","project":"linux-phone-oco/docs","row":"lp-apps-and-services","table":"milestones","text":"Приложения и сервисы не хуже, чем на Android"}
+{"by":"machine","column":"why","id":"milestones:lp-apps-and-services:why:ru","lang":"ru","project":"linux-phone-oco/docs","row":"lp-apps-and-services","table":"milestones","text":"То, в чём люди на самом деле живут."}
+{"by":"machine","column":"title","id":"milestones:lp-calls-and-messages:title:ru","lang":"ru","project":"linux-phone-oco/docs","row":"lp-calls-and-messages","table":"milestones","text":"Звонки и сообщения"}
+{"by":"machine","column":"why","id":"milestones:lp-calls-and-messages:why:ru","lang":"ru","project":"linux-phone-oco/docs","row":"lp-calls-and-messages","table":"milestones","text":"Первое, для чего нужен телефон."}
+{"by":"machine","column":"title","id":"milestones:lp-connected:title:ru","lang":"ru","project":"linux-phone-oco/docs","row":"lp-connected","table":"milestones","text":"На связи: интернет, Wi-Fi, Bluetooth, GPS"}
+{"by":"machine","column":"why","id":"milestones:lp-connected:why:ru","lang":"ru","project":"linux-phone-oco/docs","row":"lp-connected","table":"milestones","text":"Телефон без связи — не телефон."}
+{"by":"machine","column":"title","id":"milestones:lp-daily-basics:title:ru","lang":"ru","project":"linux-phone-oco/docs","row":"lp-daily-basics","table":"milestones","text":"Повседневное"}
+{"by":"machine","column":"why","id":"milestones:lp-daily-basics:why:ru","lang":"ru","project":"linux-phone-oco/docs","row":"lp-daily-basics","table":"milestones","text":"Звук, камера, экран, на котором удобно печатать, и день без зарядки: тогда он может быть единственным телефоном."}
+{"by":"machine","column":"title","id":"milestones:lp-everything:title:ru","lang":"ru","project":"linux-phone-oco/docs","row":"lp-everything","table":"milestones","text":"Всё, что умеет телефон"}
+{"by":"machine","column":"why","id":"milestones:lp-everything:why:ru","lang":"ru","project":"linux-phone-oco/docs","row":"lp-everything","table":"milestones","text":"Каждая функция из списка — работает."}
+{"by":"machine","column":"title","id":"milestones:lp-secure-updated:title:ru","lang":"ru","project":"linux-phone-oco/docs","row":"lp-secure-updated","table":"milestones","text":"Защищён и обновляется"}
+{"by":"machine","column":"why","id":"milestones:lp-secure-updated:why:ru","lang":"ru","project":"linux-phone-oco/docs","row":"lp-secure-updated","table":"milestones","text":"Совершенство, которое держится."}
+{"by":"machine","column":"title","id":"milestones:lp-tested-daily:title:ru","lang":"ru","project":"linux-phone-oco/docs","row":"lp-tested-daily","table":"milestones","text":"Проверяется на настоящих устройствах"}
+{"by":"machine","column":"why","id":"milestones:lp-tested-daily:why:ru","lang":"ru","project":"linux-phone-oco/docs","row":"lp-tested-daily","table":"milestones","text":"Каждый день, на самих телефонах."}
+{"by":"machine","column":"title","id":"milestones:lp-upstream:title:ru","lang":"ru","project":"linux-phone-oco/docs","row":"lp-upstream","table":"milestones","text":"Исправления — в апстриме"}
+{"by":"machine","column":"why","id":"milestones:lp-upstream:why:ru","lang":"ru","project":"linux-phone-oco/docs","row":"lp-upstream","table":"milestones","text":"Исправлениям место там, где их получат все."}
+{"by":"machine","column":"title","id":"milestones:surya-boots:title:ru","lang":"ru","project":"linux-phone-oco/docs","row":"surya-boots","table":"milestones","text":"Загружается, показывает, реагирует, подключается"}
+{"by":"machine","column":"why","id":"milestones:surya-boots:why:ru","lang":"ru","project":"linux-phone-oco/docs","row":"surya-boots","table":"milestones","text":"Основа, на которой стоит всё остальное."}
+{"by":"machine","column":"title","id":"milestones:surya-every-part:title:ru","lang":"ru","project":"linux-phone-oco/docs","row":"surya-every-part","table":"milestones","text":"Работает каждая деталь"}
+{"by":"machine","column":"why","id":"milestones:surya-every-part:why:ru","lang":"ru","project":"linux-phone-oco/docs","row":"surya-every-part","table":"milestones","text":"Камеры, отпечаток, датчики, NFC — всё."}
+{"by":"machine","column":"title","id":"milestones:surya-phone:title:ru","lang":"ru","project":"linux-phone-oco/docs","row":"surya-phone","table":"milestones","text":"Настоящий телефон: звонки, сообщения, интернет"}
+{"by":"machine","column":"why","id":"milestones:surya-phone:why:ru","lang":"ru","project":"linux-phone-oco/docs","row":"surya-phone","table":"milestones","text":"Тогда им можно пользоваться как телефоном."}
+{"by":"machine","column":"title","id":"milestones:surya-sound:title:ru","lang":"ru","project":"linux-phone-oco/docs","row":"surya-sound","table":"milestones","text":"Звук"}
+{"by":"machine","column":"why","id":"milestones:surya-sound:why:ru","lang":"ru","project":"linux-phone-oco/docs","row":"surya-sound","table":"milestones","text":"Динамики, разговорный динамик, микрофон, наушники."}
+{"by":"machine","column":"title","id":"milestones:surya-tested:title:ru","lang":"ru","project":"linux-phone-oco/docs","row":"surya-tested","table":"milestones","text":"Проверяется каждый день"}
+{"by":"machine","column":"why","id":"milestones:surya-tested:why:ru","lang":"ru","project":"linux-phone-oco/docs","row":"surya-tested","table":"milestones","text":"Наблюдение за здоровьем и прогоны тестов — зелёные."}
+{"by":"machine","column":"title","id":"milestones:surya-upstream:title:ru","lang":"ru","project":"linux-phone-oco/docs","row":"surya-upstream","table":"milestones","text":"Его исправления — в апстриме"}
+{"by":"machine","column":"why","id":"milestones:surya-upstream:why:ru","lang":"ru","project":"linux-phone-oco/docs","row":"surya-upstream","table":"milestones","text":"Чтобы их получил каждый телефон на SM7150."}
+{"by":"machine","column":"name","id":"platforms:linux-best:name:ru","lang":"ru","project":"linux-phone-oco/docs","row":"linux-best","table":"platforms","text":"Linux-телефоны (лучшее на сегодня)"}
 {"by":"machine","column":"lens.goal","id":"lenses:linux-phone-oco/lens:lens.goal:ru","lang":"ru","project":"linux-phone-oco/lens","row":"linux-phone-oco/lens","table":"lenses","text":"телефоны на Linux, не хуже Android — и насколько мы к этому близки"}
 {"by":"machine","column":"lens.title","id":"lenses:linux-phone-oco/lens:lens.title:ru","lang":"ru","project":"linux-phone-oco/lens","row":"linux-phone-oco/lens","table":"lenses","text":"Linux-телефоны"}
 {"by":"machine","column":"view.backlog.title","id":"lenses:linux-phone-oco/lens:view.backlog.title:ru","lang":"ru","project":"linux-phone-oco/lens","row":"linux-phone-oco/lens","table":"lenses","text":"Бэклог"}
