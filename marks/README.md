@@ -1,5 +1,7 @@
 # The mark (schema 1)
 
+The specification now lives in [ocoeco](https://github.com/open-commons-observatory/ocoeco/blob/main/SPEC.md), the observatory's information ecosystem; this page is kept as a short introduction.
+
 A repository becomes a piece of the observatory's picture with two things:
 
 1. `oco.toml` at its root;
