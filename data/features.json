@@ -1,0 +1,46 @@
+{"category":"power","id":"all-day-battery","name":"All-day battery","project":"linux-phone-oco/docs","why":"Leaving home without a charger."}
+{"category":"apps","id":"android-apps","name":"Android apps","project":"linux-phone-oco/docs","why":"Many services exist only as Android apps."}
+{"category":"security","id":"app-sandboxing","name":"App sandboxing by default","project":"linux-phone-oco/docs","why":"One bad app cannot read the others."}
+{"category":"apps","id":"app-store","name":"App store","project":"linux-phone-oco/docs","why":"Finding and updating software in one place."}
+{"category":"display and input","id":"auto-brightness","name":"Auto-brightness","project":"linux-phone-oco/docs","why":"Readable outdoors, comfortable at night, saves battery."}
+{"category":"display and input","id":"auto-rotate","name":"Auto-rotate","project":"linux-phone-oco/docs","why":"Video and photos in landscape."}
+{"category":"sync","id":"backup","name":"Backup and restore","project":"linux-phone-oco/docs","why":"Moving to a new phone, or recovering a lost one."}
+{"category":"services","id":"banking-apps","name":"Banking apps","project":"linux-phone-oco/docs","why":"Many banks require their app for login and payments."}
+{"category":"connectivity","id":"bluetooth","name":"Bluetooth","project":"linux-phone-oco/docs","why":"Headphones, cars, watches, keyboards."}
+{"category":"audio","id":"bluetooth-audio","name":"Bluetooth audio and headset calls","project":"linux-phone-oco/docs","why":"Wireless headphones and car kits, including for calls."}
+{"category":"power","id":"charging","name":"Charging, including powered off","project":"linux-phone-oco/docs","why":"Charging at all, and charging while switched off."}
+{"category":"services","id":"contactless-payments","name":"Contactless payments","project":"linux-phone-oco/docs","why":"Paying with the phone."}
+{"category":"sync","id":"contacts-calendar-sync","name":"Contacts and calendar sync","project":"linux-phone-oco/docs","why":"The same contacts and appointments everywhere."}
+{"category":"power","id":"deep-sleep","name":"Deep sleep that wakes for calls and messages","project":"linux-phone-oco/docs","why":"A phone that sleeps and still rings - the heart of battery life."}
+{"category":"audio","id":"earpiece","name":"Earpiece","project":"linux-phone-oco/docs","why":"Calls held to the ear."}
+{"category":"calls and messages","id":"emergency-calls","name":"Emergency calls","project":"linux-phone-oco/docs","why":"Must work every time, even without a SIM."}
+{"category":"security","id":"encryption","name":"Storage encryption","project":"linux-phone-oco/docs","why":"A lost phone does not give away its data."}
+{"category":"calls and messages","id":"esim","name":"eSIM","project":"linux-phone-oco/docs","why":"More carriers and devices are eSIM-only."}
+{"category":"sensors","id":"fingerprint","name":"Fingerprint or face unlock","project":"linux-phone-oco/docs","why":"Fast unlocking without weakening the lock."}
+{"category":"connectivity","id":"gps","name":"GPS and location","project":"linux-phone-oco/docs","why":"Maps and navigation."}
+{"category":"audio","id":"headphones","name":"Wired headphones and headset mic","project":"linux-phone-oco/docs","why":"Private listening and calls."}
+{"category":"connectivity","id":"hotspot","name":"Hotspot and tethering","project":"linux-phone-oco/docs","why":"Sharing the phone's connection with a laptop."}
+{"category":"audio","id":"microphone","name":"Microphones","project":"linux-phone-oco/docs","why":"Calls, voice notes, video."}
+{"category":"calls and messages","id":"mms","name":"MMS and group messages","project":"linux-phone-oco/docs","why":"Pictures and group chats over the carrier."}
+{"category":"connectivity","id":"mobile-data","name":"Mobile data","project":"linux-phone-oco/docs","why":"Being online away from Wi-Fi."}
+{"category":"apps","id":"native-apps","name":"Native apps for daily needs","project":"linux-phone-oco/docs","why":"Mail, messaging, maps, browser, media, made for a phone screen."}
+{"category":"connectivity","id":"nfc","name":"NFC","project":"linux-phone-oco/docs","why":"Payments, transit cards, pairing."}
+{"category":"display and input","id":"on-screen-keyboard","name":"On-screen keyboard","project":"linux-phone-oco/docs","why":"Typing, in every language the user writes."}
+{"category":"updates","id":"ota-updates","name":"Updates over the air","project":"linux-phone-oco/docs","why":"Security fixes arrive without a computer."}
+{"category":"camera","id":"photo","name":"Photos","project":"linux-phone-oco/docs","why":"The camera is among the most used features of a phone."}
+{"category":"power","id":"power-discipline","name":"Background power discipline","project":"linux-phone-oco/docs","why":"The system, not each app, decides what may run in the background."}
+{"category":"sensors","id":"proximity","name":"Proximity sensor in calls","project":"linux-phone-oco/docs","why":"Turns the screen off at the ear, so the cheek does not press buttons."}
+{"category":"services","id":"push-notifications","name":"Push notifications while asleep","project":"linux-phone-oco/docs","why":"Messages arrive at once without draining the battery."}
+{"category":"camera","id":"qr-scan","name":"QR codes","project":"linux-phone-oco/docs","why":"Logins, payments, tickets, Wi-Fi."}
+{"category":"updates","id":"rollback","name":"Updates with rollback","project":"linux-phone-oco/docs","why":"A failed update does not leave a broken phone."}
+{"category":"security","id":"secure-element","name":"Hardware key store","project":"linux-phone-oco/docs","why":"Keys that never leave a dedicated chip."}
+{"category":"calls and messages","id":"sms","name":"SMS","project":"linux-phone-oco/docs","why":"Still how banks, services and two-factor codes reach people."}
+{"category":"audio","id":"speaker","name":"Speaker","project":"linux-phone-oco/docs","why":"Calls on speaker, media, ringing."}
+{"category":"updates","id":"support-years","name":"Years of updates","project":"linux-phone-oco/docs","why":"A phone stays safe for as long as it lasts."}
+{"category":"display and input","id":"touch","name":"Touchscreen","project":"linux-phone-oco/docs","why":"The whole interface."}
+{"category":"security","id":"verified-boot","name":"Verified boot","project":"linux-phone-oco/docs","why":"The phone can tell when its system was tampered with."}
+{"category":"camera","id":"video-recording","name":"Video recording","project":"linux-phone-oco/docs","why":"Recording with sound."}
+{"category":"calls and messages","id":"voice-calls","name":"Voice calls","project":"linux-phone-oco/docs","why":"The first thing a phone is for."}
+{"category":"calls and messages","id":"voicemail","name":"Voicemail","project":"linux-phone-oco/docs","why":"Calls missed while busy or asleep."}
+{"category":"calls and messages","id":"volte","name":"VoLTE and Wi-Fi calling","project":"linux-phone-oco/docs","why":"Many networks have switched 2G/3G off: without VoLTE there are no calls at all."}
+{"category":"connectivity","id":"wifi","name":"Wi-Fi","project":"linux-phone-oco/docs","why":"The main connection at home and work."}

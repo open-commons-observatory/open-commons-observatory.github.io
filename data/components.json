@@ -1,0 +1,20 @@
+{"category":"audio","id":"audio-earpiece","name":"Earpiece (call speaker)","project":"linux-phone-oco/docs"}
+{"category":"audio","id":"audio-headphone","name":"Headphone output (3.5mm)","project":"linux-phone-oco/docs"}
+{"category":"audio","id":"audio-mic","name":"Microphone","project":"linux-phone-oco/docs"}
+{"category":"audio","id":"audio-speaker","name":"Speaker","project":"linux-phone-oco/docs"}
+{"category":"connectivity","id":"bluetooth","name":"Bluetooth","project":"linux-phone-oco/docs"}
+{"category":"camera","id":"camera-front","name":"Front camera","project":"linux-phone-oco/docs"}
+{"category":"camera","id":"camera-rear","name":"Rear camera(s)","project":"linux-phone-oco/docs"}
+{"category":"display","id":"display-panel","name":"Display panel","project":"linux-phone-oco/docs"}
+{"category":"power","id":"fastboot","name":"Fastboot / bootloader","project":"linux-phone-oco/docs"}
+{"category":"input","id":"fingerprint","name":"Fingerprint sensor","project":"linux-phone-oco/docs"}
+{"category":"input","id":"haptics","name":"Haptics (vibration motor)","project":"linux-phone-oco/docs"}
+{"category":"other","id":"kernel","name":"Kernel (boots without unexpected warnings)","project":"linux-phone-oco/docs"}
+{"category":"connectivity","id":"modem-calls","name":"Phone calls","project":"linux-phone-oco/docs"}
+{"category":"connectivity","id":"modem-data","name":"Mobile data","project":"linux-phone-oco/docs"}
+{"category":"connectivity","id":"modem-sms","name":"SMS","project":"linux-phone-oco/docs"}
+{"category":"connectivity","id":"nfc","name":"NFC","project":"linux-phone-oco/docs"}
+{"category":"other","id":"sensors","name":"Accelerometer / gyroscope / other sensors","project":"linux-phone-oco/docs"}
+{"category":"input","id":"touchscreen","name":"Touchscreen","project":"linux-phone-oco/docs"}
+{"category":"power","id":"usb-otg","name":"USB OTG","project":"linux-phone-oco/docs"}
+{"category":"connectivity","id":"wifi","name":"Wi-Fi","project":"linux-phone-oco/docs"}
