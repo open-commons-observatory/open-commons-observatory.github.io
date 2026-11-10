@@ -21,7 +21,7 @@ jobs:
       - name: ocoeco gathers, the engine renders
         run: |
           cargo install --locked --git https://github.com/open-commons-observatory/ocoeco ocoeco
-          cargo install --locked --git https://github.com/open-commons-observatory/oco oco
+          cargo install --locked --git https://github.com/open-commons-observatory/ocoeco-engine oco
       - name: harvest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
