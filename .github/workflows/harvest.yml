@@ -1,0 +1,29 @@
+name: harvest
+# Every marked project's exported tables, gathered into data/ - the picture keeps itself current.
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: harvest
+  cancel-in-progress: false
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+      - name: the engine
+        run: cargo install --locked --git https://github.com/open-commons-observatory/oco oco
+      - name: harvest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: oco harvest --out data
+      - name: commit what changed
+        run: |
+          git add data
+          if git diff --cached --quiet; then echo "nothing changed"; exit 0; fi
+          git -c user.name="oco harvest" -c user.email="actions@users.noreply.github.com" commit -m "data: the harvest"
+          git push
