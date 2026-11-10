@@ -1,3 +1,0 @@
-{"id":"argenv-opencommons/argenv:activity","problem":"oco/gathered/activity.json is exported but missing","project":"argenv-opencommons/argenv"}
-{"id":"argenv-opencommons/argenv:ci","problem":"oco/gathered/ci.json is exported but missing","project":"argenv-opencommons/argenv"}
-{"id":"argenv-opencommons/argenv:releases","problem":"oco/gathered/releases.json is exported but missing","project":"argenv-opencommons/argenv"}
