@@ -1,6 +1,7 @@
 {"id":"oco-agent-guide","title":"Every agent instructs itself: lab-agent guide","status":"done","note":"The working practices as tad data here; lab-agent guide prints the living practices fetched from the observatory (a built-in copy offline); lab-agent's AGENTS.md sends every agent to it at the start of a session.","opened":"2026-11-10"}
 {"id":"oco-board-export","title":"Boards as data in each project","status":"open","note":"Each project's live tasks as a shared table, harvested and shown next to its path.","opened":"2026-11-10"}
 {"id":"oco-concepts-view","title":"The observatory's own concepts and decisions on its site","status":"done","note":"Rendered from this repository's tables.","opened":"2026-11-10"}
+{"id":"oco-family-view","title":"The observatory's own family as its sub-views","status":"in-progress","note":"Under the Observatory tab: the overview, the observatory's path, ocoeco (its backbone), the engine.","opened":"2026-11-10"}
 {"id":"oco-harvest","title":"Discovery and the harvest","status":"done","note":"oco discover and oco harvest; scheduled in CI.","opened":"2026-11-10"}
 {"id":"oco-mark","title":"The mark and its schema","status":"done","note":"oco.toml schema 1, the topics, seven projects marked.","opened":"2026-11-10"}
 {"id":"oco-milestones-data","title":"Milestones as a standard table","status":"done","note":"milestones: id, title, horizon (working | perfection | ongoing), readiness level, criteria (what measures it), status; first for Linux Phones and surya.","opened":"2026-11-10"}
