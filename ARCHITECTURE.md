@@ -60,10 +60,30 @@ can take the observer's place later, with nothing else changing.
 - **Build on what exists**: before building, read the landscape (postmarketOS's hardware CI and
   deviceinfo, Mobian, CI-tron, upstream projects) and fit in rather than beside.
 
+## Decisions (2026-11-10)
+
+- **Discovery is hexagonal.** Finding projects is a port; each platform is an outlet - GitHub first,
+  GitLab, Open Hub and others later, added without touching the core. On GitHub the mark is made
+  prominent the way GitHub's index works: the topic `oco-project` (one search lists every marked
+  repository) and a kind topic `oco-kind-<kind>` (GitHub filters by kind itself); `oco.toml`
+  confirms each one.
+- **The observatory's engine is its own repository, in Rust** (`open-commons-observatory/oco`): the
+  mark, discovery (ports and outlets), the harvest, and the site renderer. This repository is the
+  face: its data and its site.
+- **The site is not a tad text page.** Every number and word on it comes from tad data, but it is
+  rendered as a designed website - minimal, elegant, ergonomic to navigate, inline SVG graphics, no
+  JavaScript.
+- **tad is rewritten in Rust**, its formats and protocols unchanged (tables as JSON lines, the
+  schema, the canonical form, verification): the same data, sturdier machinery.
+- **Shared parts travel as rhizoid modules** ([git-rhizoid](https://github.com/git-rhizoid)): tad, the
+  mark, the conveyor's tools - each a rhizcut a project owns, sees, can patch and send fixes back
+  from, instead of a template copy or a subtree.
+
 ## The order of work
 
-1. The mark and its schema (`oco.toml`, the exported tables); marks on the existing projects.
-2. The harvest, and a first grand view on this site from the harvested data.
-3. tad's website renderer: charts, matrices, timelines from the data's shape.
-4. The conveyor as a template repository, surya's lab made from it.
-5. The half-manual test runner and its dialog face; the first test: vibration.
+1. The mark and its schema (`oco.toml`, the exported tables); marks on the existing projects. (done)
+2. The engine (`oco`, Rust): discovery with a GitHub outlet, then the harvest.
+3. The site renderer, and the first grand view on this site from harvested data.
+4. tad in Rust, same formats; rhizoid v1; tad and the shared parts as rhizcuts.
+5. The conveyor, its parts as rhizcuts; surya's lab built from it.
+6. The half-manual test runner and its dialog face; the first test: vibration.
