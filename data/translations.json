@@ -166,7 +166,8 @@
 {"by":"machine","column":"lens.title","id":"lenses:rhizome-oco/lens:lens.title:ru","lang":"ru","project":"rhizome-oco/lens","row":"rhizome-oco/lens","table":"lenses","text":"Ризома"}
 {"by":"machine","column":"view.backlog.title","id":"lenses:rhizome-oco/lens:view.backlog.title:ru","lang":"ru","project":"rhizome-oco/lens","row":"rhizome-oco/lens","table":"lenses","text":"Бэклог"}
 {"by":"machine","column":"view.ideas.lead","id":"lenses:rhizome-oco/lens:view.ideas.lead:ru","lang":"ru","project":"rhizome-oco/lens","row":"rhizome-oco/lens","table":"lenses","text":"Одна идея, повторённая много раз: заменить догадку вычислением."}
-{"by":"machine","column":"view.ideas.title","id":"lenses:rhizome-oco/lens:view.ideas.title:ru","lang":"ru","project":"rhizome-oco/lens","row":"rhizome-oco/lens","table":"lenses","text":"Идеи"}
-{"by":"machine","column":"view.index.title","id":"lenses:rhizome-oco/lens:view.index.title:ru","lang":"ru","project":"rhizome-oco/lens","row":"rhizome-oco/lens","table":"lenses","text":"Насколько мы близки"}
+{"by":"machine","column":"view.ideas.title","id":"lenses:rhizome-oco/lens:view.ideas.title:ru","lang":"ru","project":"rhizome-oco/lens","row":"rhizome-oco/lens","table":"lenses","text":"Понятия и решения"}
+{"by":"machine","column":"view.index.title","id":"lenses:rhizome-oco/lens:view.index.title:ru","lang":"ru","project":"rhizome-oco/lens","row":"rhizome-oco/lens","table":"lenses","text":"Идея"}
 {"by":"machine","column":"view.log.title","id":"lenses:rhizome-oco/lens:view.log.title:ru","lang":"ru","project":"rhizome-oco/lens","row":"rhizome-oco/lens","table":"lenses","text":"Журнал"}
+{"by":"machine","column":"view.path.title","id":"lenses:rhizome-oco/lens:view.path.title:ru","lang":"ru","project":"rhizome-oco/lens","row":"rhizome-oco/lens","table":"lenses","text":"Насколько мы близки"}
 {"by":"machine","column":"view.work.title","id":"lenses:rhizome-oco/lens:view.work.title:ru","lang":"ru","project":"rhizome-oco/lens","row":"rhizome-oco/lens","table":"lenses","text":"Сделано работой"}
