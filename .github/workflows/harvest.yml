@@ -31,7 +31,13 @@ jobs:
           git add data
           if git diff --cached --quiet; then echo "nothing changed"; exit 0; fi
           git -c user.name="oco harvest" -c user.email="actions@users.noreply.github.com" commit -m "data: the harvest"
-          git push
+          # changes may land while the harvest works (land starts harvests): rebase its data onto them and retry
+          for try in 1 2 3 4 5; do
+            git push && exit 0
+            echo "main moved while harvesting (try $try): rebasing the harvest onto it"
+            git pull --rebase -q origin main
+          done
+          echo "could not push the harvest after five tries"; exit 1
       - name: the site
         run: oco site --data data --out _site
       - uses: actions/upload-pages-artifact@v3
