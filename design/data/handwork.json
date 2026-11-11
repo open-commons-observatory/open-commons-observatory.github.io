@@ -1,4 +1,4 @@
 {"id":"look-at-a-page-screenshot","action":"take a screenshot of a page and look at it","count":14,"first":"2026-11-10","last":"2026-11-11","status":"manual","automated_by":"","minutes":14,"load":5,"effort":14}
 {"id":"patch-source-by-matching-text","action":"patch source code by matching text","count":16,"first":"2026-11-10","last":"2026-11-11","status":"manual","automated_by":"","minutes":48,"load":5,"effort":48}
 {"id":"trigger-the-harvest-and-wait","action":"trigger the harvest and wait for it to publish","count":19,"first":"2026-11-10","last":"2026-11-11","status":"manual","automated_by":"","minutes":38,"load":5,"effort":38}
-{"id":"watch-a-ci-run-until-done","action":"watch a CI run until it finishes","count":8,"first":"2026-11-10","last":"2026-11-11","status":"manual","automated_by":"","minutes":16,"load":5,"effort":16}
+{"id":"watch-a-ci-run-until-done","action":"watch a CI run until it finishes","count":9,"first":"2026-11-10","last":"2026-11-11","status":"manual","automated_by":"","minutes":18,"load":5,"effort":18}
