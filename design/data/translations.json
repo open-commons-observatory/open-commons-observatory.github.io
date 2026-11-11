@@ -11,3 +11,16 @@
 {"id":"idea:06-limit:text:ru","table":"idea","row":"06-limit","column":"text","lang":"ru","text":"Она показывает то, что проекты говорят о себе. Она не может сделать проект честным и не заметит проблему, которую никто не измерил. Картина — это не работа.","by":"machine"}
 {"id":"idea:07-start:heading:ru","table":"idea","row":"07-start","column":"heading","lang":"ru","text":"Где мы сейчас","by":"machine"}
 {"id":"idea:07-start:text:ru","table":"idea","row":"07-start","column":"text","lang":"ru","text":"Работает. Она находит свои проекты, собирает их данные каждые несколько часов и публикует этот сайт на двух языках. Каждый вид, на который вы смотрите, нарисован из собственных записей проектов.","by":"machine"}
+{"id":"workings:w-01:how:ru","table":"workings","row":"w-01","column":"how","lang":"ru","text":"Каждые шесть часов задание находит каждый помеченный проект и читает, что он говорит о себе.","by":"machine"}
+{"id":"workings:w-01:what:ru","table":"workings","row":"w-01","column":"what","lang":"ru","text":"Сбор","by":"machine"}
+{"id":"workings:w-01:why:ru","table":"workings","row":"w-01","column":"why","lang":"ru","text":"Картина, которую ведут руками, уже устарела.","by":"machine"}
+{"id":"workings:w-02:how:ru","table":"workings","row":"w-02","column":"how","lang":"ru","text":"Рисует собранное одинаково для каждого проекта.","by":"machine"}
+{"id":"workings:w-02:why:ru","table":"workings","row":"w-02","column":"why","lang":"ru","text":"Одни условные знаки — чтобы читался любой проект.","by":"machine"}
+{"id":"workings:w-03:how:ru","table":"workings","row":"w-03","column":"how","lang":"ru","text":"Проект задаёт свои шаги и их доказательства в своём репозитории; обсерватория их только читает.","by":"machine"}
+{"id":"workings:w-03:what:ru","table":"workings","row":"w-03","column":"what","lang":"ru","text":"Собственный путь каждого проекта","by":"machine"}
+{"id":"workings:w-03:why:ru","table":"workings","row":"w-03","column":"why","lang":"ru","text":"Кто делает работу, тот и знает, что значит «готово».","by":"machine"}
+{"id":"workings:w-04:how:ru","table":"workings","row":"w-04","column":"how","lang":"ru","text":"Рассказывает любому агенту, как здесь работают, — читая вживую, до того как он начнёт.","by":"machine"}
+{"id":"workings:w-04:why:ru","table":"workings","row":"w-04","column":"why","lang":"ru","text":"Агент, начавший без этого, повторяет старые ошибки.","by":"machine"}
+{"id":"workings:w-05:how:ru","table":"workings","row":"w-05","column":"how","lang":"ru","text":"То, что выучено на горьком опыте, записывается практикой, и её вживую читает каждый агент.","by":"machine"}
+{"id":"workings:w-05:what:ru","table":"workings","row":"w-05","column":"what","lang":"ru","text":"Практики","by":"machine"}
+{"id":"workings:w-05:why:ru","table":"workings","row":"w-05","column":"why","lang":"ru","text":"Урок, оставшийся в одной голове, следующий учит заново.","by":"machine"}
