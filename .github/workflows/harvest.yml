@@ -43,8 +43,17 @@ jobs:
             git pull --rebase -q -X theirs origin main
           done
           echo "could not push the harvest after five tries"; exit 1
+      - name: the engine lenses focus with (DuckDB, pinned by fingerprint - the one tad checks and installs)
+        run: |
+          curl -fsSL -o "$RUNNER_TEMP/duckdb.zip" https://github.com/duckdb/duckdb/releases/download/v1.5.5/duckdb_cli-linux-amd64.zip
+          echo "08c0ca117111fcede14239d0093792352befdc174218c344d232c13279643d05  $RUNNER_TEMP/duckdb.zip" | sha256sum -c -
+          mkdir -p "$RUNNER_TEMP/duckdb" && unzip -q "$RUNNER_TEMP/duckdb.zip" -d "$RUNNER_TEMP/duckdb"
+          echo "$RUNNER_TEMP/duckdb" >> "$GITHUB_PATH"
       - name: the site
-        run: oco site --data data --out _site
+        run: |
+          oco site --data data --out _site
+          # the fulldome, beside the engine's views: every lens, in focus, over what was observed
+          ocoeco fulldome --observed data --surface html > _site/fulldome.html
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
