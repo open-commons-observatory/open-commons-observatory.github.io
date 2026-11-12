@@ -126,6 +126,7 @@
 {"at":"2026-11-12T20:35:20Z","by":"claude","id":"g-20261112-203520","kind":"docs","project":"open-commons-observatory/ocoeco","summary":"work in progress made honest: two finished items closed"}
 {"advances":"backlog:lenses-as-data","at":"2026-11-12T20:53:47Z","by":"claude","id":"g-20261112-205347","kind":"feat","project":"open-commons-observatory/ocoeco","summary":"the fulldome in a terminal: every lens in focus, to move through"}
 {"advances":"backlog:lenses-as-data","at":"2026-11-12T21:21:24Z","by":"claude","id":"g-20261112-212124","kind":"feat","project":"open-commons-observatory/ocoeco","summary":"the dome is the port, surfaces its adapters; markdown the second surface"}
+{"advances":"backlog:lenses-as-data","at":"2026-11-12T21:30:41Z","by":"claude","id":"g-20261112-213041","kind":"feat","project":"open-commons-observatory/ocoeco","summary":"the fulldome on the page: html and css, over what was observed"}
 {"at":"2026-11-11T21:39:44Z","by":"lab-agent-session","id":"g-20261111-213944","kind":"chore","project":"open-commons-observatory/ocoeco-engine","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T21:40:40Z","by":"lab-agent-session","id":"g-20261111-214040","kind":"chore","project":"open-commons-observatory/open-commons-observatory.github.io","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T22:49:47Z","by":"lab-agent-session","id":"g-20261111-224947","kind":"docs","project":"open-commons-observatory/open-commons-observatory.github.io","summary":"look inside the commons before outside it","touches":"practices:22-look-around-first"}
@@ -136,5 +137,6 @@
 {"at":"2026-11-12T19:10:47Z","by":"claude","id":"g-20261112-191047","kind":"fix","project":"open-commons-observatory/open-commons-observatory.github.io","summary":"the harvest's guard can rebase: proven against a staged collision"}
 {"at":"2026-11-12T19:39:43Z","by":"claude","id":"g-20261112-193943","kind":"feat","project":"open-commons-observatory/open-commons-observatory.github.io","summary":"the observatory observes: what has run in every place, in the picture"}
 {"at":"2026-11-12T19:55:44Z","by":"claude","id":"g-20261112-195544","kind":"fix","project":"open-commons-observatory/open-commons-observatory.github.io","summary":"a harvest collision on its own data: the later observation wins"}
+{"at":"2026-11-12T21:32:22Z","by":"claude","id":"g-20261112-213222","kind":"feat","project":"open-commons-observatory/open-commons-observatory.github.io","summary":"the observatory's page shows the fulldome, beside the engine's views"}
 {"at":"2026-11-11T21:41:03Z","by":"lab-agent-session","id":"g-20261111-214103","kind":"chore","project":"rhizome-oco/lens","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T21:41:25Z","by":"lab-agent-session","id":"g-20261111-214125","kind":"chore","project":"rhizome-oco/rhizome","summary":"glimpses are recorded here from now on"}
