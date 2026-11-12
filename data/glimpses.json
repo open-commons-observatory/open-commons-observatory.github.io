@@ -1,5 +1,6 @@
 {"at":"2026-11-11T21:39:00Z","by":"lab-agent-session","id":"g-20261111-213900","kind":"chore","project":"Mnemonic-Vocabulary-org/lens","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T21:39:22Z","by":"lab-agent-session","id":"g-20261111-213922","kind":"chore","project":"Mnemonic-Vocabulary-org/mnemonic-vocabulary-oco","summary":"glimpses are recorded here from now on"}
+{"at":"2026-11-11T21:28:32Z","by":"lab-agent-session","id":"g-20261111-212832","kind":"chore","project":"argenv-opencommons/argenv","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T21:30:11Z","by":"lab-agent-session","id":"g-20261111-213011","kind":"chore","project":"creation-guidelines/agent-access-oco","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T21:30:34Z","by":"lab-agent-session","id":"g-20261111-213034","kind":"chore","project":"creation-guidelines/essence-oco","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T21:30:57Z","by":"lab-agent-session","id":"g-20261111-213057","kind":"chore","project":"creation-guidelines/ideal-project-playbook","summary":"glimpses are recorded here from now on"}
@@ -46,6 +47,7 @@
 {"at":"2026-11-12T13:06:06Z","by":"lab-agent-session","id":"g-20261112-130606","kind":"fix","project":"creation-guidelines/lab-agent","summary":"the glimpses' links to milestones name the table"}
 {"at":"2026-11-12T13:26:51Z","by":"lab-agent-session","id":"g-20261112-132651","kind":"docs","project":"creation-guidelines/lab-agent","summary":"decisions that refine others say so as a relation","touches":"decisions:2026-11-12-ports-names-and-tables decisions:2026-11-12-the-watcher-moves decisions:2026-11-12-each-driver-its-lease"}
 {"at":"2026-11-12T18:33:05Z","by":"claude","id":"g-20261112-183305","kind":"docs","project":"creation-guidelines/lab-agent","summary":"the lab's problems raised: in view until each has a countermeasure"}
+{"at":"2026-11-12T18:53:47Z","by":"claude","id":"g-20261112-185347","kind":"docs","project":"creation-guidelines/lab-agent","summary":"the token rotated, sealed on its way; the old kept until revoked"}
 {"at":"2026-11-11T21:32:25Z","by":"lab-agent-session","id":"g-20261111-213225","kind":"chore","project":"creation-guidelines/software-engineering-canon","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T22:16:58Z","by":"tad update-pins","id":"g-20261111-221658","kind":"build","project":"creation-guidelines/software-engineering-canon","summary":"tad 0.4.0: the pin moved, the data and documents re-rendered"}
 {"at":"2026-11-12T01:05:40Z","by":"lab-agent-session","id":"g-20261112-010540","kind":"build","project":"creation-guidelines/software-engineering-canon","summary":"tad 0.5.0: the pin moved, the data and documents re-rendered"}
