@@ -30,7 +30,10 @@ jobs:
         run: |
           git add data
           if git diff --cached --quiet; then echo "nothing changed"; exit 0; fi
-          git -c user.name="oco harvest" -c user.email="actions@users.noreply.github.com" commit -m "data: the harvest"
+          # the name is the repository's, not one command's: a rebase after a collision signs its commit too
+          git config user.name "oco harvest"
+          git config user.email "actions@users.noreply.github.com"
+          git commit -m "data: the harvest"
           # changes may land while the harvest works (land starts harvests): rebase its data onto them and retry
           for try in 1 2 3 4 5; do
             git push && exit 0
