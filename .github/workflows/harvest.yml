@@ -38,7 +38,9 @@ jobs:
           for try in 1 2 3 4 5; do
             git push && exit 0
             echo "main moved while harvesting (try $try): rebasing the harvest onto it"
-            git pull --rebase -q origin main
+            # the data is observed whole each time, and this observation is the later one: where it
+            # meets data landed meanwhile, its own wins - nothing but the harvest writes data/
+            git pull --rebase -q -X theirs origin main
           done
           echo "could not push the harvest after five tries"; exit 1
       - name: the site
