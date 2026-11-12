@@ -79,6 +79,7 @@
 {"advances":"backlog:microphone","at":"2026-11-11T23:12:11Z","by":"lab-agent-session","id":"g-20261111-231211","kind":"chore","project":"linux-phone-oco/docs","summary":"parked: the lab-agent redesign comes first; each item keeps its resume point","touches":"backlog:microphone"}
 {"at":"2026-11-12T01:05:05Z","by":"lab-agent-session","id":"g-20261112-010505","kind":"build","project":"linux-phone-oco/docs","summary":"tad 0.5.0: the pin moved, the data and documents re-rendered"}
 {"at":"2026-11-12T01:07:25Z","by":"lab-agent-session","id":"g-20261112-010725","kind":"feat","project":"linux-phone-oco/docs","summary":"SQL is back: make sql, tad engine in setup, the recipe"}
+{"at":"2026-11-12T19:12:21Z","by":"claude","id":"g-20261112-191221","kind":"docs","project":"linux-phone-oco/docs","summary":"two problems raised: a release that failed unheard, and a version from nothing"}
 {"at":"2026-11-11T21:36:39Z","by":"lab-agent-session","id":"g-20261111-213639","kind":"chore","project":"linux-phone-oco/lab-tools","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T21:37:35Z","by":"lab-agent-session","id":"g-20261111-213735","kind":"chore","project":"linux-phone-oco/lens","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T21:38:03Z","by":"lab-agent-session","id":"g-20261111-213803","kind":"chore","project":"linux-phone-oco/surya-lab","summary":"glimpses are recorded here from now on"}
@@ -118,5 +119,6 @@
 {"at":"2026-11-11T23:44:29Z","by":"lab-agent-session","id":"g-20261111-234429","kind":"docs","project":"open-commons-observatory/open-commons-observatory.github.io","summary":"the look-around practice: find why a thing exists before replacing it","touches":"practices:22-look-around-first"}
 {"at":"2026-11-12T00:48:44Z","by":"lab-agent-session","id":"g-20261112-004844","kind":"docs","project":"open-commons-observatory/open-commons-observatory.github.io","summary":"work as if any turn could be cut off: the state lives in the data","touches":"practices:20-the-whole-first"}
 {"at":"2026-11-12T18:28:08Z","by":"claude","id":"g-20261112-182808","kind":"docs","project":"open-commons-observatory/open-commons-observatory.github.io","summary":"practice 25: evidence before the word - what landed is read back from main","touches":"practices:25-evidence-before-the-word"}
+{"at":"2026-11-12T19:10:47Z","by":"claude","id":"g-20261112-191047","kind":"fix","project":"open-commons-observatory/open-commons-observatory.github.io","summary":"the harvest's guard can rebase: proven against a staged collision"}
 {"at":"2026-11-11T21:41:03Z","by":"lab-agent-session","id":"g-20261111-214103","kind":"chore","project":"rhizome-oco/lens","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T21:41:25Z","by":"lab-agent-session","id":"g-20261111-214125","kind":"chore","project":"rhizome-oco/rhizome","summary":"glimpses are recorded here from now on"}
