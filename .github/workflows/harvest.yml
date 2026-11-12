@@ -25,7 +25,7 @@ jobs:
       - name: harvest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: ocoeco harvest --out data
+        run: ocoeco observe --out data
       - name: commit what changed
         run: |
           git add data
