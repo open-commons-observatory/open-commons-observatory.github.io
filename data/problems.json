@@ -1,1 +1,0 @@
-{"id":"linux-phone-oco/sxmo-deviceprofiles:ci","problem":"GET https://api.github.com/repos/linux-phone-oco/sxmo-deviceprofiles/contents/oco/gathered/ci.json?ref=oco-data: https://api.github.com/repos/linux-phone-oco/sxmo-deviceprofiles/contents/oco/gathered/ci.json?ref=oco-data: Network Error: Unexpected EOF: Unexpected EOF","project":"linux-phone-oco/sxmo-deviceprofiles"}

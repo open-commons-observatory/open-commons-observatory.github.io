@@ -54,6 +54,8 @@
 {"at":"2026-11-12T11:47:09Z","conclusion":"in_progress","id":"gather","link":"https://github.com/linux-phone-oco/lab-tools/actions/runs/43212115582","project":"linux-phone-oco/lab-tools"}
 {"at":"2026-11-11T23:13:08Z","conclusion":"success","id":"check","link":"https://github.com/linux-phone-oco/surya-lab/actions/runs/43118106806","project":"linux-phone-oco/surya-lab"}
 {"at":"2026-11-12T11:47:47Z","conclusion":"in_progress","id":"gather","link":"https://github.com/linux-phone-oco/surya-lab/actions/runs/43212208654","project":"linux-phone-oco/surya-lab"}
+{"at":"2026-11-11T21:38:56Z","conclusion":"success","id":"check","link":"https://github.com/linux-phone-oco/sxmo-deviceprofiles/actions/runs/43104895337","project":"linux-phone-oco/sxmo-deviceprofiles"}
+{"at":"2026-11-12T11:51:30Z","conclusion":"in_progress","id":"gather","link":"https://github.com/linux-phone-oco/sxmo-deviceprofiles/actions/runs/43212741410","project":"linux-phone-oco/sxmo-deviceprofiles"}
 {"at":"2026-11-12T11:40:29Z","conclusion":"success","id":"ci","link":"https://github.com/open-commons-observatory/ocoeco/actions/runs/43211168535","project":"open-commons-observatory/ocoeco"}
 {"at":"2026-11-12T11:46:27Z","conclusion":"in_progress","id":"gather","link":"https://github.com/open-commons-observatory/ocoeco/actions/runs/43212017776","project":"open-commons-observatory/ocoeco"}
 {"at":"2026-11-11T21:40:36Z","conclusion":"success","id":"ci","link":"https://github.com/open-commons-observatory/ocoeco-engine/actions/runs/43105136393","project":"open-commons-observatory/ocoeco-engine"}
