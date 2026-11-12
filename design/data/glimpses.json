@@ -2,3 +2,4 @@
 {"id":"g-20261111-224947","at":"2026-11-11T22:49:47Z","by":"lab-agent-session","kind":"docs","summary":"look inside the commons before outside it","touches":"practices:22-look-around-first"}
 {"id":"g-20261111-231439","at":"2026-11-11T23:14:39Z","by":"lab-agent-session","kind":"docs","summary":"the redesign comes first; everything else parked with its resume order","touches":"decisions:2026-11-12-the-redesign-first"}
 {"id":"g-20261111-234429","at":"2026-11-11T23:44:29Z","by":"lab-agent-session","kind":"docs","summary":"the look-around practice: find why a thing exists before replacing it","touches":"practices:22-look-around-first"}
+{"id":"g-20261112-004844","at":"2026-11-12T00:48:44Z","by":"lab-agent-session","kind":"docs","summary":"work as if any turn could be cut off: the state lives in the data","touches":"practices:20-the-whole-first"}
