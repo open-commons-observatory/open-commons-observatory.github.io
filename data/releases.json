@@ -7,10 +7,6 @@
 {"id":"argenv-v0.3.0","link":"https://github.com/argenv-opencommons/argenv/releases/tag/argenv-v0.3.0","name":"argenv-v0.3.0","project":"argenv-opencommons/argenv","published":"2026-10-23"}
 {"id":"argenv-v0.3.1","link":"https://github.com/argenv-opencommons/argenv/releases/tag/argenv-v0.3.1","name":"argenv-v0.3.1","project":"argenv-opencommons/argenv","published":"2026-10-23"}
 {"id":"argenv-v0.3.2","link":"https://github.com/argenv-opencommons/argenv/releases/tag/argenv-v0.3.2","name":"argenv-v0.3.2","project":"argenv-opencommons/argenv","published":"2026-10-24"}
-{"id":"v0.1.20","link":"https://github.com/creation-guidelines/lab-agent/releases/tag/v0.1.20","name":"v0.1.20","project":"creation-guidelines/lab-agent","published":"2026-11-09"}
-{"id":"v0.1.21","link":"https://github.com/creation-guidelines/lab-agent/releases/tag/v0.1.21","name":"v0.1.21","project":"creation-guidelines/lab-agent","published":"2026-11-09"}
-{"id":"v0.1.22","link":"https://github.com/creation-guidelines/lab-agent/releases/tag/v0.1.22","name":"v0.1.22","project":"creation-guidelines/lab-agent","published":"2026-11-09"}
-{"id":"v0.1.23","link":"https://github.com/creation-guidelines/lab-agent/releases/tag/v0.1.23","name":"v0.1.23","project":"creation-guidelines/lab-agent","published":"2026-11-10"}
 {"id":"v0.1.24","link":"https://github.com/creation-guidelines/lab-agent/releases/tag/v0.1.24","name":"v0.1.24","project":"creation-guidelines/lab-agent","published":"2026-11-10"}
 {"id":"v0.1.25","link":"https://github.com/creation-guidelines/lab-agent/releases/tag/v0.1.25","name":"v0.1.25","project":"creation-guidelines/lab-agent","published":"2026-11-10"}
 {"id":"v0.1.26","link":"https://github.com/creation-guidelines/lab-agent/releases/tag/v0.1.26","name":"v0.1.26","project":"creation-guidelines/lab-agent","published":"2026-11-10"}
@@ -37,11 +33,20 @@
 {"id":"v0.1.47","link":"https://github.com/creation-guidelines/lab-agent/releases/tag/v0.1.47","name":"v0.1.47","project":"creation-guidelines/lab-agent","published":"2026-11-11"}
 {"id":"v0.1.48","link":"https://github.com/creation-guidelines/lab-agent/releases/tag/v0.1.48","name":"v0.1.48","project":"creation-guidelines/lab-agent","published":"2026-11-11"}
 {"id":"v0.1.49","link":"https://github.com/creation-guidelines/lab-agent/releases/tag/v0.1.49","name":"v0.1.49","project":"creation-guidelines/lab-agent","published":"2026-11-11"}
+{"id":"v0.1.50","link":"https://github.com/creation-guidelines/lab-agent/releases/tag/v0.1.50","name":"v0.1.50","project":"creation-guidelines/lab-agent","published":"2026-11-11"}
+{"id":"v0.1.51","link":"https://github.com/creation-guidelines/lab-agent/releases/tag/v0.1.51","name":"v0.1.51","project":"creation-guidelines/lab-agent","published":"2026-11-11"}
+{"id":"v0.1.52","link":"https://github.com/creation-guidelines/lab-agent/releases/tag/v0.1.52","name":"v0.1.52","project":"creation-guidelines/lab-agent","published":"2026-11-11"}
+{"id":"v0.1.53","link":"https://github.com/creation-guidelines/lab-agent/releases/tag/v0.1.53","name":"v0.1.53","project":"creation-guidelines/lab-agent","published":"2026-11-12"}
 {"id":"v1.0.0","link":"https://github.com/creation-guidelines/software-engineering-canon/releases/tag/v1.0.0","name":"v1.0.0","project":"creation-guidelines/software-engineering-canon","published":"2026-09-22"}
 {"id":"v1.1.0","link":"https://github.com/creation-guidelines/software-engineering-canon/releases/tag/v1.1.0","name":"v1.1.0","project":"creation-guidelines/software-engineering-canon","published":"2026-09-22"}
 {"id":"v1.2.0","link":"https://github.com/creation-guidelines/software-engineering-canon/releases/tag/v1.2.0","name":"v1.2.0","project":"creation-guidelines/software-engineering-canon","published":"2026-10-27"}
 {"id":"v1.2.1","link":"https://github.com/creation-guidelines/software-engineering-canon/releases/tag/v1.2.1","name":"v1.2.1","project":"creation-guidelines/software-engineering-canon","published":"2026-10-27"}
 {"id":"v1.3.0","link":"https://github.com/creation-guidelines/software-engineering-canon/releases/tag/v1.3.0","name":"v1.3.0","project":"creation-guidelines/software-engineering-canon","published":"2026-10-28"}
+{"id":"tad-v0.1.0","link":"https://github.com/creation-guidelines/tad-engine/releases/tag/tad-v0.1.0","name":"tad-v0.1.0","project":"creation-guidelines/tad-engine","published":"2026-11-11"}
+{"id":"tad-v0.2.0","link":"https://github.com/creation-guidelines/tad-engine/releases/tag/tad-v0.2.0","name":"tad: v0.2.0","project":"creation-guidelines/tad-engine","published":"2026-11-11"}
+{"id":"tad-v0.3.0","link":"https://github.com/creation-guidelines/tad-engine/releases/tag/tad-v0.3.0","name":"tad: v0.3.0","project":"creation-guidelines/tad-engine","published":"2026-11-11"}
+{"id":"tad-v0.4.0","link":"https://github.com/creation-guidelines/tad-engine/releases/tag/tad-v0.4.0","name":"tad: v0.4.0","project":"creation-guidelines/tad-engine","published":"2026-11-11"}
+{"id":"tad-v0.5.0","link":"https://github.com/creation-guidelines/tad-engine/releases/tag/tad-v0.5.0","name":"tad: v0.5.0","project":"creation-guidelines/tad-engine","published":"2026-11-12"}
 {"id":"v1.0.0","link":"https://github.com/creation-guidelines/tad-engine/releases/tag/v1.0.0","name":"v1.0.0","project":"creation-guidelines/tad-engine","published":"2026-09-22"}
 {"id":"v1.0.1","link":"https://github.com/creation-guidelines/tad-engine/releases/tag/v1.0.1","name":"v1.0.1","project":"creation-guidelines/tad-engine","published":"2026-09-22"}
 {"id":"v1.1.0","link":"https://github.com/creation-guidelines/tad-engine/releases/tag/v1.1.0","name":"v1.1.0","project":"creation-guidelines/tad-engine","published":"2026-09-22"}
