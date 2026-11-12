@@ -3,3 +3,4 @@
 {"id":"g-20261111-231439","at":"2026-11-11T23:14:39Z","by":"lab-agent-session","kind":"docs","summary":"the redesign comes first; everything else parked with its resume order","touches":"decisions:2026-11-12-the-redesign-first"}
 {"id":"g-20261111-234429","at":"2026-11-11T23:44:29Z","by":"lab-agent-session","kind":"docs","summary":"the look-around practice: find why a thing exists before replacing it","touches":"practices:22-look-around-first"}
 {"id":"g-20261112-004844","at":"2026-11-12T00:48:44Z","by":"lab-agent-session","kind":"docs","summary":"work as if any turn could be cut off: the state lives in the data","touches":"practices:20-the-whole-first"}
+{"id":"g-20261112-182808","at":"2026-11-12T18:28:08Z","by":"claude","kind":"docs","summary":"practice 25: evidence before the word - what landed is read back from main","touches":"practices:25-evidence-before-the-word"}
