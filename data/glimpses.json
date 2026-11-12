@@ -50,6 +50,7 @@
 {"at":"2026-11-12T18:53:47Z","by":"claude","id":"g-20261112-185347","kind":"docs","project":"creation-guidelines/lab-agent","summary":"the token rotated, sealed on its way; the old kept until revoked"}
 {"at":"2026-11-12T18:59:42Z","by":"claude","id":"g-20261112-185942","kind":"fix","project":"creation-guidelines/lab-agent","summary":"the pulse is the watcher; a best-effort GitHub schedule no longer pretends to watch"}
 {"at":"2026-11-12T20:23:28Z","by":"claude","id":"g-20261112-202328","kind":"feat","project":"creation-guidelines/lab-agent","summary":"the lab hears what fails: observed every quarter hour, said aloud"}
+{"at":"2026-11-12T20:33:40Z","by":"claude","id":"g-20261112-203340","kind":"docs","project":"creation-guidelines/lab-agent","summary":"the switch on the board as it stands; three finished items closed with evidence"}
 {"at":"2026-11-11T21:32:25Z","by":"lab-agent-session","id":"g-20261111-213225","kind":"chore","project":"creation-guidelines/software-engineering-canon","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T22:16:58Z","by":"tad update-pins","id":"g-20261111-221658","kind":"build","project":"creation-guidelines/software-engineering-canon","summary":"tad 0.4.0: the pin moved, the data and documents re-rendered"}
 {"at":"2026-11-12T01:05:40Z","by":"lab-agent-session","id":"g-20261112-010540","kind":"build","project":"creation-guidelines/software-engineering-canon","summary":"tad 0.5.0: the pin moved, the data and documents re-rendered"}
@@ -120,6 +121,7 @@
 {"advances":"backlog:the-problems-lens","at":"2026-11-12T20:04:27Z","by":"claude","id":"g-20261112-200427","kind":"fix","project":"open-commons-observatory/ocoeco","summary":"runs are observed, never gathered: no observation feeds the next"}
 {"advances":"backlog:the-problems-lens","at":"2026-11-12T20:16:46Z","by":"claude","id":"g-20261112-201646","kind":"feat","project":"open-commons-observatory/ocoeco","summary":"observe what a machine holds, and say what changed since last time"}
 {"advances":"backlog:declare-the-relations","at":"2026-11-12T20:21:51Z","by":"claude","id":"g-20261112-202151","kind":"fix","project":"open-commons-observatory/ocoeco","summary":"a link is checked when it is written: a link to nowhere is refused"}
+{"at":"2026-11-12T20:31:49Z","by":"claude","id":"g-20261112-203149","kind":"fix","project":"open-commons-observatory/ocoeco","summary":"a refused write says the change above was put back"}
 {"at":"2026-11-11T21:39:44Z","by":"lab-agent-session","id":"g-20261111-213944","kind":"chore","project":"open-commons-observatory/ocoeco-engine","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T21:40:40Z","by":"lab-agent-session","id":"g-20261111-214040","kind":"chore","project":"open-commons-observatory/open-commons-observatory.github.io","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T22:49:47Z","by":"lab-agent-session","id":"g-20261111-224947","kind":"docs","project":"open-commons-observatory/open-commons-observatory.github.io","summary":"look inside the commons before outside it","touches":"practices:22-look-around-first"}
