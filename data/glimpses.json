@@ -67,6 +67,7 @@
 {"advances":"backlog:tad-sql","at":"2026-11-12T01:01:59Z","by":"lab-agent-session","id":"g-20261112-010159","kind":"feat","project":"creation-guidelines/tad-engine","summary":"tad engine: tad installs its own pinned DuckDB, fingerprint checked","touches":"decisions:2026-11-12-tad-installs-its-engine workings:tad-sql backlog:tad-sql"}
 {"advances":"backlog:tad-sql","at":"2026-11-12T01:09:18Z","by":"lab-agent-session","id":"g-20261112-010918","kind":"docs","project":"creation-guidelines/tad-engine","summary":"tad sql delivered: released and in use in the four repositories","touches":"backlog:tad-sql"}
 {"at":"2026-11-12T13:25:35Z","by":"lab-agent-session","id":"g-20261112-132535","kind":"docs","project":"creation-guidelines/tad-engine","summary":"decisions that refine others say so as a relation","touches":"decisions:2026-11-11-one-release-path decisions:2026-11-12-sql-is-duckdb decisions:2026-11-12-tad-is-text-as-data"}
+{"at":"2026-11-12T19:15:22Z","by":"claude","id":"g-20261112-191522","kind":"docs","project":"creation-guidelines/tad-engine","summary":"a claim corrected: the template had one child, the phone docs"}
 {"at":"2026-11-11T21:34:25Z","by":"lab-agent-session","id":"g-20261111-213425","kind":"chore","project":"git-rhizoid/git-rhizoid.github.io","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T22:35:47Z","by":"tad update-pins","id":"g-20261111-223547","kind":"build","project":"git-rhizoid/git-rhizoid.github.io","summary":"tad 0.4.0: the pin moved, the data and documents re-rendered"}
 {"at":"2026-11-12T01:06:48Z","by":"lab-agent-session","id":"g-20261112-010648","kind":"build","project":"git-rhizoid/git-rhizoid.github.io","summary":"tad 0.5.0: the pin moved, the data and documents re-rendered"}
@@ -80,6 +81,8 @@
 {"at":"2026-11-12T01:05:05Z","by":"lab-agent-session","id":"g-20261112-010505","kind":"build","project":"linux-phone-oco/docs","summary":"tad 0.5.0: the pin moved, the data and documents re-rendered"}
 {"at":"2026-11-12T01:07:25Z","by":"lab-agent-session","id":"g-20261112-010725","kind":"feat","project":"linux-phone-oco/docs","summary":"SQL is back: make sql, tad engine in setup, the recipe"}
 {"at":"2026-11-12T19:12:21Z","by":"claude","id":"g-20261112-191221","kind":"docs","project":"linux-phone-oco/docs","summary":"two problems raised: a release that failed unheard, and a version from nothing"}
+{"at":"2026-11-12T19:14:25Z","by":"claude","id":"g-20261112-191425","kind":"fix","project":"linux-phone-oco/docs","summary":"the docs begin their own history at 0.1.0; the template's is cleared"}
+{"at":"2026-11-12T19:17:01Z","by":"claude","id":"g-20261112-191701","kind":"fix","project":"linux-phone-oco/docs","summary":"the first release is 0.1.0: release-please is told so"}
 {"at":"2026-11-11T21:36:39Z","by":"lab-agent-session","id":"g-20261111-213639","kind":"chore","project":"linux-phone-oco/lab-tools","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T21:37:35Z","by":"lab-agent-session","id":"g-20261111-213735","kind":"chore","project":"linux-phone-oco/lens","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T21:38:03Z","by":"lab-agent-session","id":"g-20261111-213803","kind":"chore","project":"linux-phone-oco/surya-lab","summary":"glimpses are recorded here from now on"}
