@@ -64,6 +64,7 @@
 {"at":"2026-11-13T01:17:01Z","by":"claude","id":"g-20261113-011701","kind":"feat","project":"creation-guidelines/lab-agent","summary":"the voice reads what the author's own observatory observed"}
 {"at":"2026-11-13T07:47:59Z","by":"Claude","id":"g-20261113-074759","kind":"docs","project":"creation-guidelines/lab-agent","summary":"the author's driving waits on a surface that speaks for itself"}
 {"at":"2026-11-13T07:52:34Z","by":"Claude","id":"g-20261113-075234","kind":"docs","project":"creation-guidelines/lab-agent","summary":"the token item waits only on what is left"}
+{"advances":"backlog:the-agent-says-what-it-is","at":"2026-11-13T12:27:44Z","by":"claude","id":"g-20261113-122744","kind":"feat","project":"creation-guidelines/lab-agent","summary":"oco-agent's record says what it is: a place that brings the lens of now"}
 {"at":"2026-11-11T21:32:25Z","by":"lab-agent-session","id":"g-20261111-213225","kind":"chore","project":"creation-guidelines/software-engineering-canon","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T22:16:58Z","by":"tad update-pins","id":"g-20261111-221658","kind":"build","project":"creation-guidelines/software-engineering-canon","summary":"tad 0.4.0: the pin moved, the data and documents re-rendered"}
 {"at":"2026-11-12T01:05:40Z","by":"lab-agent-session","id":"g-20261112-010540","kind":"build","project":"creation-guidelines/software-engineering-canon","summary":"tad 0.5.0: the pin moved, the data and documents re-rendered"}
