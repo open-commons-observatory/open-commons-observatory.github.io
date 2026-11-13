@@ -54,6 +54,7 @@
 {"at":"2026-11-12T20:33:40Z","by":"claude","id":"g-20261112-203340","kind":"docs","project":"creation-guidelines/lab-agent","summary":"the switch on the board as it stands; three finished items closed with evidence"}
 {"at":"2026-11-12T20:36:58Z","by":"claude","id":"g-20261112-203658","kind":"docs","project":"creation-guidelines/lab-agent","summary":"work in progress made honest: one view awaited once, not three times"}
 {"at":"2026-11-12T22:19:59Z","by":"claude","id":"g-20261112-221959","kind":"feat","project":"creation-guidelines/lab-agent","summary":"oco-agent says what newly came into view, every five minutes"}
+{"at":"2026-11-13T01:14:40Z","by":"claude","id":"g-20261113-011440","kind":"fix","project":"creation-guidelines/lab-agent","summary":"no git address on the lab holds a token; a wider search than the claim"}
 {"at":"2026-11-11T21:32:25Z","by":"lab-agent-session","id":"g-20261111-213225","kind":"chore","project":"creation-guidelines/software-engineering-canon","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T22:16:58Z","by":"tad update-pins","id":"g-20261111-221658","kind":"build","project":"creation-guidelines/software-engineering-canon","summary":"tad 0.4.0: the pin moved, the data and documents re-rendered"}
 {"at":"2026-11-12T01:05:40Z","by":"lab-agent-session","id":"g-20261112-010540","kind":"build","project":"creation-guidelines/software-engineering-canon","summary":"tad 0.5.0: the pin moved, the data and documents re-rendered"}
