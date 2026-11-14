@@ -2,3 +2,8 @@
 {"id":"people/people/id","kind":"string","lens":"people","name":"id","needed":true,"of_table":"people","ordinal":1,"project":"open-commons-observatory/ecosystem"}
 {"allowed":"a person, an agent","id":"people/people/kind","kind":"string","lens":"people","name":"kind","needed":true,"of_table":"people","ordinal":3,"project":"open-commons-observatory/ecosystem"}
 {"id":"people/people/name","kind":"string","lens":"people","name":"name","needed":true,"of_table":"people","ordinal":2,"project":"open-commons-observatory/ecosystem"}
+{"id":"surfaces/surfaces/at","kind":"string","lens":"surfaces","name":"at","needed":true,"of_table":"surfaces","ordinal":3,"project":"open-commons-observatory/ecosystem"}
+{"id":"surfaces/surfaces/holds","kind":"string","lens":"surfaces","name":"holds","needed":true,"of_table":"surfaces","ordinal":2,"project":"open-commons-observatory/ecosystem"}
+{"id":"surfaces/surfaces/id","kind":"string","lens":"surfaces","name":"id","needed":true,"of_table":"surfaces","ordinal":1,"project":"open-commons-observatory/ecosystem"}
+{"id":"surfaces/surfaces/lacks","kind":"string","lens":"surfaces","name":"lacks","needed":false,"of_table":"surfaces","ordinal":5,"project":"open-commons-observatory/ecosystem"}
+{"id":"surfaces/surfaces/read","kind":"string","lens":"surfaces","name":"read","needed":false,"of_table":"surfaces","ordinal":4,"project":"open-commons-observatory/ecosystem"}
