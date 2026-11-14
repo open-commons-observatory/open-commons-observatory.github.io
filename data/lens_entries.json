@@ -1,2 +1,3 @@
+{"asks":"by, text, after","entry":"turn","fills":"turns","id":"conversation/turn","lens":"conversation","project":"marshall-oco/conversation","says":"A turn of the conversation: who spoke, and what was said, after which turn.","supplies":"at today new"}
 {"asks":"name, kind, also","entry":"person","fills":"people","id":"people/person","lens":"people","project":"open-commons-observatory/ecosystem","says":"Someone who takes part: a person or an agent."}
 {"asks":"holds, at, read, lacks","entry":"surface","fills":"surfaces","id":"surfaces/surface","lens":"surfaces","project":"open-commons-observatory/ecosystem","says":"A surface something is kept on: what it holds, where it is, how it is read now, and what is lacking."}

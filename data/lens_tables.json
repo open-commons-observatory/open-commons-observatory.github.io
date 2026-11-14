@@ -1,2 +1,3 @@
+{"dated":"at","extra_fields":true,"id":"conversation/turns","key":"id","lens":"conversation","name":"turns","project":"marshall-oco/conversation"}
 {"extra_fields":true,"id":"people/people","key":"id","lens":"people","name":"people","project":"open-commons-observatory/ecosystem"}
 {"extra_fields":true,"id":"surfaces/surfaces","key":"id","lens":"surfaces","name":"surfaces","project":"open-commons-observatory/ecosystem"}

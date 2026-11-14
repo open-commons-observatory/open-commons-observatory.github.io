@@ -1,3 +1,9 @@
+{"id":"conversation/turns/after","kind":"string","lens":"conversation","name":"after","needed":false,"of_table":"turns","ordinal":5,"project":"marshall-oco/conversation"}
+{"id":"conversation/turns/at","kind":"string","lens":"conversation","name":"at","needed":false,"of_table":"turns","ordinal":2,"project":"marshall-oco/conversation"}
+{"allowed":"the author, the agent","id":"conversation/turns/by","kind":"string","lens":"conversation","name":"by","needed":true,"of_table":"turns","ordinal":3,"project":"marshall-oco/conversation"}
+{"id":"conversation/turns/id","kind":"string","lens":"conversation","name":"id","needed":true,"of_table":"turns","ordinal":1,"project":"marshall-oco/conversation"}
+{"id":"conversation/turns/text","kind":"string","lens":"conversation","name":"text","needed":true,"of_table":"turns","ordinal":6,"project":"marshall-oco/conversation"}
+{"id":"conversation/turns/transcript","kind":"string","lens":"conversation","name":"transcript","needed":false,"of_table":"turns","ordinal":4,"project":"marshall-oco/conversation"}
 {"id":"people/people/also","kind":"string","lens":"people","name":"also","needed":false,"of_table":"people","ordinal":4,"project":"open-commons-observatory/ecosystem"}
 {"id":"people/people/id","kind":"string","lens":"people","name":"id","needed":true,"of_table":"people","ordinal":1,"project":"open-commons-observatory/ecosystem"}
 {"allowed":"a person, an agent","id":"people/people/kind","kind":"string","lens":"people","name":"kind","needed":true,"of_table":"people","ordinal":3,"project":"open-commons-observatory/ecosystem"}
