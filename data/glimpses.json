@@ -124,6 +124,7 @@
 {"at":"2026-11-14T07:28:40Z","by":"claude","id":"g-20261114-072840","kind":"docs","project":"marshall-oco/marshall-oco.github.io","summary":"still showing: a sheet of what the whole waits on, made through entries"}
 {"at":"2026-11-14T08:23:23Z","by":"claude","id":"g-20261114-082323","kind":"docs","project":"marshall-oco/marshall-oco.github.io","summary":"the parts say places: one word for placing side by side"}
 {"at":"2026-11-14T08:41:48Z","by":"claude","id":"g-20261114-084148","kind":"docs","project":"marshall-oco/marshall-oco.github.io","summary":"the sheet says what each sign waits on"}
+{"at":"2026-11-14T09:05:02Z","by":"claude","id":"g-20261114-090502","kind":"feat","project":"marshall-oco/marshall-oco.github.io","summary":"the lab asks; the observatory observes what has run"}
 {"at":"2026-11-13T01:21:38Z","by":"claude","id":"g-20261113-012138","kind":"docs","project":"open-commons-observatory/ecosystem","summary":"this place can record its work, its reasoning and what is wrong"}
 {"at":"2026-11-13T01:29:41Z","by":"claude","id":"g-20261113-012941","kind":"docs","project":"open-commons-observatory/ecosystem","summary":"the decisions about the whole are in OCO's place; links follow"}
 {"at":"2026-11-13T05:30:02Z","by":"Claude","id":"g-20261113-053002","kind":"docs","project":"open-commons-observatory/ecosystem","summary":"how we came here: the route, in eight steps, each answering the last"}
@@ -280,6 +281,7 @@
 {"advances":"backlog:read-off-the-act","at":"2026-11-14T08:23:52Z","by":"claude","id":"g-20261114-082352","kind":"fix","project":"open-commons-observatory/ocoeco","summary":"places, not through: one word for placing side by side"}
 {"advances":"backlog:read-off-the-act","at":"2026-11-14T08:28:23Z","by":"claude","id":"g-20261114-082823","kind":"fix","project":"open-commons-observatory/ocoeco","summary":"the shared language is kept in language/, apart from a place's lenses"}
 {"advances":"backlog:read-off-the-act","at":"2026-11-14T08:40:28Z","by":"claude","id":"g-20261114-084028","kind":"feat","project":"open-commons-observatory/ocoeco","summary":"what each sign waits on, read off the halts drawn to it"}
+{"advances":"backlog:read-off-the-act","at":"2026-11-14T09:00:44Z","by":"claude","id":"g-20261114-090044","kind":"fix","project":"open-commons-observatory/ocoeco","summary":"a part observed speaks for that part only"}
 {"at":"2026-11-11T21:39:44Z","by":"lab-agent-session","id":"g-20261111-213944","kind":"chore","project":"open-commons-observatory/ocoeco-engine","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T21:40:40Z","by":"lab-agent-session","id":"g-20261111-214040","kind":"chore","project":"open-commons-observatory/open-commons-observatory.github.io","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T22:49:47Z","by":"lab-agent-session","id":"g-20261111-224947","kind":"docs","project":"open-commons-observatory/open-commons-observatory.github.io","summary":"look inside the commons before outside it","touches":"practices:22-look-around-first"}
