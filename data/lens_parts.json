@@ -9,7 +9,6 @@
 {"id":"still-showing/3","lens":"still-showing","only":"held back - read off what halts it","part":4,"places":"work","project":"marshall-oco/marshall-oco.github.io"}
 {"id":"still-showing/4","lens":"still-showing","only":"said to be waiting, though nothing drawn holds it back","part":5,"places":"work","project":"marshall-oco/marshall-oco.github.io"}
 {"id":"still-showing/5","lens":"still-showing","only":"ahead - what, once done, would free the most","part":6,"places":"purpose","project":"marshall-oco/marshall-oco.github.io"}
-{"id":"still-showing/6","lens":"still-showing","only":"a next step said before the work that followed it","part":6,"places":"work","project":"marshall-oco/marshall-oco.github.io"}
 {"id":"still-showing/what-each-waits-on","lens":"still-showing","only":"showing, and what each waits on","part":2,"places":"signs","project":"marshall-oco/marshall-oco.github.io"}
 {"id":"people/1","lays_out":"{id} - {name}, {kind}{known}","lens":"people","part":1,"project":"open-commons-observatory/ecosystem","query":"SELECT id, name, kind, CASE WHEN coalesce(also, '') <> '' THEN ' - also ' || also ELSE '' END AS known FROM people ORDER BY seq","title":"who takes part ({count})"}
 {"id":"surfaces/1","lays_out":"{id} - {holds} - at: {place} - read: {read}","lens":"surfaces","part":1,"project":"open-commons-observatory/ecosystem","query":"SELECT id, holds, \"at\" AS place, read FROM surfaces WHERE coalesce(read, '') <> '' ORDER BY seq","title":"read now, and by which way in ({count})"}
