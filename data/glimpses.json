@@ -70,6 +70,7 @@
 {"advances":"backlog:the-record-travels-whole","at":"2026-11-13T16:51:12Z","by":"claude","id":"g-20261113-165112","kind":"feat","project":"creation-guidelines/lab-agent","summary":"the record travels whole: its mark is spoken, the copy is a place"}
 {"at":"2026-11-13T18:59:54Z","by":"claude","id":"g-20261113-185954","kind":"fix","project":"creation-guidelines/lab-agent","summary":"the voice looks through the lens of signs"}
 {"at":"2026-11-13T19:03:28Z","by":"claude","id":"g-20261113-190328","kind":"docs","project":"creation-guidelines/lab-agent","summary":"a sign, said the new way: oco-agent is not released"}
+{"advances":"backlog:the-agent-says-what-it-is","at":"2026-11-14T00:16:12Z","by":"claude","id":"g-20261114-001612","kind":"feat","project":"creation-guidelines/lab-agent","summary":"every job, shaped once, in the lens of now"}
 {"at":"2026-11-11T21:32:25Z","by":"lab-agent-session","id":"g-20261111-213225","kind":"chore","project":"creation-guidelines/software-engineering-canon","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T22:16:58Z","by":"tad update-pins","id":"g-20261111-221658","kind":"build","project":"creation-guidelines/software-engineering-canon","summary":"tad 0.4.0: the pin moved, the data and documents re-rendered"}
 {"at":"2026-11-12T01:05:40Z","by":"lab-agent-session","id":"g-20261112-010540","kind":"build","project":"creation-guidelines/software-engineering-canon","summary":"tad 0.5.0: the pin moved, the data and documents re-rendered"}
@@ -242,6 +243,7 @@
 {"advances":"backlog:read-off-the-act","at":"2026-11-13T23:51:39Z","by":"claude","id":"g-20261113-235139","kind":"feat","project":"open-commons-observatory/ocoeco","summary":"shapes across lenses: a lens asks of a shape another names"}
 {"advances":"backlog:read-off-the-act","at":"2026-11-14T00:05:42Z","by":"claude","id":"g-20261114-000542","kind":"feat","project":"open-commons-observatory/ocoeco","summary":"the check reads the graph: what points nowhere is known in one place"}
 {"advances":"backlog:read-off-the-act","at":"2026-11-14T00:09:23Z","by":"claude","id":"g-20261114-000923","kind":"feat","project":"open-commons-observatory/ocoeco","summary":"repeats is a group: one nature, many faces"}
+{"advances":"backlog:read-off-the-act","at":"2026-11-14T00:14:19Z","by":"claude","id":"g-20261114-001419","kind":"feat","project":"open-commons-observatory/ocoeco","summary":"what is pointed at, shaped once"}
 {"at":"2026-11-11T21:39:44Z","by":"lab-agent-session","id":"g-20261111-213944","kind":"chore","project":"open-commons-observatory/ocoeco-engine","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T21:40:40Z","by":"lab-agent-session","id":"g-20261111-214040","kind":"chore","project":"open-commons-observatory/open-commons-observatory.github.io","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T22:49:47Z","by":"lab-agent-session","id":"g-20261111-224947","kind":"docs","project":"open-commons-observatory/open-commons-observatory.github.io","summary":"look inside the commons before outside it","touches":"practices:22-look-around-first"}
