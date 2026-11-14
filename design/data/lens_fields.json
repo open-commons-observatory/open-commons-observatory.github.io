@@ -1,0 +1,7 @@
+{"id":"practices/practices/description","lens":"practices","of_table":"practices","name":"description","kind":"string","needed":false,"ordinal":7}
+{"id":"practices/practices/for","lens":"practices","of_table":"practices","name":"for","kind":"string","needed":false,"ordinal":4}
+{"id":"practices/practices/id","lens":"practices","of_table":"practices","name":"id","kind":"string","needed":true,"ordinal":1}
+{"id":"practices/practices/name","lens":"practices","of_table":"practices","name":"name","kind":"string","needed":false,"ordinal":6}
+{"id":"practices/practices/practice","lens":"practices","of_table":"practices","name":"practice","kind":"string","needed":false,"ordinal":2}
+{"id":"practices/practices/shown_in","lens":"practices","of_table":"practices","name":"shown_in","kind":"string","needed":false,"ordinal":5}
+{"id":"practices/practices/why","lens":"practices","of_table":"practices","name":"why","kind":"string","needed":false,"ordinal":3}
