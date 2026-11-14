@@ -1,0 +1,4 @@
+{"at":4,"id":"people/people/also","kind":"string","lens":"people","name":"also","needed":false,"of_table":"people","project":"open-commons-observatory/ecosystem"}
+{"at":1,"id":"people/people/id","kind":"string","lens":"people","name":"id","needed":true,"of_table":"people","project":"open-commons-observatory/ecosystem"}
+{"allowed":"a person, an agent","at":3,"id":"people/people/kind","kind":"string","lens":"people","name":"kind","needed":true,"of_table":"people","project":"open-commons-observatory/ecosystem"}
+{"at":2,"id":"people/people/name","kind":"string","lens":"people","name":"name","needed":true,"of_table":"people","project":"open-commons-observatory/ecosystem"}

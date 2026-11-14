@@ -7,3 +7,4 @@
 {"id":"still-showing/4","lens":"still-showing","only":"said to be waiting, though nothing drawn holds it back","part":5,"places":"work","project":"marshall-oco/marshall-oco.github.io"}
 {"id":"still-showing/5","lens":"still-showing","only":"ahead - what, once done, would free the most","part":6,"places":"purpose","project":"marshall-oco/marshall-oco.github.io"}
 {"id":"still-showing/what-each-waits-on","lens":"still-showing","only":"showing, and what each waits on","part":2,"places":"signs","project":"marshall-oco/marshall-oco.github.io"}
+{"id":"people/1","lays_out":"{id} - {name}, {kind}{known}","lens":"people","part":1,"project":"open-commons-observatory/ecosystem","query":"SELECT id, name, kind, CASE WHEN coalesce(also, '') <> '' THEN ' - also ' || also ELSE '' END AS known FROM people ORDER BY seq","title":"who takes part ({count})"}
