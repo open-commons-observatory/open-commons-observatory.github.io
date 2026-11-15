@@ -842,6 +842,7 @@
 {"at":"2026-11-13T18:48:50Z","by":"oco observe","id":"6c82485","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T13:50:07Z","by":"oco observe","id":"6d1042a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T20:04:15Z","by":"oco observe","id":"6d77fcd","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T18:25:40Z","by":"oco observe","id":"6f29636","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T10:48:09Z","by":"oco observe","id":"6f3612c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:12:03Z","by":"oco observe","id":"6ffcd17","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T10:20:17Z","by":"oco observe","id":"70915cc","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1025,6 +1026,7 @@
 {"at":"2026-11-14T23:49:26Z","by":"oco observe","id":"dff0fca","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T04:59:48Z","by":"oco observe","id":"e134c52","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T09:38:44Z","by":"oco observe","id":"e19ac8a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T18:30:15Z","by":"oco observe","id":"e1fefc9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T07:13:11Z","by":"oco observe","id":"e203df6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T04:03:27Z","by":"oco observe","id":"e31baac","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T11:03:14Z","by":"oco observe","id":"e34c33b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1183,6 +1185,7 @@
 {"at":"2026-11-15T13:43:59+01:00","by":"grenudi","id":"f1568b0","project":"open-commons-observatory/ecosystem","record":"g-20261115-124341","says":"docs: what came of a row taken back leaving a link pointing nowhere (#104)"}
 {"at":"2026-11-15T16:20:49+01:00","by":"grenudi","id":"f20b97b","project":"open-commons-observatory/ecosystem","record":"g-20261115-152033","says":"docs: the way to the lab, tried: asked with git alone, from a workspace with no token (#107)"}
 {"at":"2026-11-14T21:27:50+01:00","by":"grenudi","id":"f3623fe","project":"open-commons-observatory/ecosystem","record":"g-20261114-202734","says":"docs: a table entered as itself: the step taken, and what came of the sign (#77)"}
+{"at":"2026-11-15T19:30:07+01:00","by":"grenudi","id":"f8603e1","project":"open-commons-observatory/ecosystem","record":"g-20261115-182951","says":"docs: what came of a place's own lens looked through as it was observed (#111)"}
 {"at":"2026-11-14T21:59:05+01:00","by":"grenudi","id":"fa3c886","project":"open-commons-observatory/ecosystem","record":"g-20261114-205850","says":"docs: the program in view: its source and its guards, read (#79)"}
 {"at":"2026-11-15T19:19:56+01:00","by":"grenudi","id":"fbc2150","project":"open-commons-observatory/ecosystem","record":"g-20261115-181940","says":"docs: a record of work touches what is still kept: the form, not a part taken back from it (#110)"}
 {"at":"2026-11-13T08:25:36+01:00","by":"grenudi","id":"fd65cf1","project":"open-commons-observatory/ecosystem","record":"g-20261113-072521","says":"docs: what a milestone is, in the author's words; the other half on the board (#6)"}
@@ -1229,6 +1232,7 @@
 {"at":"2026-11-15T00:53:53+01:00","by":"github-actions[bot]","id":"24a934f","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.37.0 (#250)"}
 {"at":"2026-11-14T16:16:05+01:00","by":"github-actions[bot]","id":"25c217b","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.21.0 (#185)"}
 {"at":"2026-11-15T11:06:56+01:00","by":"github-actions[bot]","id":"26fdad8","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.43.0 (#275)"}
+{"at":"2026-11-15T19:29:40+01:00","by":"github-actions[bot]","id":"281f517","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.48.2 (#301)"}
 {"at":"2026-11-15T11:28:48+01:00","by":"grenudi","id":"29457a0","project":"open-commons-observatory/ocoeco","record":"g-20261115-102718","says":"fix: a lens looked through from a place is no one's address: the shape lets it be (#278)"}
 {"at":"2026-11-14T08:32:34+01:00","by":"grenudi","id":"2b48085","project":"open-commons-observatory/ocoeco","record":"g-20261114-073054","says":"fix: a row is held to the lens that defines its table, built in or brought (#162)"}
 {"at":"2026-11-14T18:34:51+01:00","by":"grenudi","id":"2b63e3b","project":"open-commons-observatory/ocoeco","record":"g-20261114-173320","says":"feat: any table a place keeps is looked through as itself (#199)"}
@@ -1390,6 +1394,7 @@
 {"at":"2026-11-12T09:35:28+01:00","by":"grenudi","id":"a71429c","project":"open-commons-observatory/ocoeco","record":"g-20261112-083358","says":"feat: reflection becomes an entity of the shared language; the first two are written (#48)"}
 {"at":"2026-11-12T14:42:13+01:00","by":"grenudi","id":"a861646","project":"open-commons-observatory/ocoeco","record":"g-20261112-134053","says":"docs: a lens focuses: its second face named from its own domain (#62)"}
 {"at":"2026-11-12T15:07:21+01:00","by":"grenudi","id":"a8a3daa","project":"open-commons-observatory/ocoeco","record":"g-20261112-140549","says":"feat: the work lens focuses: declared as data, equal to the board byte for byte (#64)"}
+{"at":"2026-11-15T19:29:10+01:00","by":"grenudi","id":"a97b251","project":"open-commons-observatory/ocoeco","record":"g-20261115-182739","says":"fix: where one stands is read as it stands: a place's own lens, beside what it observed (#300)"}
 {"at":"2026-11-14T20:50:25+01:00","by":"grenudi","id":"aa29e6f","project":"open-commons-observatory/ocoeco","record":"g-20261114-194845","says":"fix: a record of work touched what is there when it is made (#215)"}
 {"at":"2026-11-14T10:02:15+01:00","by":"grenudi","id":"aaa194d","project":"open-commons-observatory/ocoeco","record":"g-20261114-090044","says":"fix: a part observed speaks for that part only (#172)"}
 {"at":"2026-11-11T20:59:55+01:00","by":"grenudi","id":"ab24ab9","project":"open-commons-observatory/ocoeco","says":"feat: the shared language is a tad declaration - language.toml, rows checked by tad (#41)"}
@@ -2019,6 +2024,7 @@
 {"at":"2026-11-10T15:57:00Z","by":"oco harvest","id":"e64e0c4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T16:37:09Z","by":"oco harvest","id":"e6dfe0e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T00:37:18Z","by":"oco harvest","id":"e7015c5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T18:26:06Z","by":"oco harvest","id":"e783258","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:59:14Z","by":"oco harvest","id":"e794aec","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T19:14:02Z","by":"oco harvest","id":"e80c876","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T08:37:57Z","by":"oco harvest","id":"e835659","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
