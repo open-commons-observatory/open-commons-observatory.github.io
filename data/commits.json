@@ -226,6 +226,7 @@
 {"at":"2026-11-13T17:52:02+01:00","by":"grenudi","id":"8ed716f","project":"creation-guidelines/lab-agent","record":"g-20261113-165112","says":"feat: the record travels whole: its mark is spoken, the copy is a place (#181)"}
 {"at":"2026-11-09T19:02:04+01:00","by":"github-actions[bot]","id":"911e144","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.13 (#38)"}
 {"at":"2026-11-09T16:30:35+01:00","by":"github-actions[bot]","id":"913a19b","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.9 (#30)"}
+{"at":"2026-11-15T17:36:13+01:00","by":"grenudi","id":"92c4fa1","project":"creation-guidelines/lab-agent","record":"g-20261115-163524","says":"feat: a job shows, a driver brings: a page made on the lab is looked at where the driver is (#199)"}
 {"at":"2026-11-12T02:34:26+01:00","by":"grenudi","id":"93336f6","project":"creation-guidelines/lab-agent","record":"g-20261112-013306","says":"feat: the journal kept in tad tables, held to the measure every journal must pass (#138)"}
 {"at":"2026-11-14T01:17:02+01:00","by":"grenudi","id":"933c54c","project":"creation-guidelines/lab-agent","record":"g-20261114-001612","says":"feat: every job, shaped once, in the lens of now (#184)"}
 {"at":"2026-11-09T19:59:47+01:00","by":"github-actions[bot]","id":"94a3263","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.14 (#41)"}
@@ -996,6 +997,7 @@
 {"at":"2026-11-13T17:21:52Z","by":"oco observe","id":"d6ba68b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T21:51:34Z","by":"oco observe","id":"d6c1a1c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T14:28:54Z","by":"oco observe","id":"d6e84ad","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T16:33:36Z","by":"oco observe","id":"d70958f","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T07:48:17Z","by":"oco observe","id":"d717e72","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T21:48:21Z","by":"oco observe","id":"d79ce47","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T15:50:20Z","by":"oco observe","id":"d868a1a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1993,6 +1995,7 @@
 {"at":"2026-11-13T21:06:44Z","by":"oco harvest","id":"e20190f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T19:57:54Z","by":"oco harvest","id":"e33287d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:49:42Z","by":"oco harvest","id":"e3da4bd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T16:33:51Z","by":"oco harvest","id":"e4d7ce1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:51:02+01:00","by":"grenudi","id":"e520a77","project":"open-commons-observatory/open-commons-observatory.github.io","says":"ci: the harvest rebases onto what landed meanwhile, and retries its push (#61)"}
 {"at":"2026-11-14T18:50:28Z","by":"oco harvest","id":"e525d9b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T19:11:33Z","by":"oco harvest","id":"e53b04d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
