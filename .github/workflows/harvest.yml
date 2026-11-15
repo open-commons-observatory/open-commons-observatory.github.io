@@ -53,7 +53,8 @@ jobs:
         run: |
           oco site --data data --out _site
           # the fulldome, beside the engine's views: every lens, in focus, over what was observed
-          ocoeco fulldome --observed data --surface html > _site/fulldome.html
+          # the fulldome's page is laid out by a lens: as-page, the surface said in the language
+          ocoeco fulldome --observed data --surface as-page > _site/fulldome.html
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
