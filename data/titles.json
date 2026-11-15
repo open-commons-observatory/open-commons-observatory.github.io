@@ -1,0 +1,67 @@
+{"id":"README.md:The Mnemonic Vocabulary lens","line":1,"name":"The Mnemonic Vocabulary lens","path":"README.md","project":"Mnemonic-Vocabulary-org/lens"}
+{"id":"README.md:Mnemonic Vocabulary","line":1,"name":"Mnemonic Vocabulary","path":"README.md","project":"Mnemonic-Vocabulary-org/mnemonic-vocabulary-oco"}
+{"id":"ARCHITECTURE.md:Contract propagation & governance","line":1,"name":"Contract propagation & governance","path":"ARCHITECTURE.md","project":"argenv-opencommons/argenv"}
+{"id":"CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"CHANGELOG.md","project":"argenv-opencommons/argenv"}
+{"id":"CONTRIBUTING.md:Contributing","line":1,"name":"Contributing","path":"CONTRIBUTING.md","project":"argenv-opencommons/argenv"}
+{"id":"README.md:argenv","line":1,"name":"argenv","path":"README.md","project":"argenv-opencommons/argenv"}
+{"id":"api/README.md:Contract API","line":1,"name":"Contract API","path":"api/README.md","project":"argenv-opencommons/argenv"}
+{"id":"brainstorms/2026-09-11 — CI and Release Polish.md:2026-09-11 — CI and Release Polish","line":1,"name":"2026-09-11 — CI and Release Polish","path":"brainstorms/2026-09-11 — CI and Release Polish.md","project":"argenv-opencommons/argenv"}
+{"id":"brainstorms/2026-09-18 15-00 — GitHub Pages, Dependabot, and Badge Fixes.md:2026-09-18 15:00 — GitHub Pages, Dependabot, and Badge Fixes","line":1,"name":"2026-09-18 15:00 — GitHub Pages, Dependabot, and Badge Fixes","path":"brainstorms/2026-09-18 15-00 — GitHub Pages, Dependabot, and Badge Fixes.md","project":"argenv-opencommons/argenv"}
+{"id":"brainstorms/README.md:Brainstorms","line":1,"name":"Brainstorms","path":"brainstorms/README.md","project":"argenv-opencommons/argenv"}
+{"id":"crates/argenv-resolve/CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"crates/argenv-resolve/CHANGELOG.md","project":"argenv-opencommons/argenv"}
+{"id":"crates/argenv-resolve/README.md:argenv-resolve","line":1,"name":"argenv-resolve","path":"crates/argenv-resolve/README.md","project":"argenv-opencommons/argenv"}
+{"id":"crates/argenv/CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"crates/argenv/CHANGELOG.md","project":"argenv-opencommons/argenv"}
+{"id":"dev/README.md:Dev environment","line":1,"name":"Dev environment","path":"dev/README.md","project":"argenv-opencommons/argenv"}
+{"id":"docs/terminology.md:CLI Terminology","line":1,"name":"CLI Terminology","path":"docs/terminology.md","project":"argenv-opencommons/argenv"}
+{"id":"README.md:Agent access","line":1,"name":"Agent access","path":"README.md","project":"creation-guidelines/agent-access-oco"}
+{"id":"ESSENCE.md:Essence","line":1,"name":"Essence","path":"ESSENCE.md","project":"creation-guidelines/essence-oco"}
+{"id":"README.md:Essence","line":1,"name":"Essence","path":"README.md","project":"creation-guidelines/essence-oco"}
+{"id":"CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"CHANGELOG.md","project":"creation-guidelines/ideal-project-playbook"}
+{"id":"AGENTS.md:AGENTS.md","line":1,"name":"AGENTS.md","path":"AGENTS.md","project":"creation-guidelines/lab-agent"}
+{"id":"CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"CHANGELOG.md","project":"creation-guidelines/lab-agent"}
+{"id":"DESIGN.md:oco-agent: lab-agent, redesigned (2026-11-12)","line":1,"name":"oco-agent: lab-agent, redesigned (2026-11-12)","path":"DESIGN.md","project":"creation-guidelines/lab-agent"}
+{"id":"README.md:lab-agent","line":1,"name":"lab-agent","path":"README.md","project":"creation-guidelines/lab-agent"}
+{"id":"oco-agent/README.md:oco-agent","line":1,"name":"oco-agent","path":"oco-agent/README.md","project":"creation-guidelines/lab-agent"}
+{"id":"oco-agent/watcher/README.md:The watcher outside the machine","line":1,"name":"The watcher outside the machine","path":"oco-agent/watcher/README.md","project":"creation-guidelines/lab-agent"}
+{"id":"AGENTS.md:AGENTS.md - how to work in this repository","line":1,"name":"AGENTS.md - how to work in this repository","path":"AGENTS.md","project":"creation-guidelines/software-engineering-canon"}
+{"id":"CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"CHANGELOG.md","project":"creation-guidelines/software-engineering-canon"}
+{"id":"CONTRIBUTING.md:Contributing","line":1,"name":"Contributing","path":"CONTRIBUTING.md","project":"creation-guidelines/software-engineering-canon"}
+{"id":"README.md:software-engineering-canon","line":1,"name":"software-engineering-canon","path":"README.md","project":"creation-guidelines/software-engineering-canon"}
+{"id":"CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"CHANGELOG.md","project":"creation-guidelines/tad-engine"}
+{"id":"CONTRIBUTING.md:Contributing","line":1,"name":"Contributing","path":"CONTRIBUTING.md","project":"creation-guidelines/tad-engine"}
+{"id":"README.md:tad","line":1,"name":"tad","path":"README.md","project":"creation-guidelines/tad-engine"}
+{"id":"oco/README.md:tad's own state, as text as data","line":1,"name":"tad's own state, as text as data","path":"oco/README.md","project":"creation-guidelines/tad-engine"}
+{"id":"tad/CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"tad/CHANGELOG.md","project":"creation-guidelines/tad-engine"}
+{"id":"AGENTS.md:AGENTS.md - how to work in this repository","line":1,"name":"AGENTS.md - how to work in this repository","path":"AGENTS.md","project":"git-rhizoid/git-rhizoid.github.io"}
+{"id":"CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"CHANGELOG.md","project":"git-rhizoid/git-rhizoid.github.io"}
+{"id":"CONTRIBUTING.md:Contributing","line":1,"name":"Contributing","path":"CONTRIBUTING.md","project":"git-rhizoid/git-rhizoid.github.io"}
+{"id":"README.md:git-rhizoid.github.io","line":1,"name":"git-rhizoid.github.io","path":"README.md","project":"git-rhizoid/git-rhizoid.github.io"}
+{"id":"README.md:Package conveyor","line":1,"name":"Package conveyor","path":"README.md","project":"linux-package-distribution-oco/conveyor"}
+{"id":"README.md:The package conveyor lens","line":1,"name":"The package conveyor lens","path":"README.md","project":"linux-package-distribution-oco/lens"}
+{"id":"AGENTS.md:AGENTS.md - how to work in this repository","line":1,"name":"AGENTS.md - how to work in this repository","path":"AGENTS.md","project":"linux-phone-oco/docs"}
+{"id":"CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"CHANGELOG.md","project":"linux-phone-oco/docs"}
+{"id":"CONTRIBUTING.md:Contributing","line":1,"name":"Contributing","path":"CONTRIBUTING.md","project":"linux-phone-oco/docs"}
+{"id":"README.md:linux-phone-oco/docs","line":1,"name":"linux-phone-oco/docs","path":"README.md","project":"linux-phone-oco/docs"}
+{"id":"research/README.md:Research","line":1,"name":"Research","path":"research/README.md","project":"linux-phone-oco/docs"}
+{"id":"research/open-handset-commons/README.md:Open Handset Commons","line":1,"name":"Open Handset Commons","path":"research/open-handset-commons/README.md","project":"linux-phone-oco/docs"}
+{"id":"README.md:lab-tools","line":1,"name":"lab-tools","path":"README.md","project":"linux-phone-oco/lab-tools"}
+{"id":"README.md:The Linux Phones lens","line":1,"name":"The Linux Phones lens","path":"README.md","project":"linux-phone-oco/lens"}
+{"id":"AGENTS.md:surya-lab - notes for agents","line":1,"name":"surya-lab - notes for agents","path":"AGENTS.md","project":"linux-phone-oco/surya-lab"}
+{"id":"README.md:surya-lab","line":1,"name":"surya-lab","path":"README.md","project":"linux-phone-oco/surya-lab"}
+{"id":"research/cameras.md:The cameras: what is known, what is not, and the way in","line":1,"name":"The cameras: what is known, what is not, and the way in","path":"research/cameras.md","project":"linux-phone-oco/surya-lab"}
+{"id":"ucm/README.md:UCM profile for surya","line":1,"name":"UCM profile for surya","path":"ucm/README.md","project":"linux-phone-oco/surya-lab"}
+{"id":"CONTRIBUTING.md:Adding a phone","line":1,"name":"Adding a phone","path":"CONTRIBUTING.md","project":"linux-phone-oco/sxmo-deviceprofiles"}
+{"id":"README.md:sxmo-deviceprofiles","line":1,"name":"sxmo-deviceprofiles","path":"README.md","project":"linux-phone-oco/sxmo-deviceprofiles"}
+{"id":"README.md:Marshall's observatory","line":1,"name":"Marshall's observatory","path":"README.md","project":"marshall-oco/marshall-oco.github.io"}
+{"id":"README.md:OCO","line":1,"name":"OCO","path":"README.md","project":"open-commons-observatory/ecosystem"}
+{"id":"CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"CHANGELOG.md","project":"open-commons-observatory/ocoeco"}
+{"id":"README.md:ocoeco","line":1,"name":"ocoeco","path":"README.md","project":"open-commons-observatory/ocoeco"}
+{"id":"SPEC.md:ocoeco - the specification","line":1,"name":"ocoeco - the specification","path":"SPEC.md","project":"open-commons-observatory/ocoeco"}
+{"id":"README.md:ocoeco-engine","line":1,"name":"ocoeco-engine","path":"README.md","project":"open-commons-observatory/ocoeco-engine"}
+{"id":"ARCHITECTURE.md:The Open Commons Observatory: how the pieces fit","line":1,"name":"The Open Commons Observatory: how the pieces fit","path":"ARCHITECTURE.md","project":"open-commons-observatory/open-commons-observatory.github.io"}
+{"id":"README.md:open-commons-observatory.github.io","line":1,"name":"open-commons-observatory.github.io","path":"README.md","project":"open-commons-observatory/open-commons-observatory.github.io"}
+{"id":"design/README.md:The observatory's own design, as data","line":1,"name":"The observatory's own design, as data","path":"design/README.md","project":"open-commons-observatory/open-commons-observatory.github.io"}
+{"id":"marks/README.md:The mark (schema 1)","line":1,"name":"The mark (schema 1)","path":"marks/README.md","project":"open-commons-observatory/open-commons-observatory.github.io"}
+{"id":"README.md:The Rhizome lens","line":1,"name":"The Rhizome lens","path":"README.md","project":"rhizome-oco/lens"}
+{"id":"README.md:Rhizome","line":1,"name":"Rhizome","path":"README.md","project":"rhizome-oco/rhizome"}
+{"id":"ROADMAP.md:Hypha - the first milestone of Rhizome","line":1,"name":"Hypha - the first milestone of Rhizome","path":"ROADMAP.md","project":"rhizome-oco/rhizome"}
