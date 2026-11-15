@@ -15,3 +15,10 @@
 {"id":"surfaces/surfaces/id","kind":"string","lens":"surfaces","name":"id","needed":true,"of_table":"surfaces","ordinal":1,"project":"open-commons-observatory/ecosystem"}
 {"id":"surfaces/surfaces/lacks","kind":"string","lens":"surfaces","name":"lacks","needed":false,"of_table":"surfaces","ordinal":5,"project":"open-commons-observatory/ecosystem"}
 {"id":"surfaces/surfaces/read","kind":"string","lens":"surfaces","name":"read","needed":false,"of_table":"surfaces","ordinal":4,"project":"open-commons-observatory/ecosystem"}
+{"id":"practices/practices/description","kind":"string","lens":"practices","name":"description","needed":false,"of_table":"practices","ordinal":7,"project":"open-commons-observatory/open-commons-observatory.github.io"}
+{"id":"practices/practices/for","kind":"string","lens":"practices","name":"for","needed":false,"of_table":"practices","ordinal":4,"project":"open-commons-observatory/open-commons-observatory.github.io"}
+{"id":"practices/practices/id","kind":"string","lens":"practices","name":"id","needed":true,"of_table":"practices","ordinal":1,"project":"open-commons-observatory/open-commons-observatory.github.io"}
+{"id":"practices/practices/name","kind":"string","lens":"practices","name":"name","needed":false,"of_table":"practices","ordinal":6,"project":"open-commons-observatory/open-commons-observatory.github.io"}
+{"id":"practices/practices/practice","kind":"string","lens":"practices","name":"practice","needed":false,"of_table":"practices","ordinal":2,"project":"open-commons-observatory/open-commons-observatory.github.io"}
+{"id":"practices/practices/shown_in","kind":"string","lens":"practices","name":"shown_in","needed":false,"of_table":"practices","ordinal":5,"project":"open-commons-observatory/open-commons-observatory.github.io"}
+{"id":"practices/practices/why","kind":"string","lens":"practices","name":"why","needed":false,"of_table":"practices","ordinal":3,"project":"open-commons-observatory/open-commons-observatory.github.io"}
