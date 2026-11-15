@@ -103,7 +103,7 @@
 {"bytes":23601,"id":"src/dome.rs","lines":640,"path":"src/dome.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":21798,"id":"src/entries.rs","lines":606,"path":"src/entries.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":23894,"id":"src/fits.rs","lines":600,"path":"src/fits.rs","project":"open-commons-observatory/ocoeco"}
-{"bytes":115469,"id":"src/focus.rs","lines":2600,"path":"src/focus.rs","project":"open-commons-observatory/ocoeco"}
+{"bytes":118043,"id":"src/focus.rs","lines":2662,"path":"src/focus.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":32504,"id":"src/fulldome.rs","lines":827,"path":"src/fulldome.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":8226,"id":"src/gather.rs","lines":218,"path":"src/gather.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":13751,"id":"src/glimpse.rs","lines":399,"path":"src/glimpse.rs","project":"open-commons-observatory/ocoeco"}
