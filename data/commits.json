@@ -1246,6 +1246,7 @@
 {"at":"2026-11-13T07:25:36Z","by":"grenudi","id":"fd65cf1","project":"open-commons-observatory/ecosystem","record":"g-20261113-072521","says":"docs: what a milestone is, in the author's words; the other half on the board (#6)"}
 {"at":"2026-11-12T22:19:48Z","by":"grenudi","id":"00994a8","project":"open-commons-observatory/ocoeco","record":"g-20261112-221818","says":"feat: what is new in view: a lens says what changed, once (#82)"}
 {"at":"2026-11-11T00:23:06Z","by":"grenudi","id":"00b56f1","project":"open-commons-observatory/ocoeco","says":"feat(check): read a repository's essence - how much is told, what is still to tell (#21)"}
+{"at":"2026-11-15T23:30:27Z","by":"github-actions[bot]","id":"00cf275","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.57.1 (#333)"}
 {"at":"2026-11-14T01:08:15Z","by":"github-actions[bot]","id":"00f4c31","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.13.0 (#154)"}
 {"at":"2026-11-12T10:31:38Z","by":"grenudi","id":"019bba7","project":"open-commons-observatory/ocoeco","record":"g-20261112-103017","says":"feat: the board: one view over every project's backlog, and its flow (#49)"}
 {"at":"2026-11-15T19:13:58Z","by":"grenudi","id":"030adff","project":"open-commons-observatory/ocoeco","record":"g-20261115-191228","says":"docs: why the way up, said truly: nobody can say what a cut hid (#307)"}
@@ -1274,6 +1275,7 @@
 {"at":"2026-11-15T08:40:46Z","by":"grenudi","id":"158f011","project":"open-commons-observatory/ocoeco","record":"g-20261115-083916","says":"refactor: the program lets the page go: a lens says it; a beam says what took how long (#260)"}
 {"at":"2026-11-12T13:47:16Z","by":"grenudi","id":"1682c01","project":"open-commons-observatory/ocoeco","record":"g-20261112-134534","says":"refactor: the lenses hold the shared language: regrouped, proven unchanged (#63)"}
 {"at":"2026-11-12T11:11:06Z","by":"grenudi","id":"187f4f1","project":"open-commons-observatory/ocoeco","record":"g-20261112-110955","says":"docs: the room: the board is the open commons' obeya; star, constellation, lens, observer (#50)"}
+{"at":"2026-11-15T23:29:56Z","by":"grenudi","id":"1981286","project":"open-commons-observatory/ocoeco","record":"g-20261115-232804","says":"fix: of what was marked, an entry is offered what fits; one mark for one thing (#332)"}
 {"at":"2026-11-15T07:03:01Z","by":"grenudi","id":"1a09d4e","project":"open-commons-observatory/ocoeco","record":"g-20261115-070109","says":"feat: a step says when: who stood where, as a row of a place the machine holds (#258)"}
 {"at":"2026-11-15T21:07:28Z","by":"grenudi","id":"1a6a8e7","project":"open-commons-observatory/ocoeco","record":"g-20261115-210558","says":"docs: a sign: a table that holds one id twice is seen by nothing (#316)"}
 {"at":"2026-11-12T13:11:21Z","by":"grenudi","id":"1a8ea5a","project":"open-commons-observatory/ocoeco","record":"g-20261112-131000","says":"fix: criteria hold conditions as well as links; the record corrected from the count (#57)"}
@@ -1688,6 +1690,7 @@
 {"at":"2026-11-12T18:57:49Z","by":"oco harvest","id":"185f700","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T16:22:20Z","by":"oco harvest","id":"190b017","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T22:26:39Z","by":"oco harvest","id":"1ad1fc7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T23:28:01Z","by":"oco harvest","id":"1ae86ac","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T12:21:01Z","by":"oco harvest","id":"1b1f9c1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T22:13:57Z","by":"oco harvest","id":"1b9929d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T19:53:52Z","by":"oco harvest","id":"1bfdb5f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
