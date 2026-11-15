@@ -1558,6 +1558,7 @@
 {"at":"2026-11-15T13:47:06Z","by":"github-actions[bot]","id":"eba2002","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.47.2 (#293)"}
 {"at":"2026-11-14T07:37:04Z","by":"github-actions[bot]","id":"ebf642e","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.15.1 (#161)"}
 {"at":"2026-11-14T23:08:46Z","by":"github-actions[bot]","id":"eca2ede","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.34.0 (#242)"}
+{"at":"2026-11-15T23:23:58Z","by":"grenudi","id":"ee5e763","project":"open-commons-observatory/ocoeco","record":"g-20261115-232228","says":"docs: a item: the check said by a lens (#331)"}
 {"at":"2026-11-11T20:06:06Z","by":"grenudi","id":"eee8bcc","project":"open-commons-observatory/ocoeco","says":"docs: one word for a concept's text - summary, everywhere (#42)"}
 {"at":"2026-11-14T23:08:02Z","by":"grenudi","id":"ef55a10","project":"open-commons-observatory/ocoeco","record":"g-20261114-230622","says":"feat: a surface is said by a lens: the text surface, in the language (#241)"}
 {"at":"2026-11-13T11:31:29Z","by":"grenudi","id":"f050748","project":"open-commons-observatory/ocoeco","record":"g-20261113-113008","says":"feat: the typed line reads back: an entry's words read by argenv's reader (#104)"}
@@ -1865,6 +1866,7 @@
 {"at":"2026-11-15T20:25:47Z","by":"oco harvest","id":"6929989","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T21:39:13Z","by":"oco harvest","id":"6958556","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T16:57:30Z","by":"oco harvest","id":"6a6bb0c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T23:24:21Z","by":"oco harvest","id":"6acd637","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T01:40:51Z","by":"oco harvest","id":"6b58484","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T10:27:37Z","by":"grenudi","id":"6bcfe69","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the package conveyor's lens, curated (#45)"}
 {"at":"2026-11-11T21:15:36Z","by":"oco harvest","id":"6bd6f77","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
