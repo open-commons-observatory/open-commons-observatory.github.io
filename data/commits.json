@@ -179,6 +179,7 @@
 {"at":"2026-11-10T17:29:13Z","by":"grenudi","id":"4a188ef","project":"creation-guidelines/lab-agent","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#103)"}
 {"at":"2026-11-09T13:39:56Z","by":"grenudi","id":"4e40ccb","project":"creation-guidelines/lab-agent","says":"fix: keep the rpm assets in their own table - the requires sub-table had split them off (#22)"}
 {"at":"2026-11-10T00:31:45Z","by":"grenudi","id":"4ebec97","project":"creation-guidelines/lab-agent","says":"feat: questions answerable on the board, and the agent's waits as a countdown (#63)"}
+{"at":"2026-11-15T20:22:41Z","by":"grenudi","id":"5231964","project":"creation-guidelines/lab-agent","record":"g-20261115-202141","says":"feat: two words of a job: a release said once it can be taken; a place kept on its main (#201)"}
 {"at":"2026-11-11T22:44:46Z","by":"grenudi","id":"5312521","project":"creation-guidelines/lab-agent","record":"g-20261111-224358","says":"docs: the 2026-11-11 incident recorded: a stall, a replay, a token in a URL (#128)"}
 {"at":"2026-11-12T01:20:17Z","by":"grenudi","id":"57407fb","project":"creation-guidelines/lab-agent","record":"g-20261112-011918","says":"feat: oco-agent's core: the journal, leases and deciding, tried by chaos tests (#136)"}
 {"at":"2026-11-09T02:30:15Z","by":"grenudi","id":"58e48e4","project":"creation-guidelines/lab-agent","says":"fix: the real release tag is v<version>, not lab-agent-v<version> (#11)"}
@@ -815,6 +816,7 @@
 {"at":"2026-11-15T18:03:15Z","by":"oco observe","id":"556e1d3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T08:20:53Z","by":"oco observe","id":"55f1ce2","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T00:26:46Z","by":"oco observe","id":"5690135","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T20:24:30Z","by":"oco observe","id":"56ac8d1","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T19:13:39Z","by":"oco observe","id":"571304f","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T01:18:06Z","by":"oco observe","id":"57fc232","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T18:33:23Z","by":"oco observe","id":"580a9e7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -904,6 +906,7 @@
 {"at":"2026-11-14T00:17:32Z","by":"oco observe","id":"906c318","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T21:35:37Z","by":"grenudi","id":"9106643","project":"marshall-oco/marshall-oco.github.io","record":"g-20261114-213521","says":"ci: the observatory observes by holding: what a route reads reaches the page (#10)"}
 {"at":"2026-11-15T10:01:41Z","by":"oco observe","id":"9149196","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T20:11:44Z","by":"oco observe","id":"928d97b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T13:53:17Z","by":"oco observe","id":"95a648b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T09:21:18Z","by":"oco observe","id":"95d9bca","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T04:53:06Z","by":"oco observe","id":"962de52","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -934,6 +937,7 @@
 {"at":"2026-11-15T10:18:22Z","by":"oco observe","id":"a4ee796","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T22:59:45Z","by":"oco observe","id":"a516d7f","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T21:38:37Z","by":"oco observe","id":"a5469cf","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T20:18:13Z","by":"oco observe","id":"a664e53","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T09:34:23Z","by":"oco observe","id":"a75e3e7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T18:18:10Z","by":"oco observe","id":"a80c08e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T13:49:54Z","by":"oco observe","id":"a821c48","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1973,6 +1977,7 @@
 {"at":"2026-11-14T23:25:30Z","by":"oco harvest","id":"b3ba866","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T13:11:37Z","by":"oco harvest","id":"b483fcf","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T10:34:06Z","by":"oco harvest","id":"b4f4563","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T20:10:54Z","by":"oco harvest","id":"b56aec0","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T23:57:58Z","by":"oco harvest","id":"b57a96c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T15:26:48Z","by":"grenudi","id":"b5a1141","project":"open-commons-observatory/open-commons-observatory.github.io","says":"feat(data): the observatory's own thinking as data - concepts, decisions, backlog, session log (#5)"}
 {"at":"2026-11-13T15:46:15Z","by":"oco harvest","id":"b6099e4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
