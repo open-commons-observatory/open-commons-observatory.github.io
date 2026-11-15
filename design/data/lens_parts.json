@@ -1,5 +1,5 @@
-{"id":"face/1","lens":"face","part":1,"places":"insight"}
-{"id":"face/2","lens":"face","part":2,"places":"purpose"}
+{"id":"face/1","lens":"face","part":1,"places":"purpose"}
+{"id":"face/2","lens":"face","part":2,"places":"signs"}
 {"id":"face/3","lens":"face","part":3,"places":"*"}
 {"id":"practices/1","lens":"practices","part":1,"title":"how work is done here ({count})","query":"SELECT id, left(coalesce(practice, name || ': ' || description), 170) AS said FROM practices ORDER BY star, id","lays_out":"{id} - {said}"}
 {"id":"practices/2","lens":"practices","part":2,"title":"shown in what was decided or said ({count})","query":"SELECT e.from_id AS practice, e.to_star || '/' || e.to_table || ':' || e.to_id AS thing, coalesce(t.says, '') AS says\nFROM edges e LEFT JOIN things t ON t.id = e.\"to\" WHERE e.how = 'shown_in' AND e.from_table = 'practices' ORDER BY e.from_id, thing","lays_out":"{practice} is about {thing} - {says}"}
