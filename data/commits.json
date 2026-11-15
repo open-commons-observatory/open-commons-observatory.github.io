@@ -679,6 +679,7 @@
 {"at":"2026-11-14T23:31:32Z","by":"oco observe","id":"02faa4c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T03:18:15Z","by":"oco observe","id":"039b990","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T02:18:22Z","by":"oco observe","id":"03baa32","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T19:11:22Z","by":"oco observe","id":"044b476","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T15:46:56Z","by":"oco observe","id":"04be203","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T20:47:55Z","by":"oco observe","id":"04d6e2c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T11:48:15Z","by":"oco observe","id":"063adf4","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1197,6 +1198,7 @@
 {"at":"2026-11-15T13:43:59+01:00","by":"grenudi","id":"f1568b0","project":"open-commons-observatory/ecosystem","record":"g-20261115-124341","says":"docs: what came of a row taken back leaving a link pointing nowhere (#104)"}
 {"at":"2026-11-15T16:20:49+01:00","by":"grenudi","id":"f20b97b","project":"open-commons-observatory/ecosystem","record":"g-20261115-152033","says":"docs: the way to the lab, tried: asked with git alone, from a workspace with no token (#107)"}
 {"at":"2026-11-14T21:27:50+01:00","by":"grenudi","id":"f3623fe","project":"open-commons-observatory/ecosystem","record":"g-20261114-202734","says":"docs: a table entered as itself: the step taken, and what came of the sign (#77)"}
+{"at":"2026-11-15T20:10:15+01:00","by":"grenudi","id":"f6b90c2","project":"open-commons-observatory/ecosystem","record":"g-20261115-190959","says":"docs: what diving up showed: the way up has to be part of the language (#113)"}
 {"at":"2026-11-15T19:30:07+01:00","by":"grenudi","id":"f8603e1","project":"open-commons-observatory/ecosystem","record":"g-20261115-182951","says":"docs: what came of a place's own lens looked through as it was observed (#111)"}
 {"at":"2026-11-14T21:59:05+01:00","by":"grenudi","id":"fa3c886","project":"open-commons-observatory/ecosystem","record":"g-20261114-205850","says":"docs: the program in view: its source and its guards, read (#79)"}
 {"at":"2026-11-15T19:19:56+01:00","by":"grenudi","id":"fbc2150","project":"open-commons-observatory/ecosystem","record":"g-20261115-181940","says":"docs: a record of work touches what is still kept: the form, not a part taken back from it (#110)"}
@@ -1306,6 +1308,7 @@
 {"at":"2026-11-15T00:52:27+01:00","by":"grenudi","id":"59ff83b","project":"open-commons-observatory/ocoeco","record":"g-20261114-235036","says":"feat: a row is taken back by saying so, guarded as entering is (#249)"}
 {"at":"2026-11-14T16:40:29+01:00","by":"grenudi","id":"5a8e028","project":"open-commons-observatory/ocoeco","record":"g-20261114-153848","says":"fix: the graph by any route: made of what was observed as of what is held (#190)"}
 {"at":"2026-11-11T12:05:32+01:00","by":"grenudi","id":"5c4e9c1","project":"open-commons-observatory/ocoeco","says":"feat: the vocabulary - ocoeco's shared words, compiled into the tool (#26)"}
+{"at":"2026-11-15T20:09:41+01:00","by":"grenudi","id":"5e328b0","project":"open-commons-observatory/ocoeco","record":"g-20261115-190800","says":"docs: a sign: a command asks in a window what it could say it lacks (#306)"}
 {"at":"2026-11-15T10:20:14+01:00","by":"grenudi","id":"5e5cf63","project":"open-commons-observatory/ocoeco","record":"g-20261115-091844","says":"perf: the parts of a lens ask the engine in one go: what it gathered is loaded once (#266)"}
 {"at":"2026-11-14T22:30:16+01:00","by":"grenudi","id":"5edf02a","project":"open-commons-observatory/ocoeco","record":"g-20261114-212845","says":"feat: observed by holding: one way of reading; what a route reads is a thing (#226)"}
 {"at":"2026-11-14T22:53:21+01:00","by":"github-actions[bot]","id":"5f2a49a","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.32.1 (#229)"}
@@ -2070,6 +2073,7 @@
 {"at":"2026-11-11T01:54:23+01:00","by":"grenudi","id":"eeaab1c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: words that follow their number - done (#41)"}
 {"at":"2026-11-15T13:51:13Z","by":"oco harvest","id":"eebf998","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T17:55:40+01:00","by":"grenudi","id":"ef367ff","project":"open-commons-observatory/open-commons-observatory.github.io","says":"ci: ocoeco gathers, the engine renders (#13)"}
+{"at":"2026-11-15T19:10:19Z","by":"oco harvest","id":"efe230f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T09:54:01Z","by":"oco harvest","id":"f026e9a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T11:33:16Z","by":"oco harvest","id":"f06a52d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T19:37:55+01:00","by":"grenudi","id":"f0a92e2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"ci: install the face from its new name, ocoeco-engine (#21)"}
