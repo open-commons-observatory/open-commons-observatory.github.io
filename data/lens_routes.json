@@ -1,0 +1,2 @@
+{"from":"files","id":"documents/documents","lens":"documents","of_table":"documents","project":"open-commons-observatory/ecosystem","which":"**/*.md"}
+{"from":"files","id":"documents/titles","lens":"documents","of_table":"titles","project":"open-commons-observatory/ecosystem","shape":"\\A\\s*#\\s+(?P<name>[^\\n]+)","which":"**/*.md"}

@@ -1,3 +1,11 @@
+{"id":"documents/documents/bytes","kind":"integer","lens":"documents","name":"bytes","needed":false,"of_table":"documents","ordinal":4,"project":"open-commons-observatory/ecosystem"}
+{"id":"documents/documents/id","kind":"string","lens":"documents","name":"id","needed":true,"of_table":"documents","ordinal":1,"project":"open-commons-observatory/ecosystem"}
+{"id":"documents/documents/lines","kind":"integer","lens":"documents","name":"lines","needed":false,"of_table":"documents","ordinal":3,"project":"open-commons-observatory/ecosystem"}
+{"id":"documents/documents/path","kind":"string","lens":"documents","name":"path","needed":true,"of_table":"documents","ordinal":2,"project":"open-commons-observatory/ecosystem"}
+{"id":"documents/titles/id","kind":"string","lens":"documents","name":"id","needed":true,"of_table":"titles","ordinal":1,"project":"open-commons-observatory/ecosystem"}
+{"id":"documents/titles/line","kind":"integer","lens":"documents","name":"line","needed":false,"of_table":"titles","ordinal":4,"project":"open-commons-observatory/ecosystem"}
+{"id":"documents/titles/name","kind":"string","lens":"documents","name":"name","needed":true,"of_table":"titles","ordinal":2,"project":"open-commons-observatory/ecosystem"}
+{"id":"documents/titles/path","kind":"string","lens":"documents","name":"path","needed":true,"of_table":"titles","ordinal":3,"project":"open-commons-observatory/ecosystem"}
 {"id":"people/people/also","kind":"string","lens":"people","name":"also","needed":false,"of_table":"people","ordinal":4,"project":"open-commons-observatory/ecosystem"}
 {"id":"people/people/id","kind":"string","lens":"people","name":"id","needed":true,"of_table":"people","ordinal":1,"project":"open-commons-observatory/ecosystem"}
 {"allowed":"a person, an agent","id":"people/people/kind","kind":"string","lens":"people","name":"kind","needed":true,"of_table":"people","ordinal":3,"project":"open-commons-observatory/ecosystem"}
