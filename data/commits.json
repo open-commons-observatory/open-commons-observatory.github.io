@@ -999,6 +999,7 @@
 {"at":"2026-11-13T01:36:18Z","by":"oco observe","id":"d40506e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T09:48:14Z","by":"oco observe","id":"d42b563","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T15:42:45Z","by":"oco observe","id":"d496caf","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T18:23:13Z","by":"oco observe","id":"d5a342a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T16:03:22Z","by":"oco observe","id":"d601c90","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T01:18:15Z","by":"oco observe","id":"d67fb6a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T00:03:21Z","by":"oco observe","id":"d68a3be","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1253,7 +1254,9 @@
 {"at":"2026-11-14T10:43:25+01:00","by":"grenudi","id":"3b9b16f","project":"open-commons-observatory/ocoeco","record":"g-20261114-094156","says":"fix: the lens of language gets what it puts: it counts the relations (#176)"}
 {"at":"2026-11-13T20:03:17+01:00","by":"grenudi","id":"3ba6265","project":"open-commons-observatory/ocoeco","record":"g-20261113-190156","says":"docs: two signs, said the new way (#118)"}
 {"at":"2026-11-14T22:50:29+01:00","by":"grenudi","id":"3bc7fa9","project":"open-commons-observatory/ocoeco","record":"g-20261114-214859","says":"perf: the graph is made once in a look (#228)"}
+{"at":"2026-11-15T19:22:29+01:00","by":"grenudi","id":"3bf5eb0","project":"open-commons-observatory/ocoeco","record":"g-20261115-182058","says":"fix: a part of a lens is known by the id it is kept as, not by where it stands (#298)"}
 {"at":"2026-11-14T19:50:41+01:00","by":"grenudi","id":"3d8d559","project":"open-commons-observatory/ocoeco","record":"g-20261114-184922","says":"fix: a place is found by what is gathered, not by a label (#205)"}
+{"at":"2026-11-15T19:22:59+01:00","by":"github-actions[bot]","id":"3e69777","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.48.1 (#299)"}
 {"at":"2026-11-15T10:43:52+01:00","by":"github-actions[bot]","id":"3ea25bc","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.42.0 (#270)"}
 {"at":"2026-11-14T16:14:26+01:00","by":"grenudi","id":"3ed76f3","project":"open-commons-observatory/ocoeco","record":"g-20261114-151256","says":"feat: where the work happens: a lens from a place; a record of work says where it was made (#184)"}
 {"at":"2026-11-14T02:01:13+01:00","by":"grenudi","id":"3eff039","project":"open-commons-observatory/ocoeco","record":"g-20261114-005932","says":"fix: a link into one kind of row is offered as the id alone (#151)"}
@@ -1807,6 +1810,7 @@
 {"at":"2026-11-14T15:25:39Z","by":"oco harvest","id":"7beddb4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T19:19:51Z","by":"oco harvest","id":"7bff13e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T22:39:08Z","by":"oco harvest","id":"7c0892d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T18:22:08Z","by":"oco harvest","id":"7cac983","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T23:50:02+01:00","by":"grenudi","id":"7d474a9","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261111-224947","says":"docs: look inside the commons before outside it (#68)"}
 {"at":"2026-11-14T13:58:03Z","by":"oco harvest","id":"7da87ab","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T23:39:16Z","by":"oco harvest","id":"7dfd7c3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
