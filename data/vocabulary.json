@@ -23,6 +23,7 @@
 {"decided":"2026-11-11-word-attention","id":"attention","means":"Where the whole is weakest right now, read from every project's data, to choose the next piece of work.","not":"Whatever is loudest.","project":"open-commons-observatory/ocoeco","see":"essence, observatory","term":"attention"}
 {"id":"automated_by","means":"What does it now, where it is no longer done by hand.","project":"open-commons-observatory/ocoeco","term":"automated_by"}
 {"id":"backlog","means":"The items of a place: what is to be done, is being done, was done.","project":"open-commons-observatory/ocoeco","term":"backlog"}
+{"id":"beats","means":"Each beat says a driver is still at work, and keeps their lease on the lab alive.","project":"open-commons-observatory/ocoeco","term":"beats"}
 {"id":"breaking","means":"Whether a change breaks what relied on things as they were.","project":"open-commons-observatory/ocoeco","term":"breaking"}
 {"id":"by","means":"Who did it - a person, an agent, or a program acting by itself - by the name they go by.","project":"open-commons-observatory/ocoeco","term":"by"}
 {"id":"bytes","means":"How long a file is, in bytes.","project":"open-commons-observatory/ocoeco","term":"bytes"}
@@ -58,6 +59,7 @@
 {"id":"entry","means":"A way to add a row by saying only what a person knows: the rest is supplied, and the row is held to its shape.","project":"open-commons-observatory/ocoeco","term":"entry"}
 {"id":"entry_date","means":"The day a session wrote its log.","project":"open-commons-observatory/ocoeco","term":"entry_date"}
 {"decided":"2026-11-11-word-essence","id":"essence","means":"A project's whole chain on one page: why it exists, what it must reach, how each step is delivered and proven, what is happening now.","not":"A summary.","project":"open-commons-observatory/ocoeco","see":"idea, path, workings, work","term":"essence"}
+{"id":"evidence","means":"What shows that a working works: where it was seen to.","project":"open-commons-observatory/ocoeco","term":"evidence"}
 {"id":"extra_fields","means":"Whether a row may carry more than its table declares: a table declared as a minimum.","project":"open-commons-observatory/ocoeco","term":"extra_fields"}
 {"id":"field","means":"One named value a row carries.","project":"open-commons-observatory/ocoeco","term":"field"}
 {"id":"fills","means":"The table an entry adds a row to.","project":"open-commons-observatory/ocoeco","term":"fills"}
@@ -91,6 +93,7 @@
 {"id":"inset","means":"Whether a line sits beneath a heading.","project":"open-commons-observatory/ocoeco","term":"inset"}
 {"id":"job","means":"The job a row of the journal is about.","project":"open-commons-observatory/ocoeco","term":"job"}
 {"id":"journal","means":"What oco-agent wrote of each job, as it happened.","project":"open-commons-observatory/ocoeco","term":"journal"}
+{"id":"kept","means":"What was found, in what the places keep, of the shapes that are to be kept out - and whether each is showing.","project":"open-commons-observatory/ocoeco","term":"kept"}
 {"id":"kept_out","means":"What a place says is to be kept out of view, by the shape each is told by.","project":"open-commons-observatory/ocoeco","term":"kept_out"}
 {"id":"key","means":"Which field names a row within its table.","project":"open-commons-observatory/ocoeco","term":"key"}
 {"id":"kind","means":"Which of a few named sorts a row is. Each table says its own sorts, and a row is of one.","project":"open-commons-observatory/ocoeco","term":"kind"}
@@ -115,6 +118,7 @@
 {"id":"manual_events","means":"Each time something was done by hand, and what it took.","project":"open-commons-observatory/ocoeco","term":"manual_events"}
 {"id":"manual_work","means":"The kinds of work done by hand, each with how often it has been.","project":"open-commons-observatory/ocoeco","term":"manual_work"}
 {"decided":"2026-11-11-word-mark","id":"mark","means":"The small file (oco.toml) by which a repository says: I am part of the commons, and here are my tables.","not":"A badge someone else gives.","project":"open-commons-observatory/ocoeco","see":"project, harvest","term":"mark"}
+{"id":"may_run","means":"How long a job may run once it is started, in seconds.","project":"open-commons-observatory/ocoeco","term":"may_run"}
 {"id":"means","means":"What a word means here: one meaning, said plainly.","project":"open-commons-observatory/ocoeco","term":"means"}
 {"id":"measure","means":"The value of an answer that says how much, of a whole. A meaning, shown by each surface its own way.","project":"open-commons-observatory/ocoeco","term":"measure"}
 {"decided":"2026-11-11-word-milestone","id":"milestone","means":"A step on a path, reached only when its evidence exists.","not":"A date or a promise.","project":"open-commons-observatory/ocoeco","see":"path, workings","term":"milestone"}
@@ -161,6 +165,7 @@
 {"id":"query","means":"The question a part asks of its tables.","project":"open-commons-observatory/ocoeco","term":"query"}
 {"id":"question","means":"What a piece of research set out to find.","project":"open-commons-observatory/ocoeco","term":"question"}
 {"id":"read","means":"By which way in a surface is read - or that it is not yet.","project":"open-commons-observatory/ocoeco","term":"read"}
+{"id":"readiness","means":"How ready what a milestone is about is, as a number from 1 to 9: the higher, the nearer to being in use.","project":"open-commons-observatory/ocoeco","term":"readiness"}
 {"id":"reads","means":"The tables and shapes a lens reads that another lens defines.","project":"open-commons-observatory/ocoeco","term":"reads"}
 {"id":"record","means":"The work done by hand that this is one more time of.","project":"open-commons-observatory/ocoeco","term":"record"}
 {"id":"refines","means":"The decision this one builds on, or makes finer.","project":"open-commons-observatory/ocoeco","term":"refines"}
@@ -173,6 +178,7 @@
 {"decided":"2026-11-11-word-research","id":"research","means":"The look around before acting: the question asked, what was found in plain words, and the sources it rests on.","not":"A list of links.","project":"open-commons-observatory/ocoeco","see":"source, decision","term":"research"}
 {"decided":"open-commons-observatory/ecosystem/decisions:2026-11-12-the-fulldome","id":"room","means":"The word first used on 2026-11-12 for what is now called the fulldome; with it went wall, which needs no replacement: a part of the whole is a lens.","not":"see fulldome","project":"open-commons-observatory/ocoeco","term":"room"}
 {"id":"route","means":"A lens at the edge: how a table's rows are read from a surface - which kind of surface, which part of it, and the shape taken from it.","project":"open-commons-observatory/ocoeco","term":"route"}
+{"id":"run","means":"Which run of the agent took a job: the moment that run of the agent began.","project":"open-commons-observatory/ocoeco","term":"run"}
 {"id":"runs","means":"What ran on GitHub: each run of a workflow, and how it ended.","project":"open-commons-observatory/ocoeco","term":"runs"}
 {"id":"said","means":"What the voice told, and when.","project":"open-commons-observatory/ocoeco","term":"said"}
 {"decided":"2026-11-11-word-saturated","id":"saturated","means":"Done by hand often enough (three times) or heavily enough (30 effort-minutes) that it asks for a tool.","not":"Bad, or forbidden: a saturated action is simply the next candidate for automation.","project":"open-commons-observatory/ocoeco","see":"manual work, effort","term":"saturated"}
@@ -182,6 +188,7 @@
 {"id":"see","means":"Other words that are near a word, to be told apart from it.","project":"open-commons-observatory/ocoeco","term":"see"}
 {"id":"seen","means":"The day a sign was seen.","project":"open-commons-observatory/ocoeco","term":"seen"}
 {"id":"serves","means":"What an item is a step toward: a milestone, a decision, or another item.","project":"open-commons-observatory/ocoeco","term":"serves"}
+{"id":"session_log","means":"What each session did, by day: the log from before work was recorded as it was done.","project":"open-commons-observatory/ocoeco","term":"session_log"}
 {"id":"shape","means":"The form something is told by, said as a regular expression: what a route takes from a surface as a row, or what is to be kept out.","project":"open-commons-observatory/ocoeco","term":"shape"}
 {"id":"shown_in","means":"Where a guideline is seen at work: the decision, the lens or the thing that shows it.","project":"open-commons-observatory/ocoeco","term":"shown_in"}
 {"decided":"2026-11-13-the-lens-of-signs","id":"sign","means":"Something that does not fit the whole, said by whoever sees it or read off the work: stale, overlapping, lacking or unclear. It is shown while nothing has come of it, and is answered by seeing what was lacking - not countered.","not":"problem, issue (a thing to be solved); mistake, error, being wrong (a failing of someone); bug, defect (a thing in a thing, not a misfit with the whole)","project":"open-commons-observatory/ocoeco","see":"connection, lens","term":"sign"}
@@ -190,6 +197,8 @@
 {"decided":"2026-11-11-word-source","id":"source","means":"A work someone made that a project stands on - a book, a paper, a page - with what is taken from it.","not":"Research: a source is what was read, research is the reading and what came of it.","project":"open-commons-observatory/ocoeco","see":"research","term":"source"}
 {"id":"sources","means":"What a finding or a decision rests on: each one a source that can be gone to and read.","project":"open-commons-observatory/ocoeco","term":"sources"}
 {"decided":"open-commons-observatory/ecosystem/decisions:2026-11-12-places-lenses-acts","id":"star","means":"A place that produces: one idea or project keeping its own ocoeco data, gathering nothing. A git repository today.","not":"project (only what has a repository and code); repository (a tool's word, and only where it lives today)","project":"open-commons-observatory/ocoeco","term":"star"}
+{"id":"start_by","means":"The moment by which a job is started, or not at all.","project":"open-commons-observatory/ocoeco","term":"start_by"}
+{"id":"state","means":"How a thing stands, read off and not said: of what is to be kept out, whether it is showing or kept out.","project":"open-commons-observatory/ocoeco","term":"state"}
 {"id":"status","means":"Where an item stands, as someone said: open, next, in progress, waiting, done, parked. More and more it is read off what is done, and not said.","project":"open-commons-observatory/ocoeco","term":"status"}
 {"id":"step","means":"Standing on a neighbour of where one stands.","project":"open-commons-observatory/ocoeco","term":"step"}
 {"id":"steps","means":"Where the drivers of a machine stood, each step with who and when.","project":"open-commons-observatory/ocoeco","term":"steps"}
@@ -205,6 +214,7 @@
 {"id":"thing","means":"Anything one can stand on - a row, a place, a lens and what it is made of - known by where it is held, its table and its id.","project":"open-commons-observatory/ocoeco","term":"thing"}
 {"id":"things","means":"Everything in view that one can stand on.","project":"open-commons-observatory/ocoeco","term":"things"}
 {"id":"thread","means":"The line of thought a connection belongs to: one name for all that follow one another.","project":"open-commons-observatory/ocoeco","term":"thread"}
+{"id":"times","means":"How many times something is found in the thing it was found in.","project":"open-commons-observatory/ocoeco","term":"times"}
 {"id":"title","means":"The few words a row is known by where many are listed.","project":"open-commons-observatory/ocoeco","term":"title"}
 {"id":"titles","means":"How each document begins, where it begins by saying what it is.","project":"open-commons-observatory/ocoeco","term":"titles"}
 {"id":"to","means":"Where a pointing ends: the thing pointed at.","project":"open-commons-observatory/ocoeco","term":"to"}
@@ -221,6 +231,7 @@
 {"id":"unless","means":"What a shape to be kept out lets through all the same.","project":"open-commons-observatory/ocoeco","term":"unless"}
 {"id":"urgent","means":"To be said at once, wherever its driver is - not when next looked at.","project":"open-commons-observatory/ocoeco","term":"urgent"}
 {"id":"url","means":"Where on the web something is: an address one can open.","project":"open-commons-observatory/ocoeco","term":"url"}
+{"id":"uses","means":"What a working uses to work: the tools and the parts it rests on.","project":"open-commons-observatory/ocoeco","term":"uses"}
 {"id":"via","means":"What a pointing came through: the connection that says it, where one does.","project":"open-commons-observatory/ocoeco","term":"via"}
 {"id":"via_id","means":"The id of the connection a pointing came through.","project":"open-commons-observatory/ocoeco","term":"via_id"}
 {"id":"via_star","means":"The star of the connection a pointing came through.","project":"open-commons-observatory/ocoeco","term":"via_star"}
