@@ -55,9 +55,9 @@ jobs:
       - name: the site
         run: |
           oco site --data data --out _site
-          # the fulldome, beside the engine's views: every lens, in focus, over what was observed
-          # the fulldome's page is laid out by a lens: as-page, the surface said in the language
-          ocoeco fulldome --observed data --surface as-page > _site/fulldome.html
+          # beside the engine's views, the pages said in the language: which there are is this
+          # observatory's lens commons-site to say - the whole, and a page for each place - each laid out by as-page
+          ocoeco site commons-site --observed data --out _site
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
