@@ -1365,6 +1365,7 @@
 {"at":"2026-11-15T20:27:38Z","by":"grenudi","id":"5f8690b","project":"open-commons-observatory/ocoeco","record":"g-20261115-202536","says":"feat: a thing in full where one stands on it; a site places the pages a place offers (#312)"}
 {"at":"2026-11-15T21:49:04Z","by":"grenudi","id":"601c575","project":"open-commons-observatory/ocoeco","record":"g-20261115-214733","says":"feat: the window where there is no terminal: one stands, says a mark, a lens, back or up (#317)"}
 {"at":"2026-11-15T09:43:18Z","by":"grenudi","id":"619da8b","project":"open-commons-observatory/ocoeco","record":"g-20261115-094145","says":"feat: a look may be in passing: it stands nowhere and leaves no step (#269)"}
+{"at":"2026-11-15T23:46:06Z","by":"grenudi","id":"63f4b84","project":"open-commons-observatory/ocoeco","record":"g-20261115-234435","says":"feat: a placed lens may be seen through a lens behind it, kept in the lens that places them (#336)"}
 {"at":"2026-11-13T18:31:33Z","by":"grenudi","id":"644dd06","project":"open-commons-observatory/ocoeco","record":"g-20261113-183000","says":"fix: the rpm is packed from the root: -p is a folder to that tool (#113)"}
 {"at":"2026-11-14T18:54:37Z","by":"grenudi","id":"648bc29","project":"open-commons-observatory/ocoeco","record":"g-20261114-185255","says":"docs: what an observation could not read is overwritten: said as a sign (#207)"}
 {"at":"2026-11-15T09:39:06Z","by":"grenudi","id":"6659db5","project":"open-commons-observatory/ocoeco","record":"g-20261115-093735","says":"fix: the beam of a lens is the beam of the look: from a thing, from a place (#267)"}
@@ -1401,6 +1402,7 @@
 {"at":"2026-11-13T23:52:48Z","by":"grenudi","id":"7867a0c","project":"open-commons-observatory/ocoeco","record":"g-20261113-235139","says":"feat: shapes across lenses: a lens asks of a shape another names (#139)"}
 {"at":"2026-11-15T08:50:57Z","by":"grenudi","id":"79d7087","project":"open-commons-observatory/ocoeco","record":"g-20261115-084927","says":"perf: what a place has is kept to be found: a link holds without a search (#261)"}
 {"at":"2026-11-10T23:01:55Z","by":"grenudi","id":"79e5880","project":"open-commons-observatory/ocoeco","says":"docs: its idea in Russian (by machine, for a person to correct) (#20)"}
+{"at":"2026-11-15T23:46:38Z","by":"github-actions[bot]","id":"7a0aa60","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.58.0 (#337)"}
 {"at":"2026-11-12T13:08:57Z","by":"grenudi","id":"7a36db3","project":"open-commons-observatory/ocoeco","record":"g-20261112-130736","says":"docs: all stars' links hold: fifteen mended, seven of them the tool's own (#56)"}
 {"at":"2026-11-13T00:26:54Z","by":"grenudi","id":"7bbe8f4","project":"open-commons-observatory/ocoeco","record":"g-20261113-002533","says":"docs: a projection is cut from the whole; places come next, not looks (#86)"}
 {"at":"2026-11-15T21:01:26Z","by":"github-actions[bot]","id":"7c458e2","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.53.1 (#315)"}
@@ -1998,6 +2000,7 @@
 {"at":"2026-11-11T23:19:13Z","by":"oco harvest","id":"a1a989d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T19:07:20Z","by":"oco harvest","id":"a1f8764","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T23:48:42Z","by":"oco harvest","id":"a391259","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T23:41:28Z","by":"oco harvest","id":"a3ad15b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T22:36:20Z","by":"grenudi","id":"a41239d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the essence of eight more projects - what is written, what is to follow, and two kinds of gap to tell apart (#35)"}
 {"at":"2026-11-10T14:50:14Z","by":"grenudi","id":"a422ea2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"ci: the harvest - every 6 hours, every marked project's tables into data/ (#3)"}
 {"at":"2026-11-11T13:26:27Z","by":"oco harvest","id":"a46ef25","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
