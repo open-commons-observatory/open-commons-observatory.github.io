@@ -1434,6 +1434,7 @@
 {"at":"2026-11-12T14:15:42Z","by":"grenudi","id":"97eec8e","project":"open-commons-observatory/ocoeco","record":"g-20261112-141422","says":"feat: the work lens's focus, landed for real; the board's hand-written view removed (#66)"}
 {"at":"2026-11-15T10:29:19Z","by":"github-actions[bot]","id":"997563a","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.43.1 (#279)"}
 {"at":"2026-11-14T19:42:11Z","by":"github-actions[bot]","id":"9aa9b66","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.28.0 (#213)"}
+{"at":"2026-11-15T22:12:19Z","by":"github-actions[bot]","id":"9b9d384","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.55.1 (#322)"}
 {"at":"2026-11-15T12:43:34Z","by":"github-actions[bot]","id":"9c088fb","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.46.1 (#287)"}
 {"at":"2026-11-11T11:16:48Z","by":"grenudi","id":"9cd4658","project":"open-commons-observatory/ocoeco","says":"feat(check): name the tables a repository keeps but does not export (#27)"}
 {"at":"2026-11-14T23:32:06Z","by":"grenudi","id":"9e390bd","project":"open-commons-observatory/ocoeco","record":"g-20261114-233036","says":"docs: the names of the language say what they mean: thirty-nine words (#245)"}
@@ -1504,6 +1505,7 @@
 {"at":"2026-11-15T18:59:03Z","by":"grenudi","id":"ccd8511","project":"open-commons-observatory/ocoeco","record":"g-20261115-185741","says":"feat: the way up is a surface: the whole one step up, each lens by what it says and holds (#304)"}
 {"at":"2026-11-14T22:01:23Z","by":"github-actions[bot]","id":"ce2f6fd","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.32.2 (#232)"}
 {"at":"2026-11-15T08:53:59Z","by":"grenudi","id":"cf69f1c","project":"open-commons-observatory/ocoeco","record":"g-20261115-085219","says":"docs: making the graph takes time that is not understood: said as a sign (#263)"}
+{"at":"2026-11-15T22:11:48Z","by":"grenudi","id":"cfbb77c","project":"open-commons-observatory/ocoeco","record":"g-20261115-221028","says":"fix: an entry said in the window is made where it is kept; a mark names a thing to point at (#321)"}
 {"at":"2026-11-13T21:06:34Z","by":"grenudi","id":"d1b01f5","project":"open-commons-observatory/ocoeco","record":"g-20261113-210525","says":"fix: in progress is the last day, not the last three (#125)"}
 {"at":"2026-11-10T17:33:32Z","by":"grenudi","id":"d23bb12","project":"open-commons-observatory/ocoeco","says":"docs(spec): lenses - grand views as repositories of their own, rendered by one engine (#6)"}
 {"at":"2026-11-14T01:15:58Z","by":"grenudi","id":"d4d6bf7","project":"open-commons-observatory/ocoeco","record":"g-20261114-011438","says":"feat: every command speaks from a blank: read off its declaration (#157)"}
@@ -2037,6 +2039,7 @@
 {"at":"2026-11-13T18:04:30Z","by":"oco harvest","id":"bfbee9e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T08:34:42Z","by":"grenudi","id":"bff0f6f","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-083425","says":"ci: the first observatory asks the lens for the fulldome's page (#84)"}
 {"at":"2026-11-14T15:01:56Z","by":"oco harvest","id":"c0bbd7c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T22:06:33Z","by":"oco harvest","id":"c120f08","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T00:48:58Z","by":"grenudi","id":"c127c56","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: back to the purpose - more of the phone measured (#40)"}
 {"at":"2026-11-10T22:34:44Z","by":"oco harvest","id":"c17fd27","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T19:17:06Z","by":"oco harvest","id":"c1d0129","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
