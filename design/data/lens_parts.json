@@ -1,4 +1,4 @@
-{"id":"face/1","lens":"face","part":1,"places":"purpose"}
+{"id":"face/1","lens":"face","part":1,"places":"","lays_out":"{says}","measure":"done","per":"star","query":"SELECT star, says, done, items FROM (\n  SELECT star, 0 AS rung, seq, CASE WHEN length(\"text\") > 240 THEN left(\"text\", 240) || '...' ELSE \"text\" END AS says,\n         NULL AS done, NULL AS items\n  FROM idea WHERE kind = 'lead'\n  UNION ALL\n  SELECT star, rung, seq, title || ' (rung ' || rung || ')', done, items FROM rests WHERE items > 0\n) ORDER BY star, rung, seq","title":"{star}","whole":"items"}
 {"id":"face/2","lens":"face","part":2,"places":"signs"}
 {"id":"face/3","lens":"face","part":3,"places":"*"}
 {"id":"practices/1","lens":"practices","part":1,"title":"how work is done here ({count})","query":"SELECT id, left(coalesce(practice, name || ': ' || description), 170) AS said FROM practices ORDER BY star, id","lays_out":"{id} - {said}"}
