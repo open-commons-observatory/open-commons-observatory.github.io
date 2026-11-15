@@ -25,7 +25,10 @@ jobs:
       - name: harvest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: ocoeco observe --out data
+        # observed by holding, as the author's observatory observes: each place is brought to hand, as it is
+        # on GitHub now, and read as any place held is read - with what the routes read, so that a link to
+        # a document, a commit or a file of source holds here too
+        run: ocoeco observe --hold "$RUNNER_TEMP/held" --out data
       - name: commit what changed
         run: |
           git add data
