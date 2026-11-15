@@ -177,6 +177,7 @@
 {"at":"2026-11-11T10:50:30Z","by":"grenudi","id":"48bc400","project":"creation-guidelines/lab-agent","says":"docs: delivered by the package conveyor (#116)"}
 {"at":"2026-11-14T00:27:59Z","by":"grenudi","id":"496a051","project":"creation-guidelines/lab-agent","record":"g-20261114-002700","says":"docs: oco-agent is not released by intent: what it waits on is the switch (#186)"}
 {"at":"2026-11-10T17:29:13Z","by":"grenudi","id":"4a188ef","project":"creation-guidelines/lab-agent","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#103)"}
+{"at":"2026-11-15T22:00:21Z","by":"grenudi","id":"4df1467","project":"creation-guidelines/lab-agent","record":"g-20261115-215931","says":"feat: the window, carried: a driver's words to the lab, and what is entered landed (#202)"}
 {"at":"2026-11-09T13:39:56Z","by":"grenudi","id":"4e40ccb","project":"creation-guidelines/lab-agent","says":"fix: keep the rpm assets in their own table - the requires sub-table had split them off (#22)"}
 {"at":"2026-11-10T00:31:45Z","by":"grenudi","id":"4ebec97","project":"creation-guidelines/lab-agent","says":"feat: questions answerable on the board, and the agent's waits as a countdown (#63)"}
 {"at":"2026-11-15T20:22:41Z","by":"grenudi","id":"5231964","project":"creation-guidelines/lab-agent","record":"g-20261115-202141","says":"feat: two words of a job: a release said once it can be taken; a place kept on its main (#201)"}
@@ -1094,6 +1095,7 @@
 {"at":"2026-11-13T12:21:15Z","by":"oco observe","id":"f1d4012","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T00:48:24Z","by":"oco observe","id":"f33b1a8","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T08:55:36Z","by":"oco observe","id":"f488088","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T22:01:29Z","by":"oco observe","id":"f4aed04","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T21:48:16Z","by":"oco observe","id":"f526365","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:06:11Z","by":"oco observe","id":"f5b5aed","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T20:48:53Z","by":"oco observe","id":"f6850e5","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -2171,6 +2173,7 @@
 {"at":"2026-11-13T19:03:32Z","by":"oco harvest","id":"fb1e911","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:07:08Z","by":"oco harvest","id":"fbbda5a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T19:48:43Z","by":"grenudi","id":"fbe1b24","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: a practice - never run two jobs in the same clone at once (#25)"}
+{"at":"2026-11-15T21:51:44Z","by":"oco harvest","id":"fc303b8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T16:40:33Z","by":"oco harvest","id":"fc49e58","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T08:44:45Z","by":"oco harvest","id":"fcc7d89","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T00:17:01Z","by":"oco harvest","id":"fcfeadb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
