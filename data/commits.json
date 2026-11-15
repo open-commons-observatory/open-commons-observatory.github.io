@@ -1332,6 +1332,7 @@
 {"at":"2026-11-14T07:23:03Z","by":"github-actions[bot]","id":"3f67792","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.15.0 (#159)"}
 {"at":"2026-11-10T16:50:47Z","by":"lab-agent-session","id":"412955f","project":"open-commons-observatory/ocoeco","says":"chore(mark): its place among the observatory's family (2)"}
 {"at":"2026-11-15T07:04:04Z","by":"github-actions[bot]","id":"415b462","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.41.0 (#259)"}
+{"at":"2026-11-15T23:54:34Z","by":"grenudi","id":"419c611","project":"open-commons-observatory/ocoeco","record":"g-20261115-235304","says":"docs: a sign: what is entered in the window lands one row at a time (#338)"}
 {"at":"2026-11-12T21:54:26Z","by":"grenudi","id":"438cda8","project":"open-commons-observatory/ocoeco","record":"g-20261112-215255","says":"feat: every lens focuses: what matters now, on every surface (#80)"}
 {"at":"2026-11-13T00:55:29Z","by":"grenudi","id":"441089a","project":"open-commons-observatory/ocoeco","record":"g-20261113-005409","says":"feat: a place observes what it gathers; made so from its first day (#88)"}
 {"at":"2026-11-15T04:52:49Z","by":"github-actions[bot]","id":"444e4cb","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.39.0 (#254)"}
@@ -2068,6 +2069,7 @@
 {"at":"2026-11-11T12:36:49Z","by":"oco harvest","id":"bc4e0ab","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T15:57:45Z","by":"oco harvest","id":"bc6c75b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T16:59:47Z","by":"oco harvest","id":"bca72da","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T23:52:54Z","by":"oco harvest","id":"bd84d78","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T21:33:30Z","by":"oco harvest","id":"be9aad0","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T12:42:59Z","by":"oco harvest","id":"becfdb6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T16:11:51Z","by":"grenudi","id":"bf0e0d5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"feat(data): the observatory's own path; its backlog brought up to date (#9)"}
