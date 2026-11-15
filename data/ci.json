@@ -10,13 +10,6 @@
 {"at":"2026-11-06T01:33:49Z","conclusion":"success","id":"github_actions in /. - Update #1684341418","link":"https://github.com/argenv-opencommons/argenv/actions/runs/42144664334","project":"argenv-opencommons/argenv"}
 {"at":"2026-11-13T01:33:42Z","conclusion":"success","id":"github_actions in /. - Update #1699951315","link":"https://github.com/argenv-opencommons/argenv/actions/runs/43345833469","project":"argenv-opencommons/argenv"}
 {"at":"2026-11-14T10:54:05Z","conclusion":"in_progress","id":"gather","link":"https://github.com/creation-guidelines/essence-oco/actions/runs/43587441889","project":"creation-guidelines/essence-oco"}
-{"at":"2026-11-12T01:12:13Z","conclusion":"success","id":"ci","link":"https://github.com/creation-guidelines/ideal-project-playbook/actions/runs/43132846397","project":"creation-guidelines/ideal-project-playbook"}
-{"at":"2026-11-14T10:52:56Z","conclusion":"in_progress","id":"gather","link":"https://github.com/creation-guidelines/ideal-project-playbook/actions/runs/43587356694","project":"creation-guidelines/ideal-project-playbook"}
-{"at":"2026-11-11T17:24:29Z","conclusion":"success","id":"github_actions in / for actions/configure-pages - Update #1696405752","link":"https://github.com/creation-guidelines/ideal-project-playbook/actions/runs/43067866375","project":"creation-guidelines/ideal-project-playbook"}
-{"at":"2026-11-10T19:05:30Z","conclusion":"success","id":"github_actions in /. - Update #1693559901","link":"https://github.com/creation-guidelines/ideal-project-playbook/actions/runs/42881761726","project":"creation-guidelines/ideal-project-playbook"}
-{"at":"2026-11-10T19:05:30Z","conclusion":"success","id":"npm_and_yarn in /. - Update #1693559914","link":"https://github.com/creation-guidelines/ideal-project-playbook/actions/runs/42881761777","project":"creation-guidelines/ideal-project-playbook"}
-{"at":"2026-11-12T01:12:13Z","conclusion":"success","id":"pages","link":"https://github.com/creation-guidelines/ideal-project-playbook/actions/runs/43132846394","project":"creation-guidelines/ideal-project-playbook"}
-{"at":"2026-11-12T01:12:13Z","conclusion":"success","id":"release","link":"https://github.com/creation-guidelines/ideal-project-playbook/actions/runs/43132846386","project":"creation-guidelines/ideal-project-playbook"}
 {"at":"2026-11-14T09:08:25Z","conclusion":"success","id":"CI","link":"https://github.com/creation-guidelines/lab-agent/actions/runs/43579114901","project":"creation-guidelines/lab-agent"}
 {"at":"2026-11-14T09:08:56Z","conclusion":"success","id":"Package repository","link":"https://github.com/creation-guidelines/lab-agent/actions/runs/43579156275","project":"creation-guidelines/lab-agent"}
 {"at":"2026-11-14T09:08:25Z","conclusion":"success","id":"Release","link":"https://github.com/creation-guidelines/lab-agent/actions/runs/43579115517","project":"creation-guidelines/lab-agent"}
@@ -37,13 +30,6 @@
 {"at":"2026-11-14T10:56:17Z","conclusion":"in_progress","id":"gather","link":"https://github.com/creation-guidelines/tad-engine/actions/runs/43587610363","project":"creation-guidelines/tad-engine"}
 {"at":"2026-11-12T19:16:14Z","conclusion":"success","id":"release","link":"https://github.com/creation-guidelines/tad-engine/actions/runs/43288417295","project":"creation-guidelines/tad-engine"}
 {"at":"2026-11-12T19:16:14Z","conclusion":"success","id":"rust","link":"https://github.com/creation-guidelines/tad-engine/actions/runs/43288416317","project":"creation-guidelines/tad-engine"}
-{"at":"2026-11-13T07:24:46Z","conclusion":"success","id":"ci","link":"https://github.com/git-rhizoid/git-rhizoid.github.io/actions/runs/43385572674","project":"git-rhizoid/git-rhizoid.github.io"}
-{"at":"2026-11-14T10:53:21Z","conclusion":"in_progress","id":"gather","link":"https://github.com/git-rhizoid/git-rhizoid.github.io/actions/runs/43587388851","project":"git-rhizoid/git-rhizoid.github.io"}
-{"at":"2026-11-11T17:51:41Z","conclusion":"success","id":"github_actions in /. - Update #1696450226","link":"https://github.com/git-rhizoid/git-rhizoid.github.io/actions/runs/43072201959","project":"git-rhizoid/git-rhizoid.github.io"}
-{"at":"2026-11-11T17:51:40Z","conclusion":"success","id":"npm_and_yarn in /. - Update #1696450216","link":"https://github.com/git-rhizoid/git-rhizoid.github.io/actions/runs/43072201414","project":"git-rhizoid/git-rhizoid.github.io"}
-{"at":"2026-11-13T07:24:46Z","conclusion":"success","id":"pages build and deployment","link":"https://github.com/git-rhizoid/git-rhizoid.github.io/actions/runs/43385572085","project":"git-rhizoid/git-rhizoid.github.io"}
-{"at":"2026-11-11T17:32:02Z","conclusion":"failure","id":"pip in /.tad for duckdb - Update #1696414939","link":"https://github.com/git-rhizoid/git-rhizoid.github.io/actions/runs/43069080904","project":"git-rhizoid/git-rhizoid.github.io"}
-{"at":"2026-11-13T07:24:46Z","conclusion":"success","id":"release","link":"https://github.com/git-rhizoid/git-rhizoid.github.io/actions/runs/43385572819","project":"git-rhizoid/git-rhizoid.github.io"}
 {"at":"2026-11-14T00:46:26Z","conclusion":"success","id":"ci","link":"https://github.com/linux-phone-oco/docs/actions/runs/43536409431","project":"linux-phone-oco/docs"}
 {"at":"2026-11-11T17:34:10Z","conclusion":"success","id":"feeds","link":"https://github.com/linux-phone-oco/docs/actions/runs/43069424544","project":"linux-phone-oco/docs"}
 {"at":"2026-11-14T10:54:18Z","conclusion":"in_progress","id":"gather","link":"https://github.com/linux-phone-oco/docs/actions/runs/43587459235","project":"linux-phone-oco/docs"}
@@ -57,14 +43,10 @@
 {"at":"2026-11-14T10:53:10Z","conclusion":"in_progress","id":"gather","link":"https://github.com/linux-phone-oco/surya-lab/actions/runs/43587374323","project":"linux-phone-oco/surya-lab"}
 {"at":"2026-11-11T21:38:56Z","conclusion":"success","id":"check","link":"https://github.com/linux-phone-oco/sxmo-deviceprofiles/actions/runs/43104895337","project":"linux-phone-oco/sxmo-deviceprofiles"}
 {"at":"2026-11-14T10:56:50Z","conclusion":"in_progress","id":"gather","link":"https://github.com/linux-phone-oco/sxmo-deviceprofiles/actions/runs/43587651705","project":"linux-phone-oco/sxmo-deviceprofiles"}
-{"at":"2026-11-14T10:53:39Z","conclusion":"in_progress","id":"gather","link":"https://github.com/marshall-oco/marshall-oco.github.io/actions/runs/43587410135","project":"marshall-oco/marshall-oco.github.io"}
-{"at":"2026-11-14T10:47:32Z","conclusion":"success","id":"observe","link":"https://github.com/marshall-oco/marshall-oco.github.io/actions/runs/43586937311","project":"marshall-oco/marshall-oco.github.io"}
 {"at":"2026-11-14T10:54:29Z","conclusion":"in_progress","id":"gather","link":"https://github.com/open-commons-observatory/ecosystem/actions/runs/43587473669","project":"open-commons-observatory/ecosystem"}
 {"at":"2026-11-14T09:43:42Z","conclusion":"success","id":"ci","link":"https://github.com/open-commons-observatory/ocoeco/actions/runs/43581914181","project":"open-commons-observatory/ocoeco"}
 {"at":"2026-11-14T10:53:19Z","conclusion":"in_progress","id":"gather","link":"https://github.com/open-commons-observatory/ocoeco/actions/runs/43587385734","project":"open-commons-observatory/ocoeco"}
 {"at":"2026-11-14T09:43:42Z","conclusion":"success","id":"release","link":"https://github.com/open-commons-observatory/ocoeco/actions/runs/43581914397","project":"open-commons-observatory/ocoeco"}
 {"at":"2026-11-11T21:40:36Z","conclusion":"success","id":"ci","link":"https://github.com/open-commons-observatory/ocoeco-engine/actions/runs/43105136393","project":"open-commons-observatory/ocoeco-engine"}
 {"at":"2026-11-14T10:53:21Z","conclusion":"in_progress","id":"gather","link":"https://github.com/open-commons-observatory/ocoeco-engine/actions/runs/43587388236","project":"open-commons-observatory/ocoeco-engine"}
-{"at":"2026-11-14T10:55:24Z","conclusion":"in_progress","id":"gather","link":"https://github.com/open-commons-observatory/open-commons-observatory.github.io/actions/runs/43587543182","project":"open-commons-observatory/open-commons-observatory.github.io"}
-{"at":"2026-11-14T09:43:31Z","conclusion":"success","id":"harvest","link":"https://github.com/open-commons-observatory/open-commons-observatory.github.io/actions/runs/43581900262","project":"open-commons-observatory/open-commons-observatory.github.io"}
 {"at":"2026-11-14T10:55:36Z","conclusion":"in_progress","id":"gather","link":"https://github.com/rhizome-oco/rhizome/actions/runs/43587559879","project":"rhizome-oco/rhizome"}

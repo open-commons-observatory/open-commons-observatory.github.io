@@ -2,4 +2,3 @@
 {"extra_fields":true,"id":"documents/titles","key":"id","lens":"documents","name":"titles","project":"open-commons-observatory/ecosystem"}
 {"extra_fields":true,"id":"people/people","key":"id","lens":"people","name":"people","project":"open-commons-observatory/ecosystem"}
 {"extra_fields":true,"id":"surfaces/surfaces","key":"id","lens":"surfaces","name":"surfaces","project":"open-commons-observatory/ecosystem"}
-{"extra_fields":true,"id":"practices/practices","key":"id","lens":"practices","name":"practices","project":"open-commons-observatory/open-commons-observatory.github.io"}
