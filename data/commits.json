@@ -762,6 +762,7 @@
 {"at":"2026-11-15T02:48:17Z","by":"oco observe","id":"3afa926","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T01:02:14Z","by":"oco observe","id":"3bc26fe","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T01:25:21Z","by":"oco observe","id":"3bc7ee8","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T16:31:43Z","by":"oco observe","id":"3c3e37f","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T10:05:18+01:00","by":"grenudi","id":"3d53e0f","project":"marshall-oco/marshall-oco.github.io","record":"g-20261114-090502","says":"feat: the lab asks; the observatory observes what has run (#6)"}
 {"at":"2026-11-15T01:48:21Z","by":"oco observe","id":"3dba43e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T17:18:10Z","by":"oco observe","id":"3def3cf","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1122,6 +1123,7 @@
 {"at":"2026-11-14T01:11:23+01:00","by":"grenudi","id":"8a6b8af","project":"open-commons-observatory/ecosystem","record":"g-20261114-001107","says":"docs: a ring is a group (#37)"}
 {"at":"2026-11-14T09:30:23+01:00","by":"grenudi","id":"8c3a21c","project":"open-commons-observatory/ecosystem","record":"g-20261114-083007","says":"docs: one folder, one nature (#47)"}
 {"at":"2026-11-14T23:43:04+01:00","by":"grenudi","id":"9087e67","project":"open-commons-observatory/ecosystem","record":"g-20261114-224247","says":"docs: the perfect form, said in OCO's place, and how the whole stands to it (#85)"}
+{"at":"2026-11-15T17:30:49+01:00","by":"grenudi","id":"93dc5b0","project":"open-commons-observatory/ecosystem","record":"g-20261115-163032","says":"docs: what came of two looks giving two answers: a part is to be known by its own id (#109)"}
 {"at":"2026-11-14T19:06:05+01:00","by":"grenudi","id":"9e650de","project":"open-commons-observatory/ecosystem","record":"g-20261114-180550","says":"docs: all means all: the author's words; the conversation, read (#64)"}
 {"at":"2026-11-15T00:23:02+01:00","by":"grenudi","id":"a108cdc","project":"open-commons-observatory/ecosystem","record":"g-20261114-232247","says":"docs: the sheet shows, for each angle of the form, the work made standing on it (#88)"}
 {"at":"2026-11-13T02:29:56+01:00","by":"grenudi","id":"a57de49","project":"open-commons-observatory/ecosystem","record":"g-20261113-012941","says":"docs: the decisions about the whole are in OCO's place; links follow (#2)"}
@@ -1332,6 +1334,7 @@
 {"at":"2026-11-15T05:52:02+01:00","by":"grenudi","id":"88549c7","project":"open-commons-observatory/ocoeco","record":"g-20261115-045031","says":"fix: a name of several things leads nowhere; a page for each, by its whole name (#255)"}
 {"at":"2026-11-14T01:56:58+01:00","by":"grenudi","id":"89ecd56","project":"open-commons-observatory/ocoeco","record":"g-20261114-005527","says":"feat: held back, read off what halts it; a halt can be said to have ended (#150)"}
 {"at":"2026-11-11T23:48:14+01:00","by":"grenudi","id":"89f621d","project":"open-commons-observatory/ocoeco","record":"g-20261111-224645","says":"docs: decided: every Rust tool declares its surface with argenv (#45)"}
+{"at":"2026-11-15T17:30:14+01:00","by":"grenudi","id":"8b7357a","project":"open-commons-observatory/ocoeco","record":"g-20261115-162854","says":"docs: what the two looks showed: a part of a lens has two names; and a second sign (#297)"}
 {"at":"2026-11-14T20:08:23+01:00","by":"github-actions[bot]","id":"8bdb730","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.26.2 (#209)"}
 {"at":"2026-11-13T07:25:46+01:00","by":"grenudi","id":"8d3325c","project":"open-commons-observatory/ocoeco","record":"g-20261113-062416","says":"feat: a chain is a shape: walked from where it begins, on every surface (#94)"}
 {"at":"2026-11-15T10:56:33+01:00","by":"grenudi","id":"8e45bf5","project":"open-commons-observatory/ocoeco","record":"g-20261115-095503","says":"docs: what the fields of rows mean: fifty-seven words (#271)"}
@@ -1820,6 +1823,7 @@
 {"at":"2026-11-10T22:19:22+01:00","by":"grenudi","id":"8a5a094","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: how we work under one roof - the concept, the decision with what was rejected, five steps (#29)"}
 {"at":"2026-11-14T00:11:00Z","by":"oco harvest","id":"8a79ee3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T19:42:40Z","by":"oco harvest","id":"8a8e17a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T16:25:50Z","by":"oco harvest","id":"8afa103","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T13:45:06Z","by":"oco harvest","id":"8b1cc56","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T01:08:32Z","by":"oco harvest","id":"8cbe4d1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T22:47:38Z","by":"oco harvest","id":"8d314cb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
