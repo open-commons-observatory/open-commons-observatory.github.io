@@ -768,6 +768,7 @@
 {"at":"2026-11-13T01:25:21Z","by":"oco observe","id":"3bc7ee8","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T16:31:43Z","by":"oco observe","id":"3c3e37f","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T10:05:18+01:00","by":"grenudi","id":"3d53e0f","project":"marshall-oco/marshall-oco.github.io","record":"g-20261114-090502","says":"feat: the lab asks; the observatory observes what has run (#6)"}
+{"at":"2026-11-15T18:39:22Z","by":"oco observe","id":"3d775c2","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T01:48:21Z","by":"oco observe","id":"3dba43e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T17:18:10Z","by":"oco observe","id":"3def3cf","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T09:36:05Z","by":"oco observe","id":"3e4ca67","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -2028,6 +2029,7 @@
 {"at":"2026-11-11T15:51:02+01:00","by":"grenudi","id":"e520a77","project":"open-commons-observatory/open-commons-observatory.github.io","says":"ci: the harvest rebases onto what landed meanwhile, and retries its push (#61)"}
 {"at":"2026-11-14T18:50:28Z","by":"oco harvest","id":"e525d9b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T19:11:33Z","by":"oco harvest","id":"e53b04d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T18:38:32Z","by":"oco harvest","id":"e57565b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T15:57:00Z","by":"oco harvest","id":"e64e0c4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T16:37:09Z","by":"oco harvest","id":"e6dfe0e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T00:37:18Z","by":"oco harvest","id":"e7015c5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
