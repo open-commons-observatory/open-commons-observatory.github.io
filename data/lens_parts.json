@@ -37,8 +37,8 @@
 {"id":"the-perfect-form/7","lens":"the-perfect-form","only":"the program a place holds, and the guards written for it","part":7,"places":"program","project":"open-commons-observatory/ecosystem"}
 {"id":"the-perfect-form/8","lens":"the-perfect-form","only":"a table read from a surface, not kept by a place","part":8,"places":"language","project":"open-commons-observatory/ecosystem"}
 {"id":"the-perfect-form/9","lens":"the-perfect-form","only":"the names of the language, and which have a meaning said","part":9,"places":"language","project":"open-commons-observatory/ecosystem"}
-{"id":"face/1","lens":"face","part":1,"places":"insight","project":"open-commons-observatory/open-commons-observatory.github.io"}
-{"id":"face/2","lens":"face","part":2,"places":"purpose","project":"open-commons-observatory/open-commons-observatory.github.io"}
+{"id":"face/1","lens":"face","part":1,"places":"purpose","project":"open-commons-observatory/open-commons-observatory.github.io"}
+{"id":"face/2","lens":"face","part":2,"places":"signs","project":"open-commons-observatory/open-commons-observatory.github.io"}
 {"id":"face/3","lens":"face","part":3,"places":"*","project":"open-commons-observatory/open-commons-observatory.github.io"}
 {"id":"practices/1","lays_out":"{id} - {said}","lens":"practices","part":1,"project":"open-commons-observatory/open-commons-observatory.github.io","query":"SELECT id, left(coalesce(practice, name || ': ' || description), 170) AS said FROM practices ORDER BY star, id","title":"how work is done here ({count})"}
 {"id":"practices/2","lays_out":"{practice} is about {thing} - {says}","lens":"practices","part":2,"project":"open-commons-observatory/open-commons-observatory.github.io","query":"SELECT e.from_id AS practice, e.to_star || '/' || e.to_table || ':' || e.to_id AS thing, coalesce(t.says, '') AS says\nFROM edges e LEFT JOIN things t ON t.id = e.\"to\" WHERE e.how = 'shown_in' AND e.from_table = 'practices' ORDER BY e.from_id, thing","title":"shown in what was decided or said ({count})"}
