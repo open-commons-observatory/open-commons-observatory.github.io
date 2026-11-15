@@ -119,6 +119,7 @@
 {"at":"2026-11-11T18:22:27Z","by":"grenudi","id":"e99ae80","project":"creation-guidelines/ideal-project-playbook","says":"build: tad 0.2.0 (#22)"}
 {"at":"2026-11-11T22:46:38Z","by":"grenudi","id":"0106023","project":"creation-guidelines/lab-agent","record":"g-20261111-224549","says":"docs: lab-agent flows through ocoeco: the hands and the voice (#129)"}
 {"at":"2026-11-09T19:48:01Z","by":"grenudi","id":"036d4b6","project":"creation-guidelines/lab-agent","says":"feat: every pane of the control board scrolls on its own (#48)"}
+{"at":"2026-11-15T22:22:29Z","by":"grenudi","id":"0435a0f","project":"creation-guidelines/lab-agent","record":"g-20261115-222129","says":"docs: a sign: the voice follows lenses named in a script (#203)"}
 {"at":"2026-11-10T22:37:12Z","by":"grenudi","id":"08fa9c1","project":"creation-guidelines/lab-agent","says":"docs: what keeps it out of the way, told (#110)"}
 {"at":"2026-11-12T10:06:29Z","by":"grenudi","id":"0a2c289","project":"creation-guidelines/lab-agent","record":"g-20261112-100541","says":"fix: oco-agent restarts between jobs when asked, never in the middle of one (#163)"}
 {"at":"2026-11-05T19:11:38Z","by":"grenudi","id":"0a40d54","project":"creation-guidelines/lab-agent","says":"fix: StartLimitIntervalSec section, and the author-date fix finished (#6)"}
@@ -1894,6 +1895,7 @@
 {"at":"2026-11-12T19:19:51Z","by":"oco harvest","id":"7bff13e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T22:39:08Z","by":"oco harvest","id":"7c0892d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T18:22:08Z","by":"oco harvest","id":"7cac983","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T22:21:10Z","by":"oco harvest","id":"7cea07a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T22:50:02Z","by":"grenudi","id":"7d474a9","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261111-224947","says":"docs: look inside the commons before outside it (#68)"}
 {"at":"2026-11-14T13:58:03Z","by":"oco harvest","id":"7da87ab","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T23:39:16Z","by":"oco harvest","id":"7dfd7c3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
