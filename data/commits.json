@@ -1056,6 +1056,7 @@
 {"at":"2026-11-14T09:48:18Z","by":"oco observe","id":"de50b03","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T16:55:31Z","by":"oco observe","id":"dfa3c3d","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T07:03:35Z","by":"oco observe","id":"dfbe82c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T23:15:13Z","by":"oco observe","id":"dfe5f13","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T07:05:10Z","by":"oco observe","id":"dfede6d","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:49:26Z","by":"oco observe","id":"dff0fca","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T22:33:41Z","by":"oco observe","id":"e10278d","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1306,6 +1307,7 @@
 {"at":"2026-11-14T16:09:55Z","by":"grenudi","id":"346ae60","project":"open-commons-observatory/ocoeco","record":"g-20261114-160836","says":"fix: one thing by two routes is one thing, as it last was (#193)"}
 {"at":"2026-11-10T17:05:04Z","by":"grenudi","id":"34dfa3a","project":"open-commons-observatory/ocoeco","says":"data: the core moved - done (#2)"}
 {"at":"2026-11-15T16:02:45Z","by":"grenudi","id":"357842d","project":"open-commons-observatory/ocoeco","record":"g-20261115-160115","says":"feat: the page a visitor meets: lenses as cards that fold, like parts side by side (#294)"}
+{"at":"2026-11-15T23:13:27Z","by":"grenudi","id":"36ba164","project":"open-commons-observatory/ocoeco","record":"g-20261115-231124","says":"docs: a source: bootstrapping compilers (#327)"}
 {"at":"2026-11-15T05:17:01Z","by":"github-actions[bot]","id":"3806c4a","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.40.0 (#257)"}
 {"at":"2026-11-14T14:27:47Z","by":"github-actions[bot]","id":"39e1f1b","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.19.0 (#181)"}
 {"at":"2026-11-15T22:02:52Z","by":"grenudi","id":"3a4b86b","project":"open-commons-observatory/ocoeco","record":"g-20261115-220122","says":"feat: an entry is made from where one stands: its name, and what it asks beneath it (#319)"}
@@ -2065,6 +2067,7 @@
 {"at":"2026-11-13T21:39:13Z","by":"oco harvest","id":"c5909ea","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T11:54:38Z","by":"grenudi","id":"c5a4171","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the observatory's hand-work ledger, from this session's jobs (#51)"}
 {"at":"2026-11-11T17:44:49Z","by":"oco harvest","id":"c60df3f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T23:10:39Z","by":"oco harvest","id":"c62639e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T13:03:30Z","by":"grenudi","id":"c678408","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: practice 23 - words are decisions (#57)"}
 {"at":"2026-11-13T17:32:00Z","by":"oco harvest","id":"c6f4821","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T20:26:40Z","by":"oco harvest","id":"c703f4e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
