@@ -352,6 +352,7 @@
 {"at":"2026-10-27T23:21:54+01:00","by":"grenudi","id":"f3aa203","project":"creation-guidelines/software-engineering-canon","says":"Merge pull request #9 from creation-guidelines/release-please--branches--main"}
 {"at":"2026-10-28T06:59:06+01:00","by":"grenudi","id":"f3ec39d","project":"creation-guidelines/software-engineering-canon","says":"Merge pull request #11 from creation-guidelines/release-please--branches--main"}
 {"at":"2026-09-22T10:25:59+02:00","by":"grenudi","id":"f41b83f","project":"creation-guidelines/software-engineering-canon","says":"Merge pull request #1 from creation-guidelines/release-please--branches--main"}
+{"at":"2026-11-15T20:07:47+01:00","by":"grenudi","id":"f82f195","project":"creation-guidelines/software-engineering-canon","record":"g-20261115-190719","says":"docs: where three practices of the canon are shown: the way up is a surface (#31)"}
 {"at":"2026-10-27T23:14:13+01:00","by":"grenudi","id":"fd194f0","project":"creation-guidelines/software-engineering-canon","says":"fix(data): lead stratified design with its two faces and record the reframe"}
 {"at":"2026-11-11T17:43:37+01:00","by":"grenudi","id":"0211fb2","project":"creation-guidelines/tad-engine","says":"feat(tad): rules across tables - unique ids, references, appears-in, no mirrored relations (#35)"}
 {"at":"2026-11-12T00:57:46+01:00","by":"grenudi","id":"0273604","project":"creation-guidelines/tad-engine","record":"g-20261111-235659","says":"docs: tad's knowledge connected: 2026-09 decisions, workings, delivery, words (#65)"}
@@ -991,6 +992,7 @@
 {"at":"2026-11-14T22:39:11Z","by":"oco observe","id":"c697d8b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T20:52:26Z","by":"oco observe","id":"c6e44de","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T01:28:51Z","by":"oco observe","id":"c8809ab","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T19:08:31Z","by":"oco observe","id":"c97e01d","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T00:30:18+01:00","by":"grenudi","id":"c9e1bf5","project":"marshall-oco/marshall-oco.github.io","record":"g-20261114-233003","says":"docs: a guard is part of the file it is in: a relation, added to the lens of the program (#12)"}
 {"at":"2026-11-15T19:05:40Z","by":"oco observe","id":"ca10a64","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T07:58:45Z","by":"oco observe","id":"cab4cc6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1838,6 +1840,7 @@
 {"at":"2026-11-10T19:10:26Z","by":"oco harvest","id":"7e17139","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T07:06:18Z","by":"oco harvest","id":"7e3d44c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T17:41:46Z","by":"oco harvest","id":"7e5b8b4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T20:07:05+01:00","by":"grenudi","id":"7e8623b","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-190648","says":"docs: the ways as they are now: a look one step up, never cut by hand; handwork counted (#97)"}
 {"at":"2026-11-13T08:49:10Z","by":"oco harvest","id":"7eeab26","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T22:59:44Z","by":"oco harvest","id":"7f7aa61","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T16:37:46Z","by":"oco harvest","id":"7fb8e2f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -2045,6 +2048,7 @@
 {"at":"2026-11-11T00:37:18Z","by":"oco harvest","id":"e7015c5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T18:26:06Z","by":"oco harvest","id":"e783258","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:59:14Z","by":"oco harvest","id":"e794aec","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T19:06:55Z","by":"oco harvest","id":"e798f65","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T19:14:02Z","by":"oco harvest","id":"e80c876","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T08:37:57Z","by":"oco harvest","id":"e835659","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T22:20:47Z","by":"oco harvest","id":"e84ae3a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
