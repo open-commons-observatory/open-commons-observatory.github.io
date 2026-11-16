@@ -776,6 +776,7 @@
 {"at":"2026-11-14T13:33:09Z","by":"oco observe","id":"1f97027","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T23:59:25Z","by":"oco observe","id":"220a4ee","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T18:20:53Z","by":"oco observe","id":"221abf6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T16:14:28Z","by":"oco observe","id":"22ed948","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T17:37:12Z","by":"oco observe","id":"2300238","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T15:17:55Z","by":"oco observe","id":"2302f7c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T14:33:10Z","by":"oco observe","id":"2312f0c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1292,6 +1293,7 @@
 {"at":"2026-11-13T05:30:18Z","by":"grenudi","id":"482e9db","project":"open-commons-observatory/ecosystem","record":"g-20261113-053002","says":"docs: how we came here: the route, in eight steps, each answering the last (#3)"}
 {"at":"2026-11-16T09:00:30Z","by":"grenudi","id":"483e48e","project":"open-commons-observatory/ecosystem","record":"g-20261116-090010","says":"docs: a connection: a thing is stood on by its name (#129)"}
 {"at":"2026-11-13T01:22:00Z","by":"grenudi","id":"497b879","project":"open-commons-observatory/ecosystem","record":"g-20261113-012138","says":"docs: this place can record its work, its reasoning and what is wrong (#1)"}
+{"at":"2026-11-16T16:13:49Z","by":"grenudi","id":"499fbf7","project":"open-commons-observatory/ecosystem","record":"g-20261116-161332","says":"docs: a connection: what the gatherer writes is said once, and 1 more (#151)"}
 {"at":"2026-11-15T07:10:07Z","by":"grenudi","id":"4c4c468","project":"open-commons-observatory/ecosystem","record":"g-20261115-070951","says":"feat: all of it: what each place has written down is in view, by a lens entered here (#96)"}
 {"at":"2026-11-15T07:11:50Z","by":"grenudi","id":"4cfce5c","project":"open-commons-observatory/ecosystem","record":"g-20261115-071134","says":"feat: a document says what it is: how it begins is about it (#97)"}
 {"at":"2026-11-13T08:22:03Z","by":"grenudi","id":"4e8d72b","project":"open-commons-observatory/ecosystem","record":"g-20261113-082147","says":"docs: states are read off the act: the author's words, and what the records show (#8)"}
@@ -2486,6 +2488,7 @@
 {"at":"2026-11-12T20:37:17Z","by":"oco harvest","id":"e97b893","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T14:38:42Z","by":"oco harvest","id":"e989741","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T22:50:51Z","by":"oco harvest","id":"e9a23b0","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T16:13:20Z","by":"oco harvest","id":"e9c26bd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T09:32:49Z","by":"oco harvest","id":"e9e0369","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T06:26:49Z","by":"oco harvest","id":"eb64d12","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T18:11:43Z","by":"grenudi","id":"ebc09fe","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: lenses drawn - the renderer and the Linux Phones lens done; the session logged (#18)"}
@@ -2562,5 +2565,6 @@
 {"at":"2026-11-10T21:13:48Z","by":"lab-agent-session","id":"4f12dee","project":"rhizome-oco/rhizome","says":"docs: a home for Rhizome - the manifesto, the roadmap, and its concepts, decisions and path as data"}
 {"at":"2026-11-16T14:56:30Z","by":"grenudi","id":"5a72f98","project":"rhizome-oco/rhizome","record":"g-20261116-145613","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#5)"}
 {"at":"2026-11-10T23:00:08Z","by":"grenudi","id":"5b1a3c5","project":"rhizome-oco/rhizome","says":"docs: its idea in Russian (by machine, for a person to correct) (#2)"}
+{"at":"2026-11-16T16:12:33Z","by":"grenudi","id":"bfb1da4","project":"rhizome-oco/rhizome","record":"g-20261116-161215","says":"chore: a caller: what the gatherer writes is said where it writes it, not here (#7)"}
 {"at":"2026-11-10T21:43:09Z","by":"grenudi","id":"c147ec5","project":"rhizome-oco/rhizome","says":"docs: Rhizome's idea, told for anyone - in its own data (#1)"}
 {"at":"2026-11-11T21:41:41Z","by":"grenudi","id":"ffea5eb","project":"rhizome-oco/rhizome","record":"g-20261111-214125","says":"chore: glimpses are recorded here from now on (#4)"}
