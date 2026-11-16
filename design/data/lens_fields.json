@@ -1,3 +1,6 @@
+{"id":"curated/curated/id","lens":"curated","of_table":"curated","name":"id","kind":"string","needed":true,"ordinal":1}
+{"id":"curated/curated/order","lens":"curated","of_table":"curated","name":"order","kind":"integer","ordinal":2}
+{"id":"curated/curated/why","lens":"curated","of_table":"curated","name":"why","kind":"string","ordinal":3}
 {"id":"practices/practices/description","lens":"practices","of_table":"practices","name":"description","kind":"string","needed":false,"ordinal":7}
 {"id":"practices/practices/for","lens":"practices","of_table":"practices","name":"for","kind":"string","needed":false,"ordinal":4}
 {"id":"practices/practices/id","lens":"practices","of_table":"practices","name":"id","kind":"string","needed":true,"ordinal":1}
