@@ -733,6 +733,7 @@
 {"at":"2026-11-14T23:53:47Z","by":"oco observe","id":"1932e7b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T23:56:20Z","by":"oco observe","id":"195f3c8","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T17:33:13Z","by":"oco observe","id":"19e49b0","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T12:03:28Z","by":"oco observe","id":"1a3a0c1","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T23:22:56Z","by":"oco observe","id":"1b90e97","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T11:47:41Z","by":"oco observe","id":"1bf9520","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:01:44Z","by":"oco observe","id":"1d261d2","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -905,6 +906,7 @@
 {"at":"2026-11-15T05:17:25Z","by":"oco observe","id":"7490c35","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T18:47:42Z","by":"oco observe","id":"74bb207","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T09:27:41Z","by":"oco observe","id":"74c09ec","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T12:05:18Z","by":"grenudi","id":"766f59a","project":"marshall-oco/marshall-oco.github.io","record":"g-20261116-120501","says":"feat: the page reads the language as its place keeps it, held while observing (#27)"}
 {"at":"2026-11-13T17:35:23Z","by":"oco observe","id":"778a07a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T13:51:32Z","by":"oco observe","id":"779d649","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T19:51:57Z","by":"oco observe","id":"77ad571","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1950,6 +1952,7 @@
 {"at":"2026-11-13T15:43:02Z","by":"oco harvest","id":"48cdeb7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T07:03:10Z","by":"oco harvest","id":"4970451","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T23:14:55Z","by":"grenudi","id":"49eadbe","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261111-231439","says":"docs: the redesign comes first; everything else parked with its resume order (#69)"}
+{"at":"2026-11-16T11:56:19Z","by":"oco harvest","id":"49fd86f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T21:57:46Z","by":"oco harvest","id":"4a30d93","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T08:55:26Z","by":"oco harvest","id":"4abd005","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T18:15:14Z","by":"oco harvest","id":"4aeb830","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
