@@ -1365,6 +1365,7 @@
 {"at":"2026-11-15T18:29:40Z","by":"github-actions[bot]","id":"281f517","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.48.2 (#301)"}
 {"at":"2026-11-15T10:28:48Z","by":"grenudi","id":"29457a0","project":"open-commons-observatory/ocoeco","record":"g-20261115-102718","says":"fix: a lens looked through from a place is no one's address: the shape lets it be (#278)"}
 {"at":"2026-11-14T07:32:34Z","by":"grenudi","id":"2b48085","project":"open-commons-observatory/ocoeco","record":"g-20261114-073054","says":"fix: a row is held to the lens that defines its table, built in or brought (#162)"}
+{"at":"2026-11-16T10:03:37Z","by":"grenudi","id":"2b56193","project":"open-commons-observatory/ocoeco","record":"g-20261116-100156","says":"docs: a sign: what a lens file keeps beside its rows is outside what an entry says (#375)"}
 {"at":"2026-11-14T17:34:51Z","by":"grenudi","id":"2b63e3b","project":"open-commons-observatory/ocoeco","record":"g-20261114-173320","says":"feat: any table a place keeps is looked through as itself (#199)"}
 {"at":"2026-11-13T07:52:24Z","by":"grenudi","id":"2d498e9","project":"open-commons-observatory/ocoeco","record":"g-20261113-075054","says":"docs: the board says what is: three set waiting on what they wait on, one taken up (#99)"}
 {"at":"2026-11-11T00:57:13Z","by":"grenudi","id":"2defaa5","project":"open-commons-observatory/ocoeco","says":"docs: its workings in Russian (by machine, for a person to correct) (#22)"}
@@ -1759,6 +1760,7 @@
 {"at":"2026-11-12T01:14:41Z","by":"oco harvest","id":"06afd73","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T11:47:25Z","by":"oco harvest","id":"06d945e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T01:19:23Z","by":"oco harvest","id":"070015a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T10:02:48Z","by":"oco harvest","id":"070d8ca","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T01:47:45Z","by":"oco harvest","id":"0761771","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T09:49:02Z","by":"oco harvest","id":"077da5c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T13:24:28Z","by":"oco harvest","id":"0815f45","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
