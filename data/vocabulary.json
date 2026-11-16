@@ -115,6 +115,7 @@
 {"id":"line","means":"Which line of a file something is on.","project":"open-commons-observatory/ocoeco","term":"line"}
 {"id":"lines","means":"How long a file is, in lines.","project":"open-commons-observatory/ocoeco","term":"lines"}
 {"decided":"2026-11-11-word-load","id":"load","means":"How draining an action was this time, from 0 (nothing) through 5 (hard) to 10 (maximal), after Borg's CR10 scale of perceived exertion.","not":"How long it took: that is minutes.","project":"open-commons-observatory/ocoeco","see":"effort, manual work","term":"load"}
+{"decided":"decisions:2026-11-16-a-lens-says-the-kinds-it-looks-from","id":"looks_from","means":"Said by a lens that looks from a thing: the kinds of thing it looks from - their tables. From a thing of another kind it is not asked.","project":"open-commons-observatory/ocoeco","term":"looks_from"}
 {"decided":"2026-11-11-manual-work","id":"manual-work","means":"An action done by hand that a tool could do: counted with its minutes and load, and when it was done, until something automates it.","not":"Bad work: it is a measure of where a tool would help, not a judgment.","project":"open-commons-observatory/ocoeco","see":"effort, attention","term":"manual work"}
 {"id":"manual_events","means":"Each time something was done by hand, and what it took.","project":"open-commons-observatory/ocoeco","term":"manual_events"}
 {"id":"manual_work","means":"The kinds of work done by hand, each with how often it has been.","project":"open-commons-observatory/ocoeco","term":"manual_work"}
