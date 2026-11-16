@@ -547,6 +547,7 @@
 {"at":"2026-11-11T22:44:55Z","by":"grenudi","id":"c5a117f","project":"linux-phone-oco/docs","record":"g-20261111-223513","says":"build: tad 0.4.0: the pin moved, the data and documents re-rendered (#68)"}
 {"at":"2026-11-05T07:43:11Z","by":"grenudi","id":"c7800d4","project":"linux-phone-oco/docs","says":"ci: deploy Pages via Actions instead of the legacy pipeline (#2)"}
 {"at":"2026-11-11T15:47:43Z","by":"grenudi","id":"d0d0182","project":"linux-phone-oco/docs","says":"feat(data): the wrap-up pass - settled with reasons (#58)"}
+{"at":"2026-11-16T15:06:42Z","by":"grenudi","id":"d313274","project":"linux-phone-oco/docs","record":"g-20261116-150446","says":"docs: a lens: test runs, and 8 more (#78)"}
 {"at":"2026-11-10T01:32:15Z","by":"grenudi","id":"d4795f9","project":"linux-phone-oco/docs","says":"fix(feed): no date column, so an unchanged wiki changes nothing (#22)"}
 {"at":"2026-11-10T15:40:02Z","by":"grenudi","id":"d4f4f80","project":"linux-phone-oco/docs","says":"feat(data): milestones - the path of Linux Phones and of surya, on three horizons (#41)"}
 {"at":"2026-11-10T22:58:00Z","by":"grenudi","id":"d7680d2","project":"linux-phone-oco/docs","says":"fix(data): the claim that a machine heard the speakers is withdrawn (#49)"}
@@ -1090,6 +1091,7 @@
 {"at":"2026-11-14T19:29:05Z","by":"oco observe","id":"c401a1a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T14:03:10Z","by":"oco observe","id":"c437964","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T15:03:52Z","by":"oco observe","id":"c540a8a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T15:08:02Z","by":"oco observe","id":"c566afa","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T06:49:25Z","by":"oco observe","id":"c5bdd3e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T19:48:06Z","by":"oco observe","id":"c666c65","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:39:11Z","by":"oco observe","id":"c697d8b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1365,6 +1367,7 @@
 {"at":"2026-11-15T22:18:08Z","by":"grenudi","id":"f856e7c","project":"open-commons-observatory/ecosystem","record":"g-20261115-221752","says":"docs: a reflection: what standing in the window showed (#119)"}
 {"at":"2026-11-15T18:30:07Z","by":"grenudi","id":"f8603e1","project":"open-commons-observatory/ecosystem","record":"g-20261115-182951","says":"docs: what came of a place's own lens looked through as it was observed (#111)"}
 {"at":"2026-11-14T20:59:05Z","by":"grenudi","id":"fa3c886","project":"open-commons-observatory/ecosystem","record":"g-20261114-205850","says":"docs: the program in view: its source and its guards, read (#79)"}
+{"at":"2026-11-16T15:08:13Z","by":"grenudi","id":"fb9f2fe","project":"open-commons-observatory/ecosystem","record":"g-20261116-150756","says":"docs: a connection: the latest runs are observed once, and 1 more (#147)"}
 {"at":"2026-11-15T18:19:56Z","by":"grenudi","id":"fbc2150","project":"open-commons-observatory/ecosystem","record":"g-20261115-181940","says":"docs: a record of work touches what is still kept: the form, not a part taken back from it (#110)"}
 {"at":"2026-11-13T07:25:36Z","by":"grenudi","id":"fd65cf1","project":"open-commons-observatory/ecosystem","record":"g-20261113-072521","says":"docs: what a milestone is, in the author's words; the other half on the board (#6)"}
 {"at":"2026-11-16T10:22:50Z","by":"grenudi","id":"fe7fc13","project":"open-commons-observatory/ecosystem","record":"g-20261116-102232","says":"docs: a connection: a thing that is done is not held back (#135)"}
@@ -1910,6 +1913,7 @@
 {"at":"2026-11-14T19:53:52Z","by":"oco harvest","id":"1bfdb5f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T16:41:00Z","by":"oco harvest","id":"1dbfd88","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T23:03:17Z","by":"oco harvest","id":"1de3480","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T15:04:39Z","by":"oco harvest","id":"1f5c558","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T20:30:02Z","by":"oco harvest","id":"204e81c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T08:25:00Z","by":"oco harvest","id":"21ddc25","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T20:53:37Z","by":"oco harvest","id":"2285adb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -2346,6 +2350,7 @@
 {"at":"2026-11-15T07:09:45Z","by":"oco harvest","id":"c42f426","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T11:22:26Z","by":"grenudi","id":"c45e21e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: no new Python, even for one-offs - practice 21 and the decision (#50)"}
 {"at":"2026-11-10T17:07:46Z","by":"grenudi","id":"c4faf42","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the session log - every project its view, the family, ocoeco founded (#14)"}
+{"at":"2026-11-16T15:07:12Z","by":"grenudi","id":"c508b30","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261116-150655","says":"docs: a lens: curated, and 4 more (#104)"}
 {"at":"2026-11-11T01:10:24Z","by":"grenudi","id":"c53b1da","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: a Russian page that is Russian; the cameras understood (#43)"}
 {"at":"2026-11-13T21:39:13Z","by":"oco harvest","id":"c5909ea","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T11:54:38Z","by":"grenudi","id":"c5a4171","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the observatory's hand-work ledger, from this session's jobs (#51)"}
