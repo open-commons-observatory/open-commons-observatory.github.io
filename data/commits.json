@@ -1393,6 +1393,7 @@
 {"at":"2026-11-11T11:05:32Z","by":"grenudi","id":"5c4e9c1","project":"open-commons-observatory/ocoeco","says":"feat: the vocabulary - ocoeco's shared words, compiled into the tool (#26)"}
 {"at":"2026-11-15T19:09:41Z","by":"grenudi","id":"5e328b0","project":"open-commons-observatory/ocoeco","record":"g-20261115-190800","says":"docs: a sign: a command asks in a window what it could say it lacks (#306)"}
 {"at":"2026-11-15T09:20:14Z","by":"grenudi","id":"5e5cf63","project":"open-commons-observatory/ocoeco","record":"g-20261115-091844","says":"perf: the parts of a lens ask the engine in one go: what it gathered is loaded once (#266)"}
+{"at":"2026-11-16T05:14:04Z","by":"github-actions[bot]","id":"5e834ea","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.60.2 (#352)"}
 {"at":"2026-11-14T21:30:16Z","by":"grenudi","id":"5edf02a","project":"open-commons-observatory/ocoeco","record":"g-20261114-212845","says":"feat: observed by holding: one way of reading; what a route reads is a thing (#226)"}
 {"at":"2026-11-14T21:53:21Z","by":"github-actions[bot]","id":"5f2a49a","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.32.1 (#229)"}
 {"at":"2026-11-15T20:27:38Z","by":"grenudi","id":"5f8690b","project":"open-commons-observatory/ocoeco","record":"g-20261115-202536","says":"feat: a thing in full where one stands on it; a site places the pages a place offers (#312)"}
@@ -1554,6 +1555,7 @@
 {"at":"2026-11-11T12:04:18Z","by":"grenudi","id":"c82a994","project":"open-commons-observatory/ocoeco","says":"docs/handwork lives (#29)"}
 {"at":"2026-11-15T20:00:01Z","by":"grenudi","id":"c84d737","project":"open-commons-observatory/ocoeco","record":"g-20261115-195821","says":"feat: a lens reads what any lens in view declares; a change says when in one clock (#310)"}
 {"at":"2026-11-11T10:58:46Z","by":"grenudi","id":"c9c84be","project":"open-commons-observatory/ocoeco","says":"feat: ocoeco note - recording as a tool (#23)"}
+{"at":"2026-11-16T05:13:53Z","by":"grenudi","id":"ca4617f","project":"open-commons-observatory/ocoeco","record":"g-20261116-051223","says":"feat: the check looks with the places beside it; what is kept out stops by its lens (#353)"}
 {"at":"2026-11-15T19:19:48Z","by":"grenudi","id":"ca9643f","project":"open-commons-observatory/ocoeco","record":"g-20261115-191807","says":"feat: what is joined to nothing, by kind: the islands of the whole; a record named is counted (#308)"}
 {"at":"2026-11-15T12:43:02Z","by":"grenudi","id":"cafa1a4","project":"open-commons-observatory/ocoeco","record":"g-20261115-124119","says":"fix: a row is taken back only when nothing in view points at it (#286)"}
 {"at":"2026-11-13T23:33:26Z","by":"github-actions[bot]","id":"cc26c4e","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.7.0 (#136)"}
@@ -1886,6 +1888,7 @@
 {"at":"2026-11-11T14:08:23Z","by":"oco harvest","id":"571259d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T19:11:07Z","by":"oco harvest","id":"57b8734","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T13:47:33Z","by":"grenudi","id":"57de89f","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-134715","says":"fix: the first observatory's whole begins with why each star exists (#91)"}
+{"at":"2026-11-16T05:08:25Z","by":"oco harvest","id":"5867ea7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T20:45:06Z","by":"oco harvest","id":"599dc5b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T09:44:51Z","by":"oco harvest","id":"59e6dec","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T00:59:22Z","by":"oco harvest","id":"5a3684b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
