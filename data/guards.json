@@ -384,10 +384,10 @@
 {"id":"devlab/src/provision.rs:manifest_paths_take_the_phones_name","line":306,"name":"manifest_paths_take_the_phones_name","path":"devlab/src/provision.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/provision.rs:the_uplink_and_gateway_come_from_the_default_route","line":278,"name":"the_uplink_and_gateway_come_from_the_default_route","path":"devlab/src/provision.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/provision.rs:this_machine_is_found_on_the_phones_subnet","line":288,"name":"this_machine_is_found_on_the_phones_subnet","path":"devlab/src/provision.rs","project":"linux-phone-oco/lab-tools"}
-{"id":"devlab/src/suite.rs:a_report_is_known_by_the_boot_it_was_made_in","line":359,"name":"a_report_is_known_by_the_boot_it_was_made_in","path":"devlab/src/suite.rs","project":"linux-phone-oco/lab-tools"}
-{"id":"devlab/src/suite.rs:a_report_reads_as_rows_and_noise_is_ignored","line":344,"name":"a_report_reads_as_rows_and_noise_is_ignored","path":"devlab/src/suite.rs","project":"linux-phone-oco/lab-tools"}
-{"id":"devlab/src/suite.rs:every_suite_file_is_built_in","line":383,"name":"every_suite_file_is_built_in","path":"devlab/src/suite.rs","project":"linux-phone-oco/lab-tools"}
-{"id":"devlab/src/suite.rs:failures_are_said_first","line":369,"name":"failures_are_said_first","path":"devlab/src/suite.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/suite.rs:a_report_is_known_by_the_boot_it_was_made_in","line":361,"name":"a_report_is_known_by_the_boot_it_was_made_in","path":"devlab/src/suite.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/suite.rs:a_report_reads_as_rows_and_noise_is_ignored","line":346,"name":"a_report_reads_as_rows_and_noise_is_ignored","path":"devlab/src/suite.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/suite.rs:every_suite_file_is_built_in","line":385,"name":"every_suite_file_is_built_in","path":"devlab/src/suite.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/suite.rs:failures_are_said_first","line":371,"name":"failures_are_said_first","path":"devlab/src/suite.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/watch.rs:silence_when_all_is_well_and_a_named_alert_when_not","line":70,"name":"silence_when_all_is_well_and_a_named_alert_when_not","path":"devlab/src/watch.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"health/src/main.rs:a_check_line_is_outcome_test_component_and_the_rest_is_detail","line":384,"name":"a_check_line_is_outcome_test_component_and_the_rest_is_detail","path":"health/src/main.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"health/src/main.rs:a_check_that_says_nothing_or_hangs_is_a_finding_not_a_gap","line":405,"name":"a_check_that_says_nothing_or_hangs_is_a_finding_not_a_gap","path":"health/src/main.rs","project":"linux-phone-oco/lab-tools"}

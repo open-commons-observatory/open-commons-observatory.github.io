@@ -605,6 +605,7 @@
 {"at":"2026-11-11T14:33:32Z","by":"grenudi","id":"62cc1e4","project":"linux-phone-oco/lab-tools","says":"feat(devlab): health waits for the phone to settle before checking (#25)"}
 {"at":"2026-11-10T19:44:45Z","by":"grenudi","id":"7032731","project":"linux-phone-oco/lab-tools","says":"chore: gathered data lives on the oco-data branch - main is the history of the work (#13)"}
 {"at":"2026-11-10T12:14:25Z","by":"grenudi","id":"7077724","project":"linux-phone-oco/lab-tools","says":"fix: devlab finds the phone quietly - an address that does not answer is no error to show (#4)"}
+{"at":"2026-11-16T23:51:54Z","by":"grenudi","id":"71cbf80","project":"linux-phone-oco/lab-tools","record":"g-20261116-235054","says":"feat: The phone for any agent: devlab mcp, nine tools over MCP (#32)"}
 {"at":"2026-11-10T13:38:10Z","by":"grenudi","id":"7edee0a","project":"linux-phone-oco/lab-tools","says":"feat: devlab flash - an image onto the phone with the manifest's fixes baked in (#8)"}
 {"at":"2026-11-10T04:25:54Z","by":"lab-agent-session","id":"952c3a2","project":"linux-phone-oco/lab-tools","says":"feat: tone - make a test tone, and find it in a recording"}
 {"at":"2026-11-11T14:27:03Z","by":"grenudi","id":"97759a9","project":"linux-phone-oco/lab-tools","says":"feat(devlab): kernel try reports its own outcome (#24)"}
@@ -2290,6 +2291,7 @@
 {"at":"2026-11-12T19:58:36Z","by":"oco harvest","id":"74d92b4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T20:21:48Z","by":"oco harvest","id":"74da7cd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T08:55:40Z","by":"oco harvest","id":"74fa32d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T23:49:18Z","by":"oco harvest","id":"76309ec","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T19:46:45Z","by":"oco harvest","id":"76baad8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T12:27:59Z","by":"grenudi","id":"76d91b8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: practice 22 - look around first (#54)"}
 {"at":"2026-11-14T19:15:33Z","by":"oco harvest","id":"7743de8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
