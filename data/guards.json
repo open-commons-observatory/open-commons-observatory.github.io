@@ -443,11 +443,11 @@
 {"id":"src/fulldome.rs:keys_move_between_lenses_and_say_what_is_needed","line":707,"name":"keys_move_between_lenses_and_say_what_is_needed","path":"src/fulldome.rs","project":"open-commons-observatory/ocoeco"}
 {"id":"src/fulldome.rs:one_walks_from_what_is_shown_standing_on_a_thing_and_stepping_back","line":759,"name":"one_walks_from_what_is_shown_standing_on_a_thing_and_stepping_back","path":"src/fulldome.rs","project":"open-commons-observatory/ocoeco"}
 {"id":"src/fulldome.rs:the_dome_shows_every_lens_and_what_the_chosen_one_brings_into_focus","line":577,"name":"the_dome_shows_every_lens_and_what_the_chosen_one_brings_into_focus","path":"src/fulldome.rs","project":"open-commons-observatory/ocoeco"}
-{"id":"src/gather.rs:automation_is_not_work","line":207,"name":"automation_is_not_work","path":"src/gather.rs","project":"open-commons-observatory/ocoeco"}
-{"id":"src/gather.rs:commits_become_days","line":147,"name":"commits_become_days","path":"src/gather.rs","project":"open-commons-observatory/ocoeco"}
-{"id":"src/gather.rs:days_and_lines","line":197,"name":"days_and_lines","path":"src/gather.rs","project":"open-commons-observatory/ocoeco"}
-{"id":"src/gather.rs:releases_are_read","line":166,"name":"releases_are_read","path":"src/gather.rs","project":"open-commons-observatory/ocoeco"}
-{"id":"src/gather.rs:the_gatherer_is_read_where_it_writes","line":176,"name":"the_gatherer_is_read_where_it_writes","path":"src/gather.rs","project":"open-commons-observatory/ocoeco"}
+{"id":"src/gather.rs:automation_is_not_work","line":215,"name":"automation_is_not_work","path":"src/gather.rs","project":"open-commons-observatory/ocoeco"}
+{"id":"src/gather.rs:commits_become_days","line":149,"name":"commits_become_days","path":"src/gather.rs","project":"open-commons-observatory/ocoeco"}
+{"id":"src/gather.rs:days_and_lines","line":205,"name":"days_and_lines","path":"src/gather.rs","project":"open-commons-observatory/ocoeco"}
+{"id":"src/gather.rs:releases_are_read","line":168,"name":"releases_are_read","path":"src/gather.rs","project":"open-commons-observatory/ocoeco"}
+{"id":"src/gather.rs:the_gatherer_is_read_where_it_writes","line":184,"name":"the_gatherer_is_read_where_it_writes","path":"src/gather.rs","project":"open-commons-observatory/ocoeco"}
 {"id":"src/glimpse.rs:a_commit_message_is_rendered_from_glimpses","line":405,"name":"a_commit_message_is_rendered_from_glimpses","path":"src/glimpse.rs","project":"open-commons-observatory/ocoeco"}
 {"id":"src/glimpse.rs:a_glimpse_is_mostly_supplied","line":330,"name":"a_glimpse_is_mostly_supplied","path":"src/glimpse.rs","project":"open-commons-observatory/ocoeco"}
 {"id":"src/glimpse.rs:the_time_and_the_id","line":429,"name":"the_time_and_the_id","path":"src/glimpse.rs","project":"open-commons-observatory/ocoeco"}
