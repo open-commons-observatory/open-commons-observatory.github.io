@@ -275,6 +275,7 @@
 {"at":"2026-11-10T03:18:07Z","by":"grenudi","id":"c8142eb","project":"creation-guidelines/lab-agent","says":"feat: updates apply themselves when the agent is idle (#74)"}
 {"at":"2026-11-12T09:06:27Z","by":"grenudi","id":"c93a92e","project":"creation-guidelines/lab-agent","record":"g-20261112-090528","says":"fix: release-plz: oco-agent's crates get their own tag names (#156)"}
 {"at":"2026-11-10T15:37:16Z","by":"grenudi","id":"c9d2472","project":"creation-guidelines/lab-agent","says":"feat: lab-agent guide - every agent instructs itself from the observatory's living practices (#99)"}
+{"at":"2026-11-16T09:59:19Z","by":"grenudi","id":"cb708cf","project":"creation-guidelines/lab-agent","record":"g-20261116-095819","says":"docs: a sign: the words in use were not the ones that landed, and 1 more (#206)"}
 {"at":"2026-11-09T16:22:16Z","by":"github-actions[bot]","id":"cbcb56e","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.10 (#32)"}
 {"at":"2026-11-10T01:57:02Z","by":"github-actions[bot]","id":"cc10707","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.25 (#68)"}
 {"at":"2026-11-12T18:54:39Z","by":"grenudi","id":"cc40da9","project":"creation-guidelines/lab-agent","record":"g-20261112-185347","says":"docs: the token rotated, sealed on its way; the old kept until revoked (#169)"}
@@ -1275,6 +1276,7 @@
 {"at":"2026-11-14T13:50:06Z","by":"grenudi","id":"c8fd9c0","project":"open-commons-observatory/ecosystem","record":"g-20261114-134950","says":"docs: a field's place in order says ordinal (#53)"}
 {"at":"2026-11-13T06:11:38Z","by":"grenudi","id":"ca46280","project":"open-commons-observatory/ecosystem","record":"g-20261113-061122","says":"docs: the route as a red line: seventeen connections, each saying how it is known (#4)"}
 {"at":"2026-11-14T08:42:34Z","by":"grenudi","id":"caa8ced","project":"open-commons-observatory/ecosystem","record":"g-20261114-084218","says":"docs: a sign held back, drawn as a halt (#48)"}
+{"at":"2026-11-16T09:59:50Z","by":"grenudi","id":"d06dce2","project":"open-commons-observatory/ecosystem","record":"g-20261116-095933","says":"docs: a connection: the words in use are the ones that landed (#132)"}
 {"at":"2026-11-16T04:38:51Z","by":"grenudi","id":"d0df31b","project":"open-commons-observatory/ecosystem","record":"g-20261116-043834","says":"docs: a connection: an id kept twice stops a place (#124)"}
 {"at":"2026-11-13T23:33:07Z","by":"grenudi","id":"d308f70","project":"open-commons-observatory/ecosystem","record":"g-20261113-233250","says":"docs: lenses read the graph: what it showed, and what it now asks for (#33)"}
 {"at":"2026-11-13T09:35:30Z","by":"grenudi","id":"d36a295","project":"open-commons-observatory/ecosystem","record":"g-20261113-093514","says":"docs: the whole is discovered, not changed: the author's words (#11)"}
@@ -1283,6 +1285,7 @@
 {"at":"2026-11-13T21:03:45Z","by":"grenudi","id":"d58accf","project":"open-commons-observatory/ecosystem","record":"g-20261113-210328","says":"docs: a character is a lens: the author's words; a lens named is a lens addressed (#28)"}
 {"at":"2026-11-13T17:54:13Z","by":"grenudi","id":"d9f11fb","project":"open-commons-observatory/ecosystem","record":"g-20261113-175357","says":"docs: a name is not the place: the author's glimpse, beside Rhizome's own concepts (#20)"}
 {"at":"2026-11-13T09:06:47Z","by":"grenudi","id":"da91fd7","project":"open-commons-observatory/ecosystem","record":"g-20261113-090630","says":"docs: argenv first: the need is met where it lives (#10)"}
+{"at":"2026-11-16T10:01:43Z","by":"grenudi","id":"dbec944","project":"open-commons-observatory/ecosystem","record":"g-20261116-100124","says":"docs: a reflection: what the first acts said at once showed, and 1 more (#133)"}
 {"at":"2026-11-14T08:26:06Z","by":"grenudi","id":"e1cd269","project":"open-commons-observatory/ecosystem","record":"g-20261114-082550","says":"docs: one word each (#46)"}
 {"at":"2026-11-14T19:01:32Z","by":"grenudi","id":"e2929b8","project":"open-commons-observatory/ecosystem","record":"g-20261114-190117","says":"docs: how work is done, said as practices: what came of it, and two signs (#68)"}
 {"at":"2026-11-14T01:11:27Z","by":"grenudi","id":"e2bdc56","project":"open-commons-observatory/ecosystem","record":"g-20261114-011109","says":"docs: what lies ahead, read off (#42)"}
@@ -2313,6 +2316,7 @@
 {"at":"2026-11-11T00:54:23Z","by":"grenudi","id":"eeaab1c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: words that follow their number - done (#41)"}
 {"at":"2026-11-15T13:51:13Z","by":"oco harvest","id":"eebf998","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T16:55:40Z","by":"grenudi","id":"ef367ff","project":"open-commons-observatory/open-commons-observatory.github.io","says":"ci: ocoeco gathers, the engine renders (#13)"}
+{"at":"2026-11-16T09:58:39Z","by":"oco harvest","id":"ef9f3f3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T19:10:19Z","by":"oco harvest","id":"efe230f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T09:54:01Z","by":"oco harvest","id":"f026e9a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T11:33:16Z","by":"oco harvest","id":"f06a52d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
