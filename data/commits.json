@@ -311,6 +311,7 @@
 {"at":"2026-11-12T13:27:40Z","by":"grenudi","id":"f58b9a3","project":"creation-guidelines/lab-agent","record":"g-20261112-132651","says":"docs: decisions that refine others say so as a relation (#167)"}
 {"at":"2026-11-11T15:20:40Z","by":"github-actions[bot]","id":"f6f4f06","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.51 (#123)"}
 {"at":"2026-11-10T14:24:07Z","by":"github-actions[bot]","id":"f79654d","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.39 (#98)"}
+{"at":"2026-11-16T09:57:15Z","by":"grenudi","id":"f8471a0","project":"creation-guidelines/lab-agent","record":"g-20261116-095614","says":"feat: landing the place that keeps the words every job uses puts them to use (#205)"}
 {"at":"2026-11-10T03:09:01Z","by":"grenudi","id":"f8ecc34","project":"creation-guidelines/lab-agent","says":"fix: tests never write to the machine's sent log (#72)"}
 {"at":"2026-11-12T13:06:55Z","by":"grenudi","id":"fa02329","project":"creation-guidelines/lab-agent","record":"g-20261112-130606","says":"fix: the glimpses' links to milestones name the table (#166)"}
 {"at":"2026-11-11T00:34:40Z","by":"grenudi","id":"fa19907","project":"creation-guidelines/lab-agent","says":"docs: its idea in Russian (by machine, for a person to correct) (#112)"}
@@ -816,6 +817,7 @@
 {"at":"2026-11-14T14:57:39Z","by":"oco observe","id":"48d86d3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T18:15:00Z","by":"oco observe","id":"48f2c27","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T21:31:54Z","by":"oco observe","id":"49928c7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T09:56:44Z","by":"oco observe","id":"4bd9ba4","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T10:23:19Z","by":"oco observe","id":"4c38f94","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:34:35Z","by":"oco observe","id":"4d26395","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T18:06:51Z","by":"oco observe","id":"4d70310","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1400,6 +1402,7 @@
 {"at":"2026-11-12T21:54:26Z","by":"grenudi","id":"438cda8","project":"open-commons-observatory/ocoeco","record":"g-20261112-215255","says":"feat: every lens focuses: what matters now, on every surface (#80)"}
 {"at":"2026-11-13T00:55:29Z","by":"grenudi","id":"441089a","project":"open-commons-observatory/ocoeco","record":"g-20261113-005409","says":"feat: a place observes what it gathers; made so from its first day (#88)"}
 {"at":"2026-11-15T04:52:49Z","by":"github-actions[bot]","id":"444e4cb","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.39.0 (#254)"}
+{"at":"2026-11-16T09:51:24Z","by":"github-actions[bot]","id":"44fa249","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.65.0 (#373)"}
 {"at":"2026-11-13T18:59:44Z","by":"grenudi","id":"452748a","project":"open-commons-observatory/ocoeco","record":"g-20261113-185832","says":"feat: the lens of signs: shown until a connection leads to what was seen (#116)"}
 {"at":"2026-11-12T11:56:10Z","by":"grenudi","id":"46560f6","project":"open-commons-observatory/ocoeco","record":"g-20261112-115428","says":"docs: many observatories; the fulldome researched lens by lens: what is lacking (#52)"}
 {"at":"2026-11-13T18:24:18Z","by":"github-actions[bot]","id":"4811541","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.2.0 (#112)"}
@@ -1658,6 +1661,7 @@
 {"at":"2026-11-14T23:08:46Z","by":"github-actions[bot]","id":"eca2ede","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.34.0 (#242)"}
 {"at":"2026-11-15T23:23:58Z","by":"grenudi","id":"ee5e763","project":"open-commons-observatory/ocoeco","record":"g-20261115-232228","says":"docs: a item: the check said by a lens (#331)"}
 {"at":"2026-11-11T20:06:06Z","by":"grenudi","id":"eee8bcc","project":"open-commons-observatory/ocoeco","says":"docs: one word for a concept's text - summary, everywhere (#42)"}
+{"at":"2026-11-16T09:55:21Z","by":"grenudi","id":"eefdd16","project":"open-commons-observatory/ocoeco","record":"g-20261116-095348","says":"docs: a part: entering/21, and 9 more (#374)"}
 {"at":"2026-11-14T23:08:02Z","by":"grenudi","id":"ef55a10","project":"open-commons-observatory/ocoeco","record":"g-20261114-230622","says":"feat: a surface is said by a lens: the text surface, in the language (#241)"}
 {"at":"2026-11-13T11:31:29Z","by":"grenudi","id":"f050748","project":"open-commons-observatory/ocoeco","record":"g-20261113-113008","says":"feat: the typed line reads back: an entry's words read by argenv's reader (#104)"}
 {"at":"2026-11-11T12:30:22Z","by":"grenudi","id":"f1e8689","project":"open-commons-observatory/ocoeco","says":"docs: the sources of looking around first (#32)"}
@@ -2204,6 +2208,7 @@
 {"at":"2026-11-15T19:17:06Z","by":"oco harvest","id":"c1d0129","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T19:51:58Z","by":"grenudi","id":"c1d1e35","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261114-195143","says":"docs: a practice: say where a guideline is shown (#80)"}
 {"at":"2026-11-14T17:28:01Z","by":"oco harvest","id":"c25f3e2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T09:52:02Z","by":"oco harvest","id":"c2d0c38","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T07:09:45Z","by":"oco harvest","id":"c42f426","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T11:22:26Z","by":"grenudi","id":"c45e21e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: no new Python, even for one-offs - practice 21 and the decision (#50)"}
 {"at":"2026-11-10T17:07:46Z","by":"grenudi","id":"c4faf42","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the session log - every project its view, the family, ocoeco founded (#14)"}
