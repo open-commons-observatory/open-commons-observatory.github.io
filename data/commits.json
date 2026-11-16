@@ -490,6 +490,7 @@
 {"at":"2026-11-14T00:46:11Z","by":"grenudi","id":"2590f09","project":"linux-phone-oco/docs","record":"g-20261114-004532","says":"docs: feature and component are other names for features and components (#76)"}
 {"at":"2026-11-11T15:49:40Z","by":"grenudi","id":"25d2aee","project":"linux-phone-oco/docs","says":"feat(data): the ADSP crash item settled (#59)"}
 {"at":"2026-11-10T01:26:37Z","by":"grenudi","id":"26ec543","project":"linux-phone-oco/docs","says":"docs: the Open Handset Commons research behind the grand picture, kept as written (#20)"}
+{"at":"2026-11-16T13:37:56Z","by":"feeds","id":"279ca53","project":"linux-phone-oco/docs","says":"chore(feed): data from the scheduled feeds"}
 {"at":"2026-11-10T02:23:34Z","by":"grenudi","id":"2b15121","project":"linux-phone-oco/docs","says":"feat(data): the first automatic test runs on surya (Sxmo, 2026-11-10) (#25)"}
 {"at":"2026-11-10T01:12:39Z","by":"grenudi","id":"2cf8f19","project":"linux-phone-oco/docs","says":"feat(data): the feature catalog - 46 capabilities of a modern phone against Android, iOS and Linux (#19)"}
 {"at":"2026-11-10T00:21:56Z","by":"grenudi","id":"2da79d4","project":"linux-phone-oco/docs","says":"feat(data): plasma-silent and a second tas2562 bug (volume writes not reaching the chips) (#16)"}
@@ -1240,6 +1241,7 @@
 {"at":"2026-11-13T23:44:19Z","by":"grenudi","id":"458afd1","project":"open-commons-observatory/ecosystem","record":"g-20261113-234401","says":"docs: what came of the shape asked twice (#34)"}
 {"at":"2026-11-16T11:39:13Z","by":"grenudi","id":"4662a9d","project":"open-commons-observatory/ecosystem","record":"g-20261116-113856","says":"docs: a connection: a record points at what was, and 1 more (#137)"}
 {"at":"2026-11-14T00:57:28Z","by":"grenudi","id":"46c5a5d","project":"open-commons-observatory/ecosystem","record":"g-20261114-005711","says":"docs: the waits drawn as halts; a halt that ended, said to have ended (#40)"}
+{"at":"2026-11-16T13:38:47Z","by":"grenudi","id":"47f1bf4","project":"open-commons-observatory/ecosystem","record":"g-20261116-133831","says":"docs: a reflection: what trying the check on its own break showed (#144)"}
 {"at":"2026-11-13T05:30:18Z","by":"grenudi","id":"482e9db","project":"open-commons-observatory/ecosystem","record":"g-20261113-053002","says":"docs: how we came here: the route, in eight steps, each answering the last (#3)"}
 {"at":"2026-11-16T09:00:30Z","by":"grenudi","id":"483e48e","project":"open-commons-observatory/ecosystem","record":"g-20261116-090010","says":"docs: a connection: a thing is stood on by its name (#129)"}
 {"at":"2026-11-13T01:22:00Z","by":"grenudi","id":"497b879","project":"open-commons-observatory/ecosystem","record":"g-20261113-012138","says":"docs: this place can record its work, its reasoning and what is wrong (#1)"}
@@ -1476,6 +1478,7 @@
 {"at":"2026-11-14T23:52:27Z","by":"grenudi","id":"59ff83b","project":"open-commons-observatory/ocoeco","record":"g-20261114-235036","says":"feat: a row is taken back by saying so, guarded as entering is (#249)"}
 {"at":"2026-11-16T11:15:40Z","by":"grenudi","id":"5a2ff14","project":"open-commons-observatory/ocoeco","record":"g-20261116-111359","says":"docs: a part: entering/21, and 2 more (#382)"}
 {"at":"2026-11-14T15:40:29Z","by":"grenudi","id":"5a8e028","project":"open-commons-observatory/ocoeco","record":"g-20261114-153848","says":"fix: the graph by any route: made of what was observed as of what is held (#190)"}
+{"at":"2026-11-16T13:38:17Z","by":"grenudi","id":"5b50bd6","project":"open-commons-observatory/ocoeco","record":"g-20261116-133634","says":"docs: a sign: a lens file made by entries reads closer than one written by hand (#403)"}
 {"at":"2026-11-11T11:05:32Z","by":"grenudi","id":"5c4e9c1","project":"open-commons-observatory/ocoeco","says":"feat: the vocabulary - ocoeco's shared words, compiled into the tool (#26)"}
 {"at":"2026-11-15T19:09:41Z","by":"grenudi","id":"5e328b0","project":"open-commons-observatory/ocoeco","record":"g-20261115-190800","says":"docs: a sign: a command asks in a window what it could say it lacks (#306)"}
 {"at":"2026-11-15T09:20:14Z","by":"grenudi","id":"5e5cf63","project":"open-commons-observatory/ocoeco","record":"g-20261115-091844","says":"perf: the parts of a lens ask the engine in one go: what it gathered is loaded once (#266)"}
@@ -1877,6 +1880,7 @@
 {"at":"2026-11-14T08:25:00Z","by":"oco harvest","id":"21ddc25","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T20:53:37Z","by":"oco harvest","id":"2285adb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T11:19:22Z","by":"grenudi","id":"23ec272","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the attention view is live; what waits on the author says so (#49)"}
+{"at":"2026-11-16T13:38:14Z","by":"oco harvest","id":"240d590","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T16:29:34Z","by":"oco harvest","id":"24cffbe","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T20:58:44Z","by":"oco harvest","id":"24d9180","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T01:22:52Z","by":"oco harvest","id":"2526433","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
