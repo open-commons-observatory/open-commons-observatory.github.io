@@ -447,9 +447,10 @@
 {"id":"src/gather.rs:days_and_lines","line":196,"name":"days_and_lines","path":"src/gather.rs","project":"open-commons-observatory/ocoeco"}
 {"id":"src/gather.rs:releases_are_read","line":168,"name":"releases_are_read","path":"src/gather.rs","project":"open-commons-observatory/ocoeco"}
 {"id":"src/gather.rs:the_latest_run_of_each_workflow","line":178,"name":"the_latest_run_of_each_workflow","path":"src/gather.rs","project":"open-commons-observatory/ocoeco"}
-{"id":"src/glimpse.rs:a_commit_message_is_rendered_from_glimpses","line":365,"name":"a_commit_message_is_rendered_from_glimpses","path":"src/glimpse.rs","project":"open-commons-observatory/ocoeco"}
-{"id":"src/glimpse.rs:a_glimpse_is_mostly_supplied","line":320,"name":"a_glimpse_is_mostly_supplied","path":"src/glimpse.rs","project":"open-commons-observatory/ocoeco"}
-{"id":"src/glimpse.rs:the_time_and_the_id","line":389,"name":"the_time_and_the_id","path":"src/glimpse.rs","project":"open-commons-observatory/ocoeco"}
+{"id":"src/glimpse.rs:a_commit_message_is_rendered_from_glimpses","line":405,"name":"a_commit_message_is_rendered_from_glimpses","path":"src/glimpse.rs","project":"open-commons-observatory/ocoeco"}
+{"id":"src/glimpse.rs:a_glimpse_is_mostly_supplied","line":330,"name":"a_glimpse_is_mostly_supplied","path":"src/glimpse.rs","project":"open-commons-observatory/ocoeco"}
+{"id":"src/glimpse.rs:the_time_and_the_id","line":429,"name":"the_time_and_the_id","path":"src/glimpse.rs","project":"open-commons-observatory/ocoeco"}
+{"id":"src/glimpse.rs:what_an_entry_changed_in_a_lens_kept_as_a_file_is_what_the_record_touched","line":375,"name":"what_an_entry_changed_in_a_lens_kept_as_a_file_is_what_the_record_touched","path":"src/glimpse.rs","project":"open-commons-observatory/ocoeco"}
 {"id":"src/harvest.rs:a_lens_becomes_a_row_of_lenses","line":329,"name":"a_lens_becomes_a_row_of_lenses","path":"src/harvest.rs","project":"open-commons-observatory/ocoeco"}
 {"id":"src/harvest.rs:a_merged_table_is_ordered_by_project_then_id","line":294,"name":"a_merged_table_is_ordered_by_project_then_id","path":"src/harvest.rs","project":"open-commons-observatory/ocoeco"}
 {"id":"src/harvest.rs:a_place_held_is_read_as_it_is_kept_and_what_a_route_reads_is_observed_with_it","line":449,"name":"a_place_held_is_read_as_it_is_kept_and_what_a_route_reads_is_observed_with_it","path":"src/harvest.rs","project":"open-commons-observatory/ocoeco"}

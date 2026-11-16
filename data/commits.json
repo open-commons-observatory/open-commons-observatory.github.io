@@ -1557,6 +1557,7 @@
 {"at":"2026-11-13T12:00:06Z","by":"grenudi","id":"a3ba522","project":"open-commons-observatory/ocoeco","record":"g-20261113-115825","says":"fix: the reader speaks for itself: nothing restated (#105)"}
 {"at":"2026-11-16T05:18:22Z","by":"grenudi","id":"a4f72ad","project":"open-commons-observatory/ocoeco","says":"docs: an item: the check said by a lens (#354)"}
 {"at":"2026-11-11T14:10:51Z","by":"grenudi","id":"a5e9b7c","project":"open-commons-observatory/ocoeco","says":"docs: three ways of knowing, and research with versions (#37)"}
+{"at":"2026-11-16T10:13:06Z","by":"grenudi","id":"a6a467a","project":"open-commons-observatory/ocoeco","record":"g-20261116-101134","says":"fix: what an entry changed in a lens kept as a file is what its record touched (#377)"}
 {"at":"2026-11-15T23:15:56Z","by":"grenudi","id":"a6f5d5d","project":"open-commons-observatory/ocoeco","record":"g-20261115-231445","says":"docs: a research: how a language comes to say itself (#328)"}
 {"at":"2026-11-12T08:35:28Z","by":"grenudi","id":"a71429c","project":"open-commons-observatory/ocoeco","record":"g-20261112-083358","says":"feat: reflection becomes an entity of the shared language; the first two are written (#48)"}
 {"at":"2026-11-12T13:42:13Z","by":"grenudi","id":"a861646","project":"open-commons-observatory/ocoeco","record":"g-20261112-134053","says":"docs: a lens focuses: its second face named from its own domain (#62)"}
@@ -1616,6 +1617,7 @@
 {"at":"2026-11-13T23:33:26Z","by":"github-actions[bot]","id":"cc26c4e","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.7.0 (#136)"}
 {"at":"2026-11-15T18:59:03Z","by":"grenudi","id":"ccd8511","project":"open-commons-observatory/ocoeco","record":"g-20261115-185741","says":"feat: the way up is a surface: the whole one step up, each lens by what it says and holds (#304)"}
 {"at":"2026-11-14T22:01:23Z","by":"github-actions[bot]","id":"ce2f6fd","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.32.2 (#232)"}
+{"at":"2026-11-16T10:13:40Z","by":"github-actions[bot]","id":"ced3e21","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.65.1 (#378)"}
 {"at":"2026-11-15T08:53:59Z","by":"grenudi","id":"cf69f1c","project":"open-commons-observatory/ocoeco","record":"g-20261115-085219","says":"docs: making the graph takes time that is not understood: said as a sign (#263)"}
 {"at":"2026-11-15T23:07:17Z","by":"grenudi","id":"cf940c7","project":"open-commons-observatory/ocoeco","record":"g-20261115-230535","says":"feat: entering is said by a lens: what an entry asks, and the row it would keep (#325)"}
 {"at":"2026-11-15T22:11:48Z","by":"grenudi","id":"cfbb77c","project":"open-commons-observatory/ocoeco","record":"g-20261115-221028","says":"fix: an entry said in the window is made where it is kept; a mark names a thing to point at (#321)"}
@@ -2227,6 +2229,7 @@
 {"at":"2026-11-11T17:44:49Z","by":"oco harvest","id":"c60df3f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T23:10:39Z","by":"oco harvest","id":"c62639e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T13:03:30Z","by":"grenudi","id":"c678408","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: practice 23 - words are decisions (#57)"}
+{"at":"2026-11-16T10:13:38Z","by":"oco harvest","id":"c67ec70","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T17:32:00Z","by":"oco harvest","id":"c6f4821","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T20:26:40Z","by":"oco harvest","id":"c703f4e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T22:10:35Z","by":"oco harvest","id":"c724c21","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
