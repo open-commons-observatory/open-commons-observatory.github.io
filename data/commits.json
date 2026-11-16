@@ -1199,6 +1199,7 @@
 {"at":"2026-11-14T07:36:48Z","by":"grenudi","id":"6232413","project":"open-commons-observatory/ecosystem","record":"g-20261114-073632","says":"docs: held to its own lens (#44)"}
 {"at":"2026-11-15T15:17:51Z","by":"grenudi","id":"67d41bb","project":"open-commons-observatory/ecosystem","record":"g-20261115-151734","says":"docs: what came of the lab having one way in: a driver speaks with git alone (#106)"}
 {"at":"2026-11-13T23:00:58Z","by":"grenudi","id":"68d0807","project":"open-commons-observatory/ecosystem","record":"g-20261113-230042","says":"docs: the beam and the graph: the author's words, and what the first beams showed (#31)"}
+{"at":"2026-11-16T04:38:06Z","by":"grenudi","id":"68dda41","project":"open-commons-observatory/ecosystem","record":"g-20261116-043748","says":"docs: a connection: a star by its shorter name is its place (#123)"}
 {"at":"2026-11-13T20:03:30Z","by":"grenudi","id":"6b1adb0","project":"open-commons-observatory/ecosystem","record":"g-20261113-200313","says":"docs: the board says what is: the lab's record as a place was done (#26)"}
 {"at":"2026-11-14T21:00:28Z","by":"grenudi","id":"71597d7","project":"open-commons-observatory/ecosystem","record":"g-20261114-210012","says":"docs: read as rows, not yet things: said where it is so, and as a sign (#80)"}
 {"at":"2026-11-14T23:54:24Z","by":"grenudi","id":"73993b4","project":"open-commons-observatory/ecosystem","record":"g-20261114-235407","says":"docs: the sheet: a part taken back, what was reached placed; two signs came to something (#91)"}
@@ -1237,6 +1238,7 @@
 {"at":"2026-11-14T13:50:06Z","by":"grenudi","id":"c8fd9c0","project":"open-commons-observatory/ecosystem","record":"g-20261114-134950","says":"docs: a field's place in order says ordinal (#53)"}
 {"at":"2026-11-13T06:11:38Z","by":"grenudi","id":"ca46280","project":"open-commons-observatory/ecosystem","record":"g-20261113-061122","says":"docs: the route as a red line: seventeen connections, each saying how it is known (#4)"}
 {"at":"2026-11-14T08:42:34Z","by":"grenudi","id":"caa8ced","project":"open-commons-observatory/ecosystem","record":"g-20261114-084218","says":"docs: a sign held back, drawn as a halt (#48)"}
+{"at":"2026-11-16T04:38:51Z","by":"grenudi","id":"d0df31b","project":"open-commons-observatory/ecosystem","record":"g-20261116-043834","says":"docs: a connection: an id kept twice stops a place (#124)"}
 {"at":"2026-11-13T23:33:07Z","by":"grenudi","id":"d308f70","project":"open-commons-observatory/ecosystem","record":"g-20261113-233250","says":"docs: lenses read the graph: what it showed, and what it now asks for (#33)"}
 {"at":"2026-11-13T09:35:30Z","by":"grenudi","id":"d36a295","project":"open-commons-observatory/ecosystem","record":"g-20261113-093514","says":"docs: the whole is discovered, not changed: the author's words (#11)"}
 {"at":"2026-11-13T16:55:00Z","by":"grenudi","id":"d3f1e99","project":"open-commons-observatory/ecosystem","record":"g-20261113-165444","says":"docs: somewhere else made here: the lab's record arrives as the place it is (#17)"}
@@ -1574,6 +1576,7 @@
 {"at":"2026-11-12T18:36:54Z","by":"grenudi","id":"db94b05","project":"open-commons-observatory/ocoeco","record":"g-20261112-183533","says":"fix: ocoeco check brings every lens into focus; a broken lens cannot land (#70)"}
 {"at":"2026-11-14T18:51:42Z","by":"github-actions[bot]","id":"dbe0df5","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.26.1 (#206)"}
 {"at":"2026-11-14T22:36:36Z","by":"grenudi","id":"dcb3c44","project":"open-commons-observatory/ocoeco","record":"g-20261114-223456","says":"docs: what the engine's views show that the fulldome does not: looked at, and said (#239)"}
+{"at":"2026-11-16T04:37:06Z","by":"grenudi","id":"df43446","project":"open-commons-observatory/ocoeco","record":"g-20261116-043514","says":"docs: a sign: a link by a shorter name is not told (#349)"}
 {"at":"2026-11-13T21:39:26Z","by":"grenudi","id":"dfe0a33","project":"open-commons-observatory/ocoeco","record":"g-20261113-213756","says":"fix: a lens not in view from here is said to be so, and the rest is shown (#127)"}
 {"at":"2026-11-10T17:55:06Z","by":"grenudi","id":"e00fbe3","project":"open-commons-observatory/ocoeco","says":"fix: the API's Accept header goes only to the API - empty tables are zero rows (#8)"}
 {"at":"2026-11-14T14:55:29Z","by":"grenudi","id":"e079c85","project":"open-commons-observatory/ocoeco","record":"g-20261114-145409","says":"feat: the top of the walk: a place is a thing, and what it gathers is drawn (#182)"}
@@ -2241,6 +2244,7 @@
 {"at":"2026-11-14T22:39:42Z","by":"oco harvest","id":"f6587a8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T15:17:41Z","by":"oco harvest","id":"f66b535","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T20:46:58Z","by":"oco harvest","id":"f698227","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T04:35:28Z","by":"oco harvest","id":"f742768","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T15:41:18Z","by":"oco harvest","id":"f7a0bd5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T19:40:00Z","by":"grenudi","id":"f7b953e","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261112-193943","says":"feat: the observatory observes: what has run in every place, in the picture (#74)"}
 {"at":"2026-11-14T20:30:55Z","by":"oco harvest","id":"f800551","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
