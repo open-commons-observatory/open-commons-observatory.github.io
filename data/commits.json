@@ -1562,6 +1562,7 @@
 {"at":"2026-11-16T12:57:16Z","by":"grenudi","id":"6d53eb4","project":"open-commons-observatory/ocoeco","record":"g-20261116-125535","says":"docs: an item: a table says which field tells its rows, and 1 more (#396)"}
 {"at":"2026-11-14T13:52:20Z","by":"github-actions[bot]","id":"6f066d5","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.18.1 (#177)"}
 {"at":"2026-11-16T00:19:24Z","by":"grenudi","id":"6f1aca5","project":"open-commons-observatory/ocoeco","record":"g-20261116-001804","says":"feat: an entry is offered only a place that keeps its kind - a lens changed, no program built (#342)"}
+{"at":"2026-11-16T16:05:52Z","by":"grenudi","id":"6f1fed3","project":"open-commons-observatory/ocoeco","record":"g-20261116-160349","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#413)"}
 {"at":"2026-11-11T21:12:37Z","by":"grenudi","id":"6f2aad1","project":"open-commons-observatory/ocoeco","record":"g-20261111-211118","says":"feat: glimpses: record work while fresh; commit from glimpses (#44)"}
 {"at":"2026-11-12T23:17:21Z","by":"grenudi","id":"6fce8f9","project":"open-commons-observatory/ocoeco","record":"g-20261112-231550","says":"feat: a projection is a shape: checked with no data, in the making (#84)"}
 {"at":"2026-11-15T09:21:11Z","by":"github-actions[bot]","id":"703b956","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.41.2 (#265)"}
@@ -2283,6 +2284,7 @@
 {"at":"2026-11-13T19:07:20Z","by":"oco harvest","id":"a1f8764","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T23:48:42Z","by":"oco harvest","id":"a391259","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T23:41:28Z","by":"oco harvest","id":"a3ad15b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T16:05:49Z","by":"oco harvest","id":"a3cbad9","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T22:36:20Z","by":"grenudi","id":"a41239d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the essence of eight more projects - what is written, what is to follow, and two kinds of gap to tell apart (#35)"}
 {"at":"2026-11-10T14:50:14Z","by":"grenudi","id":"a422ea2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"ci: the harvest - every 6 hours, every marked project's tables into data/ (#3)"}
 {"at":"2026-11-11T13:26:27Z","by":"oco harvest","id":"a46ef25","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -2499,6 +2501,7 @@
 {"at":"2026-11-10T17:06:21Z","by":"oco harvest","id":"f2ec34e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T22:14:56Z","by":"oco harvest","id":"f3069f9","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T23:26:42Z","by":"oco harvest","id":"f44dca8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T16:06:29Z","by":"grenudi","id":"f51e85c","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261116-160611","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#105)"}
 {"at":"2026-11-15T05:03:47Z","by":"oco harvest","id":"f5691b3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T22:05:45Z","by":"oco harvest","id":"f5ece4c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T08:23:43Z","by":"oco harvest","id":"f5f0a50","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -2548,6 +2551,7 @@
 {"at":"2026-11-10T21:13:59Z","by":"lab-agent-session","id":"a4f1e1f","project":"rhizome-oco/lens","says":"feat: the Rhizome lens - its grand view, declared as data"}
 {"at":"2026-11-10T22:09:37Z","by":"grenudi","id":"cc7403e","project":"rhizome-oco/lens","says":"feat: the lens shows Rhizome's essence - the whole chain on one page (#2)"}
 {"at":"2026-11-11T00:14:05Z","by":"grenudi","id":"153492e","project":"rhizome-oco/rhizome","says":"docs: Rhizome's workings - what delivered the one step reached (#3)"}
+{"at":"2026-11-16T16:07:04Z","by":"grenudi","id":"201eea1","project":"rhizome-oco/rhizome","record":"g-20261116-160646","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#6)"}
 {"at":"2026-11-10T21:13:48Z","by":"lab-agent-session","id":"4f12dee","project":"rhizome-oco/rhizome","says":"docs: a home for Rhizome - the manifesto, the roadmap, and its concepts, decisions and path as data"}
 {"at":"2026-11-16T14:56:30Z","by":"grenudi","id":"5a72f98","project":"rhizome-oco/rhizome","record":"g-20261116-145613","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#5)"}
 {"at":"2026-11-10T23:00:08Z","by":"grenudi","id":"5b1a3c5","project":"rhizome-oco/rhizome","says":"docs: its idea in Russian (by machine, for a person to correct) (#2)"}
