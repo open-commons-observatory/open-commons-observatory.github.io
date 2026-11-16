@@ -1275,6 +1275,7 @@
 {"at":"2026-11-14T09:43:39Z","by":"github-actions[bot]","id":"0fe2f8d","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.18.0 (#175)"}
 {"at":"2026-11-13T01:21:29Z","by":"grenudi","id":"115b637","project":"open-commons-observatory/ocoeco","record":"g-20261113-012009","says":"fix: a new place can record its work, its reasoning and what is wrong (#90)"}
 {"at":"2026-11-15T13:35:31Z","by":"github-actions[bot]","id":"1261630","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.47.1 (#291)"}
+{"at":"2026-11-16T00:22:41Z","by":"grenudi","id":"12d651f","project":"open-commons-observatory/ocoeco","says":"docs: an item: the language is kept by its place (#344)"}
 {"at":"2026-11-14T01:16:54Z","by":"github-actions[bot]","id":"13eb915","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.14.0 (#156)"}
 {"at":"2026-11-14T16:58:17Z","by":"grenudi","id":"14c26c2","project":"open-commons-observatory/ocoeco","record":"g-20261114-165647","says":"fix: the language asks what a value is; two signs say what looking found (#196)"}
 {"at":"2026-11-13T18:41:57Z","by":"grenudi","id":"152a472","project":"open-commons-observatory/ocoeco","record":"g-20261113-184037","says":"docs: ocoeco is released: taken from its release elsewhere, and looked through (#115)"}
@@ -1543,7 +1544,7 @@
 {"at":"2026-11-15T11:38:07Z","by":"grenudi","id":"d86534b","project":"open-commons-observatory/ocoeco","record":"g-20261115-113645","says":"feat: a change is part of its record of work; an address on a page is a way out (#280)"}
 {"at":"2026-11-14T08:17:41Z","by":"grenudi","id":"d941420","project":"open-commons-observatory/ocoeco","record":"g-20261114-081622","says":"feat: a plane holds planes: the fulldome is a lens placing every lens (#164)"}
 {"at":"2026-11-14T14:27:03Z","by":"grenudi","id":"d94c22b","project":"open-commons-observatory/ocoeco","record":"g-20261114-142543","says":"feat: around: a lens looked through from a thing; how far work can be walked up (#180)"}
-{"at":"2026-11-15T23:34:42Z","by":"grenudi","id":"d9ad633","project":"open-commons-observatory/ocoeco","record":"g-20261115-233312","says":"docs: an item: the language is kept by its place (#334)"}
+{"at":"2026-11-15T23:34:42Z","by":"grenudi","id":"d9ad633","project":"open-commons-observatory/ocoeco","says":"docs: an item: the language is kept by its place (#334)"}
 {"at":"2026-11-14T20:47:02Z","by":"grenudi","id":"d9cf8a8","project":"open-commons-observatory/ocoeco","record":"g-20261114-204531","says":"feat: a route said in the language: git history, read where a place is held (#222)"}
 {"at":"2026-11-12T13:25:27Z","by":"grenudi","id":"d9f9959","project":"open-commons-observatory/ocoeco","record":"g-20261112-132357","says":"docs: a lens has a glimpse: data taken in and given out; the acts are glimpse, observe, show (#61)"}
 {"at":"2026-11-14T09:29:46Z","by":"grenudi","id":"da804a6","project":"open-commons-observatory/ocoeco","record":"g-20261114-092817","says":"docs: research: the simplest lens - identity, three ways in, two ways together, two directions (#173)"}
@@ -2111,6 +2112,7 @@
 {"at":"2026-11-10T16:35:07Z","by":"oco harvest","id":"c8cbe0b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T23:50:50Z","by":"oco harvest","id":"c92b3e2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T22:57:35Z","by":"oco harvest","id":"cae79dc","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T00:24:17Z","by":"grenudi","id":"cb5b2c3","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261116-002359","says":"docs: a practice: a lens of the language is changed in its place (#101)"}
 {"at":"2026-11-15T22:24:21Z","by":"oco harvest","id":"cb6a867","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T22:43:35Z","by":"oco harvest","id":"cc21a73","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T12:03:47Z","by":"oco harvest","id":"cc7470f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -2233,6 +2235,7 @@
 {"at":"2026-11-11T15:07:08Z","by":"oco harvest","id":"fbbda5a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T19:48:43Z","by":"grenudi","id":"fbe1b24","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: a practice - never run two jobs in the same clone at once (#25)"}
 {"at":"2026-11-15T21:51:44Z","by":"oco harvest","id":"fc303b8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T00:22:31Z","by":"oco harvest","id":"fc45b81","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T16:40:33Z","by":"oco harvest","id":"fc49e58","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T08:44:45Z","by":"oco harvest","id":"fcc7d89","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T00:17:01Z","by":"oco harvest","id":"fcfeadb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
