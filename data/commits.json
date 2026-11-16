@@ -160,6 +160,7 @@
 {"at":"2026-11-12T09:50:33Z","by":"grenudi","id":"33e2f21","project":"creation-guidelines/lab-agent","record":"g-20261112-094934","says":"docs: the pulse lives: the lab is watched by a dead man's switch outside GitHub (#160)"}
 {"at":"2026-11-10T00:45:15Z","by":"grenudi","id":"35b5258","project":"creation-guidelines/lab-agent","says":"test: the board keeps the newest message and the reply in view at every window size (#64)"}
 {"at":"2026-11-10T17:39:19Z","by":"github-actions[bot]","id":"35d89ed","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.41 (#102)"}
+{"at":"2026-11-16T13:21:23Z","by":"grenudi","id":"3661d91","project":"creation-guidelines/lab-agent","record":"g-20261116-132016","says":"feat: a change to the language lands checked with every place beside it (#209)"}
 {"at":"2026-11-16T09:24:27Z","by":"grenudi","id":"381e9c0","project":"creation-guidelines/lab-agent","record":"g-20261116-092336","says":"feat: what one saying enters in a place lands as one (#204)"}
 {"at":"2026-11-09T18:59:03Z","by":"grenudi","id":"3bd4366","project":"creation-guidelines/lab-agent","says":"feat: the board as a live TUI, with task states (#40)"}
 {"at":"2026-11-12T02:52:37Z","by":"grenudi","id":"3c2e12f","project":"creation-guidelines/lab-agent","record":"g-20261112-025147","says":"perf: oco-agent asks GitHub conditionally and minds the shared budget (#148)"}
@@ -832,6 +833,7 @@
 {"at":"2026-11-15T08:33:19Z","by":"oco observe","id":"4e0e1d4","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T07:05:05Z","by":"oco observe","id":"4e4c59f","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T16:06:39Z","by":"oco observe","id":"4f56474","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T13:15:05Z","by":"oco observe","id":"4fb42a1","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:37:39Z","by":"oco observe","id":"509c0ec","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T17:18:17Z","by":"oco observe","id":"50db23b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T00:14:03Z","by":"oco observe","id":"51bf1aa","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1736,7 +1738,9 @@
 {"at":"2026-11-13T19:15:42Z","by":"grenudi","id":"fc19bc5","project":"open-commons-observatory/ocoeco","record":"g-20261113-191432","says":"fix: the lab does not cry wolf: a run replaced is not said to fail (#121)"}
 {"at":"2026-11-16T00:31:20Z","by":"grenudi","id":"fd08413","project":"open-commons-observatory/ocoeco","record":"g-20261116-002939","says":"docs: a sign: the window shows only the headings of what a lens places (#345)"}
 {"at":"2026-11-15T00:13:04Z","by":"github-actions[bot]","id":"fd27f32","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.38.0 (#252)"}
+{"at":"2026-11-16T13:16:52Z","by":"grenudi","id":"fd75caf","project":"open-commons-observatory/ocoeco","record":"g-20261116-131458","says":"feat: a change to the language is checked where it is read, in every place's lenses (#398)"}
 {"at":"2026-11-13T06:58:05Z","by":"grenudi","id":"fdc1cfb","project":"open-commons-observatory/ocoeco","record":"g-20261113-065645","says":"docs: ocoeco on argenv is next: entries become real commands (#96)"}
+{"at":"2026-11-16T13:17:27Z","by":"github-actions[bot]","id":"ff16fc0","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.70.0 (#399)"}
 {"at":"2026-11-10T21:49:19Z","by":"grenudi","id":"03097fd","project":"open-commons-observatory/ocoeco-engine","says":"fix(site): a lens's idea page opens with the project's name (#31)"}
 {"at":"2026-11-10T16:43:18Z","by":"grenudi","id":"0369d50","project":"open-commons-observatory/ocoeco-engine","says":"feat(site): the observatory's own family as its sub-views - ocoeco, its backbone, among them (#13)"}
 {"at":"2026-11-10T19:08:25Z","by":"grenudi","id":"038064d","project":"open-commons-observatory/ocoeco-engine","says":"fix(site): four things only eyes found - unknown reads as unknown, lenses name rows and order groups (#24)"}
@@ -1915,6 +1919,7 @@
 {"at":"2026-11-11T14:53:03Z","by":"oco harvest","id":"36a3296","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T06:29:36Z","by":"oco harvest","id":"36d8c82","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T09:07:40Z","by":"oco harvest","id":"36fca93","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T13:08:20Z","by":"oco harvest","id":"37442c4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T17:32:43Z","by":"oco harvest","id":"3767809","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T20:27:16Z","by":"grenudi","id":"3802119","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261114-202700","says":"docs: the practice says how where a guideline is shown is entered (#82)"}
 {"at":"2026-11-11T10:53:21Z","by":"oco harvest","id":"38040dd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
