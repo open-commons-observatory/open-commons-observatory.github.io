@@ -293,6 +293,7 @@
 {"at":"2026-11-10T02:47:47Z","by":"grenudi","id":"de0ef26","project":"creation-guidelines/lab-agent","says":"docs: how work is done here - the lab machine, land, reading messages before acknowledging (#69)"}
 {"at":"2026-11-10T03:02:06Z","by":"grenudi","id":"de6dbbb","project":"creation-guidelines/lab-agent","says":"feat: the status bar at the top of the board (#71)"}
 {"at":"2026-11-04T19:30:56Z","by":"grenudi","id":"dea43d4","project":"creation-guidelines/lab-agent","says":"chore: .gitignore, and remove a build artifact (#2)"}
+{"at":"2026-11-16T11:47:16Z","by":"grenudi","id":"dfbdf88","project":"creation-guidelines/lab-agent","record":"g-20261116-114626","says":"feat: every job says where the language's place is held on the lab (#208)"}
 {"at":"2026-11-10T13:11:40Z","by":"github-actions[bot]","id":"e10a6dc","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.37 (#94)"}
 {"at":"2026-11-09T22:41:06Z","by":"github-actions[bot]","id":"e29a4f6","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.21 (#56)"}
 {"at":"2026-11-12T01:58:55Z","by":"grenudi","id":"e2bfd9a","project":"creation-guidelines/lab-agent","record":"g-20261112-015807","says":"feat: the shadow run: oco-agent judges lab-agent's work every ten minutes (#142)"}
@@ -2196,6 +2197,7 @@
 {"at":"2026-11-11T23:44:44Z","by":"grenudi","id":"ad348b8","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261111-234429","says":"docs: the look-around practice: find why a thing exists before replacing it (#70)"}
 {"at":"2026-11-11T21:49:40Z","by":"oco harvest","id":"ad5ea01","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T08:32:24Z","by":"oco harvest","id":"adb6ab5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T11:44:55Z","by":"oco harvest","id":"add17cb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T13:05:03Z","by":"oco harvest","id":"ade2537","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T00:28:43Z","by":"oco harvest","id":"aece638","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T15:20:16Z","by":"grenudi","id":"af13c91","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-152000","says":"docs: working on the lab: a fresh workspace gets there by itself, with no token (#92)"}
