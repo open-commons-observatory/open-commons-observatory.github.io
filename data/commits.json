@@ -1370,6 +1370,7 @@
 {"at":"2026-11-15T08:51:49Z","by":"github-actions[bot]","id":"525eddc","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.41.1 (#262)"}
 {"at":"2026-11-15T09:59:56Z","by":"grenudi","id":"529f627","project":"open-commons-observatory/ocoeco","record":"g-20261115-095824","says":"docs: what the language's own names mean: fifty-one words (#272)"}
 {"at":"2026-11-12T11:40:26Z","by":"grenudi","id":"5470c24","project":"open-commons-observatory/ocoeco","record":"g-20261112-113917","says":"docs: the whole is the fulldome: one sky, no walls; ocoeco is the agreement (#51)"}
+{"at":"2026-11-16T04:31:51Z","by":"grenudi","id":"551fd75","project":"open-commons-observatory/ocoeco","record":"g-20261116-043008","says":"fix: a star by its shorter name is its place: links are told, and stop by the lens (#347)"}
 {"at":"2026-11-13T18:33:07Z","by":"github-actions[bot]","id":"55b6188","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.2.1 (#114)"}
 {"at":"2026-11-15T23:57:58Z","by":"grenudi","id":"561e2b2","project":"open-commons-observatory/ocoeco","record":"g-20261115-235628","says":"docs: a sign: an entry is offered a place that does not keep its kind (#339)"}
 {"at":"2026-11-14T15:48:47Z","by":"github-actions[bot]","id":"564e7ab","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.23.0 (#189)"}
@@ -1524,6 +1525,7 @@
 {"at":"2026-11-13T23:54:11Z","by":"github-actions[bot]","id":"be56d8e","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.9.0 (#140)"}
 {"at":"2026-11-15T18:59:33Z","by":"github-actions[bot]","id":"bf34199","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.50.0 (#305)"}
 {"at":"2026-11-12T19:39:36Z","by":"grenudi","id":"bf89473","project":"open-commons-observatory/ocoeco","record":"g-20261112-193815","says":"feat: observe what has run: a failing run is a problem the picture shows (#71)"}
+{"at":"2026-11-16T04:32:22Z","by":"github-actions[bot]","id":"bfaa72e","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.60.1 (#348)"}
 {"at":"2026-11-10T17:58:54Z","by":"grenudi","id":"c0b01b8","project":"open-commons-observatory/ocoeco","says":"fix: the token, like the media type, goes only to the API (#9)"}
 {"at":"2026-11-14T21:00:00Z","by":"github-actions[bot]","id":"c2bd414","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.31.0 (#225)"}
 {"at":"2026-11-12T21:22:34Z","by":"grenudi","id":"c319fc9","project":"open-commons-observatory/ocoeco","record":"g-20261112-212124","says":"feat: the dome is the port, surfaces its adapters; markdown the second surface (#78)"}
@@ -1840,6 +1842,7 @@
 {"at":"2026-11-14T21:57:46Z","by":"oco harvest","id":"4a30d93","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T08:55:26Z","by":"oco harvest","id":"4abd005","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T18:15:14Z","by":"oco harvest","id":"4aeb830","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T04:20:51Z","by":"oco harvest","id":"4c490c7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T23:00:51Z","by":"grenudi","id":"4cbd2cb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"docs: its idea in Russian (by machine, for a person to correct) (#37)"}
 {"at":"2026-11-12T02:41:02Z","by":"oco harvest","id":"4cff19f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T07:40:37Z","by":"oco harvest","id":"4d48ffd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
