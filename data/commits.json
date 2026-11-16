@@ -589,6 +589,7 @@
 {"at":"2026-11-11T00:20:14Z","by":"grenudi","id":"07e678b","project":"linux-phone-oco/lab-tools","says":"feat(devlab): a listening test needs the word that the microphone is placed (#20)"}
 {"at":"2026-11-10T14:21:54Z","by":"grenudi","id":"10bc1be","project":"linux-phone-oco/lab-tools","says":"chore: the observatory's mark (oco.toml) (#9)"}
 {"at":"2026-11-11T09:36:58Z","by":"grenudi","id":"19ada91","project":"linux-phone-oco/lab-tools","says":"docs: this morning's findings, with concepts and decisions (#23)"}
+{"at":"2026-11-16T23:29:04Z","by":"grenudi","id":"1ab2ce7","project":"linux-phone-oco/lab-tools","record":"g-20261116-232816","says":"feat: The phone checks its own health after every boot: devlab-health and devlab suite (#29)"}
 {"at":"2026-11-10T12:38:33Z","by":"grenudi","id":"25e5fe4","project":"linux-phone-oco/lab-tools","says":"feat: devlab test, health and watch - regressions caught, silence when all is well (#5)"}
 {"at":"2026-11-10T11:43:09Z","by":"grenudi","id":"2b14996","project":"linux-phone-oco/lab-tools","says":"feat: devlab - the device lab for any phone, from its manifest; step 1, reaching the phone (#1)"}
 {"at":"2026-11-11T21:37:29Z","by":"grenudi","id":"2b36565","project":"linux-phone-oco/lab-tools","record":"g-20261111-213639","says":"chore: glimpses are recorded here from now on (#26)"}
@@ -645,6 +646,7 @@
 {"at":"2026-11-11T10:25:16Z","by":"grenudi","id":"581e671","project":"linux-phone-oco/surya-lab","says":"docs: the port table cleared; the next step is tracing the bus (#52)"}
 {"at":"2026-11-10T02:45:07Z","by":"grenudi","id":"59873b0","project":"linux-phone-oco/surya-lab","says":"refactor: one phone library for every script - no nested quoting, USB or Wi-Fi (#12)"}
 {"at":"2026-11-10T17:38:22Z","by":"grenudi","id":"5c716e4","project":"linux-phone-oco/surya-lab","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#36)"}
+{"at":"2026-11-16T23:30:19Z","by":"grenudi","id":"5dd7806","project":"linux-phone-oco/surya-lab","record":"g-20261116-232952","says":"feat: surya checks its own health after every boot: [health] and its amplifier checks (#70)"}
 {"at":"2026-11-09T14:16:59Z","by":"grenudi","id":"5ed017a","project":"linux-phone-oco/surya-lab","says":"fix: resolve the revision before checking it out"}
 {"at":"2026-11-10T11:14:04Z","by":"grenudi","id":"620c5da","project":"linux-phone-oco/surya-lab","says":"feat/test entry boot counting (#26)"}
 {"at":"2026-11-09T14:15:39Z","by":"grenudi","id":"6730419","project":"linux-phone-oco/surya-lab","says":"Initial commit"}
@@ -784,6 +786,7 @@
 {"at":"2026-11-16T07:33:23Z","by":"oco observe","id":"1f0744c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T17:48:22Z","by":"oco observe","id":"1f5dd97","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T13:33:09Z","by":"oco observe","id":"1f97027","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T23:20:22Z","by":"oco observe","id":"20aaf71","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T23:59:25Z","by":"oco observe","id":"220a4ee","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T18:20:53Z","by":"oco observe","id":"221abf6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T16:14:28Z","by":"oco observe","id":"22ed948","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -848,6 +851,7 @@
 {"at":"2026-11-14T17:18:10Z","by":"oco observe","id":"3def3cf","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T09:36:05Z","by":"oco observe","id":"3e4ca67","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:09:28Z","by":"oco observe","id":"404aac8","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T23:30:28Z","by":"oco observe","id":"404bcb5","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T16:40:39Z","by":"oco observe","id":"40c08a8","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:40:49Z","by":"oco observe","id":"40cf205","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T04:56:44Z","by":"grenudi","id":"40dccff","project":"marshall-oco/marshall-oco.github.io","record":"g-20261115-045628","says":"feat: this observatory says its site: the whole, and a page for each place (#14)"}
@@ -2284,6 +2288,7 @@
 {"at":"2026-11-14T19:15:33Z","by":"oco harvest","id":"7743de8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T20:56:14Z","by":"oco harvest","id":"774497f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T20:42:31Z","by":"oco harvest","id":"7756d1f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T22:53:28Z","by":"oco harvest","id":"78252d7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T05:17:03Z","by":"oco harvest","id":"785509e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T18:39:10Z","by":"oco harvest","id":"78f7f7a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T09:19:40Z","by":"oco harvest","id":"790d902","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
