@@ -1369,6 +1369,7 @@
 {"at":"2026-11-15T08:40:46Z","by":"grenudi","id":"158f011","project":"open-commons-observatory/ocoeco","record":"g-20261115-083916","says":"refactor: the program lets the page go: a lens says it; a beam says what took how long (#260)"}
 {"at":"2026-11-12T13:47:16Z","by":"grenudi","id":"1682c01","project":"open-commons-observatory/ocoeco","record":"g-20261112-134534","says":"refactor: the lenses hold the shared language: regrouped, proven unchanged (#63)"}
 {"at":"2026-11-12T11:11:06Z","by":"grenudi","id":"187f4f1","project":"open-commons-observatory/ocoeco","record":"g-20261112-110955","says":"docs: the room: the board is the open commons' obeya; star, constellation, lens, observer (#50)"}
+{"at":"2026-11-16T12:47:47Z","by":"grenudi","id":"18b8f1f","project":"open-commons-observatory/ocoeco","record":"g-20261116-124613","says":"feat: a table says how its rows are told in a few words, as it says which field dates them (#393)"}
 {"at":"2026-11-15T23:29:56Z","by":"grenudi","id":"1981286","project":"open-commons-observatory/ocoeco","record":"g-20261115-232804","says":"fix: of what was marked, an entry is offered what fits; one mark for one thing (#332)"}
 {"at":"2026-11-15T07:03:01Z","by":"grenudi","id":"1a09d4e","project":"open-commons-observatory/ocoeco","record":"g-20261115-070109","says":"feat: a step says when: who stood where, as a row of a place the machine holds (#258)"}
 {"at":"2026-11-16T11:51:58Z","by":"grenudi","id":"1a20bbc","project":"open-commons-observatory/ocoeco","record":"g-20261116-115047","says":"docs: a sign: a place s check read the language the program carries, and 1 more (#388)"}
@@ -1567,6 +1568,7 @@
 {"at":"2026-11-14T19:42:11Z","by":"github-actions[bot]","id":"9aa9b66","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.28.0 (#213)"}
 {"at":"2026-11-16T04:40:59Z","by":"grenudi","id":"9ad5b78","project":"open-commons-observatory/ocoeco","says":"docs: an item: the check said by a lens (#350)"}
 {"at":"2026-11-15T22:12:19Z","by":"github-actions[bot]","id":"9b9d384","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.55.1 (#322)"}
+{"at":"2026-11-16T12:48:19Z","by":"github-actions[bot]","id":"9bd21b6","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.69.0 (#394)"}
 {"at":"2026-11-15T12:43:34Z","by":"github-actions[bot]","id":"9c088fb","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.46.1 (#287)"}
 {"at":"2026-11-11T11:16:48Z","by":"grenudi","id":"9cd4658","project":"open-commons-observatory/ocoeco","says":"feat(check): name the tables a repository keeps but does not export (#27)"}
 {"at":"2026-11-14T23:32:06Z","by":"grenudi","id":"9e390bd","project":"open-commons-observatory/ocoeco","record":"g-20261114-233036","says":"docs: the names of the language say what they mean: thirty-nine words (#245)"}
@@ -2427,6 +2429,7 @@
 {"at":"2026-11-16T00:22:31Z","by":"oco harvest","id":"fc45b81","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T16:40:33Z","by":"oco harvest","id":"fc49e58","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T08:44:45Z","by":"oco harvest","id":"fcc7d89","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T12:46:50Z","by":"oco harvest","id":"fceb98a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T00:17:01Z","by":"oco harvest","id":"fcfeadb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T19:02:18Z","by":"oco harvest","id":"fd2f3bd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T12:53:32Z","by":"oco harvest","id":"fd404db","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
