@@ -597,6 +597,7 @@
 {"at":"2026-11-11T21:37:29Z","by":"grenudi","id":"2b36565","project":"linux-phone-oco/lab-tools","record":"g-20261111-213639","says":"chore: glimpses are recorded here from now on (#26)"}
 {"at":"2026-11-10T11:46:34Z","by":"grenudi","id":"33f7424","project":"linux-phone-oco/lab-tools","says":"feat: devlab kernel - the safe test-kernel boot, for any phone (#2)"}
 {"at":"2026-11-10T16:40:31Z","by":"grenudi","id":"41cc1ab","project":"linux-phone-oco/lab-tools","says":"chore(mark): a short title - devlab (#11)"}
+{"at":"2026-11-16T23:46:28Z","by":"grenudi","id":"41fa86c","project":"linux-phone-oco/lab-tools","record":"g-20261116-234539","says":"feat: Every change ends with the phone's health: reboot, kernel try, provision (#31)"}
 {"at":"2026-11-10T13:32:41Z","by":"grenudi","id":"473d87c","project":"linux-phone-oco/lab-tools","says":"feat: devlab provision - a freshly flashed phone gets its packages, files and Wi-Fi (#7)"}
 {"at":"2026-11-10T22:45:03Z","by":"grenudi","id":"4d2c83d","project":"linux-phone-oco/lab-tools","says":"feat(devlab): health --hear - a silent speaker is a regression like any other (#17)"}
 {"at":"2026-11-16T14:52:18Z","by":"grenudi","id":"5be562f","project":"linux-phone-oco/lab-tools","record":"g-20261116-145006","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#27)"}
@@ -2378,6 +2379,7 @@
 {"at":"2026-11-12T13:50:08Z","by":"oco harvest","id":"92f5f14","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T15:44:12Z","by":"oco harvest","id":"9334002","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T10:25:11Z","by":"oco harvest","id":"93b5d49","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T23:46:06Z","by":"oco harvest","id":"9450d3d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T00:48:26Z","by":"oco harvest","id":"9475d13","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T19:11:04Z","by":"grenudi","id":"94a0678","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261112-191047","says":"fix: the harvest's guard can rebase: proven against a staged collision (#73)"}
 {"at":"2026-11-16T12:51:19Z","by":"oco harvest","id":"961b514","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
