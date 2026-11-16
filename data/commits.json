@@ -3,6 +3,7 @@
 {"at":"2026-11-11T21:39:15Z","by":"grenudi","id":"df64bf0","project":"Mnemonic-Vocabulary-org/lens","record":"g-20261111-213900","says":"chore: glimpses are recorded here from now on (#1)"}
 {"at":"2026-11-11T21:39:38Z","by":"grenudi","id":"a34b8e3","project":"Mnemonic-Vocabulary-org/mnemonic-vocabulary-oco","record":"g-20261111-213922","says":"chore: glimpses are recorded here from now on (#1)"}
 {"at":"2026-11-10T19:36:35Z","by":"lab-agent-session","id":"ab074d6","project":"Mnemonic-Vocabulary-org/mnemonic-vocabulary-oco","says":"docs: a place for Mnemonic Vocabulary - the idea, its concepts, backlog and path, kept as data"}
+{"at":"2026-11-16T14:54:54Z","by":"grenudi","id":"e1d0841","project":"Mnemonic-Vocabulary-org/mnemonic-vocabulary-oco","record":"g-20261116-145437","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#2)"}
 {"at":"2026-09-24T15:48:40Z","by":"grenudi","id":"01cd0e4","project":"argenv-opencommons/argenv","says":"refactor!: remove positional args and gated inputs, rename model! to contract!"}
 {"at":"2026-07-23T10:26:46Z","by":"grenudi","id":"02851f0","project":"argenv-opencommons/argenv","says":"major: reshape"}
 {"at":"2026-09-24T02:37:46Z","by":"grenudi","id":"04f4f3a","project":"argenv-opencommons/argenv","says":"docs(example): apt — gated positionals, two branches sharing a slot"}
@@ -577,6 +578,7 @@
 {"at":"2026-11-10T16:40:31Z","by":"grenudi","id":"41cc1ab","project":"linux-phone-oco/lab-tools","says":"chore(mark): a short title - devlab (#11)"}
 {"at":"2026-11-10T13:32:41Z","by":"grenudi","id":"473d87c","project":"linux-phone-oco/lab-tools","says":"feat: devlab provision - a freshly flashed phone gets its packages, files and Wi-Fi (#7)"}
 {"at":"2026-11-10T22:45:03Z","by":"grenudi","id":"4d2c83d","project":"linux-phone-oco/lab-tools","says":"feat(devlab): health --hear - a silent speaker is a regression like any other (#17)"}
+{"at":"2026-11-16T14:52:18Z","by":"grenudi","id":"5be562f","project":"linux-phone-oco/lab-tools","record":"g-20261116-145006","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#27)"}
 {"at":"2026-11-10T13:03:52Z","by":"grenudi","id":"5f3aac7","project":"linux-phone-oco/lab-tools","says":"feat: devlab kernel install --cmdline - extra kernel options for a test entry only (#6)"}
 {"at":"2026-11-11T14:33:32Z","by":"grenudi","id":"62cc1e4","project":"linux-phone-oco/lab-tools","says":"feat(devlab): health waits for the phone to settle before checking (#25)"}
 {"at":"2026-11-10T19:44:45Z","by":"grenudi","id":"7032731","project":"linux-phone-oco/lab-tools","says":"chore: gathered data lives on the oco-data branch - main is the history of the work (#13)"}
@@ -618,6 +620,7 @@
 {"at":"2026-11-09T23:55:24Z","by":"grenudi","id":"32e1a1f","project":"linux-phone-oco/surya-lab","says":"fix: no depmod from the PC when baking in the amp module (#7)"}
 {"at":"2026-11-10T22:03:59Z","by":"grenudi","id":"3618fa7","project":"linux-phone-oco/surya-lab","says":"feat: the tones the lab's ear listens for; both speakers heard by a machine (#41)"}
 {"at":"2026-11-12T13:07:30Z","by":"grenudi","id":"3643d40","project":"linux-phone-oco/surya-lab","record":"g-20261112-130702","says":"fix: decisions about the phone's milestones name the star that keeps them (#67)"}
+{"at":"2026-11-16T14:53:02Z","by":"grenudi","id":"4d0335f","project":"linux-phone-oco/surya-lab","record":"g-20261116-145232","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#68)"}
 {"at":"2026-11-11T14:33:58Z","by":"grenudi","id":"5040455","project":"linux-phone-oco/surya-lab","says":"data: waiting for the phone to settle is automated (#59)"}
 {"at":"2026-11-10T02:59:54Z","by":"grenudi","id":"57dfa81","project":"linux-phone-oco/surya-lab","says":"feat(provision): install this phone's Sxmo device profile until sxmo-utils ships it (#14)"}
 {"at":"2026-11-11T10:25:16Z","by":"grenudi","id":"581e671","project":"linux-phone-oco/surya-lab","says":"docs: the port table cleared; the next step is tracing the bus (#52)"}
@@ -678,6 +681,7 @@
 {"at":"2026-11-10T04:10:44Z","by":"grenudi","id":"ef3e8ff","project":"linux-phone-oco/surya-lab","says":"feat(tests): the ADSP check says how many crashes came right after a resume (#17)"}
 {"at":"2026-11-11T12:59:38Z","by":"grenudi","id":"efbac1e","project":"linux-phone-oco/surya-lab","says":"data: hand-work is manual work, with its events (#57)"}
 {"at":"2026-11-10T20:35:23Z","by":"grenudi","id":"f8c1406","project":"linux-phone-oco/surya-lab","says":"fix: the suspend crash - hexagonrpcd's RootPD helper masked in the manifest; the resume counter counts (#39)"}
+{"at":"2026-11-16T14:53:44Z","by":"grenudi","id":"0242136","project":"linux-phone-oco/sxmo-deviceprofiles","record":"g-20261116-145315","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#8)"}
 {"at":"2026-11-11T15:51:13Z","by":"grenudi","id":"13fbcbd","project":"linux-phone-oco/sxmo-deviceprofiles","says":"docs: the wrap-up pass - settled with a reason (#6)"}
 {"at":"2026-11-10T11:57:20Z","by":"lab-agent-session","id":"1dc3d8b","project":"linux-phone-oco/sxmo-deviceprofiles","says":"feat: Sxmo device profiles for Linux phones - the POCO X3 NFC (surya) first"}
 {"at":"2026-11-10T19:45:07Z","by":"grenudi","id":"2195d86","project":"linux-phone-oco/sxmo-deviceprofiles","says":"chore: gathered data lives on the oco-data branch - main is the history of the work (#5)"}
@@ -1102,6 +1106,7 @@
 {"at":"2026-11-15T19:13:45Z","by":"oco observe","id":"cd11477","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T02:03:14Z","by":"oco observe","id":"cd92c00","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T09:11:18Z","by":"oco observe","id":"cfbd486","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T14:54:24Z","by":"grenudi","id":"d02e7a7","project":"marshall-oco/marshall-oco.github.io","record":"g-20261116-145407","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#28)"}
 {"at":"2026-11-14T21:03:15Z","by":"oco observe","id":"d059e19","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T03:33:24Z","by":"oco observe","id":"d111d7a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T08:42:04Z","by":"grenudi","id":"d1e3b71","project":"marshall-oco/marshall-oco.github.io","record":"g-20261114-084148","says":"docs: the sheet says what each sign waits on (#5)"}
@@ -1322,6 +1327,7 @@
 {"at":"2026-11-13T12:00:33Z","by":"grenudi","id":"ba412a2","project":"open-commons-observatory/ecosystem","record":"g-20261113-120017","says":"docs: the flow is continuous: the author's words, and what the lab already keeps (#15)"}
 {"at":"2026-11-14T23:47:11Z","by":"grenudi","id":"c017894","project":"open-commons-observatory/ecosystem","record":"g-20261114-234655","says":"refactor: what a surface has: one name for one thing, holds left to mean a pointing holds (#90)"}
 {"at":"2026-11-14T23:20:48Z","by":"grenudi","id":"c28bc07","project":"open-commons-observatory/ecosystem","record":"g-20261114-232032","says":"docs: not fixed on a surface: the author's words, and what came of the sign (#87)"}
+{"at":"2026-11-16T14:55:27Z","by":"grenudi","id":"c42761a","project":"open-commons-observatory/ecosystem","record":"g-20261116-145508","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#146)"}
 {"at":"2026-11-13T11:33:07Z","by":"grenudi","id":"c5d6443","project":"open-commons-observatory/ecosystem","record":"g-20261113-113252","says":"docs: argenv is a lens's glimpse and a surface that reads back: the author's words (#14)"}
 {"at":"2026-11-14T13:50:06Z","by":"grenudi","id":"c8fd9c0","project":"open-commons-observatory/ecosystem","record":"g-20261114-134950","says":"docs: a field's place in order says ordinal (#53)"}
 {"at":"2026-11-16T12:38:00Z","by":"grenudi","id":"c8ff9fb","project":"open-commons-observatory/ecosystem","record":"g-20261116-123744","says":"docs: a connection: the page reads the language as its place keeps it (#140)"}
@@ -1971,6 +1977,7 @@
 {"at":"2026-11-10T15:50:43Z","by":"grenudi","id":"3d0cd94","project":"open-commons-observatory/open-commons-observatory.github.io","says":"feat(data): a practice - change only what you mean to, never by copying whole files from a stale copy (#7)"}
 {"at":"2026-11-16T09:34:56Z","by":"oco harvest","id":"3d2cada","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T09:11:33Z","by":"oco harvest","id":"3d54da3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T14:52:36Z","by":"oco harvest","id":"3d597a3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T12:45:32Z","by":"grenudi","id":"3d5d8e3","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-124514","says":"docs: the inbox: shown where it was not read, and what the voice had said (#87)"}
 {"at":"2026-11-13T06:13:10Z","by":"oco harvest","id":"3d661d5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T14:19:47Z","by":"grenudi","id":"3d7fbdd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"docs: the mark, schema 1 - oco.toml, the oco-project topic, the standard tables (#1)"}
