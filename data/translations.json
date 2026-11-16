@@ -320,6 +320,18 @@
 {"by":"machine","column":"title","id":"lens_parts:around/7:title:ru","lang":"ru","project":"open-commons-observatory/ocoeco","row":"around/7","table":"lens_parts","text":"что хранит, по видам ({count})"}
 {"by":"machine","column":"title","id":"lens_parts:around/8:title:ru","lang":"ru","project":"open-commons-observatory/ocoeco","row":"around/8","table":"lens_parts","text":"к чему стремится ({count})"}
 {"by":"machine","column":"title","id":"lens_parts:around/9:title:ru","lang":"ru","project":"open-commons-observatory/ocoeco","row":"around/9","table":"lens_parts","text":"зачем оно существует, своими словами ({count})"}
+{"by":"machine","column":"term","id":"vocabulary:chain:term:ru","lang":"ru","project":"open-commons-observatory/ocoeco","row":"chain","table":"vocabulary","text":"цепь"}
+{"by":"machine","column":"term","id":"vocabulary:decision:term:ru","lang":"ru","project":"open-commons-observatory/ocoeco","row":"decision","table":"vocabulary","text":"решение"}
+{"by":"machine","column":"term","id":"vocabulary:entry:term:ru","lang":"ru","project":"open-commons-observatory/ocoeco","row":"entry","table":"vocabulary","text":"запись"}
+{"by":"machine","column":"term","id":"vocabulary:lens:term:ru","lang":"ru","project":"open-commons-observatory/ocoeco","row":"lens","table":"vocabulary","text":"линза"}
+{"by":"machine","column":"term","id":"vocabulary:part:term:ru","lang":"ru","project":"open-commons-observatory/ocoeco","row":"part","table":"vocabulary","text":"часть"}
+{"by":"machine","column":"term","id":"vocabulary:plane:term:ru","lang":"ru","project":"open-commons-observatory/ocoeco","row":"plane","table":"vocabulary","text":"плоскость"}
+{"by":"machine","column":"term","id":"vocabulary:relation:term:ru","lang":"ru","project":"open-commons-observatory/ocoeco","row":"relation","table":"vocabulary","text":"связь"}
+{"by":"machine","column":"term","id":"vocabulary:shape:term:ru","lang":"ru","project":"open-commons-observatory/ocoeco","row":"shape","table":"vocabulary","text":"форма"}
+{"by":"machine","column":"term","id":"vocabulary:sign:term:ru","lang":"ru","project":"open-commons-observatory/ocoeco","row":"sign","table":"vocabulary","text":"знак"}
+{"by":"machine","column":"term","id":"vocabulary:surface:term:ru","lang":"ru","project":"open-commons-observatory/ocoeco","row":"surface","table":"vocabulary","text":"поверхность"}
+{"by":"machine","column":"term","id":"vocabulary:thing:term:ru","lang":"ru","project":"open-commons-observatory/ocoeco","row":"thing","table":"vocabulary","text":"вещь"}
+{"by":"machine","column":"term","id":"vocabulary:trail:term:ru","lang":"ru","project":"open-commons-observatory/ocoeco","row":"trail","table":"vocabulary","text":"след"}
 {"by":"machine","column":"how","id":"workings:w-01:how:ru","lang":"ru","project":"open-commons-observatory/ocoeco","row":"w-01","table":"workings","text":"Договорённости, записанные: метка, общие таблицы, то, как данные одного проекта питают другой."}
 {"by":"machine","column":"what","id":"workings:w-01:what:ru","lang":"ru","project":"open-commons-observatory/ocoeco","row":"w-01","table":"workings","text":"Спецификация"}
 {"by":"machine","column":"why","id":"workings:w-01:why:ru","lang":"ru","project":"open-commons-observatory/ocoeco","row":"w-01","table":"workings","text":"Без одного языка ничего нельзя собрать."}

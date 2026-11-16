@@ -1489,6 +1489,7 @@
 {"at":"2026-11-12T13:13:36Z","by":"grenudi","id":"1c04d71","project":"open-commons-observatory/ocoeco","record":"g-20261112-131216","says":"fix: in criteria, what carries an @ is a condition, not a link (#58)"}
 {"at":"2026-11-14T23:20:15Z","by":"github-actions[bot]","id":"1cb9a80","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.35.0 (#244)"}
 {"at":"2026-11-13T19:01:39Z","by":"github-actions[bot]","id":"1cc5be8","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.3.0 (#117)"}
+{"at":"2026-11-16T22:42:22Z","by":"grenudi","id":"1e3bce1","project":"open-commons-observatory/ocoeco","record":"g-20261116-224030","says":"docs: a part: one language/nameless (#448)"}
 {"at":"2026-11-12T23:54:39Z","by":"grenudi","id":"200d80c","project":"open-commons-observatory/ocoeco","record":"g-20261112-235248","says":"feat: text as a screen: shapes fitted into a width, nothing reaching past it (#85)"}
 {"at":"2026-11-12T22:07:14Z","by":"grenudi","id":"20d9e9f","project":"open-commons-observatory/ocoeco","record":"g-20261112-220553","says":"feat: a lens adds meaning, a surface adds looks: a measure, shown three ways (#81)"}
 {"at":"2026-11-12T18:27:33Z","by":"grenudi","id":"21cbd74","project":"open-commons-observatory/ocoeco","record":"g-20261112-182613","says":"feat: every lens glimpses: eleven entries, the computer supplies date and who (#68)"}
@@ -1528,6 +1529,7 @@
 {"at":"2026-11-16T12:35:48Z","by":"grenudi","id":"3ab449a","project":"open-commons-observatory/ocoeco","record":"g-20261116-123355","says":"docs: a part: signs/1, and 2 more (#391)"}
 {"at":"2026-11-13T17:28:35Z","by":"grenudi","id":"3ad44a8","project":"open-commons-observatory/ocoeco","record":"g-20261113-172725","says":"feat: the lens of language: the lenses themselves as rows, looked at through a lens (#109)"}
 {"at":"2026-11-13T06:37:43Z","by":"grenudi","id":"3b0f4d1","project":"open-commons-observatory/ocoeco","record":"g-20261113-063633","says":"feat: hands in the fulldome: an entry made from the terminal, guarded (#95)"}
+{"at":"2026-11-16T22:45:29Z","by":"grenudi","id":"3b24fcc","project":"open-commons-observatory/ocoeco","record":"g-20261116-224337","says":"docs: a translation: vocabulary:sign:term:ru, and 11 more (#449)"}
 {"at":"2026-11-13T09:06:19Z","by":"grenudi","id":"3b4012b","project":"open-commons-observatory/ocoeco","record":"g-20261113-090509","says":"docs: ocoeco on argenv waits on argenv: tried, where before it was read (#102)"}
 {"at":"2026-11-12T13:16:23Z","by":"grenudi","id":"3b6822c","project":"open-commons-observatory/ocoeco","record":"g-20261112-131421","says":"docs: the count, written from the check: 0 links lead nowhere (#59)"}
 {"at":"2026-11-14T09:43:25Z","by":"grenudi","id":"3b9b16f","project":"open-commons-observatory/ocoeco","record":"g-20261114-094156","says":"fix: the lens of language gets what it puts: it counts the relations (#176)"}
@@ -2302,6 +2304,7 @@
 {"at":"2026-11-10T19:10:26Z","by":"oco harvest","id":"7e17139","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T07:06:18Z","by":"oco harvest","id":"7e3d44c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T17:41:46Z","by":"oco harvest","id":"7e5b8b4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T22:42:24Z","by":"oco harvest","id":"7e79f24","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T19:07:05Z","by":"grenudi","id":"7e8623b","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-190648","says":"docs: the ways as they are now: a look one step up, never cut by hand; handwork counted (#97)"}
 {"at":"2026-11-13T08:49:10Z","by":"oco harvest","id":"7eeab26","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T22:59:44Z","by":"oco harvest","id":"7f7aa61","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
