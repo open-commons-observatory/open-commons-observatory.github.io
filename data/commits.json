@@ -332,6 +332,7 @@
 {"at":"2026-09-22T21:48:45Z","by":"grenudi","id":"017e08c","project":"creation-guidelines/software-engineering-canon","says":"chore(tad): pull engine update (definition-list field rendering)"}
 {"at":"2026-09-22T21:50:33Z","by":"github-actions[bot]","id":"083d44a","project":"creation-guidelines/software-engineering-canon","says":"chore(main): release 1.1.0"}
 {"at":"2026-09-22T08:21:21Z","by":"grenudi","id":"0858067","project":"creation-guidelines/software-engineering-canon","says":"Initial commit"}
+{"at":"2026-11-16T14:46:41Z","by":"grenudi","id":"08f8cda","project":"creation-guidelines/software-engineering-canon","record":"g-20261116-144410","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#32)"}
 {"at":"2026-11-11T22:17:36Z","by":"grenudi","id":"1049f45","project":"creation-guidelines/software-engineering-canon","record":"g-20261111-221658","says":"build: tad 0.4.0: the pin moved, the data and documents re-rendered (#24)"}
 {"at":"2026-11-10T17:46:32Z","by":"ocoeco gather","id":"17bc5fd","project":"creation-guidelines/software-engineering-canon","says":"data: gathered by ocoeco"}
 {"at":"2026-11-11T17:44:05Z","by":"grenudi","id":"18d864c","project":"creation-guidelines/software-engineering-canon","says":"docs: after the switch to tad - the rules link, the session logged (#17)"}
@@ -425,6 +426,7 @@
 {"at":"2026-11-11T17:17:06Z","by":"grenudi","id":"cd32edb","project":"creation-guidelines/tad-engine","says":"ci: release tad through the package conveyor - binaries with signed provenance for every tad-v tag (#39)"}
 {"at":"2026-11-11T16:52:22Z","by":"grenudi","id":"d1bd333","project":"creation-guidelines/tad-engine","says":"feat(tad): canon and set - canonical form and checked row edits, byte for byte as DuckDB writes (#37)"}
 {"at":"2026-11-11T16:28:15Z","by":"grenudi","id":"d315e2f","project":"creation-guidelines/tad-engine","says":"docs: tad - the tool by the conveyor, the library as a cutting (#32)"}
+{"at":"2026-11-16T14:48:16Z","by":"grenudi","id":"d650472","project":"creation-guidelines/tad-engine","record":"g-20261116-144655","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#76)"}
 {"at":"2026-11-11T00:14:37Z","by":"grenudi","id":"d713181","project":"creation-guidelines/tad-engine","says":"docs: tad tells its essence - its idea for anyone and its workings (#27)"}
 {"at":"2026-09-22T17:20:57Z","by":"grenudi","id":"d879b22","project":"creation-guidelines/tad-engine","says":"feat(render): use definition lists instead of bold field labels (#11)"}
 {"at":"2026-11-11T21:34:19Z","by":"grenudi","id":"e4ce7cc","project":"creation-guidelines/tad-engine","record":"g-20261111-213259","says":"chore: glimpses are recorded here from now on (#60)"}
@@ -1907,6 +1909,7 @@
 {"at":"2026-11-10T17:56:06Z","by":"oco harvest","id":"2611e3a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T21:03:41Z","by":"grenudi","id":"2677346","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-210325","says":"docs: each time done by hand named apart: rows that were named alike; two looks counted (#99)"}
 {"at":"2026-11-12T11:14:01Z","by":"oco harvest","id":"26b9919","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T14:45:11Z","by":"oco harvest","id":"273e19a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T18:46:53Z","by":"oco harvest","id":"27d902d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:44:56Z","by":"oco harvest","id":"280f6b0","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T05:21:32Z","by":"oco harvest","id":"282e23e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
