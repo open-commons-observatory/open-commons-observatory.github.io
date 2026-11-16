@@ -132,6 +132,7 @@
 {"advances":"backlog:rhizcut milestones:rhizoid-carries-ocoeco","at":"2026-11-12T13:17:23Z","by":"lab-agent-session","id":"g-20261112-131723","kind":"docs","project":"git-rhizoid/git-rhizoid.github.io","summary":"rhizcut recorded: a milestone depended on an item never written down","touches":"backlog:rhizcut"}
 {"at":"2026-11-13T06:56:06Z","by":"Claude","id":"g-20261113-065606","kind":"docs","project":"git-rhizoid/git-rhizoid.github.io","summary":"a milestone ahead of its evidence, raised"}
 {"at":"2026-11-13T07:24:15Z","by":"Claude","id":"g-20261113-072415","kind":"docs","project":"git-rhizoid/git-rhizoid.github.io","summary":"a problem withdrawn: the record was right, the reading was wrong"}
+{"at":"2026-11-16T14:48:30Z","by":"claude","id":"g-20261116-144830","kind":"chore","project":"git-rhizoid/git-rhizoid.github.io","summary":"a mark: the latest runs are observed, as runs - no longer gathered here"}
 {"at":"2026-11-11T21:35:19Z","by":"lab-agent-session","id":"g-20261111-213519","kind":"chore","project":"linux-package-distribution-oco/conveyor","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T21:35:43Z","by":"lab-agent-session","id":"g-20261111-213543","kind":"chore","project":"linux-package-distribution-oco/lens","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-13T00:34:22Z","by":"claude","id":"g-20261113-003422","kind":"docs","project":"linux-package-distribution-oco/lens","summary":"this is a constellation, and says what it gathers"}
@@ -144,6 +145,7 @@
 {"at":"2026-11-12T19:14:25Z","by":"claude","id":"g-20261112-191425","kind":"fix","project":"linux-phone-oco/docs","summary":"the docs begin their own history at 0.1.0; the template's is cleared"}
 {"at":"2026-11-12T19:17:01Z","by":"claude","id":"g-20261112-191701","kind":"fix","project":"linux-phone-oco/docs","summary":"the first release is 0.1.0: release-please is told so"}
 {"at":"2026-11-14T00:45:32Z","by":"claude","id":"g-20261114-004532","kind":"docs","project":"linux-phone-oco/docs","summary":"feature and component are other names for features and components"}
+{"at":"2026-11-16T14:49:24Z","by":"claude","id":"g-20261116-144924","kind":"chore","project":"linux-phone-oco/docs","summary":"a mark: the latest runs are observed, as runs - no longer gathered here"}
 {"at":"2026-11-11T21:36:39Z","by":"lab-agent-session","id":"g-20261111-213639","kind":"chore","project":"linux-phone-oco/lab-tools","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-11T21:37:35Z","by":"lab-agent-session","id":"g-20261111-213735","kind":"chore","project":"linux-phone-oco/lens","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-13T00:33:06Z","by":"claude","id":"g-20261113-003306","kind":"docs","project":"linux-phone-oco/lens","summary":"this is a constellation, and says what it gathers"}

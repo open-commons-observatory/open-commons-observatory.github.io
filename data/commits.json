@@ -468,6 +468,7 @@
 {"at":"2026-11-11T00:33:14Z","by":"grenudi","id":"bcc6180","project":"git-rhizoid/git-rhizoid.github.io","says":"docs: its idea in Russian (by machine, for a person to correct) (#8)"}
 {"at":"2026-11-11T18:23:03Z","by":"grenudi","id":"bd46a9b","project":"git-rhizoid/git-rhizoid.github.io","says":"build: tad 0.2.0 (#14)"}
 {"at":"2026-09-22T12:42:22Z","by":"grenudi","id":"c6b4157","project":"git-rhizoid/git-rhizoid.github.io","says":"Initial commit"}
+{"at":"2026-11-16T14:49:08Z","by":"grenudi","id":"d1deba7","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261116-144830","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#24)"}
 {"at":"2026-11-10T21:43:44Z","by":"grenudi","id":"da26169","project":"git-rhizoid/git-rhizoid.github.io","says":"docs: Rhizoid's idea, told for anyone - in its own data (#6)"}
 {"at":"2026-11-11T15:50:38Z","by":"grenudi","id":"e5e0957","project":"git-rhizoid/git-rhizoid.github.io","says":"docs: the wrap-up pass - parked with a reason (#9)"}
 {"at":"2026-09-23T07:09:56Z","by":"grenudi","id":"ea6d4ae","project":"git-rhizoid/git-rhizoid.github.io","says":"feat(data): design the boundary layer, having read argenv's real API"}
@@ -551,6 +552,7 @@
 {"at":"2026-11-09T18:46:01Z","by":"grenudi","id":"d816352","project":"linux-phone-oco/docs","says":"feat(data): the ADSP crash loop is understood and stopped on the phone (#10)"}
 {"at":"2026-11-09T16:52:15Z","by":"grenudi","id":"d971a63","project":"linux-phone-oco/docs","says":"docs: state the project's goal, not only what this repo holds (#9)"}
 {"at":"2026-11-10T19:43:26Z","by":"grenudi","id":"daf3c67","project":"linux-phone-oco/docs","says":"chore: gathered data lives on the oco-data branch - main is the history of the work (#44)"}
+{"at":"2026-11-16T14:49:52Z","by":"grenudi","id":"e1516d1","project":"linux-phone-oco/docs","record":"g-20261116-144924","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#77)"}
 {"at":"2026-11-11T00:15:22Z","by":"grenudi","id":"e4aedd8","project":"linux-phone-oco/docs","says":"feat(data): the idea of Linux Phones in Russian (#50)"}
 {"at":"2026-11-04T20:34:04Z","by":"grenudi","id":"e619d98","project":"linux-phone-oco/docs","says":"Initial commit"}
 {"at":"2026-11-09T22:06:35Z","by":"grenudi","id":"e67e79f","project":"linux-phone-oco/docs","says":"feat(data): shells, microphone and an org board in the backlog (#13)"}
@@ -881,6 +883,7 @@
 {"at":"2026-11-15T14:33:16Z","by":"oco observe","id":"5e02ac7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T20:03:42Z","by":"oco observe","id":"5efaf13","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T16:18:07Z","by":"oco observe","id":"5f108d3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T14:48:41Z","by":"oco observe","id":"60a25d6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:24:04Z","by":"oco observe","id":"60d3b32","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T17:31:49Z","by":"oco observe","id":"6133420","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T00:26:43Z","by":"oco observe","id":"6171424","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1006,6 +1009,7 @@
 {"at":"2026-11-16T12:32:08Z","by":"oco observe","id":"a2040fd","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T09:45:25Z","by":"oco observe","id":"a357434","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T20:00:24Z","by":"oco observe","id":"a3a33ae","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T14:50:30Z","by":"oco observe","id":"a3f2d48","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T12:49:00Z","by":"oco observe","id":"a3feb2c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T21:19:45Z","by":"oco observe","id":"a4c8790","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:36:13Z","by":"oco observe","id":"a4deff1","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1962,6 +1966,7 @@
 {"at":"2026-11-14T22:01:50Z","by":"oco harvest","id":"3b02b14","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T18:00:12Z","by":"oco harvest","id":"3b61b6c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T16:48:16Z","by":"oco harvest","id":"3bc1e66","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T14:49:21Z","by":"oco harvest","id":"3c5c113","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:11:46Z","by":"oco harvest","id":"3c84937","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T15:50:43Z","by":"grenudi","id":"3d0cd94","project":"open-commons-observatory/open-commons-observatory.github.io","says":"feat(data): a practice - change only what you mean to, never by copying whole files from a stale copy (#7)"}
 {"at":"2026-11-16T09:34:56Z","by":"oco harvest","id":"3d2cada","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
