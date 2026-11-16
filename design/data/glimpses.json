@@ -38,3 +38,4 @@
 {"id":"g-20261116-150655","at":"2026-11-16T15:06:55Z","by":"claude","kind":"docs","summary":"a lens: curated, and 4 more","touches":"lenses:curated lens_tables:curated/curated lens_fields:curated/curated/id lens_fields:curated/curated/order lens_fields:curated/curated/why"}
 {"id":"g-20261116-160611","at":"2026-11-16T16:06:11Z","by":"claude","kind":"chore","summary":"a mark: what the gatherer writes is said where it writes it - no longer named here"}
 {"id":"g-20261116-163923","at":"2026-11-16T16:39:23Z","by":"claude","kind":"feat","summary":"the lens of its pages is called site, as it was first meant to be","touches":"decisions:2026-11-16-the-lens-of-its-pages-is-called-site","where":"open-commons-observatory/ocoeco/decisions:2026-11-16-a-lens-is-of-its-place"}
+{"id":"g-20261116-204540","at":"2026-11-16T20:45:40Z","by":"claude","kind":"docs","summary":"a translation: lens_parts:site/1:title:ru","touches":"translations:lens_parts:site/1:title:ru"}
