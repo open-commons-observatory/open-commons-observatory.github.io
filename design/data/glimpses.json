@@ -36,3 +36,4 @@
 {"id":"g-20261116-084953","at":"2026-11-16T08:49:53Z","by":"claude","kind":"docs","summary":"a practice: a lens of the language is changed in its place","touches":"practices:41-a-lens-of-the-language-is-changed-in-its-place","where":"practices:41-a-lens-of-the-language-is-changed-in-its-place"}
 {"id":"g-20261116-145541","at":"2026-11-16T14:55:41Z","by":"claude","kind":"chore","summary":"a mark: the latest runs are observed, as runs - no longer gathered here"}
 {"id":"g-20261116-150655","at":"2026-11-16T15:06:55Z","by":"claude","kind":"docs","summary":"a lens: curated, and 4 more","touches":"lenses:curated lens_tables:curated/curated lens_fields:curated/curated/id lens_fields:curated/curated/order lens_fields:curated/curated/why"}
+{"id":"g-20261116-160611","at":"2026-11-16T16:06:11Z","by":"claude","kind":"chore","summary":"a mark: what the gatherer writes is said where it writes it - no longer named here"}
