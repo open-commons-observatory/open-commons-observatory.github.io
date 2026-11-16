@@ -1548,6 +1548,7 @@
 {"at":"2026-11-15T04:52:49Z","by":"github-actions[bot]","id":"444e4cb","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.39.0 (#254)"}
 {"at":"2026-11-16T09:51:24Z","by":"github-actions[bot]","id":"44fa249","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.65.0 (#373)"}
 {"at":"2026-11-13T18:59:44Z","by":"grenudi","id":"452748a","project":"open-commons-observatory/ocoeco","record":"g-20261113-185832","says":"feat: the lens of signs: shown until a connection leads to what was seen (#116)"}
+{"at":"2026-11-16T22:12:56Z","by":"grenudi","id":"4569754","project":"open-commons-observatory/ocoeco","record":"g-20261116-221115","says":"docs: an overlay: en, and 1 more (#444)"}
 {"at":"2026-11-12T11:56:10Z","by":"grenudi","id":"46560f6","project":"open-commons-observatory/ocoeco","record":"g-20261112-115428","says":"docs: many observatories; the fulldome researched lens by lens: what is lacking (#52)"}
 {"at":"2026-11-13T18:24:18Z","by":"github-actions[bot]","id":"4811541","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.2.0 (#112)"}
 {"at":"2026-11-10T22:29:34Z","by":"grenudi","id":"4922e36","project":"open-commons-observatory/ocoeco","says":"docs: it tells its essence - its idea for anyone and its workings (#19)"}
@@ -1692,6 +1693,7 @@
 {"at":"2026-11-10T18:49:46Z","by":"grenudi","id":"90ef54a","project":"open-commons-observatory/ocoeco","says":"docs(spec): whose translation - a project translates its own data; ocoeco's records caught up (#13)"}
 {"at":"2026-11-14T22:11:00Z","by":"grenudi","id":"916c046","project":"open-commons-observatory/ocoeco","record":"g-20261114-220930","says":"fix: the longest line, settled: one line, the same each look (#234)"}
 {"at":"2026-11-14T23:40:22Z","by":"github-actions[bot]","id":"916e7e8","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.36.0 (#247)"}
+{"at":"2026-11-16T22:10:37Z","by":"grenudi","id":"9228352","project":"open-commons-observatory/ocoeco","record":"g-20261116-220835","says":"fix: an overlay, not a language: the entry no longer goes by the name of the lens of language (#442)"}
 {"at":"2026-11-13T21:35:38Z","by":"grenudi","id":"934dfb2","project":"open-commons-observatory/ocoeco","record":"g-20261113-213417","says":"feat: a lens is entered: kept by a place as rows, and looked through (#126)"}
 {"at":"2026-11-16T19:07:34Z","by":"grenudi","id":"94248cb","project":"open-commons-observatory/ocoeco","record":"g-20261116-190551","says":"feat: a saying that comes to nothing leaves one standing on nothing (#422)"}
 {"at":"2026-11-12T20:05:57Z","by":"grenudi","id":"959b6e7","project":"open-commons-observatory/ocoeco","record":"g-20261112-200427","says":"fix: runs are observed, never gathered: no observation feeds the next (#72)"}
@@ -2557,6 +2559,7 @@
 {"at":"2026-11-16T08:52:22Z","by":"oco harvest","id":"e28cf36","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T23:16:11Z","by":"oco harvest","id":"e2ed835","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T19:57:54Z","by":"oco harvest","id":"e33287d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T22:10:52Z","by":"oco harvest","id":"e380277","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:49:42Z","by":"oco harvest","id":"e3da4bd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T19:32:14Z","by":"oco harvest","id":"e432dee","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T16:33:51Z","by":"oco harvest","id":"e4d7ce1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
