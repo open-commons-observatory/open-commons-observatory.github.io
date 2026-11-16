@@ -38,6 +38,9 @@
 {"id":"README.md:git-rhizoid.github.io","line":1,"name":"git-rhizoid.github.io","path":"README.md","project":"git-rhizoid/git-rhizoid.github.io"}
 {"id":"README.md:Package conveyor","line":1,"name":"Package conveyor","path":"README.md","project":"linux-package-distribution-oco/conveyor"}
 {"id":"README.md:The package conveyor lens","line":1,"name":"The package conveyor lens","path":"README.md","project":"linux-package-distribution-oco/lens"}
+{"id":"AGENTS.md:Notes for agents","line":1,"name":"Notes for agents","path":"AGENTS.md","project":"linux-phone-oco/device-template"}
+{"id":"README.md:Device template","line":1,"name":"Device template","path":"README.md","project":"linux-phone-oco/device-template"}
+{"id":"tests/health/README.md:This phone's own health checks","line":1,"name":"This phone's own health checks","path":"tests/health/README.md","project":"linux-phone-oco/device-template"}
 {"id":"AGENTS.md:AGENTS.md - how to work in this repository","line":1,"name":"AGENTS.md - how to work in this repository","path":"AGENTS.md","project":"linux-phone-oco/docs"}
 {"id":"CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"CHANGELOG.md","project":"linux-phone-oco/docs"}
 {"id":"CONTRIBUTING.md:Contributing","line":1,"name":"Contributing","path":"CONTRIBUTING.md","project":"linux-phone-oco/docs"}
