@@ -1649,6 +1649,7 @@
 {"at":"2026-11-14T08:26:42Z","by":"github-actions[bot]","id":"83c022c","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.16.1 (#167)"}
 {"at":"2026-11-13T01:05:15Z","by":"grenudi","id":"8453d21","project":"open-commons-observatory/ocoeco","record":"g-20261113-010345","says":"docs: OCO has its place, and the author's observatory its own (#89)"}
 {"at":"2026-11-10T17:24:51Z","by":"grenudi","id":"84a1e17","project":"open-commons-observatory/ocoeco","says":"feat: gatherers - activity, releases and CI, made by work; a reusable workflow for any repository (#4)"}
+{"at":"2026-11-16T20:09:31Z","by":"github-actions[bot]","id":"85d1e2a","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.78.0 (#427)"}
 {"at":"2026-11-13T19:10:22Z","by":"grenudi","id":"874365d","project":"open-commons-observatory/ocoeco","record":"g-20261113-190851","says":"fix: a run that was replaced did not fail (#119)"}
 {"at":"2026-11-13T11:00:56Z","by":"grenudi","id":"878bddf","project":"open-commons-observatory/ocoeco","record":"g-20261113-105915","says":"docs: the trial: an entry read by argenv's reader as it is (#103)"}
 {"at":"2026-11-14T08:30:50Z","by":"github-actions[bot]","id":"879624c","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.16.2 (#169)"}
@@ -1675,6 +1676,7 @@
 {"at":"2026-11-16T19:07:34Z","by":"grenudi","id":"94248cb","project":"open-commons-observatory/ocoeco","record":"g-20261116-190551","says":"feat: a saying that comes to nothing leaves one standing on nothing (#422)"}
 {"at":"2026-11-12T20:05:57Z","by":"grenudi","id":"959b6e7","project":"open-commons-observatory/ocoeco","record":"g-20261112-200427","says":"fix: runs are observed, never gathered: no observation feeds the next (#72)"}
 {"at":"2026-11-10T18:06:54Z","by":"grenudi","id":"962613f","project":"open-commons-observatory/ocoeco","says":"feat: lenses in the harvest - the lens kind, lens.toml read into the lenses table (#11)"}
+{"at":"2026-11-16T20:08:58Z","by":"grenudi","id":"9725fa4","project":"open-commons-observatory/ocoeco","record":"g-20261116-200705","says":"feat: a lens's rows mean the lens their own place keeps: a part is of its own lens (#426)"}
 {"at":"2026-11-15T10:06:26Z","by":"grenudi","id":"979ed65","project":"open-commons-observatory/ocoeco","record":"g-20261115-100455","says":"feat: a name says what it means where it is used; the words go with the program (#274)"}
 {"at":"2026-11-12T14:15:42Z","by":"grenudi","id":"97eec8e","project":"open-commons-observatory/ocoeco","record":"g-20261112-141422","says":"feat: the work lens's focus, landed for real; the board's hand-written view removed (#66)"}
 {"at":"2026-11-15T10:29:19Z","by":"github-actions[bot]","id":"997563a","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.43.1 (#279)"}
@@ -2571,6 +2573,7 @@
 {"at":"2026-11-13T23:26:42Z","by":"oco harvest","id":"f44dca8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T16:06:29Z","by":"grenudi","id":"f51e85c","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261116-160611","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#105)"}
 {"at":"2026-11-15T05:03:47Z","by":"oco harvest","id":"f5691b3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T20:04:08Z","by":"oco harvest","id":"f579d12","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T22:05:45Z","by":"oco harvest","id":"f5ece4c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T08:23:43Z","by":"oco harvest","id":"f5f0a50","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T18:53:56Z","by":"oco harvest","id":"f62c2a1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
