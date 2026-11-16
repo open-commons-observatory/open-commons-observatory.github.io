@@ -91,6 +91,8 @@
 {"at":"2026-11-11T15:42:16Z","by":"grenudi","id":"533e1c6","project":"creation-guidelines/agent-access-oco","says":"docs: web pages too - an agent should see and use what it builds (#1)"}
 {"at":"2026-11-11T14:05:37Z","by":"lab-agent-session","id":"623beaa","project":"creation-guidelines/agent-access-oco","says":"docs: agent access - researched and planned"}
 {"at":"2026-11-11T21:30:27Z","by":"grenudi","id":"6d675ea","project":"creation-guidelines/agent-access-oco","record":"g-20261111-213011","says":"chore: glimpses are recorded here from now on (#2)"}
+{"at":"2026-11-16T16:08:55Z","by":"grenudi","id":"bef09fc","project":"creation-guidelines/agent-access-oco","record":"g-20261116-160837","says":"chore: a caller: what the gatherer writes is said where it writes it, not here (#3)"}
+{"at":"2026-11-16T16:09:24Z","by":"grenudi","id":"04f5c9e","project":"creation-guidelines/essence-oco","record":"g-20261116-160908","says":"chore: a caller: what the gatherer writes is said where it writes it, not here (#8)"}
 {"at":"2026-11-16T14:41:57Z","by":"grenudi","id":"0d1871e","project":"creation-guidelines/essence-oco","record":"g-20261116-144140","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#6)"}
 {"at":"2026-11-11T00:55:59Z","by":"grenudi","id":"225ed29","project":"creation-guidelines/essence-oco","says":"docs: its workings in Russian (by machine, for a person to correct) (#4)"}
 {"at":"2026-11-10T23:00:30Z","by":"grenudi","id":"4679a47","project":"creation-guidelines/essence-oco","says":"docs: its idea in Russian (by machine, for a person to correct) (#2)"}
@@ -451,6 +453,7 @@
 {"at":"2026-09-23T06:52:13Z","by":"grenudi","id":"002e22b","project":"git-rhizoid/git-rhizoid.github.io","says":"feat(data): decide the manifest format (TOML) and auth (gh, for now)"}
 {"at":"2026-09-22T21:46:48Z","by":"grenudi","id":"03c292d","project":"git-rhizoid/git-rhizoid.github.io","says":"feat(docs): adopt the RFC-like minimal Pages style"}
 {"at":"2026-11-11T21:35:13Z","by":"grenudi","id":"0f65ac0","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261111-213425","says":"chore: glimpses are recorded here from now on (#16)"}
+{"at":"2026-11-16T16:10:05Z","by":"grenudi","id":"1c2f245","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261116-160937","says":"chore: a caller: what the gatherer writes is said where it writes it, not here (#26)"}
 {"at":"2026-11-10T20:52:33Z","by":"grenudi","id":"22249ae","project":"git-rhizoid/git-rhizoid.github.io","says":"chore: join the Open Commons Observatory - the mark, the gatherer, its path (#5)"}
 {"at":"2026-11-12T13:17:53Z","by":"grenudi","id":"381f3ca","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261112-131723","says":"docs: rhizcut recorded: a milestone depended on an item never written down (#21)"}
 {"at":"2026-11-12T01:07:15Z","by":"grenudi","id":"39da0c3","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261112-010648","says":"build: tad 0.5.0: the pin moved, the data and documents re-rendered (#18)"}
@@ -485,6 +488,7 @@
 {"at":"2026-11-13T06:56:35Z","by":"grenudi","id":"fafad80","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261113-065606","says":"docs: a milestone ahead of its evidence, raised (#22)"}
 {"at":"2026-11-11T16:10:23Z","by":"grenudi","id":"1e27551","project":"linux-package-distribution-oco/conveyor","says":"docs/nix direction (#8)"}
 {"at":"2026-11-11T10:27:09Z","by":"lab-agent-session","id":"2bda54f","project":"linux-package-distribution-oco/conveyor","says":"docs: the package conveyor, designed - its idea, decisions and path"}
+{"at":"2026-11-16T16:10:48Z","by":"grenudi","id":"3113d91","project":"linux-package-distribution-oco/conveyor","record":"g-20261116-161020","says":"chore: a caller: what the gatherer writes is said where it writes it, not here (#11)"}
 {"at":"2026-11-11T21:35:37Z","by":"grenudi","id":"381e216","project":"linux-package-distribution-oco/conveyor","record":"g-20261111-213519","says":"chore: glimpses are recorded here from now on (#10)"}
 {"at":"2026-11-11T15:40:23Z","by":"grenudi","id":"45d8c2a","project":"linux-package-distribution-oco/conveyor","says":"docs: a passing mirror outage must not fail a release (#4)"}
 {"at":"2026-11-11T16:12:23Z","by":"grenudi","id":"9ddfe04","project":"linux-package-distribution-oco/conveyor","says":"docs: tags only after landing; build in the project's own Nix environment (#9)"}
@@ -1084,6 +1088,7 @@
 {"at":"2026-11-14T08:32:32Z","by":"oco observe","id":"b9261f3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T10:30:11Z","by":"oco observe","id":"b9c4651","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T06:41:04Z","by":"oco observe","id":"b9f4aa7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T16:11:30Z","by":"grenudi","id":"bae5417","project":"marshall-oco/marshall-oco.github.io","record":"g-20261116-161113","says":"chore: a caller: what the gatherer writes is said where it writes it, not here (#30)"}
 {"at":"2026-11-14T19:42:42Z","by":"oco observe","id":"baeb8e0","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T08:52:30Z","by":"oco observe","id":"bb465b6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T08:23:40Z","by":"grenudi","id":"bb63a3e","project":"marshall-oco/marshall-oco.github.io","record":"g-20261114-082323","says":"docs: the parts say places: one word for placing side by side (#4)"}
@@ -1277,6 +1282,7 @@
 {"at":"2026-11-13T17:30:02Z","by":"grenudi","id":"3743c64","project":"open-commons-observatory/ecosystem","record":"g-20261113-172945","says":"docs: what the language showed of itself, the first time it looked (#19)"}
 {"at":"2026-11-14T07:23:44Z","by":"grenudi","id":"37ca912","project":"open-commons-observatory/ecosystem","record":"g-20261114-072328","says":"docs: a lens made whole through entries (#43)"}
 {"at":"2026-11-15T09:33:51Z","by":"grenudi","id":"38f618f","project":"open-commons-observatory/ecosystem","record":"g-20261115-093334","says":"docs: what every job does is said once: what came of the sign (#100)"}
+{"at":"2026-11-16T16:12:01Z","by":"grenudi","id":"39b8a68","project":"open-commons-observatory/ecosystem","record":"g-20261116-161144","says":"chore: a caller: what the gatherer writes is said where it writes it, not here (#150)"}
 {"at":"2026-11-14T15:54:34Z","by":"grenudi","id":"3bd7c68","project":"open-commons-observatory/ecosystem","record":"g-20261114-155418","says":"docs: by any route: what the beam showed, and the published page (#59)"}
 {"at":"2026-11-14T18:18:50Z","by":"grenudi","id":"40a60b7","project":"open-commons-observatory/ecosystem","record":"g-20261114-181834","says":"docs: a place is said twice to be one: what consuming the conversation showed (#65)"}
 {"at":"2026-11-13T23:44:19Z","by":"grenudi","id":"458afd1","project":"open-commons-observatory/ecosystem","record":"g-20261113-234401","says":"docs: what came of the shape asked twice (#34)"}
@@ -2464,6 +2470,7 @@
 {"at":"2026-11-10T15:57:00Z","by":"oco harvest","id":"e64e0c4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T16:37:09Z","by":"oco harvest","id":"e6dfe0e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T00:37:18Z","by":"oco harvest","id":"e7015c5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T16:09:37Z","by":"oco harvest","id":"e782a57","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T18:26:06Z","by":"oco harvest","id":"e783258","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:59:14Z","by":"oco harvest","id":"e794aec","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T19:06:55Z","by":"oco harvest","id":"e798f65","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
