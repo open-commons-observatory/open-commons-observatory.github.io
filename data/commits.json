@@ -1250,6 +1250,7 @@
 {"at":"2026-11-16T05:31:02Z","by":"grenudi","id":"af76da5","project":"open-commons-observatory/ecosystem","record":"g-20261116-053045","says":"docs: a connection: a lens says the kinds it looks from (#127)"}
 {"at":"2026-11-14T19:39:30Z","by":"grenudi","id":"b167284","project":"open-commons-observatory/ecosystem","record":"g-20261114-193914","says":"docs: next steps that named work already done, set right (#71)"}
 {"at":"2026-11-14T00:07:44Z","by":"grenudi","id":"b183151","project":"open-commons-observatory/ecosystem","record":"g-20261114-000725","says":"docs: what points nowhere is known in one place (#36)"}
+{"at":"2026-11-16T08:51:12Z","by":"grenudi","id":"b414524","project":"open-commons-observatory/ecosystem","record":"g-20261116-085055","says":"docs: a reflection: what changing the language from within showed (#128)"}
 {"at":"2026-11-15T07:05:01Z","by":"grenudi","id":"b5e2a30","project":"open-commons-observatory/ecosystem","record":"g-20261115-070444","says":"docs: where the drivers stand, read off the act of looking: what came of the sign (#95)"}
 {"at":"2026-11-14T19:52:32Z","by":"grenudi","id":"b7bb10a","project":"open-commons-observatory/ecosystem","record":"g-20261114-195217","says":"docs: the canon says where it is shown: what came of the sign (#73)"}
 {"at":"2026-11-13T23:19:56Z","by":"grenudi","id":"b859be3","project":"open-commons-observatory/ecosystem","record":"g-20261113-231939","says":"docs: what the graph showed the first time it was asked (#32)"}
@@ -1568,6 +1569,7 @@
 {"at":"2026-11-14T19:38:54Z","by":"grenudi","id":"c32f9db","project":"open-commons-observatory/ocoeco","record":"g-20261114-193733","says":"docs: read off the act: done, and its next step with it (#214)"}
 {"at":"2026-11-14T20:49:37Z","by":"github-actions[bot]","id":"c380f10","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.30.0 (#223)"}
 {"at":"2026-11-13T12:17:25Z","by":"grenudi","id":"c3a7689","project":"open-commons-observatory/ocoeco","record":"g-20261113-121539","says":"feat: a place brings its lens: the lab's record read through the lens of now (#106)"}
+{"at":"2026-11-16T08:48:52Z","by":"grenudi","id":"c4041fd","project":"open-commons-observatory/ocoeco","record":"g-20261116-084719","says":"docs: a sign: what was just changed in the language is shown as it was (#365)"}
 {"at":"2026-11-10T17:27:09Z","by":"grenudi","id":"c46895a","project":"open-commons-observatory/ocoeco","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#5)"}
 {"at":"2026-11-14T15:48:34Z","by":"grenudi","id":"c4a88fc","project":"open-commons-observatory/ocoeco","record":"g-20261114-154654","says":"fix: lenses kept as rows are brought by any route (#191)"}
 {"at":"2026-11-14T08:29:53Z","by":"grenudi","id":"c6de889","project":"open-commons-observatory/ocoeco","record":"g-20261114-082823","says":"fix: the shared language is kept in language/, apart from a place's lenses (#168)"}
@@ -1917,6 +1919,7 @@
 {"at":"2026-11-12T20:02:06Z","by":"oco harvest","id":"55c56b8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T18:31:51Z","by":"oco harvest","id":"55ce242","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T21:39:26Z","by":"oco harvest","id":"55e92bd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T08:49:00Z","by":"oco harvest","id":"562717b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T20:19:19Z","by":"oco harvest","id":"564a30f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T14:08:23Z","by":"oco harvest","id":"571259d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T19:11:07Z","by":"oco harvest","id":"57b8734","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -2003,6 +2006,7 @@
 {"at":"2026-11-14T15:25:39Z","by":"oco harvest","id":"7beddb4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T19:19:51Z","by":"oco harvest","id":"7bff13e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T22:39:08Z","by":"oco harvest","id":"7c0892d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T08:50:11Z","by":"grenudi","id":"7c0db8a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"docs: a practice: a lens of the language is changed in its place (#102)"}
 {"at":"2026-11-15T18:22:08Z","by":"oco harvest","id":"7cac983","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T22:21:10Z","by":"oco harvest","id":"7cea07a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T22:50:02Z","by":"grenudi","id":"7d474a9","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261111-224947","says":"docs: look inside the commons before outside it (#68)"}
@@ -2193,7 +2197,7 @@
 {"at":"2026-11-10T16:35:07Z","by":"oco harvest","id":"c8cbe0b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T23:50:50Z","by":"oco harvest","id":"c92b3e2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T22:57:35Z","by":"oco harvest","id":"cae79dc","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
-{"at":"2026-11-16T00:24:17Z","by":"grenudi","id":"cb5b2c3","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261116-002359","says":"docs: a practice: a lens of the language is changed in its place (#101)"}
+{"at":"2026-11-16T00:24:17Z","by":"grenudi","id":"cb5b2c3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"docs: a practice: a lens of the language is changed in its place (#101)"}
 {"at":"2026-11-15T22:24:21Z","by":"oco harvest","id":"cb6a867","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T22:43:35Z","by":"oco harvest","id":"cc21a73","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T12:03:47Z","by":"oco harvest","id":"cc7470f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
