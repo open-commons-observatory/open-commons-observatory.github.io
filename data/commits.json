@@ -204,6 +204,7 @@
 {"at":"2026-11-09T18:01:31Z","by":"grenudi","id":"6de0f8c","project":"creation-guidelines/lab-agent","says":"feat: the board and the inbox - follow a long session from the phone, and speak into it (#37)"}
 {"at":"2026-11-10T11:54:16Z","by":"github-actions[bot]","id":"6e2fab3","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.34 (#88)"}
 {"at":"2026-11-09T10:18:20Z","by":"grenudi","id":"6ff22a1","project":"creation-guidelines/lab-agent","says":"fix: a job with a result is never re-run; preempt cancels only what is running; pushes serialize (#19)"}
+{"at":"2026-11-16T11:21:12Z","by":"grenudi","id":"702c726","project":"creation-guidelines/lab-agent","record":"g-20261116-112010","says":"feat: a job stands in a trail of its own, and the driver stays where they stand (#207)"}
 {"at":"2026-11-15T10:13:56Z","by":"grenudi","id":"703b3ac","project":"creation-guidelines/lab-agent","record":"g-20261115-101307","says":"fix: a job that stops leaves the place it worked in as its main has it (#194)"}
 {"at":"2026-11-10T10:41:32Z","by":"grenudi","id":"70d469c","project":"creation-guidelines/lab-agent","says":"fix: the status bar shows the task touched last, not the one started last (#83)"}
 {"at":"2026-11-12T01:45:06Z","by":"grenudi","id":"736f424","project":"creation-guidelines/lab-agent","record":"g-20261112-014418","says":"feat: each driver its own lease; beats kept beside the journal, with their own check (#140)"}
@@ -1822,6 +1823,7 @@
 {"at":"2026-11-12T22:26:39Z","by":"oco harvest","id":"1ad1fc7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T23:28:01Z","by":"oco harvest","id":"1ae86ac","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T12:21:01Z","by":"oco harvest","id":"1b1f9c1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T11:18:41Z","by":"oco harvest","id":"1b7f4c5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T22:13:57Z","by":"oco harvest","id":"1b9929d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T19:53:52Z","by":"oco harvest","id":"1bfdb5f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T16:41:00Z","by":"oco harvest","id":"1dbfd88","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
