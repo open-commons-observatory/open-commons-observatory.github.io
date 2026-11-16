@@ -1681,6 +1681,7 @@
 {"at":"2026-11-13T01:29:03Z","by":"grenudi","id":"f69ed27","project":"open-commons-observatory/ocoeco","record":"g-20261113-012742","says":"feat: rows move between places with every link kept true (#91)"}
 {"at":"2026-11-14T13:51:58Z","by":"grenudi","id":"f7a351c","project":"open-commons-observatory/ocoeco","record":"g-20261114-135017","says":"fix: a field's ordinal; three names that hold two kinds, said (#179)"}
 {"at":"2026-11-14T22:00:38Z","by":"grenudi","id":"f839cdb","project":"open-commons-observatory/ocoeco","record":"g-20261114-215858","says":"perf: a lens is brought into focus once in a look (#231)"}
+{"at":"2026-11-16T10:08:47Z","by":"grenudi","id":"f9844a5","project":"open-commons-observatory/ocoeco","record":"g-20261116-100703","says":"docs: a sign: what an entry changed in a lens file is not what its record touc, and 1 more (#376)"}
 {"at":"2026-11-14T21:30:43Z","by":"github-actions[bot]","id":"fb2044e","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.32.0 (#227)"}
 {"at":"2026-11-13T19:15:42Z","by":"grenudi","id":"fc19bc5","project":"open-commons-observatory/ocoeco","record":"g-20261113-191432","says":"fix: the lab does not cry wolf: a run replaced is not said to fail (#121)"}
 {"at":"2026-11-16T00:31:20Z","by":"grenudi","id":"fd08413","project":"open-commons-observatory/ocoeco","record":"g-20261116-002939","says":"docs: a sign: the window shows only the headings of what a lens places (#345)"}
@@ -1954,6 +1955,7 @@
 {"at":"2026-11-14T20:19:19Z","by":"oco harvest","id":"564a30f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T14:08:23Z","by":"oco harvest","id":"571259d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T19:11:07Z","by":"oco harvest","id":"57b8734","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T10:06:13Z","by":"oco harvest","id":"57cd13f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T13:47:33Z","by":"grenudi","id":"57de89f","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-134715","says":"fix: the first observatory's whole begins with why each star exists (#91)"}
 {"at":"2026-11-16T05:08:25Z","by":"oco harvest","id":"5867ea7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T20:45:06Z","by":"oco harvest","id":"599dc5b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
