@@ -1394,6 +1394,7 @@
 {"at":"2026-11-14T21:55:33Z","by":"grenudi","id":"5008e0f","project":"open-commons-observatory/ocoeco","record":"g-20261114-215413","says":"docs: a look is slower than is understood: said as a sign, with what was measured (#230)"}
 {"at":"2026-11-15T23:07:49Z","by":"github-actions[bot]","id":"51701ef","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.57.0 (#326)"}
 {"at":"2026-11-15T08:51:49Z","by":"github-actions[bot]","id":"525eddc","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.41.1 (#262)"}
+{"at":"2026-11-16T08:34:14Z","by":"grenudi","id":"528415c","project":"open-commons-observatory/ocoeco","record":"g-20261116-083228","says":"docs: a part: entering/8 (#360)"}
 {"at":"2026-11-15T09:59:56Z","by":"grenudi","id":"529f627","project":"open-commons-observatory/ocoeco","record":"g-20261115-095824","says":"docs: what the language's own names mean: fifty-one words (#272)"}
 {"at":"2026-11-12T11:40:26Z","by":"grenudi","id":"5470c24","project":"open-commons-observatory/ocoeco","record":"g-20261112-113917","says":"docs: the whole is the fulldome: one sky, no walls; ocoeco is the agreement (#51)"}
 {"at":"2026-11-16T04:31:51Z","by":"grenudi","id":"551fd75","project":"open-commons-observatory/ocoeco","record":"g-20261116-043008","says":"fix: a star by its shorter name is its place: links are told, and stop by the lens (#347)"}
@@ -2044,6 +2045,7 @@
 {"at":"2026-11-12T08:38:10Z","by":"oco harvest","id":"8faa47a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T16:13:26Z","by":"oco harvest","id":"8fdb044","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T22:10:07Z","by":"oco harvest","id":"9073c3e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T08:32:05Z","by":"oco harvest","id":"91287cb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T14:44:06Z","by":"grenudi","id":"9152c05","project":"open-commons-observatory/open-commons-observatory.github.io","says":"docs: decisions - hexagonal discovery, the engine in Rust, a designed site, tad in Rust, rhizoid modules (#2)"}
 {"at":"2026-11-11T17:50:21Z","by":"oco harvest","id":"916463b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T17:01:58Z","by":"oco harvest","id":"91bc2ca","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
