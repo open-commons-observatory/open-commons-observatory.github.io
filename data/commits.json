@@ -1391,6 +1391,7 @@
 {"at":"2026-11-13T07:24:05Z","by":"grenudi","id":"31fec7e","project":"open-commons-observatory/ocoeco","record":"g-20261113-072245","says":"fix: a milestone is read off what it rests on; the rung shown as a rung (#97)"}
 {"at":"2026-11-11T13:14:15Z","by":"grenudi","id":"32b4fb4","project":"open-commons-observatory/ocoeco","says":"docs: the vocabulary reviewed word by word - each word decided, working became workings (#35)"}
 {"at":"2026-11-10T17:08:54Z","by":"grenudi","id":"33bada0","project":"open-commons-observatory/ocoeco","says":"data: the session log - ocoeco founded (#3)"}
+{"at":"2026-11-16T11:44:09Z","by":"github-actions[bot]","id":"340d2cb","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.68.0 (#387)"}
 {"at":"2026-11-13T21:03:16Z","by":"grenudi","id":"34452ab","project":"open-commons-observatory/ocoeco","record":"g-20261113-210135","says":"feat: the board is read off the work: in progress is not typed (#124)"}
 {"at":"2026-11-14T16:09:55Z","by":"grenudi","id":"346ae60","project":"open-commons-observatory/ocoeco","record":"g-20261114-160836","says":"fix: one thing by two routes is one thing, as it last was (#193)"}
 {"at":"2026-11-10T17:05:04Z","by":"grenudi","id":"34dfa3a","project":"open-commons-observatory/ocoeco","says":"data: the core moved - done (#2)"}
@@ -1643,6 +1644,7 @@
 {"at":"2026-11-14T01:10:55Z","by":"grenudi","id":"d4f10d9","project":"open-commons-observatory/ocoeco","record":"g-20261114-010911","says":"feat: ahead: what, once done, would free the most - read off the halts (#155)"}
 {"at":"2026-11-16T00:13:15Z","by":"grenudi","id":"d5c8735","project":"open-commons-observatory/ocoeco","record":"g-20261116-001132","says":"feat: the language is kept by its place: a lens changed there is changed, no program built (#340)"}
 {"at":"2026-11-14T00:45:19Z","by":"grenudi","id":"d73e97f","project":"open-commons-observatory/ocoeco","record":"g-20261114-004408","says":"feat: a name is not the place: a table's other names, and a link's level (#149)"}
+{"at":"2026-11-16T11:43:37Z","by":"grenudi","id":"d758ff0","project":"open-commons-observatory/ocoeco","record":"g-20261116-114206","says":"feat: the language is read as its place keeps it wherever that place is held (#386)"}
 {"at":"2026-11-14T23:39:26Z","by":"grenudi","id":"d768dc2","project":"open-commons-observatory/ocoeco","record":"g-20261114-233745","says":"feat: what a place adds to a lens kept elsewhere is joined to it (#246)"}
 {"at":"2026-11-15T11:38:07Z","by":"grenudi","id":"d86534b","project":"open-commons-observatory/ocoeco","record":"g-20261115-113645","says":"feat: a change is part of its record of work; an address on a page is a way out (#280)"}
 {"at":"2026-11-14T08:17:41Z","by":"grenudi","id":"d941420","project":"open-commons-observatory/ocoeco","record":"g-20261114-081622","says":"feat: a plane holds planes: the fulldome is a lens placing every lens (#164)"}
@@ -2199,6 +2201,7 @@
 {"at":"2026-11-15T15:20:16Z","by":"grenudi","id":"af13c91","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-152000","says":"docs: working on the lab: a fresh workspace gets there by itself, with no token (#92)"}
 {"at":"2026-11-12T02:11:30Z","by":"oco harvest","id":"af28df8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T23:07:34Z","by":"oco harvest","id":"af5dff7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T11:41:42Z","by":"oco harvest","id":"af9e120","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T13:28:30Z","by":"oco harvest","id":"b04f4c6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T20:06:37Z","by":"oco harvest","id":"b05cecf","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T10:28:25Z","by":"oco harvest","id":"b0bdb9e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
