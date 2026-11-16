@@ -712,6 +712,7 @@
 {"at":"2026-11-15T04:33:25Z","by":"oco observe","id":"124bbf6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T09:42:07Z","by":"oco observe","id":"12cd4b0","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T16:13:51Z","by":"oco observe","id":"132908b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T08:41:58Z","by":"oco observe","id":"13c2f15","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T07:05:35Z","by":"grenudi","id":"14f6310","project":"marshall-oco/marshall-oco.github.io","record":"g-20261115-070518","says":"feat: the sheet shows where the drivers stand (#15)"}
 {"at":"2026-11-15T02:33:22Z","by":"oco observe","id":"1560b30","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T11:39:09Z","by":"oco observe","id":"15d1f09","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1406,6 +1407,7 @@
 {"at":"2026-11-14T18:43:43Z","by":"github-actions[bot]","id":"57906fa","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.26.0 (#204)"}
 {"at":"2026-11-10T21:45:09Z","by":"grenudi","id":"581195d","project":"open-commons-observatory/ocoeco","says":"docs: ocoeco's idea, told for anyone - in its own data (#18)"}
 {"at":"2026-11-14T00:36:03Z","by":"grenudi","id":"584b665","project":"open-commons-observatory/ocoeco","record":"g-20261114-003433","says":"feat: what fits here: from a blank, what may come next (#147)"}
+{"at":"2026-11-16T08:42:13Z","by":"grenudi","id":"586b4a1","project":"open-commons-observatory/ocoeco","says":"docs: an item: the language is kept by its place (#362)"}
 {"at":"2026-11-15T18:35:46Z","by":"grenudi","id":"5914291","project":"open-commons-observatory/ocoeco","record":"g-20261115-183405","says":"feat: a heading leads to what its part is laid out for: a star's card, to the star (#302)"}
 {"at":"2026-11-13T21:40:37Z","by":"github-actions[bot]","id":"5980a5b","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.4.0 (#120)"}
 {"at":"2026-11-14T23:52:27Z","by":"grenudi","id":"59ff83b","project":"open-commons-observatory/ocoeco","record":"g-20261114-235036","says":"feat: a row is taken back by saying so, guarded as entering is (#249)"}
@@ -1893,6 +1895,7 @@
 {"at":"2026-11-14T20:02:26Z","by":"oco harvest","id":"4edef89","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T02:16:41Z","by":"oco harvest","id":"4ee4cbb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T13:35:57Z","by":"grenudi","id":"4eec22e","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-133541","says":"feat: the first observatory says what it shows first: where the whole is weakest (#90)"}
+{"at":"2026-11-16T08:41:14Z","by":"oco harvest","id":"4f0eeef","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T13:43:45Z","by":"grenudi","id":"4f46e86","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: patching source by text is automated by structural edits (#59)"}
 {"at":"2026-11-15T05:00:10Z","by":"oco harvest","id":"4fa34e0","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T12:06:26Z","by":"oco harvest","id":"5092197","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
