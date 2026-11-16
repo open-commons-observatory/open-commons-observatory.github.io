@@ -160,6 +160,7 @@
 {"at":"2026-11-12T09:50:33Z","by":"grenudi","id":"33e2f21","project":"creation-guidelines/lab-agent","record":"g-20261112-094934","says":"docs: the pulse lives: the lab is watched by a dead man's switch outside GitHub (#160)"}
 {"at":"2026-11-10T00:45:15Z","by":"grenudi","id":"35b5258","project":"creation-guidelines/lab-agent","says":"test: the board keeps the newest message and the reply in view at every window size (#64)"}
 {"at":"2026-11-10T17:39:19Z","by":"github-actions[bot]","id":"35d89ed","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.41 (#102)"}
+{"at":"2026-11-16T09:24:27Z","by":"grenudi","id":"381e9c0","project":"creation-guidelines/lab-agent","record":"g-20261116-092336","says":"feat: what one saying enters in a place lands as one (#204)"}
 {"at":"2026-11-09T18:59:03Z","by":"grenudi","id":"3bd4366","project":"creation-guidelines/lab-agent","says":"feat: the board as a live TUI, with task states (#40)"}
 {"at":"2026-11-12T02:52:37Z","by":"grenudi","id":"3c2e12f","project":"creation-guidelines/lab-agent","record":"g-20261112-025147","says":"perf: oco-agent asks GitHub conditionally and minds the shared budget (#148)"}
 {"at":"2026-11-12T20:37:47Z","by":"grenudi","id":"3ca1199","project":"creation-guidelines/lab-agent","record":"g-20261112-203658","says":"docs: work in progress made honest: one view awaited once, not three times (#173)"}
@@ -758,6 +759,7 @@
 {"at":"2026-11-13T23:50:16Z","by":"oco observe","id":"2d73a0c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T09:44:20Z","by":"oco observe","id":"2da85c9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T09:33:16Z","by":"oco observe","id":"2e892f1","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T09:16:37Z","by":"oco observe","id":"2eb2ed9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T05:30:30Z","by":"oco observe","id":"2eb5a57","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:57:53Z","by":"oco observe","id":"302c046","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T03:03:22Z","by":"oco observe","id":"3047086","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1417,6 +1419,7 @@
 {"at":"2026-11-10T21:45:09Z","by":"grenudi","id":"581195d","project":"open-commons-observatory/ocoeco","says":"docs: ocoeco's idea, told for anyone - in its own data (#18)"}
 {"at":"2026-11-14T00:36:03Z","by":"grenudi","id":"584b665","project":"open-commons-observatory/ocoeco","record":"g-20261114-003433","says":"feat: what fits here: from a blank, what may come next (#147)"}
 {"at":"2026-11-16T08:42:13Z","by":"grenudi","id":"586b4a1","project":"open-commons-observatory/ocoeco","says":"docs: an item: the language is kept by its place (#362)"}
+{"at":"2026-11-16T09:21:20Z","by":"github-actions[bot]","id":"58cd587","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.64.0 (#370)"}
 {"at":"2026-11-15T18:35:46Z","by":"grenudi","id":"5914291","project":"open-commons-observatory/ocoeco","record":"g-20261115-183405","says":"feat: a heading leads to what its part is laid out for: a star's card, to the star (#302)"}
 {"at":"2026-11-13T21:40:37Z","by":"github-actions[bot]","id":"5980a5b","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.4.0 (#120)"}
 {"at":"2026-11-14T23:52:27Z","by":"grenudi","id":"59ff83b","project":"open-commons-observatory/ocoeco","record":"g-20261114-235036","says":"feat: a row is taken back by saying so, guarded as entering is (#249)"}
@@ -1436,6 +1439,7 @@
 {"at":"2026-11-14T18:54:37Z","by":"grenudi","id":"648bc29","project":"open-commons-observatory/ocoeco","record":"g-20261114-185255","says":"docs: what an observation could not read is overwritten: said as a sign (#207)"}
 {"at":"2026-11-15T09:39:06Z","by":"grenudi","id":"6659db5","project":"open-commons-observatory/ocoeco","record":"g-20261115-093735","says":"fix: the beam of a lens is the beam of the look: from a thing, from a place (#267)"}
 {"at":"2026-11-14T22:31:31Z","by":"grenudi","id":"665d668","project":"open-commons-observatory/ocoeco","record":"g-20261114-223001","says":"docs: the engine's views retire: an item of its own, that two items waited on in words (#238)"}
+{"at":"2026-11-16T09:20:47Z","by":"grenudi","id":"6700908","project":"open-commons-observatory/ocoeco","record":"g-20261116-091905","says":"feat: every row of a lens file is written by its entry; what one saying enters lands as one (#369)"}
 {"at":"2026-11-10T16:36:49Z","by":"lab-agent-session","id":"673e01f","project":"open-commons-observatory/ocoeco","says":"docs: ocoeco - the principle, the tool, and its own path as data"}
 {"at":"2026-11-14T23:46:34Z","by":"grenudi","id":"678994d","project":"open-commons-observatory/ocoeco","record":"g-20261114-234441","says":"refactor: what the language saw in itself: a line said once, the handwork brought into focus (#248)"}
 {"at":"2026-11-15T12:19:17Z","by":"github-actions[bot]","id":"69036f8","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.46.0 (#285)"}
@@ -1852,6 +1856,7 @@
 {"at":"2026-11-11T16:48:16Z","by":"oco harvest","id":"3bc1e66","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:11:46Z","by":"oco harvest","id":"3c84937","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T15:50:43Z","by":"grenudi","id":"3d0cd94","project":"open-commons-observatory/open-commons-observatory.github.io","says":"feat(data): a practice - change only what you mean to, never by copying whole files from a stale copy (#7)"}
+{"at":"2026-11-16T09:11:33Z","by":"oco harvest","id":"3d54da3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T12:45:32Z","by":"grenudi","id":"3d5d8e3","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-124514","says":"docs: the inbox: shown where it was not read, and what the voice had said (#87)"}
 {"at":"2026-11-13T06:13:10Z","by":"oco harvest","id":"3d661d5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T14:19:47Z","by":"grenudi","id":"3d7fbdd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"docs: the mark, schema 1 - oco.toml, the oco-project topic, the standard tables (#1)"}
