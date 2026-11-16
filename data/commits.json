@@ -257,6 +257,7 @@
 {"at":"2026-11-09T08:57:51Z","by":"grenudi","id":"a1b8bef","project":"creation-guidelines/lab-agent","says":"fix: disable LTO for the Arch package - ring's C/asm FFI boundary breaks under it (#13)"}
 {"at":"2026-11-10T00:32:13Z","by":"github-actions[bot]","id":"a366f55","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.23 (#62)"}
 {"at":"2026-11-12T01:38:16Z","by":"grenudi","id":"a38a5cc","project":"creation-guidelines/lab-agent","record":"g-20261112-013728","says":"feat: the 2026-11-11 log replayed: oco-agent refuses exactly the 102 replays (#139)"}
+{"at":"2026-11-16T19:28:42Z","by":"grenudi","id":"a3b9987","project":"creation-guidelines/lab-agent","record":"g-20261116-192742","says":"chore: lab-agent's releases are drafts until the conveyor says them, once their files are there (#212)"}
 {"at":"2026-11-10T03:36:27Z","by":"github-actions[bot]","id":"a58b2a4","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.29 (#77)"}
 {"at":"2026-11-12T03:00:20Z","by":"grenudi","id":"a8e9592","project":"creation-guidelines/lab-agent","record":"g-20261112-025931","says":"feat: speaking: the journal and logs back to the repository; wait from anywhere (#150)"}
 {"at":"2026-11-12T02:38:46Z","by":"grenudi","id":"a91beed","project":"creation-guidelines/lab-agent","record":"g-20261112-023758","says":"feat: intake: work asked through the repository; beats as variables (#147)"}
@@ -2532,6 +2533,7 @@
 {"at":"2026-11-11T14:38:42Z","by":"oco harvest","id":"e989741","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T22:50:51Z","by":"oco harvest","id":"e9a23b0","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T16:13:20Z","by":"oco harvest","id":"e9c26bd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T19:28:25Z","by":"oco harvest","id":"e9d146a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T09:32:49Z","by":"oco harvest","id":"e9e0369","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T06:26:49Z","by":"oco harvest","id":"eb64d12","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T18:11:43Z","by":"grenudi","id":"ebc09fe","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: lenses drawn - the renderer and the Linux Phones lens done; the session logged (#18)"}
