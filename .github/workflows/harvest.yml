@@ -56,8 +56,8 @@ jobs:
         run: |
           oco site --data data --out _site
           # beside the engine's views, the pages said in the language: which there are is this
-          # observatory's lens commons-site to say - the whole, and a page for each place - each laid out by as-page
-          ocoeco site commons-site --observed data --out _site
+          # observatory's lens site to say - the whole, and a page for each place - each laid out by as-page
+          ocoeco site site --observed data --out _site
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
