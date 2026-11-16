@@ -763,6 +763,7 @@
 {"at":"2026-11-15T09:33:16Z","by":"oco observe","id":"2e892f1","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T09:16:37Z","by":"oco observe","id":"2eb2ed9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T05:30:30Z","by":"oco observe","id":"2eb5a57","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T11:11:17Z","by":"oco observe","id":"3007224","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:57:53Z","by":"oco observe","id":"302c046","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T03:03:22Z","by":"oco observe","id":"3047086","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T00:10:07Z","by":"oco observe","id":"30c717c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -886,6 +887,7 @@
 {"at":"2026-11-15T13:50:07Z","by":"oco observe","id":"6d1042a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T22:17:51Z","by":"oco observe","id":"6d15738","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T20:04:15Z","by":"oco observe","id":"6d77fcd","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T10:48:21Z","by":"oco observe","id":"6ed59d4","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T18:25:40Z","by":"oco observe","id":"6f29636","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T10:48:09Z","by":"oco observe","id":"6f3612c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:12:03Z","by":"oco observe","id":"6ffcd17","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -893,6 +895,7 @@
 {"at":"2026-11-15T10:20:17Z","by":"oco observe","id":"70915cc","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T12:28:04Z","by":"oco observe","id":"70f5449","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:59:20Z","by":"oco observe","id":"7145a71","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T11:03:26Z","by":"oco observe","id":"743bfac","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T14:59:58Z","by":"oco observe","id":"746a414","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T05:17:25Z","by":"oco observe","id":"7490c35","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T18:47:42Z","by":"oco observe","id":"74bb207","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1093,6 +1096,7 @@
 {"at":"2026-11-13T08:22:54Z","by":"oco observe","id":"d8bf618","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T00:27:22Z","by":"grenudi","id":"d985ae0","project":"marshall-oco/marshall-oco.github.io","record":"g-20261116-002706","says":"feat: the lens behind the sheet goes by what a line is about, not by its words (#26)"}
 {"at":"2026-11-14T17:01:29Z","by":"oco observe","id":"da0a68c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T10:35:38Z","by":"oco observe","id":"da128f6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T16:59:42Z","by":"oco observe","id":"daebfd4","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T10:18:13Z","by":"oco observe","id":"dba57fc","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T09:09:45Z","by":"oco observe","id":"dbf4ef7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1617,6 +1621,7 @@
 {"at":"2026-11-16T05:13:53Z","by":"grenudi","id":"ca4617f","project":"open-commons-observatory/ocoeco","record":"g-20261116-051223","says":"feat: the check looks with the places beside it; what is kept out stops by its lens (#353)"}
 {"at":"2026-11-15T19:19:48Z","by":"grenudi","id":"ca9643f","project":"open-commons-observatory/ocoeco","record":"g-20261115-191807","says":"feat: what is joined to nothing, by kind: the islands of the whole; a record named is counted (#308)"}
 {"at":"2026-11-15T12:43:02Z","by":"grenudi","id":"cafa1a4","project":"open-commons-observatory/ocoeco","record":"g-20261115-124119","says":"fix: a row is taken back only when nothing in view points at it (#286)"}
+{"at":"2026-11-16T11:10:16Z","by":"github-actions[bot]","id":"cb7b796","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.66.0 (#381)"}
 {"at":"2026-11-13T23:33:26Z","by":"github-actions[bot]","id":"cc26c4e","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.7.0 (#136)"}
 {"at":"2026-11-15T18:59:03Z","by":"grenudi","id":"ccd8511","project":"open-commons-observatory/ocoeco","record":"g-20261115-185741","says":"feat: the way up is a surface: the whole one step up, each lens by what it says and holds (#304)"}
 {"at":"2026-11-14T22:01:23Z","by":"github-actions[bot]","id":"ce2f6fd","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.32.2 (#232)"}
@@ -1651,6 +1656,7 @@
 {"at":"2026-11-13T21:39:26Z","by":"grenudi","id":"dfe0a33","project":"open-commons-observatory/ocoeco","record":"g-20261113-213756","says":"fix: a lens not in view from here is said to be so, and the rest is shown (#127)"}
 {"at":"2026-11-10T17:55:06Z","by":"grenudi","id":"e00fbe3","project":"open-commons-observatory/ocoeco","says":"fix: the API's Accept header goes only to the API - empty tables are zero rows (#8)"}
 {"at":"2026-11-14T14:55:29Z","by":"grenudi","id":"e079c85","project":"open-commons-observatory/ocoeco","record":"g-20261114-145409","says":"feat: the top of the walk: a place is a thing, and what it gathers is drawn (#182)"}
+{"at":"2026-11-16T11:09:44Z","by":"grenudi","id":"e098957","project":"open-commons-observatory/ocoeco","record":"g-20261116-110813","says":"feat: a part goes by the name it was made with, and says what is written above it (#380)"}
 {"at":"2026-11-14T00:07:12Z","by":"grenudi","id":"e226ee5","project":"open-commons-observatory/ocoeco","record":"g-20261114-000542","says":"feat: the check reads the graph: what points nowhere is known in one place (#141)"}
 {"at":"2026-11-12T13:05:59Z","by":"grenudi","id":"e24ee4e","project":"open-commons-observatory/ocoeco","record":"g-20261112-130450","says":"fix: a glimpse names the milestones table; the links it wrote are mended (#55)"}
 {"at":"2026-11-13T06:10:04Z","by":"grenudi","id":"e299f61","project":"open-commons-observatory/ocoeco","record":"g-20261113-060823","says":"feat: the lens of insight: connections, red lines through the data (#93)"}
@@ -2181,6 +2187,7 @@
 {"at":"2026-11-13T23:07:34Z","by":"oco harvest","id":"af5dff7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T13:28:30Z","by":"oco harvest","id":"b04f4c6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T20:06:37Z","by":"oco harvest","id":"b05cecf","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T10:28:25Z","by":"oco harvest","id":"b0bdb9e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T09:48:14Z","by":"oco harvest","id":"b259c6f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T03:13:00Z","by":"oco harvest","id":"b29f6ae","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T10:34:57Z","by":"oco harvest","id":"b2b23e5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
