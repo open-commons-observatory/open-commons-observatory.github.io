@@ -1775,6 +1775,7 @@
 {"at":"2026-11-11T12:35:06Z","by":"grenudi","id":"3cd336d","project":"open-commons-observatory/ocoeco-engine","says":"feat/effort research badges (#44)"}
 {"at":"2026-11-10T18:48:43Z","by":"grenudi","id":"48eaae7","project":"open-commons-observatory/ocoeco-engine","says":"feat(site): each project's own translations, and only its own - with the engine's records caught up (#22)"}
 {"at":"2026-11-11T01:01:28Z","by":"grenudi","id":"4a0ced7","project":"open-commons-observatory/ocoeco-engine","says":"fix(site): the last English words on a Russian page - a count and the kinds of workings (#40)"}
+{"at":"2026-11-16T14:38:41Z","by":"grenudi","id":"4e89449","project":"open-commons-observatory/ocoeco-engine","record":"g-20261116-143751","says":"feat: the page reads the runs the observatory observes, no longer ci (#57)"}
 {"at":"2026-11-11T21:40:33Z","by":"grenudi","id":"550d043","project":"open-commons-observatory/ocoeco-engine","record":"g-20261111-213944","says":"chore: glimpses are recorded here from now on (#56)"}
 {"at":"2026-11-10T16:33:41Z","by":"grenudi","id":"5ba8281","project":"open-commons-observatory/ocoeco-engine","says":"chore(mark): a short title - Engine (#12)"}
 {"at":"2026-11-10T17:28:05Z","by":"grenudi","id":"5c9f66b","project":"open-commons-observatory/ocoeco-engine","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#17)"}
@@ -2332,6 +2333,7 @@
 {"at":"2026-11-11T17:01:25Z","by":"oco harvest","id":"c73e559","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T20:39:29Z","by":"grenudi","id":"c7a2376","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-203914","says":"docs: a way of working: what followed is looked at, not written; pages looked at, counted (#98)"}
 {"at":"2026-11-10T15:29:23Z","by":"oco harvest","id":"c8340a1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T14:38:17Z","by":"oco harvest","id":"c88ba11","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T04:43:28Z","by":"oco harvest","id":"c88d6e1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T16:35:07Z","by":"oco harvest","id":"c8cbe0b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T23:50:50Z","by":"oco harvest","id":"c92b3e2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
