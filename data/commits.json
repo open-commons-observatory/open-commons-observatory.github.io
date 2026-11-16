@@ -3,6 +3,7 @@
 {"at":"2026-11-11T21:39:15Z","by":"grenudi","id":"df64bf0","project":"Mnemonic-Vocabulary-org/lens","record":"g-20261111-213900","says":"chore: glimpses are recorded here from now on (#1)"}
 {"at":"2026-11-11T21:39:38Z","by":"grenudi","id":"a34b8e3","project":"Mnemonic-Vocabulary-org/mnemonic-vocabulary-oco","record":"g-20261111-213922","says":"chore: glimpses are recorded here from now on (#1)"}
 {"at":"2026-11-10T19:36:35Z","by":"lab-agent-session","id":"ab074d6","project":"Mnemonic-Vocabulary-org/mnemonic-vocabulary-oco","says":"docs: a place for Mnemonic Vocabulary - the idea, its concepts, backlog and path, kept as data"}
+{"at":"2026-11-16T16:01:58Z","by":"grenudi","id":"cba0b42","project":"Mnemonic-Vocabulary-org/mnemonic-vocabulary-oco","record":"g-20261116-160140","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#3)"}
 {"at":"2026-11-16T14:54:54Z","by":"grenudi","id":"e1d0841","project":"Mnemonic-Vocabulary-org/mnemonic-vocabulary-oco","record":"g-20261116-145437","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#2)"}
 {"at":"2026-09-24T15:48:40Z","by":"grenudi","id":"01cd0e4","project":"argenv-opencommons/argenv","says":"refactor!: remove positional args and gated inputs, rename model! to contract!"}
 {"at":"2026-07-23T10:26:46Z","by":"grenudi","id":"02851f0","project":"argenv-opencommons/argenv","says":"major: reshape"}
@@ -699,6 +700,7 @@
 {"at":"2026-11-11T21:38:53Z","by":"grenudi","id":"21f7b4d","project":"linux-phone-oco/sxmo-deviceprofiles","record":"g-20261111-213826","says":"chore: glimpses are recorded here from now on (#7)"}
 {"at":"2026-11-10T17:39:42Z","by":"grenudi","id":"241ff95","project":"linux-phone-oco/sxmo-deviceprofiles","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#4)"}
 {"at":"2026-11-10T16:27:04Z","by":"grenudi","id":"2c65700","project":"linux-phone-oco/sxmo-deviceprofiles","says":"feat(oco): the profiles' own backlog and path (#2)"}
+{"at":"2026-11-16T16:00:32Z","by":"grenudi","id":"3e66afc","project":"linux-phone-oco/sxmo-deviceprofiles","record":"g-20261116-160003","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#9)"}
 {"at":"2026-11-10T17:46:33Z","by":"ocoeco gather","id":"83cecee","project":"linux-phone-oco/sxmo-deviceprofiles","says":"data: gathered by ocoeco"}
 {"at":"2026-11-10T14:22:26Z","by":"grenudi","id":"a98f120","project":"linux-phone-oco/sxmo-deviceprofiles","says":"chore: the observatory's mark (oco.toml) (#1)"}
 {"at":"2026-11-10T16:41:04Z","by":"grenudi","id":"dce09f5","project":"linux-phone-oco/sxmo-deviceprofiles","says":"chore(mark): a short title - Sxmo profiles (#3)"}
@@ -1192,6 +1194,7 @@
 {"at":"2026-11-14T20:50:02Z","by":"oco observe","id":"e8c241a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T12:32:14Z","by":"oco observe","id":"e8dc540","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T14:33:06Z","by":"oco observe","id":"e922758","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T16:01:23Z","by":"grenudi","id":"e9f1d09","project":"marshall-oco/marshall-oco.github.io","record":"g-20261116-160106","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#29)"}
 {"at":"2026-11-15T06:18:20Z","by":"oco observe","id":"eaf8561","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:25:39Z","by":"oco observe","id":"eb258b7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T18:18:23Z","by":"oco observe","id":"eb474b2","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1361,6 +1364,7 @@
 {"at":"2026-11-13T17:54:13Z","by":"grenudi","id":"d9f11fb","project":"open-commons-observatory/ecosystem","record":"g-20261113-175357","says":"docs: a name is not the place: the author's glimpse, beside Rhizome's own concepts (#20)"}
 {"at":"2026-11-13T09:06:47Z","by":"grenudi","id":"da91fd7","project":"open-commons-observatory/ecosystem","record":"g-20261113-090630","says":"docs: argenv first: the need is met where it lives (#10)"}
 {"at":"2026-11-16T10:01:43Z","by":"grenudi","id":"dbec944","project":"open-commons-observatory/ecosystem","record":"g-20261116-100124","says":"docs: a reflection: what the first acts said at once showed, and 1 more (#133)"}
+{"at":"2026-11-16T16:02:33Z","by":"grenudi","id":"dd8c0e9","project":"open-commons-observatory/ecosystem","record":"g-20261116-160217","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#149)"}
 {"at":"2026-11-14T08:26:06Z","by":"grenudi","id":"e1cd269","project":"open-commons-observatory/ecosystem","record":"g-20261114-082550","says":"docs: one word each (#46)"}
 {"at":"2026-11-14T19:01:32Z","by":"grenudi","id":"e2929b8","project":"open-commons-observatory/ecosystem","record":"g-20261114-190117","says":"docs: how work is done, said as practices: what came of it, and two signs (#68)"}
 {"at":"2026-11-14T01:11:27Z","by":"grenudi","id":"e2bdc56","project":"open-commons-observatory/ecosystem","record":"g-20261114-011109","says":"docs: what lies ahead, read off (#42)"}
@@ -1804,6 +1808,7 @@
 {"at":"2026-11-10T16:43:18Z","by":"grenudi","id":"0369d50","project":"open-commons-observatory/ocoeco-engine","says":"feat(site): the observatory's own family as its sub-views - ocoeco, its backbone, among them (#13)"}
 {"at":"2026-11-10T19:08:25Z","by":"grenudi","id":"038064d","project":"open-commons-observatory/ocoeco-engine","says":"fix(site): four things only eyes found - unknown reads as unknown, lenses name rows and order groups (#24)"}
 {"at":"2026-11-10T18:56:30Z","by":"grenudi","id":"0d2704d","project":"open-commons-observatory/ocoeco-engine","says":"fix(site): words never overlap - the path is page layout, its labels laid out by the browser (#23)"}
+{"at":"2026-11-16T16:03:29Z","by":"grenudi","id":"0ed597c","project":"open-commons-observatory/ocoeco-engine","record":"g-20261116-160250","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#58)"}
 {"at":"2026-11-11T00:54:03Z","by":"grenudi","id":"1e14652","project":"open-commons-observatory/ocoeco-engine","says":"fix(site): the count of projects in the form its number asks for (#39)"}
 {"at":"2026-11-11T15:45:56Z","by":"grenudi","id":"218acab","project":"open-commons-observatory/ocoeco-engine","says":"data: the wrap-up pass - settled with reasons (#54)"}
 {"at":"2026-11-10T16:02:51Z","by":"grenudi","id":"23bf4f2","project":"open-commons-observatory/ocoeco-engine","says":"feat(site): How we work - the canon's principles and architectures, every practice and concept (#9)"}
@@ -2296,6 +2301,7 @@
 {"at":"2026-11-14T22:35:33Z","by":"oco harvest","id":"a94adef","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T22:03:25Z","by":"oco harvest","id":"a951411","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T23:59:25Z","by":"oco harvest","id":"a95c4a9","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T16:02:26Z","by":"oco harvest","id":"a98bc10","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T07:51:49Z","by":"oco harvest","id":"a98fcaa","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T12:30:16Z","by":"oco harvest","id":"aa2fb72","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T13:23:50Z","by":"oco harvest","id":"aa4697e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
