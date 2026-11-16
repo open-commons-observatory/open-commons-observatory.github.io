@@ -890,6 +890,7 @@
 {"at":"2026-11-14T14:59:58Z","by":"oco observe","id":"746a414","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T05:17:25Z","by":"oco observe","id":"7490c35","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T18:47:42Z","by":"oco observe","id":"74bb207","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T09:27:41Z","by":"oco observe","id":"74c09ec","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T17:35:23Z","by":"oco observe","id":"778a07a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T13:51:32Z","by":"oco observe","id":"779d649","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T19:51:57Z","by":"oco observe","id":"77ad571","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1627,6 +1628,7 @@
 {"at":"2026-11-14T18:51:42Z","by":"github-actions[bot]","id":"dbe0df5","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.26.1 (#206)"}
 {"at":"2026-11-14T22:36:36Z","by":"grenudi","id":"dcb3c44","project":"open-commons-observatory/ocoeco","record":"g-20261114-223456","says":"docs: what the engine's views show that the fulldome does not: looked at, and said (#239)"}
 {"at":"2026-11-16T04:37:06Z","by":"grenudi","id":"df43446","project":"open-commons-observatory/ocoeco","record":"g-20261116-043514","says":"docs: a sign: a link by a shorter name is not told (#349)"}
+{"at":"2026-11-16T09:31:52Z","by":"grenudi","id":"dfa18ab","project":"open-commons-observatory/ocoeco","record":"g-20261116-092957","says":"docs: a decision: a name within quotes is words (#371)"}
 {"at":"2026-11-13T21:39:26Z","by":"grenudi","id":"dfe0a33","project":"open-commons-observatory/ocoeco","record":"g-20261113-213756","says":"fix: a lens not in view from here is said to be so, and the rest is shown (#127)"}
 {"at":"2026-11-10T17:55:06Z","by":"grenudi","id":"e00fbe3","project":"open-commons-observatory/ocoeco","says":"fix: the API's Accept header goes only to the API - empty tables are zero rows (#8)"}
 {"at":"2026-11-14T14:55:29Z","by":"grenudi","id":"e079c85","project":"open-commons-observatory/ocoeco","record":"g-20261114-145409","says":"feat: the top of the walk: a place is a thing, and what it gathers is drawn (#182)"}
@@ -1761,6 +1763,7 @@
 {"at":"2026-11-10T17:33:57Z","by":"grenudi","id":"0c2fdec","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: lenses - the concept, the decision with what was rejected, the steps (#16)"}
 {"at":"2026-11-10T21:51:18Z","by":"oco harvest","id":"0c78d5d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T21:02:25Z","by":"grenudi","id":"0ce18b1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: joining in one command, Rhizoid joins, discovered lenses - logged; the tiers done (#27)"}
+{"at":"2026-11-16T09:27:19Z","by":"oco harvest","id":"0cff802","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T14:34:32Z","by":"oco harvest","id":"0d487e1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T14:34:08Z","by":"oco harvest","id":"0dc54b5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:41:53Z","by":"grenudi","id":"0e122cf","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: wrap up first, then move tad into ocoeco (#62)"}
