@@ -539,11 +539,13 @@
 {"at":"2026-11-11T00:57:49Z","by":"grenudi","id":"5e48058","project":"linux-phone-oco/docs","says":"feat(data): the workings of Linux Phones in Russian (#52)"}
 {"at":"2026-11-09T19:07:37Z","by":"grenudi","id":"6219abb","project":"linux-phone-oco/docs","says":"feat(data): the surya speaker works (#11)"}
 {"at":"2026-11-10T03:11:28Z","by":"grenudi","id":"634c464","project":"linux-phone-oco/docs","says":"feat(data): test runs - one line per run with its counts, and the latest runs filed (#28)"}
+{"at":"2026-11-16T23:40:58Z","by":"github-actions[bot]","id":"652ae0b","project":"linux-phone-oco/docs","says":"chore(main): release 0.1.0 (#72)"}
 {"at":"2026-11-11T09:37:56Z","by":"grenudi","id":"6c24d21","project":"linux-phone-oco/docs","says":"feat(data): the microphone's chain nearly whole; which speaker is the bottom one (#54)"}
 {"at":"2026-11-05T08:03:38Z","by":"grenudi","id":"6f79a41","project":"linux-phone-oco/docs","says":"fix(data): the distro is Nura now (#5)"}
 {"at":"2026-11-10T00:33:46Z","by":"grenudi","id":"7a10c36","project":"linux-phone-oco/docs","says":"feat(data): plasma-silent - sound works after writing the chips' volume; not yet persistent (#17)"}
 {"at":"2026-11-10T03:58:52Z","by":"grenudi","id":"81e7a43","project":"linux-phone-oco/docs","says":"feat(data): the tas2562 volume bug is fixed - Plasma's silence explained; both patches queued (#29)"}
 {"at":"2026-11-12T01:05:33Z","by":"grenudi","id":"82ca47b","project":"linux-phone-oco/docs","record":"g-20261112-010505","says":"build: tad 0.5.0: the pin moved, the data and documents re-rendered (#70)"}
+{"at":"2026-11-16T23:40:26Z","by":"grenudi","id":"8377c4a","project":"linux-phone-oco/docs","record":"g-20261116-233919","says":"docs: 9 runs of surya filed by devlab gather: the phone's own health reports (#80)"}
 {"at":"2026-11-11T21:36:33Z","by":"grenudi","id":"8a3f860","project":"linux-phone-oco/docs","record":"g-20261111-213606","says":"chore: glimpses are recorded here from now on (#64)"}
 {"at":"2026-11-09T16:48:31Z","by":"grenudi","id":"8bb7568","project":"linux-phone-oco/docs","says":"feat(data): the boot hang, the ADSP crash loop and off-state charging, recorded (#8)"}
 {"at":"2026-11-10T00:05:14Z","by":"grenudi","id":"919f1ec","project":"linux-phone-oco/docs","says":"docs: the grand picture - why, what, where, the evidence conveyor, the orgs, the phases (#15)"}
@@ -2438,6 +2440,7 @@
 {"at":"2026-11-11T17:54:33Z","by":"oco harvest","id":"ac12060","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T13:00:23Z","by":"oco harvest","id":"ac24627","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T18:04:09Z","by":"oco harvest","id":"acd213a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T23:39:08Z","by":"oco harvest","id":"ad04860","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T20:03:15Z","by":"oco harvest","id":"ad07b64","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T23:44:44Z","by":"grenudi","id":"ad348b8","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261111-234429","says":"docs: the look-around practice: find why a thing exists before replacing it (#70)"}
 {"at":"2026-11-11T21:49:40Z","by":"oco harvest","id":"ad5ea01","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
