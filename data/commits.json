@@ -531,6 +531,7 @@
 {"at":"2026-11-10T17:37:49Z","by":"grenudi","id":"41ca2e8","project":"linux-phone-oco/docs","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#42)"}
 {"at":"2026-11-11T09:52:07Z","by":"grenudi","id":"426141a","project":"linux-phone-oco/docs","says":"feat(data): the microphone codec comes up (#55)"}
 {"at":"2026-11-12T19:14:52Z","by":"grenudi","id":"43f79d8","project":"linux-phone-oco/docs","record":"g-20261112-191425","says":"fix: the docs begin their own history at 0.1.0; the template's is cleared (#74)"}
+{"at":"2026-11-17T01:42:10Z","by":"grenudi","id":"45b36ae","project":"linux-phone-oco/docs","record":"g-20261117-014133","says":"docs: 2 runs of xiaomi-surya filed by devlab, from the phone's own reports (#103)"}
 {"at":"2026-11-16T15:57:53Z","by":"grenudi","id":"469655a","project":"linux-phone-oco/docs","record":"g-20261116-155725","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#79)"}
 {"at":"2026-11-10T04:22:57Z","by":"grenudi","id":"475bb27","project":"linux-phone-oco/docs","says":"feat(feed): the mobile shells' latest releases (#31)"}
 {"at":"2026-11-17T01:36:04Z","by":"grenudi","id":"4866a3f","project":"linux-phone-oco/docs","says":"docs: 3 runs of xiaomi-surya filed by devlab, from the phone's own reports (#97)"}
@@ -561,6 +562,7 @@
 {"at":"2026-11-10T00:05:14Z","by":"grenudi","id":"919f1ec","project":"linux-phone-oco/docs","says":"docs: the grand picture - why, what, where, the evidence conveyor, the orgs, the phases (#15)"}
 {"at":"2026-11-10T14:20:29Z","by":"grenudi","id":"96cfe9e","project":"linux-phone-oco/docs","says":"chore: the observatory's mark (oco.toml) (#38)"}
 {"at":"2026-11-11T00:45:43Z","by":"grenudi","id":"98c8c5c","project":"linux-phone-oco/docs","says":"feat(data): four of surya's parts no longer unknown - each follows its evidence (#51)"}
+{"at":"2026-11-17T01:40:02Z","by":"grenudi","id":"9ba117a","project":"linux-phone-oco/docs","record":"g-20261117-013935","says":"docs: A second phone: not now, the author says (#102)"}
 {"at":"2026-11-10T03:00:36Z","by":"grenudi","id":"9ca3b14","project":"linux-phone-oco/docs","says":"feat(data): upstream-sxmo-profile - the Sxmo device profile for surya, ready to send (#26)"}
 {"at":"2026-11-10T01:02:21Z","by":"grenudi","id":"9f876a6","project":"linux-phone-oco/docs","says":"feat: the engine's matrix rule - the support page becomes a device-by-component grid (#18)"}
 {"at":"2026-11-11T17:32:51Z","by":"grenudi","id":"a028cc0","project":"linux-phone-oco/docs","says":"refactor: tad in Rust replaces the vendored Python engine (#61)"}
@@ -733,6 +735,7 @@
 {"at":"2026-11-10T02:30:13Z","by":"grenudi","id":"de63990","project":"linux-phone-oco/surya-lab","says":"feat: provision a freshly flashed phone - Firefox and the standard packages over the PC's connection (#11)"}
 {"at":"2026-11-11T00:44:09Z","by":"grenudi","id":"dee5ff6","project":"linux-phone-oco/surya-lab","says":"feat(checks): more of the phone measured - Wi-Fi joined, Bluetooth hearing, the SIM, what the kernel exposes (#45)"}
 {"at":"2026-11-17T00:31:09Z","by":"grenudi","id":"e0e623d","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#72)"}
+{"at":"2026-11-17T01:41:25Z","by":"grenudi","id":"e176708","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#79)"}
 {"at":"2026-11-09T14:20:29Z","by":"grenudi","id":"e4c336d","project":"linux-phone-oco/surya-lab","says":"feat: flash/flash-dtb.sh - flash a stock image with one device tree swapped in"}
 {"at":"2026-11-10T14:21:01Z","by":"grenudi","id":"e7b6154","project":"linux-phone-oco/surya-lab","says":"chore: the observatory's mark (oco.toml) (#35)"}
 {"at":"2026-11-10T04:10:44Z","by":"grenudi","id":"ef3e8ff","project":"linux-phone-oco/surya-lab","says":"feat(tests): the ADSP check says how many crashes came right after a resume (#17)"}
@@ -2151,6 +2154,7 @@
 {"at":"2026-11-16T17:09:08Z","by":"oco harvest","id":"3960891","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T02:55:38Z","by":"oco harvest","id":"39b68ec","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T09:10:51Z","by":"oco harvest","id":"39bc9e6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T01:40:23Z","by":"oco harvest","id":"3a3992e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T20:45:58Z","by":"grenudi","id":"3abe3e1","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261116-204540","says":"docs: a translation: lens_parts:site/1:title:ru (#107)"}
 {"at":"2026-11-14T22:01:50Z","by":"oco harvest","id":"3b02b14","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T18:00:12Z","by":"oco harvest","id":"3b61b6c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
