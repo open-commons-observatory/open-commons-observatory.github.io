@@ -577,6 +577,7 @@
 {"at":"2026-11-09T16:52:15Z","by":"grenudi","id":"d971a63","project":"linux-phone-oco/docs","says":"docs: state the project's goal, not only what this repo holds (#9)"}
 {"at":"2026-11-17T00:31:45Z","by":"grenudi","id":"daee663","project":"linux-phone-oco/docs","record":"g-20261117-003117","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#84)"}
 {"at":"2026-11-10T19:43:26Z","by":"grenudi","id":"daf3c67","project":"linux-phone-oco/docs","says":"chore: gathered data lives on the oco-data branch - main is the history of the work (#44)"}
+{"at":"2026-11-17T00:35:26Z","by":"grenudi","id":"de97bb8","project":"linux-phone-oco/docs","record":"g-20261117-003458","says":"docs: The face's next: support read off results, gaps shown as gaps (#85)"}
 {"at":"2026-11-16T14:49:52Z","by":"grenudi","id":"e1516d1","project":"linux-phone-oco/docs","record":"g-20261116-144924","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#77)"}
 {"at":"2026-11-11T00:15:22Z","by":"grenudi","id":"e4aedd8","project":"linux-phone-oco/docs","says":"feat(data): the idea of Linux Phones in Russian (#50)"}
 {"at":"2026-11-04T20:34:04Z","by":"grenudi","id":"e619d98","project":"linux-phone-oco/docs","says":"Initial commit"}
@@ -2016,6 +2017,7 @@
 {"at":"2026-11-16T09:27:19Z","by":"oco harvest","id":"0cff802","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T14:34:32Z","by":"oco harvest","id":"0d487e1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T14:34:08Z","by":"oco harvest","id":"0dc54b5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T00:34:41Z","by":"oco harvest","id":"0e0f6c2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:41:53Z","by":"grenudi","id":"0e122cf","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: wrap up first, then move tad into ocoeco (#62)"}
 {"at":"2026-11-15T16:06:27Z","by":"oco harvest","id":"0f2736a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T16:17:11Z","by":"oco harvest","id":"0f56209","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
