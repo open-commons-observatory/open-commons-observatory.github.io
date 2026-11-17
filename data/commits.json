@@ -560,6 +560,7 @@
 {"at":"2026-11-17T16:17:56Z","by":"grenudi","id":"c10e5e2","project":"grenudi/ideal-agent","says":"feat: start health folds into housekeeping: read-weight's given, not used (plugin 0.3.7) (#38)"}
 {"at":"2026-11-17T16:46:54Z","by":"grenudi","id":"c664bb3","project":"grenudi/ideal-agent","says":"fix: agent-env reads the GitHub token from ~/.config/ideal-agent/token (#45)"}
 {"at":"2026-11-17T16:07:56Z","by":"grenudi","id":"cda8005","project":"grenudi/ideal-agent","says":"fix: a started session's role is read past the app's reminders and the background (0.3.6) (#37)"}
+{"at":"2026-11-17T21:51:20Z","by":"grenudi","id":"cf15732","project":"grenudi/ideal-agent","says":"fix: a resume trusts only role state kept under the first-prompt rule (plugin 0.3.26) (#61)"}
 {"at":"2026-11-17T12:42:50Z","by":"grenudi","id":"d046c11","project":"grenudi/ideal-agent","says":"docs: follows idealkb 0.5.0: at a task's start, ask only about its subject (#18)"}
 {"at":"2026-11-17T13:03:37Z","by":"grenudi","id":"d0593fa","project":"grenudi/ideal-agent","says":"docs: the keeper's before number, and where the after comes from (#23)"}
 {"at":"2026-11-17T10:38:51Z","by":"grenudi","id":"d167984","project":"grenudi/ideal-agent","says":"docs: a project's briefs live in its agent folder; practice 42 points there (#5)"}
@@ -999,6 +1000,7 @@
 {"at":"2026-11-10T17:46:36Z","by":"ocoeco gather","id":"e751539","project":"linux-phone-oco/docs","says":"data: gathered by ocoeco"}
 {"at":"2026-11-17T16:52:22Z","by":"grenudi","id":"e969b87","project":"linux-phone-oco/docs","says":"docs: fastboot boot says the slot flags; set-active gated (lab-tools PR 80) (#250)"}
 {"at":"2026-11-17T15:29:00Z","by":"grenudi","id":"e9ca400","project":"linux-phone-oco/docs","says":"docs: the walleye coordinator's start no longer sources oco-work (#225)"}
+{"at":"2026-11-17T21:50:45Z","by":"grenudi","id":"eaf29fa","project":"linux-phone-oco/docs","says":"docs(lab-tools): lpoco-host research and decision; backlog lpoco-host rank 1 (#378)"}
 {"at":"2026-11-17T17:10:03Z","by":"grenudi","id":"eb317a8","project":"linux-phone-oco/docs","says":"docs: walleye coordinator brief: the lane's launchers and decision routing (#255)"}
 {"at":"2026-11-17T17:11:37Z","by":"grenudi","id":"ee54b3e","project":"linux-phone-oco/docs","says":"docs: floor-dsps-never-started - the DSPs are not the holder (keeper-9) (#257)"}
 {"at":"2026-11-17T18:59:50Z","by":"grenudi","id":"eea2797","project":"linux-phone-oco/docs","says":"docs: sleep-standby-current waits for the author (#327)"}
@@ -1055,6 +1057,7 @@
 {"at":"2026-11-17T21:01:50Z","by":"grenudi","id":"4af8d9b","project":"linux-phone-oco/google-walleye-lab","says":"walleye: how the phone stands (#48)"}
 {"at":"2026-11-17T18:27:57Z","by":"grenudi","id":"4eb1a74","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants g, h, i answer on 172.16.43.1 (e, b, f); a-f byte for byte (#9)"}
 {"at":"2026-11-17T18:23:44Z","by":"grenudi","id":"4fa476d","project":"linux-phone-oco/google-walleye-lab","says":"address 43 (#7)"}
+{"at":"2026-11-17T21:49:13Z","by":"grenudi","id":"520a680","project":"linux-phone-oco/google-walleye-lab","says":"walleye: code hygiene item (C probe removal, Rust CI) queued after the n3r try (#62)"}
 {"at":"2026-11-17T20:21:07Z","by":"grenudi","id":"5315bf5","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget-n1, n2, the ncm step without settings writes (walleye-ncm-noattr-images) (#35)"}
 {"at":"2026-11-17T20:02:36Z","by":"grenudi","id":"53a8965","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the gadget bring-up bisect (build item); cmdline-read and panic-time closed (#26)"}
 {"at":"2026-11-17T20:13:44Z","by":"grenudi","id":"54419ea","project":"linux-phone-oco/google-walleye-lab","says":"walleye: gadget bisect - 5a returns, 5b panics (ncm step) (#30)"}
@@ -1270,6 +1273,7 @@
 {"at":"2026-11-11T01:09:19Z","by":"grenudi","id":"76ea0a4","project":"linux-phone-oco/surya-lab","says":"docs: why the cameras are dark, and the way in - measured, sourced, nothing guessed (#47)"}
 {"at":"2026-11-10T11:43:38Z","by":"grenudi","id":"78b7614","project":"linux-phone-oco/surya-lab","says":"feat: device.toml - this device's manifest, for linux-phone-oco/lab-tools (devlab) (#27)"}
 {"at":"2026-11-10T04:17:26Z","by":"grenudi","id":"7979da9","project":"linux-phone-oco/surya-lab","says":"docs: a script that changes state needs explicit intent (#20)"}
+{"at":"2026-11-17T21:50:08Z","by":"grenudi","id":"7a5f7ea","project":"linux-phone-oco/surya-lab","says":"docs: r3 scored partial, r4 decision (#147)"}
 {"at":"2026-11-17T19:08:08Z","by":"grenudi","id":"7acf795","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#131)"}
 {"at":"2026-11-16T23:38:20Z","by":"grenudi","id":"7b0c23d","project":"linux-phone-oco/surya-lab","says":"docs: The phone's own health reports, gathered: 4 runs of 2026-11-16 (#71)"}
 {"at":"2026-11-10T13:34:11Z","by":"grenudi","id":"7b92e12","project":"linux-phone-oco/surya-lab","says":"docs: the explicit-intent example is devlab provision now (#33)"}
@@ -3357,6 +3361,7 @@
 {"at":"2026-11-15T13:39:12Z","by":"oco harvest","id":"b2db452","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T04:16:24Z","by":"oco harvest","id":"b344a8c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T17:45:44Z","by":"oco harvest","id":"b37e4fd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T21:49:59Z","by":"oco harvest","id":"b391b07","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T12:22:26Z","by":"oco harvest","id":"b395e7e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T23:25:30Z","by":"oco harvest","id":"b3ba866","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T23:56:08Z","by":"oco harvest","id":"b4369c5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
