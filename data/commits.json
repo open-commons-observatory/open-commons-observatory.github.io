@@ -527,6 +527,7 @@
 {"at":"2026-11-17T15:38:41Z","by":"grenudi","id":"60c4245","project":"grenudi/ideal-agent","says":"fix: plugin 0.3.3: carries the upstream paragraph of record-the-work (#33)"}
 {"at":"2026-11-17T11:45:00Z","by":"grenudi","id":"689bf46","project":"grenudi/ideal-agent","says":"fix: the practices that name ocoeco, counted (#10)"}
 {"at":"2026-11-17T10:17:19Z","by":"grenudi","id":"6a54fd7","project":"grenudi/ideal-agent","says":"feat: one keeper per shared resource: a role skill, a practice and its research (#2)"}
+{"at":"2026-11-17T16:54:06Z","by":"grenudi","id":"6e4eaba","project":"grenudi/ideal-agent","says":"docs: the unused skills are name-only in the author's settings; the after waits on a fresh session (#47)"}
 {"at":"2026-11-17T11:43:57Z","by":"grenudi","id":"6fce9c3","project":"grenudi/ideal-agent","says":"fix: nothing of ocoeco: skills look and record through tad and idealkb only (#9)"}
 {"at":"2026-11-17T16:28:27Z","by":"grenudi","id":"82343cf","project":"grenudi/ideal-agent","says":"docs: work-struggles cites ikb-cli's friction measure (#42)"}
 {"at":"2026-11-17T15:34:25Z","by":"grenudi","id":"8293de5","project":"grenudi/ideal-agent","says":"docs: ideal-agent's hand-over says where the neutral start stands (#30)"}
@@ -627,6 +628,7 @@
 {"at":"2026-11-17T11:56:59Z","by":"github-actions[bot]","id":"0235881","project":"linux-phone-oco/docs","says":"chore(main): release 0.4.0 (#183)"}
 {"at":"2026-11-17T11:05:01Z","by":"grenudi","id":"02edd49","project":"linux-phone-oco/docs","says":"feat: the sensor hub's way decided: the registry kept current, steps on the phone's queue (#176)"}
 {"at":"2026-11-17T05:18:05Z","by":"grenudi","id":"057dec0","project":"linux-phone-oco/docs","says":"docs: Both microphones record through the sound server (UCM); headset mic next (#135)"}
+{"at":"2026-11-17T16:52:55Z","by":"github-actions[bot]","id":"082b4a9","project":"linux-phone-oco/docs","says":"chore(main): release 0.10.0 (#246)"}
 {"at":"2026-11-17T03:55:46Z","by":"grenudi","id":"0956e27","project":"linux-phone-oco/docs","says":"fix: the one-database decision's about pointed nowhere (#119)"}
 {"at":"2026-11-17T10:22:44Z","by":"grenudi","id":"0b9178b","project":"linux-phone-oco/docs","says":"docs: The phone's queue: six proven items closed (#166)"}
 {"at":"2026-11-05T08:22:47Z","by":"grenudi","id":"0bdbff5","project":"linux-phone-oco/docs","says":"feat(data): a fresh-install plan, prepared but not run (#7)"}
@@ -2553,6 +2555,7 @@
 {"at":"2026-11-12T22:51:15Z","by":"oco harvest","id":"2b8ae0b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T22:22:04Z","by":"oco harvest","id":"2c95478","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T22:13:20Z","by":"grenudi","id":"2caefd5","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261114-221303","says":"docs: evidence before the word: shown where it was not followed, and what came of it (#83)"}
+{"at":"2026-11-17T16:53:21Z","by":"oco harvest","id":"2cce696","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T00:29:56Z","by":"oco harvest","id":"2d1ced9","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T20:09:31Z","by":"oco harvest","id":"2d3da85","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T09:36:56Z","by":"oco harvest","id":"2d8191a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
