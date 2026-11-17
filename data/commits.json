@@ -569,6 +569,7 @@
 {"at":"2026-11-05T07:46:02Z","by":"grenudi","id":"4f4ba71","project":"linux-phone-oco/docs","says":"fix: _config.yml is actually valid YAML (#3)"}
 {"at":"2026-11-10T20:44:39Z","by":"grenudi","id":"4ff014b","project":"linux-phone-oco/docs","says":"feat(data): the USB flapping fixed; a shell-free base and the TTY-first shell recorded (#47)"}
 {"at":"2026-11-05T08:12:55Z","by":"grenudi","id":"52819aa","project":"linux-phone-oco/docs","says":"feat(data): Nura boots and is reachable; no shell access without credentials (#6)"}
+{"at":"2026-11-17T05:13:29Z","by":"grenudi","id":"53ee7ee","project":"linux-phone-oco/docs","says":"docs: kernel remove keeps modules another kernel boots with (#134)"}
 {"at":"2026-11-10T22:21:29Z","by":"grenudi","id":"55e0319","project":"linux-phone-oco/docs","says":"feat(data): Linux Phones tells its essence - its idea for anyone, and its workings (#48)"}
 {"at":"2026-11-10T20:36:08Z","by":"grenudi","id":"55ee6ae","project":"linux-phone-oco/docs","says":"feat(data): the suspend crash's trigger found and fixed in the lab; the check corrected (#46)"}
 {"at":"2026-11-17T02:58:03Z","by":"grenudi","id":"5789774","project":"linux-phone-oco/docs","says":"feat: feeds and the status derivation as named records; devlab's filing as a record; tad 0.6.0 (#115)"}
@@ -2401,6 +2402,7 @@
 {"at":"2026-11-13T09:04:05Z","by":"oco harvest","id":"5cd0bb3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T12:59:15Z","by":"grenudi","id":"5cf5b07","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: hand-work is manual work, with its events (#56)"}
 {"at":"2026-11-15T16:05:15Z","by":"grenudi","id":"5d1553c","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-160459","says":"docs: the face asks, for each star, why it exists and how far it has come (#93)"}
+{"at":"2026-11-17T05:12:56Z","by":"oco harvest","id":"5d2b911","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T14:56:44Z","by":"oco harvest","id":"5d80429","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T14:00:19Z","by":"oco harvest","id":"5d88343","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T04:20:10Z","by":"oco harvest","id":"5f93001","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
