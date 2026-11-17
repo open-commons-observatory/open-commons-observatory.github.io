@@ -294,6 +294,7 @@
 {"at":"2026-11-15T19:03:38Z","by":"grenudi","id":"c4477b4","project":"creation-guidelines/lab-agent","record":"g-20261115-190238","says":"feat: two words of a job: a turn with its moment; a run waited for until it has ended (#200)"}
 {"at":"2026-11-14T22:12:48Z","by":"grenudi","id":"c46169d","project":"creation-guidelines/lab-agent","record":"g-20261114-221149","says":"docs: the wait did not fail: the sign says what the journal says (#190)"}
 {"at":"2026-11-13T01:17:59Z","by":"grenudi","id":"c5e77db","project":"creation-guidelines/lab-agent","record":"g-20261113-011701","says":"feat: the voice reads what the author's own observatory observed (#176)"}
+{"at":"2026-11-17T11:42:22Z","by":"grenudi","id":"c6c75a5","project":"creation-guidelines/lab-agent","record":"g-20261117-114122","says":"fix: landit checks a tad place with tad, never ocoeco (#219)"}
 {"at":"2026-11-10T03:18:07Z","by":"grenudi","id":"c8142eb","project":"creation-guidelines/lab-agent","says":"feat: updates apply themselves when the agent is idle (#74)"}
 {"at":"2026-11-12T09:06:27Z","by":"grenudi","id":"c93a92e","project":"creation-guidelines/lab-agent","record":"g-20261112-090528","says":"fix: release-plz: oco-agent's crates get their own tag names (#156)"}
 {"at":"2026-11-10T15:37:16Z","by":"grenudi","id":"c9d2472","project":"creation-guidelines/lab-agent","says":"feat: lab-agent guide - every agent instructs itself from the observatory's living practices (#99)"}
@@ -506,6 +507,7 @@
 {"at":"2026-09-23T12:43:32Z","by":"grenudi","id":"ed86798","project":"git-rhizoid/git-rhizoid.github.io","says":"feat(data): log the boundary layer implementation and its real bugs"}
 {"at":"2026-11-13T06:56:35Z","by":"grenudi","id":"fafad80","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261113-065606","says":"docs: a milestone ahead of its evidence, raised (#22)"}
 {"at":"2026-11-17T10:31:19Z","by":"grenudi","id":"16dcd53","project":"grenudi/ideal-agent","says":"docs: devlab reads shell commands with ideal-agent's reader: done (#4)"}
+{"at":"2026-11-17T11:39:20Z","by":"grenudi","id":"3289502","project":"grenudi/ideal-agent","says":"feat: ideal-agent follows ideal-knowledge-base: every record names its subject (#7)"}
 {"at":"2026-11-17T09:42:13Z","by":"grenudi","id":"3cbec09","project":"grenudi/ideal-agent","says":"Initial commit"}
 {"at":"2026-11-17T09:51:25Z","by":"grenudi","id":"5905800","project":"grenudi/ideal-agent","says":"feat: the ideal agent: its mark, its tad database, and one Claude Code plugin (#1)"}
 {"at":"2026-11-17T10:24:33Z","by":"grenudi","id":"5967ea8","project":"grenudi/ideal-agent","says":"docs: the move into ideal-agent recorded: done, proven live, every old place pointing here (#3)"}
@@ -515,9 +517,11 @@
 {"at":"2026-11-17T11:36:40Z","by":"grenudi","id":"12334d7","project":"grenudi/ideal-knowledge-base","says":"feat: a summary over many records, and research kept aside in dated folders (#5)"}
 {"at":"2026-11-17T11:37:15Z","by":"github-actions[bot]","id":"36a5b62","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.2.0 (#6)"}
 {"at":"2026-11-17T11:00:42Z","by":"grenudi","id":"58ba247","project":"grenudi/ideal-knowledge-base","says":"Initial commit"}
+{"at":"2026-11-17T11:41:10Z","by":"github-actions[bot]","id":"626b14f","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.3.0 (#8)"}
 {"at":"2026-11-17T11:05:31Z","by":"github-actions[bot]","id":"62a6a64","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.1.0 (#2)"}
 {"at":"2026-11-17T11:19:15Z","by":"grenudi","id":"6becc2a","project":"grenudi/ideal-knowledge-base","says":"docs: navigation is ideal-agent's skill ask-a-knowledge-base (#4)"}
 {"at":"2026-11-17T11:15:04Z","by":"grenudi","id":"c6f39d0","project":"grenudi/ideal-knowledge-base","says":"docs: docs follows 0.1.0, and the lab moves every base's pin weekly (#3)"}
+{"at":"2026-11-17T11:40:29Z","by":"grenudi","id":"dc3cca0","project":"grenudi/ideal-knowledge-base","says":"feat: sources keep who made what they describe (by); second follower done (#7)"}
 {"at":"2026-11-17T11:04:56Z","by":"grenudi","id":"f483421","project":"grenudi/ideal-knowledge-base","says":"feat: the ideal knowledge base: a layer on tad - five queries, standing tables, one entry (#1)"}
 {"at":"2026-11-16T19:25:40Z","by":"grenudi","id":"0df165f","project":"linux-package-distribution-oco/conveyor","record":"g-20261116-192510","says":"feat: a release is said once its files are there: a draft, said by the conveyor (#12)"}
 {"at":"2026-11-11T16:10:23Z","by":"grenudi","id":"1e27551","project":"linux-package-distribution-oco/conveyor","says":"docs/nix direction (#8)"}
@@ -1212,6 +1216,7 @@
 {"at":"2026-11-14T18:47:42Z","by":"oco observe","id":"74bb207","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T09:27:41Z","by":"oco observe","id":"74c09ec","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T12:05:18Z","by":"grenudi","id":"766f59a","project":"marshall-oco/marshall-oco.github.io","record":"g-20261116-120501","says":"feat: the page reads the language as its place keeps it, held while observing (#27)"}
+{"at":"2026-11-17T11:39:59Z","by":"oco observe","id":"7687410","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T12:18:05Z","by":"oco observe","id":"7715336","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T21:47:24Z","by":"oco observe","id":"7750812","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T17:35:23Z","by":"oco observe","id":"778a07a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -2851,6 +2856,7 @@
 {"at":"2026-11-16T05:34:51Z","by":"oco harvest","id":"bcc5f09","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T02:17:59Z","by":"oco harvest","id":"bd241e9","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T23:52:54Z","by":"oco harvest","id":"bd84d78","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T11:39:30Z","by":"oco harvest","id":"bd9541e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T21:33:30Z","by":"oco harvest","id":"be9aad0","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T21:57:31Z","by":"oco harvest","id":"bea7168","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T04:40:35Z","by":"oco harvest","id":"bebf620","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}

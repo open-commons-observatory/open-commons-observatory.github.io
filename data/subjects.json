@@ -1,0 +1,8 @@
+{"id":"hooks","name":"The hooks","project":"grenudi/ideal-agent","what":"The ways held when they are tried: the guard and the session start."}
+{"id":"ideal-agent","name":"The ideal agent itself","project":"grenudi/ideal-agent","what":"This repository: one home of general agent know-how, its database and its plugin."}
+{"id":"keeper","name":"The keeper of a shared resource","project":"grenudi/ideal-agent","what":"One owner per resource only one may change at a time, serving a queue."}
+{"id":"knowledge-base","name":"Knowledge bases","project":"grenudi/ideal-agent","what":"How an agent finds its way in a tad base, and how this one follows ideal-knowledge-base."}
+{"id":"organising-agents","name":"How agents are organised","project":"grenudi/ideal-agent","what":"Roles, sessions, experts written down, orchestration, the cost of many agents."}
+{"id":"practices","name":"The practices","project":"grenudi/ideal-agent","what":"How an agent works, read at the start of every session."}
+{"id":"records","name":"Recording the work","project":"grenudi/ideal-agent","what":"Where and how records are kept: tad, land, the commit as the record."}
+{"id":"skills","name":"The skills","project":"grenudi/ideal-agent","what":"The shared procedures and the methods of the roles, as Claude Code skills."}
