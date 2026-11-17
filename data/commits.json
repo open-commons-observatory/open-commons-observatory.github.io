@@ -515,6 +515,7 @@
 {"at":"2026-11-10T12:16:20Z","by":"grenudi","id":"18ea436","project":"linux-phone-oco/docs","says":"feat(data): the landscape - what postmarketOS and Mobian offer the conveyor (#36)"}
 {"at":"2026-11-10T01:59:07Z","by":"grenudi","id":"1a72431","project":"linux-phone-oco/docs","says":"feat(data): the microphone test kernel is built; a safe second-boot-entry plan for the test (#24)"}
 {"at":"2026-11-17T02:11:14Z","by":"grenudi","id":"1ab8705","project":"linux-phone-oco/docs","says":"docs: 2 runs of xiaomi-surya filed by devlab, from the phone's own reports (#113)"}
+{"at":"2026-11-17T02:33:12Z","by":"grenudi","id":"1bece03","project":"linux-phone-oco/docs","record":"g-20261117-023245","says":"docs: Microphone: the codec drops off both buses at card registration; the boot race recurs (#114)"}
 {"at":"2026-11-16T23:56:31Z","by":"grenudi","id":"1ccec59","project":"linux-phone-oco/docs","record":"g-20261116-235603","says":"docs: The conveyor for any phone: health on the phone, gather, MCP, the device template (#81)"}
 {"at":"2026-11-10T19:02:22Z","by":"grenudi","id":"1e0c661","project":"linux-phone-oco/docs","says":"feat(data): the project's own data in Russian - a translations table, by machine (#43)"}
 {"at":"2026-11-11T10:15:20Z","by":"grenudi","id":"1e61618","project":"linux-phone-oco/docs","says":"feat(data): the microphone's route is set; the stream does not start yet (#56)"}
@@ -693,6 +694,7 @@
 {"at":"2026-11-09T23:55:24Z","by":"grenudi","id":"32e1a1f","project":"linux-phone-oco/surya-lab","says":"fix: no depmod from the PC when baking in the amp module (#7)"}
 {"at":"2026-11-10T22:03:59Z","by":"grenudi","id":"3618fa7","project":"linux-phone-oco/surya-lab","says":"feat: the tones the lab's ear listens for; both speakers heard by a machine (#41)"}
 {"at":"2026-11-12T13:07:30Z","by":"grenudi","id":"3643d40","project":"linux-phone-oco/surya-lab","record":"g-20261112-130702","says":"fix: decisions about the phone's milestones name the star that keeps them (#67)"}
+{"at":"2026-11-17T02:30:46Z","by":"grenudi","id":"3891e00","project":"linux-phone-oco/surya-lab","record":"g-20261117-023018","says":"docs: Microphone research: the codec drops off both SoundWire buses as the card registers (#89)"}
 {"at":"2026-11-16T14:53:02Z","by":"grenudi","id":"4d0335f","project":"linux-phone-oco/surya-lab","record":"g-20261116-145232","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#68)"}
 {"at":"2026-11-11T14:33:58Z","by":"grenudi","id":"5040455","project":"linux-phone-oco/surya-lab","says":"data: waiting for the phone to settle is automated (#59)"}
 {"at":"2026-11-17T01:14:54Z","by":"grenudi","id":"57748d4","project":"linux-phone-oco/surya-lab","record":"g-20261117-011437","says":"docs: The main microphone's own check: records a second, fails until samples come back (#74)"}
@@ -1234,6 +1236,7 @@
 {"at":"2026-11-17T00:25:25Z","by":"oco observe","id":"d0284a6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T14:54:24Z","by":"grenudi","id":"d02e7a7","project":"marshall-oco/marshall-oco.github.io","record":"g-20261116-145407","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#28)"}
 {"at":"2026-11-14T21:03:15Z","by":"oco observe","id":"d059e19","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T02:30:30Z","by":"oco observe","id":"d072a98","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T15:21:38Z","by":"oco observe","id":"d0cf0c2","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T03:33:24Z","by":"oco observe","id":"d111d7a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T08:42:04Z","by":"grenudi","id":"d1e3b71","project":"marshall-oco/marshall-oco.github.io","record":"g-20261114-084148","says":"docs: the sheet says what each sign waits on (#5)"}
@@ -2433,6 +2436,7 @@
 {"at":"2026-11-14T21:33:23Z","by":"oco harvest","id":"893b97f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T01:06:04Z","by":"oco harvest","id":"894c7f1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T00:01:30Z","by":"oco harvest","id":"89f555b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T02:21:18Z","by":"oco harvest","id":"89f9985","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T21:19:22Z","by":"grenudi","id":"8a5a094","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: how we work under one roof - the concept, the decision with what was rejected, five steps (#29)"}
 {"at":"2026-11-14T00:11:00Z","by":"oco harvest","id":"8a79ee3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T19:42:40Z","by":"oco harvest","id":"8a8e17a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}

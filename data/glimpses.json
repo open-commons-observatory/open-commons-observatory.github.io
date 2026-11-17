@@ -199,6 +199,7 @@
 {"at":"2026-11-17T02:03:44Z","by":"devlab","id":"g-20261117-020344","kind":"docs","project":"linux-phone-oco/docs","summary":"1 runs of xiaomi-surya filed by devlab, from the phone's own reports"}
 {"at":"2026-11-17T02:07:10Z","by":"devlab","id":"g-20261117-020710","kind":"docs","project":"linux-phone-oco/docs","summary":"1 runs of xiaomi-surya filed by devlab, from the phone's own reports"}
 {"at":"2026-11-17T02:10:47Z","by":"devlab","id":"g-20261117-021047","kind":"docs","project":"linux-phone-oco/docs","summary":"2 runs of xiaomi-surya filed by devlab, from the phone's own reports"}
+{"at":"2026-11-17T02:32:45Z","by":"claude","id":"g-20261117-023245","kind":"docs","project":"linux-phone-oco/docs","summary":"Microphone: the codec drops off both buses at card registration; the boot race recurs"}
 {"at":"2026-11-11T21:36:39Z","by":"lab-agent-session","id":"g-20261111-213639","kind":"chore","project":"linux-phone-oco/lab-tools","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-16T14:50:06Z","by":"claude","id":"g-20261116-145006","kind":"chore","project":"linux-phone-oco/lab-tools","summary":"a mark: the latest runs are observed, as runs - no longer gathered here"}
 {"at":"2026-11-16T15:58:10Z","by":"claude","id":"g-20261116-155810","kind":"chore","project":"linux-phone-oco/lab-tools","summary":"a mark: what the gatherer writes is said where it writes it - no longer named here"}
@@ -242,6 +243,7 @@
 {"at":"2026-11-17T02:03:06Z","by":"devlab","id":"g-20261117-020306","kind":"docs","project":"linux-phone-oco/surya-lab","summary":"xiaomi-surya's own health reports, gathered"}
 {"at":"2026-11-17T02:06:44Z","by":"devlab","id":"g-20261117-020644","kind":"docs","project":"linux-phone-oco/surya-lab","summary":"xiaomi-surya's own health reports, gathered"}
 {"at":"2026-11-17T02:10:12Z","by":"devlab","id":"g-20261117-021012","kind":"docs","project":"linux-phone-oco/surya-lab","summary":"xiaomi-surya's own health reports, gathered"}
+{"at":"2026-11-17T02:30:18Z","by":"claude","id":"g-20261117-023018","kind":"docs","project":"linux-phone-oco/surya-lab","summary":"Microphone research: the codec drops off both SoundWire buses as the card registers","touches":"sources:vendor-sm6150-lpi-dtsi sources:vendor-sm6150-audio-overlay sources:lineage-sm6150-wcd937x research:microphone-codec-drops-off"}
 {"at":"2026-11-11T21:38:26Z","by":"lab-agent-session","id":"g-20261111-213826","kind":"chore","project":"linux-phone-oco/sxmo-deviceprofiles","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-16T14:53:15Z","by":"claude","id":"g-20261116-145315","kind":"chore","project":"linux-phone-oco/sxmo-deviceprofiles","summary":"a mark: the latest runs are observed, as runs - no longer gathered here"}
 {"at":"2026-11-16T16:00:03Z","by":"claude","id":"g-20261116-160003","kind":"chore","project":"linux-phone-oco/sxmo-deviceprofiles","summary":"a mark: what the gatherer writes is said where it writes it - no longer named here"}
