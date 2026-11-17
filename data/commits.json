@@ -299,6 +299,7 @@
 {"at":"2026-11-10T01:57:02Z","by":"github-actions[bot]","id":"cc10707","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.25 (#68)"}
 {"at":"2026-11-12T18:54:39Z","by":"grenudi","id":"cc40da9","project":"creation-guidelines/lab-agent","record":"g-20261112-185347","says":"docs: the token rotated, sealed on its way; the old kept until revoked (#169)"}
 {"at":"2026-11-12T03:02:34Z","by":"grenudi","id":"d05269b","project":"creation-guidelines/lab-agent","record":"g-20261112-030125","says":"fix: intake: first asked, first started (#151)"}
+{"at":"2026-11-17T03:29:31Z","by":"grenudi","id":"d10fb89","project":"creation-guidelines/lab-agent","record":"g-20261117-032840","says":"feat: landit makes no glimpse where a place exports none; commits are signed by the session (#216)"}
 {"at":"2026-11-10T22:33:13Z","by":"github-actions[bot]","id":"d31b4d0","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.44 (#109)"}
 {"at":"2026-11-09T02:20:13Z","by":"github-actions[bot]","id":"d58b088","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.0 (#8)"}
 {"at":"2026-11-10T14:23:08Z","by":"grenudi","id":"d7ae942","project":"creation-guidelines/lab-agent","says":"chore: the observatory's mark (oco.toml) (#97)"}
@@ -2232,6 +2233,7 @@
 {"at":"2026-11-16T20:52:13Z","by":"oco harvest","id":"3eef132","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T13:54:44Z","by":"oco harvest","id":"3f134d2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T22:23:48Z","by":"oco harvest","id":"3f60168","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T03:29:46Z","by":"oco harvest","id":"3f8cee3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T23:22:55Z","by":"oco harvest","id":"3fb0ee6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T16:37:10Z","by":"grenudi","id":"3fe850f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"feat(data): ocoeco - its own repository, the working system from now on; the observatory's family as sub-views (#10)"}
 {"at":"2026-11-14T19:42:20Z","by":"oco harvest","id":"407d898","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
