@@ -506,6 +506,7 @@
 {"at":"2026-11-11T15:40:23Z","by":"grenudi","id":"45d8c2a","project":"linux-package-distribution-oco/conveyor","says":"docs: a passing mirror outage must not fail a release (#4)"}
 {"at":"2026-11-17T04:07:25Z","by":"grenudi","id":"6902544","project":"linux-package-distribution-oco/conveyor","record":"g-20261117-040708","says":"docs: v1.1.0: the Alpine path released, v1 moved onto it (#14)"}
 {"at":"2026-11-11T16:12:23Z","by":"grenudi","id":"9ddfe04","project":"linux-package-distribution-oco/conveyor","says":"docs: tags only after landing; build in the project's own Nix environment (#9)"}
+{"at":"2026-11-17T04:14:28Z","by":"grenudi","id":"9e5beb5","project":"linux-package-distribution-oco/conveyor","record":"g-20261117-041400","says":"fix: Alpine path: the install test runs the page's lines alone (#16)"}
 {"at":"2026-11-11T15:56:36Z","by":"grenudi","id":"a8cee83","project":"linux-package-distribution-oco/conveyor","says":"fix: the musl toolchain install is patient - six tries, a minute apart (#7)"}
 {"at":"2026-11-11T10:49:37Z","by":"grenudi","id":"abca730","project":"linux-package-distribution-oco/conveyor","says":"docs: the first delivery - lab-agent v0.1.47; decisions refined (#1)"}
 {"at":"2026-11-17T04:11:58Z","by":"grenudi","id":"c10ad0c","project":"linux-package-distribution-oco/conveyor","record":"g-20261117-041141","says":"fix: Alpine path: packaging gets abuild's whole toolset, and a step that fails stops the job (#15)"}
@@ -615,6 +616,7 @@
 {"at":"2026-11-09T16:52:15Z","by":"grenudi","id":"d971a63","project":"linux-phone-oco/docs","says":"docs: state the project's goal, not only what this repo holds (#9)"}
 {"at":"2026-11-17T00:31:45Z","by":"grenudi","id":"daee663","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#84)"}
 {"at":"2026-11-10T19:43:26Z","by":"grenudi","id":"daf3c67","project":"linux-phone-oco/docs","says":"chore: gathered data lives on the oco-data branch - main is the history of the work (#44)"}
+{"at":"2026-11-17T04:14:19Z","by":"grenudi","id":"dcfec84","project":"linux-phone-oco/docs","says":"docs: Decision (surya-lab): test kernels that prove a part are built from pushed branches (#120)"}
 {"at":"2026-11-17T00:35:26Z","by":"grenudi","id":"de97bb8","project":"linux-phone-oco/docs","says":"docs: The face's next: support read off results, gaps shown as gaps (#85)"}
 {"at":"2026-11-17T01:46:02Z","by":"grenudi","id":"dfcfe56","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#104)"}
 {"at":"2026-11-16T14:49:52Z","by":"grenudi","id":"e1516d1","project":"linux-phone-oco/docs","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#77)"}
@@ -2320,6 +2322,7 @@
 {"at":"2026-11-14T23:54:35Z","by":"oco harvest","id":"51a9ce7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T11:21:04Z","by":"oco harvest","id":"521872d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T16:23:11Z","by":"oco harvest","id":"522a101","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T04:12:53Z","by":"oco harvest","id":"5299cba","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T11:24:21Z","by":"oco harvest","id":"52c4783","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T00:49:00Z","by":"grenudi","id":"5320f00","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261112-004844","says":"docs: work as if any turn could be cut off: the state lives in the data (#71)"}
 {"at":"2026-11-14T21:05:24Z","by":"oco harvest","id":"532a28c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
