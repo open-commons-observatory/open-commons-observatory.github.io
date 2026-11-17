@@ -559,7 +559,9 @@
 {"at":"2026-11-17T11:41:10Z","by":"github-actions[bot]","id":"626b14f","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.3.0 (#8)"}
 {"at":"2026-11-17T11:05:31Z","by":"github-actions[bot]","id":"62a6a64","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.1.0 (#2)"}
 {"at":"2026-11-17T11:19:15Z","by":"grenudi","id":"6becc2a","project":"grenudi/ideal-knowledge-base","says":"docs: navigation is ideal-agent's skill ask-a-knowledge-base (#4)"}
+{"at":"2026-11-17T15:56:49Z","by":"github-actions[bot]","id":"6d2f5c5","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#36)"}
 {"at":"2026-11-17T12:15:19Z","by":"grenudi","id":"734d789","project":"grenudi/ideal-knowledge-base","says":"docs: docs takes briefs: both followers answer 0.4.0 (#17)"}
+{"at":"2026-11-17T15:56:08Z","by":"grenudi","id":"7caa0d1","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: the installer pins ikb 0.4.0 (#35)"}
 {"at":"2026-11-17T12:11:06Z","by":"grenudi","id":"812dc8e","project":"grenudi/ideal-knowledge-base","says":"fix: the pin job leaves a base that refuses a release as its main has it (#13)"}
 {"at":"2026-11-17T12:07:28Z","by":"grenudi","id":"8775b40","project":"grenudi/ideal-knowledge-base","says":"feat: briefs first: every record has a one-line brief, answers give briefs (#11)"}
 {"at":"2026-11-17T14:29:16Z","by":"grenudi","id":"898147a","project":"grenudi/ideal-knowledge-base","says":"docs: ikb: the research and the decision to build one record command per base (#19)"}
@@ -645,6 +647,7 @@
 {"at":"2026-11-11T01:10:04Z","by":"grenudi","id":"309d3ea","project":"linux-phone-oco/docs","says":"feat(data): the cameras' fault, understood - no sensor described; the wiring known (#53)"}
 {"at":"2026-11-10T01:36:01Z","by":"grenudi","id":"325abe7","project":"linux-phone-oco/docs","says":"feat(feed): kernel work on surya's device tree, from sm7150-mainline (#23)"}
 {"at":"2026-11-17T02:04:12Z","by":"grenudi","id":"3288b61","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#111)"}
+{"at":"2026-11-17T15:57:14Z","by":"grenudi","id":"36686d2","project":"linux-phone-oco/docs","says":"docs: standing go for fastboot boot tries on walleye (#236)"}
 {"at":"2026-11-17T03:24:33Z","by":"grenudi","id":"3799499","project":"linux-phone-oco/docs","says":"docs: Microphone: the reset fault found and queued; capture prepares, still silent (#116)"}
 {"at":"2026-11-17T09:10:58Z","by":"grenudi","id":"3858805","project":"linux-phone-oco/docs","says":"docs: SMS works: the phone texts itself and receives it, once a day (#152)"}
 {"at":"2026-11-17T09:01:19Z","by":"grenudi","id":"3891906","project":"linux-phone-oco/docs","says":"docs: 4 runs of xiaomi-surya filed by devlab, from the phone's own reports (#150)"}
@@ -783,6 +786,7 @@
 {"at":"2026-11-17T10:50:01Z","by":"grenudi","id":"d31efa0","project":"linux-phone-oco/docs","says":"docs: idealkb design accepted by the author; its build waits on no one (#175)"}
 {"at":"2026-11-10T01:32:15Z","by":"grenudi","id":"d4795f9","project":"linux-phone-oco/docs","says":"fix(feed): no date column, so an unchanged wiki changes nothing (#22)"}
 {"at":"2026-11-10T15:40:02Z","by":"grenudi","id":"d4f4f80","project":"linux-phone-oco/docs","says":"feat(data): milestones - the path of Linux Phones and of surya, on three horizons (#41)"}
+{"at":"2026-11-17T15:54:43Z","by":"grenudi","id":"d52c183","project":"linux-phone-oco/docs","says":"docs: walleye clean room is a wall on inputs (decision), spec records on the backlog (#235)"}
 {"at":"2026-11-17T04:55:54Z","by":"grenudi","id":"d56b60c","project":"linux-phone-oco/docs","says":"docs: Backlog: mic-held is only the three boots now; the gap is gone (#130)"}
 {"at":"2026-11-17T15:19:59Z","by":"github-actions[bot]","id":"d627074","project":"linux-phone-oco/docs","says":"chore(main): release 0.7.0 (#216)"}
 {"at":"2026-11-17T05:32:57Z","by":"grenudi","id":"d69891b","project":"linux-phone-oco/docs","says":"docs: audio-mic judged works: both microphones, proven by the phone after every boot (#140)"}
@@ -796,6 +800,7 @@
 {"at":"2026-11-17T13:07:32Z","by":"grenudi","id":"dbb228d","project":"linux-phone-oco/docs","says":"docs: the SIM is out of surya: device note, skip-checks backlog item (#200)"}
 {"at":"2026-11-17T04:14:19Z","by":"grenudi","id":"dcfec84","project":"linux-phone-oco/docs","says":"docs: Decision (surya-lab): test kernels that prove a part are built from pushed branches (#120)"}
 {"at":"2026-11-17T15:24:49Z","by":"grenudi","id":"ddd6f4f","project":"linux-phone-oco/docs","says":"walleye keeper first look (#222)"}
+{"at":"2026-11-17T15:58:05Z","by":"grenudi","id":"de49dc7","project":"linux-phone-oco/docs","says":"keeper6 adsp floor (#232)"}
 {"at":"2026-11-17T00:35:26Z","by":"grenudi","id":"de97bb8","project":"linux-phone-oco/docs","says":"docs: The face's next: support read off results, gaps shown as gaps (#85)"}
 {"at":"2026-11-17T01:46:02Z","by":"grenudi","id":"dfcfe56","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#104)"}
 {"at":"2026-11-17T05:11:30Z","by":"grenudi","id":"e01bdb8","project":"linux-phone-oco/docs","says":"docs: Sxmo profile sent upstream; the microphones are analog, not digital (#132)"}
@@ -2762,6 +2767,7 @@
 {"at":"2026-11-11T23:22:59Z","by":"oco harvest","id":"6db821b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T17:46:09Z","by":"ocoeco gather","id":"6dbef37","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: gathered by ocoeco"}
 {"at":"2026-11-10T15:54:25Z","by":"grenudi","id":"6e805c4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"feat(data): oco-eco named; tad the heart, a rhizcut with its own path (#8)"}
+{"at":"2026-11-17T15:55:11Z","by":"oco harvest","id":"6ec197b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T09:32:50Z","by":"oco harvest","id":"6f217c6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T01:36:51Z","by":"oco harvest","id":"6f6e0ab","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T15:22:32Z","by":"oco harvest","id":"6ffc4ba","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
