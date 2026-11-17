@@ -559,6 +559,7 @@
 {"at":"2026-11-17T16:58:27Z","by":"grenudi","id":"f81859b","project":"grenudi/ideal-agent","says":"feat: decisions go to the lane coordinator; the author's bounds named (plugin 0.3.13) (#48)"}
 {"at":"2026-11-17T16:42:19Z","by":"grenudi","id":"f9667bb","project":"grenudi/ideal-agent","says":"research: what lab-agent is used for, its dependents, and the decision to retire it by parts (#44)"}
 {"at":"2026-11-17T12:09:55Z","by":"grenudi","id":"faf6656","project":"grenudi/ideal-agent","says":"feat: briefs first: ideal-agent follows idealkb 0.4.0, its records briefed (#16)"}
+{"at":"2026-11-17T17:30:36Z","by":"github-actions[bot]","id":"02a889c","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#45)"}
 {"at":"2026-11-17T14:40:26Z","by":"github-actions[bot]","id":"062d589","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#21)"}
 {"at":"2026-11-17T16:15:15Z","by":"github-actions[bot]","id":"0b45170","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#42)"}
 {"at":"2026-11-17T15:46:46Z","by":"github-actions[bot]","id":"0d675ca","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#33)"}
@@ -636,6 +637,7 @@
 {"at":"2026-11-17T17:11:46Z","by":"grenudi","id":"0296fc9","project":"linux-phone-oco/docs","says":"docs: the surya Sxmo profile landed in sxmo-utils (1fd7822) (#258)"}
 {"at":"2026-11-17T11:05:01Z","by":"grenudi","id":"02edd49","project":"linux-phone-oco/docs","says":"feat: the sensor hub's way decided: the registry kept current, steps on the phone's queue (#176)"}
 {"at":"2026-11-17T05:18:05Z","by":"grenudi","id":"057dec0","project":"linux-phone-oco/docs","says":"docs: Both microphones record through the sound server (UCM); headset mic next (#135)"}
+{"at":"2026-11-17T17:30:41Z","by":"grenudi","id":"061a077","project":"linux-phone-oco/docs","says":"docs: floor-udc-unbound stalled the phone - keep the watchdog armed (keeper-9) (#272)"}
 {"at":"2026-11-17T16:52:55Z","by":"github-actions[bot]","id":"082b4a9","project":"linux-phone-oco/docs","says":"chore(main): release 0.10.0 (#246)"}
 {"at":"2026-11-17T03:55:46Z","by":"grenudi","id":"0956e27","project":"linux-phone-oco/docs","says":"fix: the one-database decision's about pointed nowhere (#119)"}
 {"at":"2026-11-17T10:22:44Z","by":"grenudi","id":"0b9178b","project":"linux-phone-oco/docs","says":"docs: The phone's queue: six proven items closed (#166)"}
@@ -679,6 +681,7 @@
 {"at":"2026-11-11T01:10:04Z","by":"grenudi","id":"309d3ea","project":"linux-phone-oco/docs","says":"feat(data): the cameras' fault, understood - no sensor described; the wiring known (#53)"}
 {"at":"2026-11-10T01:36:01Z","by":"grenudi","id":"325abe7","project":"linux-phone-oco/docs","says":"feat(feed): kernel work on surya's device tree, from sm7150-mainline (#23)"}
 {"at":"2026-11-17T02:04:12Z","by":"grenudi","id":"3288b61","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#111)"}
+{"at":"2026-11-17T17:31:35Z","by":"grenudi","id":"3356731","project":"linux-phone-oco/docs","says":"walleye boot tries c d (#271)"}
 {"at":"2026-11-17T15:57:14Z","by":"grenudi","id":"36686d2","project":"linux-phone-oco/docs","says":"docs: standing go for fastboot boot tries on walleye (#236)"}
 {"at":"2026-11-17T03:24:33Z","by":"grenudi","id":"3799499","project":"linux-phone-oco/docs","says":"docs: Microphone: the reset fault found and queued; capture prepares, still silent (#116)"}
 {"at":"2026-11-17T09:10:58Z","by":"grenudi","id":"3858805","project":"linux-phone-oco/docs","says":"docs: SMS works: the phone texts itself and receives it, once a day (#152)"}
@@ -764,6 +767,7 @@
 {"at":"2026-11-17T17:26:30Z","by":"grenudi","id":"8550ec1","project":"linux-phone-oco/docs","says":"docs: lab-tools gather-into-device-base waits on move-device-rows (#269)"}
 {"at":"2026-11-17T10:26:27Z","by":"grenudi","id":"87f9eb4","project":"linux-phone-oco/docs","says":"feat: the phone's queue in the author's order: deep sleep first (#168)"}
 {"at":"2026-11-17T01:26:55Z","by":"grenudi","id":"88476da","project":"linux-phone-oco/docs","says":"docs: ArtCraft's organisation, read: what fits ours and what we lack (#94)"}
+{"at":"2026-11-17T17:32:46Z","by":"grenudi","id":"8911e72","project":"linux-phone-oco/docs","says":"docs: walleye backlog: why the bootloader says Load Error (research) (#273)"}
 {"at":"2026-11-11T21:36:33Z","by":"grenudi","id":"8a3f860","project":"linux-phone-oco/docs","says":"chore: glimpses are recorded here from now on (#64)"}
 {"at":"2026-11-17T09:02:14Z","by":"grenudi","id":"8afdf9c","project":"linux-phone-oco/docs","says":"feat: tad q coverage: each device's parts no test proves work (#151)"}
 {"at":"2026-11-09T16:48:31Z","by":"grenudi","id":"8bb7568","project":"linux-phone-oco/docs","says":"feat(data): the boot hang, the ADSP crash loop and off-state charging, recorded (#8)"}
@@ -2638,6 +2642,7 @@
 {"at":"2026-11-12T02:55:38Z","by":"oco harvest","id":"39b68ec","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T09:10:51Z","by":"oco harvest","id":"39bc9e6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T01:40:23Z","by":"oco harvest","id":"3a3992e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T17:31:04Z","by":"oco harvest","id":"3a5b399","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T20:45:58Z","by":"grenudi","id":"3abe3e1","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261116-204540","says":"docs: a translation: lens_parts:site/1:title:ru (#107)"}
 {"at":"2026-11-14T22:01:50Z","by":"oco harvest","id":"3b02b14","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T08:28:34Z","by":"oco harvest","id":"3b4aa19","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
