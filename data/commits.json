@@ -513,7 +513,9 @@
 {"at":"2026-11-17T11:46:18Z","by":"grenudi","id":"346a768","project":"grenudi/ideal-agent","says":"docs: the sources' by goes back once idealkb 0.3.0 is pinned (#11)"}
 {"at":"2026-11-17T09:42:13Z","by":"grenudi","id":"3cbec09","project":"grenudi/ideal-agent","says":"Initial commit"}
 {"at":"2026-11-17T12:01:02Z","by":"grenudi","id":"3d853d7","project":"grenudi/ideal-agent","says":"feat: the session start reads each practice's first sentence, numbered by its id (#15)"}
+{"at":"2026-11-17T13:00:20Z","by":"grenudi","id":"3dab6ee","project":"grenudi/ideal-agent","says":"docs: ideal-agent's own hand-over: a fresh session starts from it (#21)"}
 {"at":"2026-11-17T11:55:46Z","by":"grenudi","id":"469559f","project":"grenudi/ideal-agent","says":"fix: the sources' by is back, now that idealkb 0.3.0 declares it (#14)"}
+{"at":"2026-11-17T12:59:06Z","by":"grenudi","id":"54bf7a2","project":"grenudi/ideal-agent","says":"feat: hold little while working; a long-lived role hands over and restarts fresh (#20)"}
 {"at":"2026-11-17T09:51:25Z","by":"grenudi","id":"5905800","project":"grenudi/ideal-agent","says":"feat: the ideal agent: its mark, its tad database, and one Claude Code plugin (#1)"}
 {"at":"2026-11-17T10:24:33Z","by":"grenudi","id":"5967ea8","project":"grenudi/ideal-agent","says":"docs: the move into ideal-agent recorded: done, proven live, every old place pointing here (#3)"}
 {"at":"2026-11-17T11:45:00Z","by":"grenudi","id":"689bf46","project":"grenudi/ideal-agent","says":"fix: the practices that name ocoeco, counted (#10)"}
@@ -749,6 +751,7 @@
 {"at":"2026-11-17T10:41:20Z","by":"grenudi","id":"f63f0ec","project":"linux-phone-oco/docs","says":"docs: The ideal knowledge base decision says what is accepted and what waits (#173)"}
 {"at":"2026-11-17T02:07:39Z","by":"grenudi","id":"f659865","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#112)"}
 {"at":"2026-11-17T05:32:00Z","by":"grenudi","id":"f707409","project":"linux-phone-oco/docs","says":"docs: 44 runs of xiaomi-surya filed by devlab, from the phone's own reports (#139)"}
+{"at":"2026-11-17T12:57:42Z","by":"grenudi","id":"f837482","project":"linux-phone-oco/docs","says":"docs: the coordinator's hand-over, and its brief: a fresh coordinator starts from them (#195)"}
 {"at":"2026-11-10T04:13:10Z","by":"grenudi","id":"f92337c","project":"linux-phone-oco/docs","says":"feat(data): the ADSP crashes after resume, and a kernel component (#30)"}
 {"at":"2026-11-10T13:34:55Z","by":"grenudi","id":"f97e75d","project":"linux-phone-oco/docs","says":"feat(data): the session log - the conveyor in Rust, self-watching health, the microphone narrowed (#37)"}
 {"at":"2026-11-17T01:34:49Z","by":"grenudi","id":"fa56de6","project":"linux-phone-oco/docs","says":"docs: Two needs of the author: an Android reference, a second phone (#96)"}
@@ -2717,6 +2720,7 @@
 {"at":"2026-11-17T10:16:55Z","by":"oco harvest","id":"83f1fa6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T18:41:53Z","by":"oco harvest","id":"843adb1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T07:13:14Z","by":"oco harvest","id":"8509a76","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T12:55:14Z","by":"oco harvest","id":"8520ac2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T10:00:31Z","by":"oco harvest","id":"85271cd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T18:46:07Z","by":"oco harvest","id":"856d824","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T21:35:31Z","by":"oco harvest","id":"8582379","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
