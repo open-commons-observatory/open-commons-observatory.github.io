@@ -69,9 +69,9 @@
 {"bytes":742,"id":"docs/index.md","lines":15,"path":"docs/index.md","project":"grenudi/ideal-agent"}
 {"bytes":4373,"id":"docs/landscape.md","lines":78,"path":"docs/landscape.md","project":"grenudi/ideal-agent"}
 {"bytes":28499,"id":"docs/practices.md","lines":644,"path":"docs/practices.md","project":"grenudi/ideal-agent"}
-{"bytes":19637,"id":"docs/research.md","lines":231,"path":"docs/research.md","project":"grenudi/ideal-agent"}
-{"bytes":10139,"id":"docs/session_log.md","lines":312,"path":"docs/session_log.md","project":"grenudi/ideal-agent"}
-{"bytes":13632,"id":"docs/sources.md","lines":632,"path":"docs/sources.md","project":"grenudi/ideal-agent"}
+{"bytes":19863,"id":"docs/research.md","lines":231,"path":"docs/research.md","project":"grenudi/ideal-agent"}
+{"bytes":10821,"id":"docs/session_log.md","lines":333,"path":"docs/session_log.md","project":"grenudi/ideal-agent"}
+{"bytes":14208,"id":"docs/sources.md","lines":651,"path":"docs/sources.md","project":"grenudi/ideal-agent"}
 {"bytes":1272,"id":"docs/subjects.md","lines":65,"path":"docs/subjects.md","project":"grenudi/ideal-agent"}
 {"bytes":72,"id":"docs/summaries.md","lines":3,"path":"docs/summaries.md","project":"grenudi/ideal-agent"}
 {"bytes":2101,"id":"research/22-look-around-first/2026-11-17/README.md","lines":24,"path":"research/22-look-around-first/2026-11-17/README.md","project":"grenudi/ideal-agent"}
@@ -84,7 +84,7 @@
 {"bytes":3140,"id":"skills/keep-a-shared-resource/SKILL.md","lines":48,"path":"skills/keep-a-shared-resource/SKILL.md","project":"grenudi/ideal-agent"}
 {"bytes":7751,"id":"skills/keep-the-start-light/SKILL.md","lines":111,"path":"skills/keep-the-start-light/SKILL.md","project":"grenudi/ideal-agent"}
 {"bytes":3017,"id":"skills/lab-session-start/SKILL.md","lines":47,"path":"skills/lab-session-start/SKILL.md","project":"grenudi/ideal-agent"}
-{"bytes":1946,"id":"skills/land-a-change/SKILL.md","lines":25,"path":"skills/land-a-change/SKILL.md","project":"grenudi/ideal-agent"}
+{"bytes":2293,"id":"skills/land-a-change/SKILL.md","lines":29,"path":"skills/land-a-change/SKILL.md","project":"grenudi/ideal-agent"}
 {"bytes":2504,"id":"skills/look-around-first/SKILL.md","lines":33,"path":"skills/look-around-first/SKILL.md","project":"grenudi/ideal-agent"}
 {"bytes":4477,"id":"skills/orchestrate-agents/SKILL.md","lines":60,"path":"skills/orchestrate-agents/SKILL.md","project":"grenudi/ideal-agent"}
 {"bytes":4650,"id":"skills/record-the-work/SKILL.md","lines":62,"path":"skills/record-the-work/SKILL.md","project":"grenudi/ideal-agent"}
@@ -121,10 +121,10 @@
 {"bytes":11,"id":"CLAUDE.md","lines":1,"path":"CLAUDE.md","project":"linux-phone-oco/docs"}
 {"bytes":9048,"id":"CONTRIBUTING.md","lines":121,"path":"CONTRIBUTING.md","project":"linux-phone-oco/docs"}
 {"bytes":1463,"id":"README.md","lines":23,"path":"README.md","project":"linux-phone-oco/docs"}
-{"bytes":112658,"id":"docs/backlog.md","lines":3878,"path":"docs/backlog.md","project":"linux-phone-oco/docs"}
+{"bytes":112747,"id":"docs/backlog.md","lines":3881,"path":"docs/backlog.md","project":"linux-phone-oco/docs"}
 {"bytes":1493,"id":"docs/components.md","lines":149,"path":"docs/components.md","project":"linux-phone-oco/docs"}
 {"bytes":1786,"id":"docs/concepts.md","lines":73,"path":"docs/concepts.md","project":"linux-phone-oco/docs"}
-{"bytes":85315,"id":"docs/decisions.md","lines":1335,"path":"docs/decisions.md","project":"linux-phone-oco/docs"}
+{"bytes":86058,"id":"docs/decisions.md","lines":1363,"path":"docs/decisions.md","project":"linux-phone-oco/docs"}
 {"bytes":4097,"id":"docs/devices.md","lines":50,"path":"docs/devices.md","project":"linux-phone-oco/docs"}
 {"bytes":33016,"id":"docs/feature_support.md","lines":517,"path":"docs/feature_support.md","project":"linux-phone-oco/docs"}
 {"bytes":5630,"id":"docs/features.md","lines":462,"path":"docs/features.md","project":"linux-phone-oco/docs"}
@@ -139,8 +139,8 @@
 {"bytes":3979,"id":"docs/picture.md","lines":63,"path":"docs/picture.md","project":"linux-phone-oco/docs"}
 {"bytes":770,"id":"docs/platforms.md","lines":69,"path":"docs/platforms.md","project":"linux-phone-oco/docs"}
 {"bytes":4713,"id":"docs/problems.md","lines":198,"path":"docs/problems.md","project":"linux-phone-oco/docs"}
-{"bytes":100112,"id":"docs/research.md","lines":1397,"path":"docs/research.md","project":"linux-phone-oco/docs"}
-{"bytes":73246,"id":"docs/session_log.md","lines":1977,"path":"docs/session_log.md","project":"linux-phone-oco/docs"}
+{"bytes":101027,"id":"docs/research.md","lines":1422,"path":"docs/research.md","project":"linux-phone-oco/docs"}
+{"bytes":73957,"id":"docs/session_log.md","lines":1995,"path":"docs/session_log.md","project":"linux-phone-oco/docs"}
 {"bytes":373,"id":"docs/shell_releases.md","lines":28,"path":"docs/shell_releases.md","project":"linux-phone-oco/docs"}
 {"bytes":52897,"id":"docs/sources.md","lines":2317,"path":"docs/sources.md","project":"linux-phone-oco/docs"}
 {"bytes":6067,"id":"docs/summaries.md","lines":62,"path":"docs/summaries.md","project":"linux-phone-oco/docs"}
@@ -165,6 +165,7 @@
 {"bytes":4546,"id":"research/android-reference/2026-11-17/README.md","lines":61,"path":"research/android-reference/2026-11-17/README.md","project":"linux-phone-oco/docs"}
 {"bytes":16944,"id":"research/cleanroom-agents/2026-11-17/README.md","lines":85,"path":"research/cleanroom-agents/2026-11-17/README.md","project":"linux-phone-oco/docs"}
 {"bytes":603,"id":"research/deep-sleep/2026-11-17-adsp-floor/README.md","lines":4,"path":"research/deep-sleep/2026-11-17-adsp-floor/README.md","project":"linux-phone-oco/docs"}
+{"bytes":2229,"id":"research/deep-sleep/2026-11-17-cluster-params/notes.md","lines":22,"path":"research/deep-sleep/2026-11-17-cluster-params/notes.md","project":"linux-phone-oco/docs"}
 {"bytes":1567,"id":"research/deep-sleep/2026-11-17-way-back/README.md","lines":17,"path":"research/deep-sleep/2026-11-17-way-back/README.md","project":"linux-phone-oco/docs"}
 {"bytes":1942,"id":"research/deep-sleep/2026-11-17-way-back/measured.md","lines":17,"path":"research/deep-sleep/2026-11-17-way-back/measured.md","project":"linux-phone-oco/docs"}
 {"bytes":2356,"id":"research/deep-sleep/2026-11-17/README.md","lines":25,"path":"research/deep-sleep/2026-11-17/README.md","project":"linux-phone-oco/docs"}
