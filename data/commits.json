@@ -594,6 +594,7 @@
 {"at":"2026-11-05T07:33:49Z","by":"grenudi","id":"bbe722e","project":"linux-phone-oco/docs","says":"feat: schema for device/component/status tracking, RFC-style docs (#1)"}
 {"at":"2026-11-12T19:13:00Z","by":"grenudi","id":"bfe5aa4","project":"linux-phone-oco/docs","record":"g-20261112-191221","says":"docs: two problems raised: a release that failed unheard, and a version from nothing (#73)"}
 {"at":"2026-11-17T01:50:53Z","by":"grenudi","id":"c1e4e95","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#106)"}
+{"at":"2026-11-17T03:28:12Z","by":"grenudi","id":"c254333","project":"linux-phone-oco/docs","record":"g-20261117-032732","says":"docs: Boot race: the audio PD's up notification never arrives; PD mapper order suspected (#117)"}
 {"at":"2026-11-11T22:44:55Z","by":"grenudi","id":"c5a117f","project":"linux-phone-oco/docs","record":"g-20261111-223513","says":"build: tad 0.4.0: the pin moved, the data and documents re-rendered (#68)"}
 {"at":"2026-11-05T07:43:11Z","by":"grenudi","id":"c7800d4","project":"linux-phone-oco/docs","says":"ci: deploy Pages via Actions instead of the legacy pipeline (#2)"}
 {"at":"2026-11-11T15:47:43Z","by":"grenudi","id":"d0d0182","project":"linux-phone-oco/docs","says":"feat(data): the wrap-up pass - settled with reasons (#58)"}
@@ -2005,6 +2006,7 @@
 {"at":"2026-11-11T11:57:48Z","by":"grenudi","id":"29d72de","project":"open-commons-observatory/ocoeco-engine","says":"feat(site): hand-work - a page per project, and hand-work worth a tool in the attention view (#43)"}
 {"at":"2026-11-10T18:33:46Z","by":"grenudi","id":"2bb62b6","project":"open-commons-observatory/ocoeco-engine","says":"feat(site): the whole interface in every language - marked where it is written, resolved per page (#20)"}
 {"at":"2026-11-11T16:19:06Z","by":"grenudi","id":"2ef5b13","project":"open-commons-observatory/ocoeco-engine","says":"feat(site): loose ends on the front page - everything in progress, oldest first (#55)"}
+{"at":"2026-11-17T03:27:30Z","by":"grenudi","id":"2fa39cd","project":"open-commons-observatory/ocoeco-engine","record":"g-20261117-032649","says":"feat: where each hand stands is read off landings too: commits on a main, signed (#62)"}
 {"at":"2026-11-11T12:35:06Z","by":"grenudi","id":"3cd336d","project":"open-commons-observatory/ocoeco-engine","says":"feat/effort research badges (#44)"}
 {"at":"2026-11-10T18:48:43Z","by":"grenudi","id":"48eaae7","project":"open-commons-observatory/ocoeco-engine","says":"feat(site): each project's own translations, and only its own - with the engine's records caught up (#22)"}
 {"at":"2026-11-11T01:01:28Z","by":"grenudi","id":"4a0ced7","project":"open-commons-observatory/ocoeco-engine","says":"fix(site): the last English words on a Russian page - a count and the kinds of workings (#40)"}
@@ -2547,6 +2549,7 @@
 {"at":"2026-11-15T23:59:25Z","by":"oco harvest","id":"a95c4a9","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T16:02:26Z","by":"oco harvest","id":"a98bc10","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T07:51:49Z","by":"oco harvest","id":"a98fcaa","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T03:25:57Z","by":"oco harvest","id":"a9fc585","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T12:30:16Z","by":"oco harvest","id":"aa2fb72","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T13:23:50Z","by":"oco harvest","id":"aa4697e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T14:18:37Z","by":"oco harvest","id":"aa5a156","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
