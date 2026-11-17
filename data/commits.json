@@ -544,6 +544,7 @@
 {"at":"2026-11-17T18:37:18Z","by":"grenudi","id":"a27b543","project":"grenudi/ideal-agent","says":"feat: bring-up-a-part: a device from nothing (plugin 0.3.21) (#56)"}
 {"at":"2026-11-17T12:40:01Z","by":"grenudi","id":"aab4ad6","project":"grenudi/ideal-agent","says":"feat: read only when: the start reads the task's summary; what a session read, measured (#17)"}
 {"at":"2026-11-17T16:51:38Z","by":"grenudi","id":"af417ba","project":"grenudi/ideal-agent","says":"feat: a harness is a subject: Claude Code specifics leave the skills (plugin 0.3.12) (#46)"}
+{"at":"2026-11-17T18:45:07Z","by":"grenudi","id":"b129e2e","project":"grenudi/ideal-agent","says":"feat: a domain layer names its base; scripts/overlay-check (plugin 0.3.22) (#57)"}
 {"at":"2026-11-17T11:51:06Z","by":"grenudi","id":"b31fefd","project":"grenudi/ideal-agent","says":"feat: keep the start light: housekeeping measured per role, reasons a command away (#13)"}
 {"at":"2026-11-17T15:18:13Z","by":"grenudi","id":"b5f0259","project":"grenudi/ideal-agent","says":"docs: ideal-agent's hand-over brought up to date for the fresh session (#26)"}
 {"at":"2026-11-17T11:18:19Z","by":"grenudi","id":"baf6ee3","project":"grenudi/ideal-agent","says":"feat: a skill: finding your way in a tad knowledge base (#6)"}
@@ -760,6 +761,7 @@
 {"at":"2026-11-17T10:21:50Z","by":"grenudi","id":"57de208","project":"linux-phone-oco/docs","says":"docs: How the phone stands, for the phone keeper; proven items closed (#164)"}
 {"at":"2026-11-17T04:20:39Z","by":"grenudi","id":"5822f4e","project":"linux-phone-oco/docs","says":"docs: devlab-health is an Alpine package, published by the package conveyor (#122)"}
 {"at":"2026-11-17T01:15:37Z","by":"grenudi","id":"5c8e70c","project":"linux-phone-oco/docs","says":"docs: Tests: mic-records says the main microphone's samples come back (#91)"}
+{"at":"2026-11-17T18:47:29Z","by":"grenudi","id":"5d1324d","project":"linux-phone-oco/docs","says":"docs: SH0 owner hunt paused, floor-entry-trace is next (#319)"}
 {"at":"2026-11-11T00:57:49Z","by":"grenudi","id":"5e48058","project":"linux-phone-oco/docs","says":"feat(data): the workings of Linux Phones in Russian (#52)"}
 {"at":"2026-11-17T18:30:41Z","by":"grenudi","id":"5e9d158","project":"linux-phone-oco/docs","says":"docs: walleye: research row for own images e and b from the first state (#304)"}
 {"at":"2026-11-17T05:34:39Z","by":"grenudi","id":"5f8d56b","project":"linux-phone-oco/docs","says":"docs: backlog: modules no entry boots with, taken away (#141)"}
@@ -772,6 +774,7 @@
 {"at":"2026-11-17T08:50:44Z","by":"grenudi","id":"63d2ff1","project":"linux-phone-oco/docs","says":"docs: health-data-check narrowed: surya's mobile-data check already carries traffic (#146)"}
 {"at":"2026-11-16T23:40:58Z","by":"github-actions[bot]","id":"652ae0b","project":"linux-phone-oco/docs","says":"chore(main): release 0.1.0 (#72)"}
 {"at":"2026-11-17T15:53:27Z","by":"grenudi","id":"65d937b","project":"linux-phone-oco/docs","says":"docs: research cleanroom-agents - input wall for agent clean-room RE, applied to walleye (#223)"}
+{"at":"2026-11-17T18:46:34Z","by":"grenudi","id":"665d2a9","project":"linux-phone-oco/docs","says":"docs: floor-entry-trace first on surya's queue; the SH0 owner hunt pauses (#318)"}
 {"at":"2026-11-11T09:37:56Z","by":"grenudi","id":"6c24d21","project":"linux-phone-oco/docs","says":"feat(data): the microphone's chain nearly whole; which speaker is the bottom one (#54)"}
 {"at":"2026-11-17T10:37:21Z","by":"grenudi","id":"6d85dd7","project":"linux-phone-oco/docs","says":"docs: The agent specifics in their own folder: ideal-agent-linux-phone-oco/ (#171)"}
 {"at":"2026-11-17T13:43:46Z","by":"grenudi","id":"6d9f67d","project":"linux-phone-oco/docs","says":"docs: the way back measured: idle, through a suspend entry, in the hanging cycle (#207)"}
@@ -809,6 +812,7 @@
 {"at":"2026-11-11T21:36:33Z","by":"grenudi","id":"8a3f860","project":"linux-phone-oco/docs","says":"chore: glimpses are recorded here from now on (#64)"}
 {"at":"2026-11-17T09:02:14Z","by":"grenudi","id":"8afdf9c","project":"linux-phone-oco/docs","says":"feat: tad q coverage: each device's parts no test proves work (#151)"}
 {"at":"2026-11-09T16:48:31Z","by":"grenudi","id":"8bb7568","project":"linux-phone-oco/docs","says":"feat(data): the boot hang, the ADSP crash loop and off-state charging, recorded (#8)"}
+{"at":"2026-11-17T18:45:40Z","by":"grenudi","id":"8d3365a","project":"linux-phone-oco/docs","says":"docs: floor research validity - read the suspend entry first (research, decision, 3 items) (#317)"}
 {"at":"2026-11-17T15:19:27Z","by":"grenudi","id":"8d7db9c","project":"linux-phone-oco/docs","says":"docs: the walleye coordinator's brief, first decisions and backlog (#219)"}
 {"at":"2026-11-17T09:42:01Z","by":"grenudi","id":"8deb2ef","project":"linux-phone-oco/docs","says":"docs: 7 runs of xiaomi-surya filed by devlab, from the phone's own reports (#156)"}
 {"at":"2026-11-10T00:05:14Z","by":"grenudi","id":"919f1ec","project":"linux-phone-oco/docs","says":"docs: the grand picture - why, what, where, the evidence conveyor, the orgs, the phases (#15)"}
@@ -3246,6 +3250,7 @@
 {"at":"2026-11-12T22:10:35Z","by":"oco harvest","id":"c724c21","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T17:01:25Z","by":"oco harvest","id":"c73e559","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T11:23:26Z","by":"oco harvest","id":"c769f82","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T18:45:33Z","by":"oco harvest","id":"c785caa","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T20:39:29Z","by":"grenudi","id":"c7a2376","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-203914","says":"docs: a way of working: what followed is looked at, not written; pages looked at, counted (#98)"}
 {"at":"2026-11-10T15:29:23Z","by":"oco harvest","id":"c8340a1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T14:38:17Z","by":"oco harvest","id":"c88ba11","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
