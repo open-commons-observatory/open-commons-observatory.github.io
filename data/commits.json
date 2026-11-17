@@ -663,6 +663,7 @@
 {"at":"2026-11-17T10:22:44Z","by":"grenudi","id":"0b9178b","project":"linux-phone-oco/docs","says":"docs: The phone's queue: six proven items closed (#166)"}
 {"at":"2026-11-05T08:22:47Z","by":"grenudi","id":"0bdbff5","project":"linux-phone-oco/docs","says":"feat(data): a fresh-install plan, prepared but not run (#7)"}
 {"at":"2026-11-17T13:25:29Z","by":"grenudi","id":"0cbb1dc","project":"linux-phone-oco/docs","says":"docs: the four SIM checks skip with the SIM out; item done (#205)"}
+{"at":"2026-11-17T19:21:08Z","by":"grenudi","id":"0dbfffd","project":"linux-phone-oco/docs","says":"docs: walleye queue: vendor-gadget2 first; mainline tries g/h set aside (#342)"}
 {"at":"2026-11-17T13:05:45Z","by":"github-actions[bot]","id":"0edf8b3","project":"linux-phone-oco/docs","says":"chore(main): release 0.5.0 (#191)"}
 {"at":"2026-11-17T10:40:33Z","by":"grenudi","id":"0effea0","project":"linux-phone-oco/docs","says":"docs: The ideal knowledge base: what the author accepted, what still waits (#172)"}
 {"at":"2026-11-17T18:01:31Z","by":"grenudi","id":"11a9b64","project":"linux-phone-oco/docs","says":"docs: walleye control boot.img refused on slot a too, slot state not the cause (#290)"}
@@ -782,6 +783,7 @@
 {"at":"2026-11-16T23:40:58Z","by":"github-actions[bot]","id":"652ae0b","project":"linux-phone-oco/docs","says":"chore(main): release 0.1.0 (#72)"}
 {"at":"2026-11-17T15:53:27Z","by":"grenudi","id":"65d937b","project":"linux-phone-oco/docs","says":"docs: research cleanroom-agents - input wall for agent clean-room RE, applied to walleye (#223)"}
 {"at":"2026-11-17T18:46:34Z","by":"grenudi","id":"665d2a9","project":"linux-phone-oco/docs","says":"docs: floor-entry-trace first on surya's queue; the SH0 owner hunt pauses (#318)"}
+{"at":"2026-11-17T19:20:01Z","by":"grenudi","id":"6661035","project":"linux-phone-oco/docs","says":"docs: walleye s0n bisect try - same as s0, phone off USB (hands) (#341)"}
 {"at":"2026-11-11T09:37:56Z","by":"grenudi","id":"6c24d21","project":"linux-phone-oco/docs","says":"feat(data): the microphone's chain nearly whole; which speaker is the bottom one (#54)"}
 {"at":"2026-11-17T10:37:21Z","by":"grenudi","id":"6d85dd7","project":"linux-phone-oco/docs","says":"docs: The agent specifics in their own folder: ideal-agent-linux-phone-oco/ (#171)"}
 {"at":"2026-11-17T13:43:46Z","by":"grenudi","id":"6d9f67d","project":"linux-phone-oco/docs","says":"docs: the way back measured: idle, through a suspend entry, in the hanging cycle (#207)"}
@@ -1096,6 +1098,7 @@
 {"at":"2026-11-10T04:12:08Z","by":"grenudi","id":"0ea8dfa","project":"linux-phone-oco/surya-lab","says":"fix(tests): the ADSP check's crash count, and resume timestamps read inside the kernel's padding (#18)"}
 {"at":"2026-11-17T02:56:52Z","by":"grenudi","id":"11d21a6","project":"linux-phone-oco/surya-lab","says":"docs: mic-records: judge the last half second, not the filter's start-up ringing (#90)"}
 {"at":"2026-11-17T05:17:11Z","by":"grenudi","id":"12d5bdc","project":"linux-phone-oco/surya-lab","says":"docs: UCM: both microphones as capture devices; the check records through the sound server (#105)"}
+{"at":"2026-11-17T19:18:09Z","by":"grenudi","id":"14d2967","project":"linux-phone-oco/surya-lab","says":"sleep: standby-run.sh, the off-USB standby-current run (settle, measure, one sample per cycle) (#133)"}
 {"at":"2026-11-17T04:53:12Z","by":"grenudi","id":"162939c","project":"linux-phone-oco/surya-lab","says":"docs: The microphone is no longer a known gap: the kept kernel records with both mics (#102)"}
 {"at":"2026-11-17T03:23:31Z","by":"grenudi","id":"1674f01","project":"linux-phone-oco/surya-lab","says":"docs: Microphone: the reset was held by the codec's sleep pin state; capture now prepares (#91)"}
 {"at":"2026-11-17T01:50:08Z","by":"grenudi","id":"16bda51","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#82)"}
@@ -1820,6 +1823,7 @@
 {"at":"2026-11-14T22:22:56Z","by":"oco observe","id":"ed06e6a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T08:03:28Z","by":"oco observe","id":"ed9665f","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-17T03:50:08Z","by":"oco observe","id":"edb1c3e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T19:20:10Z","by":"oco observe","id":"eecedb5","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T19:40:34Z","by":"oco observe","id":"eeecee0","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T20:48:45Z","by":"oco observe","id":"ef4ae36","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T23:35:40Z","by":"oco observe","id":"ef4e017","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -2871,6 +2875,7 @@
 {"at":"2026-11-16T10:06:13Z","by":"oco harvest","id":"57cd13f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T13:47:33Z","by":"grenudi","id":"57de89f","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-134715","says":"fix: the first observatory's whole begins with why each star exists (#91)"}
 {"at":"2026-11-16T05:08:25Z","by":"oco harvest","id":"5867ea7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T19:18:46Z","by":"oco harvest","id":"58e2bcd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T09:03:21Z","by":"oco harvest","id":"59972b7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T20:45:06Z","by":"oco harvest","id":"599dc5b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T10:46:53Z","by":"oco harvest","id":"59b2b07","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
