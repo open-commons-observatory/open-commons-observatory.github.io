@@ -1063,6 +1063,7 @@
 {"at":"2026-11-17T19:46:10Z","by":"grenudi","id":"2e46a6b","project":"linux-phone-oco/google-walleye-lab","says":"feat: walleye's rows, moved here from docs; lane-next for the launchers (#15)"}
 {"at":"2026-11-17T20:07:03Z","by":"grenudi","id":"2f2ee42","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the gadget bisect try waits on nothing (#28)"}
 {"at":"2026-11-17T20:58:02Z","by":"grenudi","id":"3034bbb","project":"linux-phone-oco/google-walleye-lab","says":"walleye: vendor-gadget-n3 image, the FunctionFS ACM console helper and its init (#44)"}
+{"at":"2026-11-17T22:30:41Z","by":"grenudi","id":"3fc61fd","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ml4, a timing channel from our mainline init (build item) (#73)"}
 {"at":"2026-11-17T21:21:24Z","by":"grenudi","id":"424931e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: both host-bound tries re-queued after the lab reboot (#51)"}
 {"at":"2026-11-17T21:57:44Z","by":"grenudi","id":"44ac2c4","project":"linux-phone-oco/google-walleye-lab","says":"walleye: first light images ml1 and ml2 (mainline kernel, watchdog, mass_storage) (#63)"}
 {"at":"2026-11-17T21:43:15Z","by":"grenudi","id":"45284b3","project":"linux-phone-oco/google-walleye-lab","says":"feat: our dtb carries -@ symbols and 130 overlay stubs; image s3o queued (#58)"}
@@ -1112,6 +1113,7 @@
 {"at":"2026-11-17T19:53:56Z","by":"grenudi","id":"e2beef8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the idle-init bisect and the panic research queued (#18)"}
 {"at":"2026-11-17T19:55:47Z","by":"grenudi","id":"e74e497","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget4.img, an idle init without a gadget (the panic bisect) (#walleye) (#19)"}
 {"at":"2026-11-17T19:58:48Z","by":"grenudi","id":"ea0ffc0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: cmdline read first, the gadget4 try after it (#23)"}
+{"at":"2026-11-17T22:31:40Z","by":"grenudi","id":"eae3d57","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the screen lock question closed; Android is a stepping stone (decision) (#74)"}
 {"at":"2026-11-17T20:50:01Z","by":"grenudi","id":"eb48031","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the host channel order (mass-storage window, FunctionFS ACM helper); ecm/rndis dropped (#40)"}
 {"at":"2026-11-17T22:07:55Z","by":"grenudi","id":"ebf264a","project":"linux-phone-oco/google-walleye-lab","says":"walleye: CI runs fmt, clippy and test for ffs-acm-rs; C probe removal stays until n3r is tried (#66)"}
 {"at":"2026-11-17T20:58:55Z","by":"grenudi","id":"f64566d","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the ffs-acm try ranked second, unblocked (#45)"}
@@ -3038,6 +3040,7 @@
 {"at":"2026-11-14T21:05:24Z","by":"oco harvest","id":"532a28c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T21:01:55Z","by":"oco harvest","id":"5345190","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T18:54:33Z","by":"oco harvest","id":"5352e43","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T22:30:00Z","by":"oco harvest","id":"53982ec","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T07:26:53Z","by":"oco harvest","id":"5428ab7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T00:01:07Z","by":"oco harvest","id":"5579fa3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T20:02:06Z","by":"oco harvest","id":"55c56b8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
