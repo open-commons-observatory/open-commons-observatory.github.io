@@ -39,3 +39,4 @@
 {"id":"g-20261116-160611","at":"2026-11-16T16:06:11Z","by":"claude","kind":"chore","summary":"a mark: what the gatherer writes is said where it writes it - no longer named here"}
 {"id":"g-20261116-163923","at":"2026-11-16T16:39:23Z","by":"claude","kind":"feat","summary":"the lens of its pages is called site, as it was first meant to be","touches":"decisions:2026-11-16-the-lens-of-its-pages-is-called-site","where":"open-commons-observatory/ocoeco/decisions:2026-11-16-a-lens-is-of-its-place"}
 {"id":"g-20261116-204540","at":"2026-11-16T20:45:40Z","by":"claude","kind":"docs","summary":"a translation: lens_parts:site/1:title:ru","touches":"translations:lens_parts:site/1:title:ru"}
+{"id":"g-20261117-034702","at":"2026-11-17T03:47:02Z","by":"conveyor-tad","kind":"docs","summary":"a practice for linux-phone-oco: data through tad, landing through land","touches":"practices:42-linux-phone-through-tad"}
