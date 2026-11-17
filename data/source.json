@@ -73,7 +73,7 @@
 {"bytes":12726,"id":"src/desktop.rs","lines":365,"path":"src/desktop.rs","project":"creation-guidelines/lab-agent"}
 {"bytes":7029,"id":"src/editor.rs","lines":259,"path":"src/editor.rs","project":"creation-guidelines/lab-agent"}
 {"bytes":16313,"id":"src/github.rs","lines":440,"path":"src/github.rs","project":"creation-guidelines/lab-agent"}
-{"bytes":2676,"id":"src/guide.rs","lines":70,"path":"src/guide.rs","project":"creation-guidelines/lab-agent"}
+{"bytes":2618,"id":"src/guide.rs","lines":70,"path":"src/guide.rs","project":"creation-guidelines/lab-agent"}
 {"bytes":5837,"id":"src/job.rs","lines":173,"path":"src/job.rs","project":"creation-guidelines/lab-agent"}
 {"bytes":17762,"id":"src/jobs.rs","lines":509,"path":"src/jobs.rs","project":"creation-guidelines/lab-agent"}
 {"bytes":4351,"id":"src/main.rs","lines":126,"path":"src/main.rs","project":"creation-guidelines/lab-agent"}
