@@ -248,6 +248,7 @@
 {"at":"2026-11-13T16:52:02Z","by":"grenudi","id":"8ed716f","project":"creation-guidelines/lab-agent","record":"g-20261113-165112","says":"feat: the record travels whole: its mark is spoken, the copy is a place (#181)"}
 {"at":"2026-11-09T18:02:04Z","by":"github-actions[bot]","id":"911e144","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.13 (#38)"}
 {"at":"2026-11-09T15:30:35Z","by":"github-actions[bot]","id":"913a19b","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.9 (#30)"}
+{"at":"2026-11-17T12:03:07Z","by":"grenudi","id":"91ef587","project":"creation-guidelines/lab-agent","record":"g-20261117-120206","says":"fix: guide numbers each practice by its id, as the session start does (#221)"}
 {"at":"2026-11-15T16:36:13Z","by":"grenudi","id":"92c4fa1","project":"creation-guidelines/lab-agent","record":"g-20261115-163524","says":"feat: a job shows, a driver brings: a page made on the lab is looked at where the driver is (#199)"}
 {"at":"2026-11-12T01:34:26Z","by":"grenudi","id":"93336f6","project":"creation-guidelines/lab-agent","record":"g-20261112-013306","says":"feat: the journal kept in tad tables, held to the measure every journal must pass (#138)"}
 {"at":"2026-11-14T00:17:02Z","by":"grenudi","id":"933c54c","project":"creation-guidelines/lab-agent","record":"g-20261114-001612","says":"feat: every job, shaped once, in the lens of now (#184)"}
@@ -721,6 +722,7 @@
 {"at":"2026-11-04T20:34:04Z","by":"grenudi","id":"e619d98","project":"linux-phone-oco/docs","says":"Initial commit"}
 {"at":"2026-11-09T22:06:35Z","by":"grenudi","id":"e67e79f","project":"linux-phone-oco/docs","says":"feat(data): shells, microphone and an org board in the backlog (#13)"}
 {"at":"2026-11-10T17:46:36Z","by":"ocoeco gather","id":"e751539","project":"linux-phone-oco/docs","says":"data: gathered by ocoeco"}
+{"at":"2026-11-17T12:03:40Z","by":"grenudi","id":"ef8b4e0","project":"linux-phone-oco/docs","says":"docs: the first s2idle slept the full 60 s; the 2.4 s was the clocks not counting sleep (#189)"}
 {"at":"2026-11-17T01:48:42Z","by":"grenudi","id":"f05ecfd","project":"linux-phone-oco/docs","says":"docs: The conveyor session hands over: fewer, shorter, well-scoped sessions (#105)"}
 {"at":"2026-11-10T14:53:10Z","by":"grenudi","id":"f16b729","project":"linux-phone-oco/docs","says":"chore(mark): export the reference tables - features, platforms, components, devices (#39)"}
 {"at":"2026-11-11T18:21:06Z","by":"grenudi","id":"f1f51d3","project":"linux-phone-oco/docs","says":"build: tad 0.2.0 (#63)"}
@@ -2990,6 +2992,7 @@
 {"at":"2026-11-17T01:52:24Z","by":"oco harvest","id":"df8cb72","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T00:38:32Z","by":"oco harvest","id":"df91d4d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T06:22:18Z","by":"oco harvest","id":"df94445","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T12:02:41Z","by":"oco harvest","id":"e024a59","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T17:28:28Z","by":"grenudi","id":"e092dfe","project":"open-commons-observatory/open-commons-observatory.github.io","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#15)"}
 {"at":"2026-11-13T01:18:36Z","by":"oco harvest","id":"e0a0d9a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T06:17:46Z","by":"oco harvest","id":"e159ab7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}

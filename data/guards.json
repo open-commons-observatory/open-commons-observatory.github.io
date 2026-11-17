@@ -319,8 +319,8 @@
 {"id":"src/github.rs:a_listing_cut_short_is_an_error_not_a_partial_truth","line":429,"name":"a_listing_cut_short_is_an_error_not_a_partial_truth","path":"src/github.rs","project":"creation-guidelines/lab-agent"}
 {"id":"src/github.rs:a_spent_budget_is_a_rate_limit_with_its_reset_time","line":376,"name":"a_spent_budget_is_a_rate_limit_with_its_reset_time","path":"src/github.rs","project":"creation-guidelines/lab-agent"}
 {"id":"src/github.rs:an_unchanged_listing_is_free","line":405,"name":"an_unchanged_listing_is_free","path":"src/github.rs","project":"creation-guidelines/lab-agent"}
-{"id":"src/guide.rs:practices_are_numbered_with_their_reasons","line":54,"name":"practices_are_numbered_with_their_reasons","path":"src/guide.rs","project":"creation-guidelines/lab-agent"}
-{"id":"src/guide.rs:the_built_in_copy_holds_practices","line":66,"name":"the_built_in_copy_holds_practices","path":"src/guide.rs","project":"creation-guidelines/lab-agent"}
+{"id":"src/guide.rs:practices_are_numbered_with_their_reasons","line":60,"name":"practices_are_numbered_with_their_reasons","path":"src/guide.rs","project":"creation-guidelines/lab-agent"}
+{"id":"src/guide.rs:the_built_in_copy_holds_practices","line":72,"name":"the_built_in_copy_holds_practices","path":"src/guide.rs","project":"creation-guidelines/lab-agent"}
 {"id":"src/job.rs:a_job_that_ignores_term_is_still_killed_after_the_grace_period","line":156,"name":"a_job_that_ignores_term_is_still_killed_after_the_grace_period","path":"src/job.rs","project":"creation-guidelines/lab-agent"}
 {"id":"src/job.rs:a_job_that_times_out_gets_to_clean_up","line":123,"name":"a_job_that_times_out_gets_to_clean_up","path":"src/job.rs","project":"creation-guidelines/lab-agent"}
 {"id":"src/job.rs:a_preempted_job_gets_to_clean_up_too","line":138,"name":"a_preempted_job_gets_to_clean_up_too","path":"src/job.rs","project":"creation-guidelines/lab-agent"}
