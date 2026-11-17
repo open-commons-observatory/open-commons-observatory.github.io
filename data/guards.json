@@ -407,9 +407,10 @@
 {"id":"devlab/src/fastboot.rs:only_a_boot_image_is_booted","line":461,"name":"only_a_boot_image_is_booted","path":"devlab/src/fastboot.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/fastboot.rs:what_the_bootloader_changed_is_said","line":416,"name":"what_the_bootloader_changed_is_said","path":"devlab/src/fastboot.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/flash.rs:manifest_places_point_inside_the_mounted_image","line":230,"name":"manifest_places_point_inside_the_mounted_image","path":"devlab/src/flash.rs","project":"linux-phone-oco/lab-tools"}
-{"id":"devlab/src/gather.rs:a_run_is_filed_by_the_pictures_own_record","line":323,"name":"a_run_is_filed_by_the_pictures_own_record","path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
-{"id":"devlab/src/gather.rs:only_the_phones_run_reports_are_brought","line":295,"name":"only_the_phones_run_reports_are_brought","path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
-{"id":"devlab/src/gather.rs:the_picture_says_what_it_derives","line":303,"name":"the_picture_says_what_it_derives","path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/gather.rs:a_run_is_filed_by_the_pictures_own_record","line":385,"name":"a_run_is_filed_by_the_pictures_own_record","path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/gather.rs:only_the_phones_run_reports_are_brought","line":338,"name":"only_the_phones_run_reports_are_brought","path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/gather.rs:the_lab_files_into_its_own_base_when_it_is_one","line":366,"name":"the_lab_files_into_its_own_base_when_it_is_one","path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/gather.rs:the_picture_says_what_it_derives","line":346,"name":"the_picture_says_what_it_derives","path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/guard.rs:a_phones_addresses_are_the_ones_devlab_met","line":231,"name":"a_phones_addresses_are_the_ones_devlab_met","path":"devlab/src/guard.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/guard.rs:a_quoted_heredoc_is_text_not_commands","line":165,"name":"a_quoted_heredoc_is_text_not_commands","path":"devlab/src/guard.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/guard.rs:raw_fastboot_only_reads","line":195,"name":"raw_fastboot_only_reads","path":"devlab/src/guard.rs","project":"linux-phone-oco/lab-tools"}

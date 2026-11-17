@@ -652,6 +652,7 @@
 {"at":"2026-11-17T17:24:29Z","by":"grenudi","id":"6d71593","project":"linux-phone-oco/device-template","says":"feat: device base: each device has its own tad base, following idealkb, with parts (#4)"}
 {"at":"2026-11-17T02:05:19Z","by":"grenudi","id":"84cb9ca","project":"linux-phone-oco/device-template","says":"feat: The device template: a new phone's lab is a new device.toml (#1)"}
 {"at":"2026-11-16T23:55:39Z","by":"lab-agent-session","id":"8642359","project":"linux-phone-oco/device-template","says":"feat: The device template: a new phone's lab is a new device.toml"}
+{"at":"2026-11-17T19:37:14Z","by":"grenudi","id":"ae5b510","project":"linux-phone-oco/device-template","says":"feat: lane-next, a lane's next item by what it needs (phone, research, build) (#6)"}
 {"at":"2026-11-17T03:43:18Z","by":"grenudi","id":"e3dc336","project":"linux-phone-oco/device-template","says":"chore: the records are kept in docs; the mark points there (#2)"}
 {"at":"2026-11-17T11:53:44Z","by":"grenudi","id":"00afdde","project":"linux-phone-oco/docs","says":"feat: audio-mic's answer leads with its summary; research material in dated folders (#186)"}
 {"at":"2026-11-17T11:56:59Z","by":"github-actions[bot]","id":"0235881","project":"linux-phone-oco/docs","says":"chore(main): release 0.4.0 (#183)"}
@@ -862,6 +863,7 @@
 {"at":"2026-11-10T04:53:05Z","by":"grenudi","id":"a427240","project":"linux-phone-oco/docs","says":"feat(data): the ADSP wake-up crash narrowed - rare, early in a boot (#33)"}
 {"at":"2026-11-17T18:35:38Z","by":"grenudi","id":"a6f0c61","project":"linux-phone-oco/docs","says":"docs: upstream item for ideal-agent: bring-up order (feedback channel, vendor kernel, mainline) (#309)"}
 {"at":"2026-11-17T10:02:22Z","by":"grenudi","id":"a6fff34","project":"linux-phone-oco/docs","says":"docs: briefs keep their domain and name the ideal-agent skills (#159)"}
+{"at":"2026-11-17T19:36:03Z","by":"grenudi","id":"a95f7a1","project":"linux-phone-oco/docs","says":"docs: bringup follows by pin, devices extend beside it, what rhizoid lacks (#349)"}
 {"at":"2026-11-10T20:12:58Z","by":"grenudi","id":"abb2066","project":"linux-phone-oco/docs","says":"feat(data): the first devlab flash - the suspend crash now reproducible, a check to correct (#45)"}
 {"at":"2026-11-17T01:55:41Z","by":"grenudi","id":"ad2ca8e","project":"linux-phone-oco/docs","says":"docs: Deep sleep researched: measured s2idle to the SoC's floor, its steps and its check (#101)"}
 {"at":"2026-11-17T17:04:14Z","by":"grenudi","id":"ad9d2ab","project":"linux-phone-oco/docs","says":"docs: floor-read-holders - what is held before a sleep cycle (keeper-9) (#253)"}
@@ -963,6 +965,7 @@
 {"at":"2026-11-17T15:52:26Z","by":"grenudi","id":"f388948","project":"linux-phone-oco/docs","says":"docs(google-walleye): the mainline-path research material, whole (#234)"}
 {"at":"2026-11-17T04:42:43Z","by":"grenudi","id":"f389aaf","project":"linux-phone-oco/docs","says":"docs: Microphone works on the branch kernel; the boot race 13 of 13 with the PD mapper first (#126)"}
 {"at":"2026-11-17T10:45:45Z","by":"grenudi","id":"f3abf77","project":"linux-phone-oco/docs","says":"docs: idealkb corrected: a knowledge-base layer on tad, the template split and retired (#174)"}
+{"at":"2026-11-17T19:36:56Z","by":"grenudi","id":"f3ad5c2","project":"linux-phone-oco/docs","says":"chore: walleye keeper records vendor-gadget3 tried twice (kernel_panic, gadget not shown) (#350)"}
 {"at":"2026-11-17T01:04:46Z","by":"grenudi","id":"f454dfa","project":"linux-phone-oco/docs","says":"docs: A prompt for the bring-up session: each part of a phone, made to work (#88)"}
 {"at":"2026-11-11T17:34:01Z","by":"grenudi","id":"f603be3","project":"linux-phone-oco/docs","says":"docs: after the switch to tad - the feed comment, the session logged (#62)"}
 {"at":"2026-11-17T10:41:20Z","by":"grenudi","id":"f63f0ec","project":"linux-phone-oco/docs","says":"docs: The ideal knowledge base decision says what is accepted and what waits (#173)"}
@@ -1013,6 +1016,7 @@
 {"at":"2026-11-11T09:36:58Z","by":"grenudi","id":"19ada91","project":"linux-phone-oco/lab-tools","says":"docs: this morning's findings, with concepts and decisions (#23)"}
 {"at":"2026-11-16T23:29:04Z","by":"grenudi","id":"1ab2ce7","project":"linux-phone-oco/lab-tools","says":"feat: The phone checks its own health after every boot: devlab-health and devlab suite (#29)"}
 {"at":"2026-11-17T15:26:13Z","by":"grenudi","id":"1b35fc6","project":"linux-phone-oco/lab-tools","says":"feat(devlab): a phone over fastboot, by its serial; flash only where the manifest allows (#79)"}
+{"at":"2026-11-17T19:38:11Z","by":"grenudi","id":"1f2b422","project":"linux-phone-oco/lab-tools","says":"feat: devlab gather files runs into the device's own base when the lab has a devicebase.toml (#82)"}
 {"at":"2026-11-10T12:38:33Z","by":"grenudi","id":"25e5fe4","project":"linux-phone-oco/lab-tools","says":"feat: devlab test, health and watch - regressions caught, silence when all is well (#5)"}
 {"at":"2026-11-17T09:29:21Z","by":"grenudi","id":"26ef2ed","project":"linux-phone-oco/lab-tools","says":"fix: mobile-data measures the data bearer, never the IMS one beside it (#62)"}
 {"at":"2026-11-17T11:06:54Z","by":"grenudi","id":"2820694","project":"linux-phone-oco/lab-tools","says":"feat: sensors counted through iio-sensor-proxy too; proximity-reads (#68)"}
@@ -1149,6 +1153,7 @@
 {"at":"2026-11-16T23:30:19Z","by":"grenudi","id":"5dd7806","project":"linux-phone-oco/surya-lab","says":"feat: surya checks its own health after every boot: [health] and its amplifier checks (#70)"}
 {"at":"2026-11-09T14:16:59Z","by":"grenudi","id":"5ed017a","project":"linux-phone-oco/surya-lab","says":"fix: resolve the revision before checking it out"}
 {"at":"2026-11-17T05:31:25Z","by":"grenudi","id":"5fcb245","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#107)"}
+{"at":"2026-11-17T19:36:31Z","by":"grenudi","id":"60c5b41","project":"linux-phone-oco/surya-lab","says":"feat: surya's own device base, from device-template (#4, #5) (#134)"}
 {"at":"2026-11-17T09:10:08Z","by":"grenudi","id":"6137064","project":"linux-phone-oco/surya-lab","says":"docs: SMS: the phone texts itself once a day and finds it, from ModemManager or Sxmo (#114)"}
 {"at":"2026-11-17T13:42:48Z","by":"grenudi","id":"61e5a8c","project":"linux-phone-oco/surya-lab","says":"feat(sleep): way-back.sh, build-wdt.sh: the watchdog kept armed through sleep (#124)"}
 {"at":"2026-11-10T11:14:04Z","by":"grenudi","id":"620c5da","project":"linux-phone-oco/surya-lab","says":"feat/test entry boot counting (#26)"}
@@ -3434,6 +3439,7 @@
 {"at":"2026-11-13T20:05:38Z","by":"oco harvest","id":"edee31c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T00:54:23Z","by":"grenudi","id":"eeaab1c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: words that follow their number - done (#41)"}
 {"at":"2026-11-15T13:51:13Z","by":"oco harvest","id":"eebf998","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T19:35:36Z","by":"oco harvest","id":"ef16552","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T16:55:40Z","by":"grenudi","id":"ef367ff","project":"open-commons-observatory/open-commons-observatory.github.io","says":"ci: ocoeco gathers, the engine renders (#13)"}
 {"at":"2026-11-16T09:58:39Z","by":"oco harvest","id":"ef9f3f3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T19:10:19Z","by":"oco harvest","id":"efe230f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
