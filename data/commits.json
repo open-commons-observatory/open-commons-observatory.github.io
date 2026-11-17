@@ -604,6 +604,7 @@
 {"at":"2026-11-17T17:37:20Z","by":"grenudi","id":"8572af4","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: set and remove are listed in the help, the man page and the completions (#48)"}
 {"at":"2026-11-17T12:07:28Z","by":"grenudi","id":"8775b40","project":"grenudi/ideal-knowledge-base","says":"feat: briefs first: every record has a one-line brief, answers give briefs (#11)"}
 {"at":"2026-11-17T14:29:16Z","by":"grenudi","id":"898147a","project":"grenudi/ideal-knowledge-base","says":"docs: ikb: the research and the decision to build one record command per base (#19)"}
+{"at":"2026-11-17T20:13:23Z","by":"grenudi","id":"99e6ae7","project":"grenudi/ideal-knowledge-base","says":"feat: ikb: tad 0.7.1, and the research and decision on waits that clear themselves (#58)"}
 {"at":"2026-11-17T12:40:46Z","by":"grenudi","id":"a066b6b","project":"grenudi/ideal-knowledge-base","says":"feat: at a task's start ask only about its subject; deeper only when a step needs it (#18)"}
 {"at":"2026-11-17T15:14:49Z","by":"github-actions[bot]","id":"a4b0093","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#29)"}
 {"at":"2026-11-17T17:28:32Z","by":"grenudi","id":"a9619a9","project":"grenudi/ideal-knowledge-base","says":"feat: ikb: set and remove - the checked way to change or take away one row (#44)"}
@@ -623,6 +624,7 @@
 {"at":"2026-11-17T11:46:09Z","by":"grenudi","id":"d82eceb","project":"grenudi/ideal-knowledge-base","says":"docs: about's subject tables no longer stop a base: closed here, left to ocoeco (#9)"}
 {"at":"2026-11-17T11:40:29Z","by":"grenudi","id":"dc3cca0","project":"grenudi/ideal-knowledge-base","says":"feat: sources keep who made what they describe (by); second follower done (#7)"}
 {"at":"2026-11-17T17:45:24Z","by":"grenudi","id":"e53515b","project":"grenudi/ideal-knowledge-base","says":"docs: ikb: the chain follows by slice; improvements go back as upstream items (#52)"}
+{"at":"2026-11-17T20:13:56Z","by":"github-actions[bot]","id":"e535e85","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#59)"}
 {"at":"2026-11-17T14:36:26Z","by":"grenudi","id":"eb51545","project":"grenudi/ideal-knowledge-base","says":"feat: ikb 0.1: record into a base by commands read from its own records (#20)"}
 {"at":"2026-11-17T17:57:25Z","by":"grenudi","id":"ee1c2bf","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: the installer pins ikb 0.5.2 (#56)"}
 {"at":"2026-11-17T11:04:56Z","by":"grenudi","id":"f483421","project":"grenudi/ideal-knowledge-base","says":"feat: the ideal knowledge base: a layer on tad - five queries, standing tables, one entry (#1)"}
@@ -699,6 +701,7 @@
 {"at":"2026-11-11T10:15:20Z","by":"grenudi","id":"1e61618","project":"linux-phone-oco/docs","says":"feat(data): the microphone's route is set; the stream does not start yet (#56)"}
 {"at":"2026-11-17T17:17:06Z","by":"github-actions[bot]","id":"1e80ae5","project":"linux-phone-oco/docs","says":"chore(main): release 0.11.0 (#261)"}
 {"at":"2026-11-17T08:33:09Z","by":"grenudi","id":"1f3337c","project":"linux-phone-oco/docs","says":"docs: The earpiece works: it is the top speaker, proven by the top mic (#143)"}
+{"at":"2026-11-17T20:14:46Z","by":"grenudi","id":"20f73d5","project":"linux-phone-oco/docs","says":"docs: lpoco-dispatcher done - family version decision and session log (#363)"}
 {"at":"2026-11-17T18:21:23Z","by":"grenudi","id":"210669e","project":"linux-phone-oco/docs","says":"docs: fastboot whereabouts by serial or port (lab-tools) (#298)"}
 {"at":"2026-11-17T17:47:55Z","by":"grenudi","id":"2252d43","project":"linux-phone-oco/docs","says":"docs: walleye stock boot.img read (research), e/f built, control image ready, tries noted (#283)"}
 {"at":"2026-11-17T17:07:07Z","by":"grenudi","id":"233946f","project":"linux-phone-oco/docs","says":"docs: why a failed fastboot boot flipped walleye's slots, and what to do (decision) (#252)"}
@@ -765,6 +768,7 @@
 {"at":"2026-11-17T01:22:21Z","by":"grenudi","id":"4dbff89","project":"linux-phone-oco/docs","says":"docs: 3 runs of xiaomi-surya filed by devlab, from the phone's own reports (#92)"}
 {"at":"2026-11-17T19:57:35Z","by":"grenudi","id":"4e4ada1","project":"linux-phone-oco/docs","says":"docs: one roof: an lpoco dispatcher over lpoco-* programs, lpoco-bringup born under it (#359)"}
 {"at":"2026-11-17T13:08:19Z","by":"grenudi","id":"4e55d25","project":"linux-phone-oco/docs","says":"docs: deep-sleep stands: the SIM is out for now (#201)"}
+{"at":"2026-11-17T20:15:38Z","by":"grenudi","id":"4e6706d","project":"linux-phone-oco/docs","says":"docs: lpoco-dispatcher backlog row done with its proof (#364)"}
 {"at":"2026-11-10T04:27:13Z","by":"grenudi","id":"4ec2109","project":"linux-phone-oco/docs","says":"feat(data): the device template - the conveyor for any phone, designed (#32)"}
 {"at":"2026-11-09T21:33:54Z","by":"grenudi","id":"4eca37d","project":"linux-phone-oco/docs","says":"feat(data): stereo speakers on surya, and the two upstream items they need (#12)"}
 {"at":"2026-11-05T07:46:02Z","by":"grenudi","id":"4f4ba71","project":"linux-phone-oco/docs","says":"fix: _config.yml is actually valid YAML (#3)"}
@@ -1014,6 +1018,7 @@
 {"at":"2026-11-17T18:34:17Z","by":"grenudi","id":"01f9138","project":"linux-phone-oco/google-walleye-lab","says":"feat: bisect images s0 s0n s1 s2 s3 from the stock control, one swap each, checked (#10)"}
 {"at":"2026-11-17T19:59:32Z","by":"grenudi","id":"0333021","project":"linux-phone-oco/google-walleye-lab","says":"chore: tad 0.7.1 (#24)"}
 {"at":"2026-11-17T19:27:08Z","by":"grenudi","id":"0f14a92","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget3.img, vendor-gadget2 plus a self-reboot timer and a kmsg marker (#13)"}
+{"at":"2026-11-17T20:14:47Z","by":"grenudi","id":"1122559","project":"linux-phone-oco/google-walleye-lab","says":"walleye: split the ncm step; why ncm panics (research) (#31)"}
 {"at":"2026-11-17T18:43:18Z","by":"grenudi","id":"13c1a61","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget.img (the control with our gadget initramfs) and the host check walleye-gadget-up (#11)"}
 {"at":"2026-11-17T20:05:19Z","by":"grenudi","id":"1eee99d","project":"linux-phone-oco/google-walleye-lab","says":"walleye builder gadget5 (#27)"}
 {"at":"2026-11-17T19:46:10Z","by":"grenudi","id":"2e46a6b","project":"linux-phone-oco/google-walleye-lab","says":"feat: walleye's rows, moved here from docs; lane-next for the launchers (#15)"}
@@ -1022,6 +1027,7 @@
 {"at":"2026-11-17T18:27:57Z","by":"grenudi","id":"4eb1a74","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants g, h, i answer on 172.16.43.1 (e, b, f); a-f byte for byte (#9)"}
 {"at":"2026-11-17T18:23:44Z","by":"grenudi","id":"4fa476d","project":"linux-phone-oco/google-walleye-lab","says":"address 43 (#7)"}
 {"at":"2026-11-17T20:02:36Z","by":"grenudi","id":"53a8965","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the gadget bring-up bisect (build item); cmdline-read and panic-time closed (#26)"}
+{"at":"2026-11-17T20:13:44Z","by":"grenudi","id":"54419ea","project":"linux-phone-oco/google-walleye-lab","says":"walleye: gadget bisect - 5a returns, 5b panics (ncm step) (#30)"}
 {"at":"2026-11-17T19:56:52Z","by":"grenudi","id":"585debd","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the keeper's try of vendor-gadget4 placed (#21)"}
 {"at":"2026-11-17T15:18:27Z","by":"grenudi","id":"6497db7","project":"linux-phone-oco/google-walleye-lab","says":"feat: the walleye lab's manifest and mark from the template (#1)"}
 {"at":"2026-11-17T18:26:59Z","by":"grenudi","id":"66e330d","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants g and h answer on 172.16.43.1 (walleye's own address); a-f byte for byte (#8)"}
@@ -1094,6 +1100,7 @@
 {"at":"2026-11-16T15:59:02Z","by":"grenudi","id":"9bb36b7","project":"linux-phone-oco/lab-tools","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#28)"}
 {"at":"2026-11-17T09:30:26Z","by":"github-actions[bot]","id":"9edd329","project":"linux-phone-oco/lab-tools","says":"chore(devlab-health): release v0.1.4 (#63)"}
 {"at":"2026-11-17T09:11:31Z","by":"grenudi","id":"a298768","project":"linux-phone-oco/lab-tools","says":"feat: devlab-health tone make|find: the tone crate on the phone, for checks that listen (#57)"}
+{"at":"2026-11-17T20:13:34Z","by":"grenudi","id":"a6a8133","project":"linux-phone-oco/lab-tools","says":"lpoco dispatcher (#83)"}
 {"at":"2026-11-17T13:16:38Z","by":"grenudi","id":"a7cc258","project":"linux-phone-oco/lab-tools","says":"feat(health): no_sim helper; mobile data and modem-registered skip 'no SIM card' (#73)"}
 {"at":"2026-11-17T14:14:03Z","by":"grenudi","id":"a96564a","project":"linux-phone-oco/lab-tools","says":"fix(devlab): suite put takes the Alpine package by default; the package keeps the old names (#78)"}
 {"at":"2026-11-17T14:11:39Z","by":"github-actions[bot]","id":"aad3648","project":"linux-phone-oco/lab-tools","says":"chore(lpoco-health): release v0.1.7 (#77)"}
@@ -3354,6 +3361,7 @@
 {"at":"2026-11-16T04:43:28Z","by":"oco harvest","id":"c88d6e1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T16:35:07Z","by":"oco harvest","id":"c8cbe0b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T23:50:50Z","by":"oco harvest","id":"c92b3e2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T20:12:48Z","by":"oco harvest","id":"c93d680","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T00:27:27Z","by":"oco harvest","id":"ca4d4dd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T22:57:35Z","by":"oco harvest","id":"cae79dc","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T10:09:46Z","by":"oco harvest","id":"cb239a5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
