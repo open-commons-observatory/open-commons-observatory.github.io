@@ -685,6 +685,7 @@
 {"at":"2026-11-11T18:21:06Z","by":"grenudi","id":"f1f51d3","project":"linux-phone-oco/docs","says":"build: tad 0.2.0 (#63)"}
 {"at":"2026-11-11T23:16:02Z","by":"grenudi","id":"f2d49fe","project":"linux-phone-oco/docs","says":"chore: parked: the lab-agent redesign comes first; each item keeps its resume point (#69)"}
 {"at":"2026-11-17T04:42:43Z","by":"grenudi","id":"f389aaf","project":"linux-phone-oco/docs","says":"docs: Microphone works on the branch kernel; the boot race 13 of 13 with the PD mapper first (#126)"}
+{"at":"2026-11-17T10:45:45Z","by":"grenudi","id":"f3abf77","project":"linux-phone-oco/docs","says":"docs: idealkb corrected: a knowledge-base layer on tad, the template split and retired (#174)"}
 {"at":"2026-11-17T01:04:46Z","by":"grenudi","id":"f454dfa","project":"linux-phone-oco/docs","says":"docs: A prompt for the bring-up session: each part of a phone, made to work (#88)"}
 {"at":"2026-11-11T17:34:01Z","by":"grenudi","id":"f603be3","project":"linux-phone-oco/docs","says":"docs: after the switch to tad - the feed comment, the session logged (#62)"}
 {"at":"2026-11-17T10:41:20Z","by":"grenudi","id":"f63f0ec","project":"linux-phone-oco/docs","says":"docs: The ideal knowledge base decision says what is accepted and what waits (#173)"}
@@ -2729,6 +2730,7 @@
 {"at":"2026-11-10T22:36:20Z","by":"grenudi","id":"a41239d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the essence of eight more projects - what is written, what is to follow, and two kinds of gap to tell apart (#35)"}
 {"at":"2026-11-10T14:50:14Z","by":"grenudi","id":"a422ea2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"ci: the harvest - every 6 hours, every marked project's tables into data/ (#3)"}
 {"at":"2026-11-11T13:26:27Z","by":"oco harvest","id":"a46ef25","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T10:43:23Z","by":"oco harvest","id":"a4af9a4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T00:16:18Z","by":"oco harvest","id":"a4cf87e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T21:11:38Z","by":"oco harvest","id":"a4def06","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T16:12:28Z","by":"oco harvest","id":"a510ff7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
