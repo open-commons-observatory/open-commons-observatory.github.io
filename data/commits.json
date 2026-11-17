@@ -265,6 +265,7 @@
 {"at":"2026-11-10T03:36:27Z","by":"github-actions[bot]","id":"a58b2a4","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.29 (#77)"}
 {"at":"2026-11-12T03:00:20Z","by":"grenudi","id":"a8e9592","project":"creation-guidelines/lab-agent","record":"g-20261112-025931","says":"feat: speaking: the journal and logs back to the repository; wait from anywhere (#150)"}
 {"at":"2026-11-12T02:38:46Z","by":"grenudi","id":"a91beed","project":"creation-guidelines/lab-agent","record":"g-20261112-023758","says":"feat: intake: work asked through the repository; beats as variables (#147)"}
+{"at":"2026-11-17T03:46:49Z","by":"grenudi","id":"a94be88","project":"creation-guidelines/lab-agent","record":"g-20261117-034600","says":"docs: the skills say linux-phone's way: data through tad in docs, landing through land (#217)"}
 {"at":"2026-11-12T10:03:56Z","by":"grenudi","id":"aecb00c","project":"creation-guidelines/lab-agent","record":"g-20261112-100308","says":"feat: oco-agent's voice: drivers say things to one another, carried to the phone (#162)"}
 {"at":"2026-11-16T14:43:55Z","by":"grenudi","id":"b08b5a6","project":"creation-guidelines/lab-agent","record":"g-20261116-144254","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#210)"}
 {"at":"2026-11-12T22:20:58Z","by":"grenudi","id":"b0b17f3","project":"creation-guidelines/lab-agent","record":"g-20261112-221959","says":"feat: oco-agent says what newly came into view, every five minutes (#174)"}
@@ -1346,6 +1347,7 @@
 {"at":"2026-11-14T00:21:05Z","by":"oco observe","id":"ecd7cdc","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:22:56Z","by":"oco observe","id":"ed06e6a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T08:03:28Z","by":"oco observe","id":"ed9665f","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T03:50:08Z","by":"oco observe","id":"edb1c3e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T19:40:34Z","by":"oco observe","id":"eeecee0","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T20:48:45Z","by":"oco observe","id":"ef4ae36","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T23:35:40Z","by":"oco observe","id":"ef4e017","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -2189,6 +2191,7 @@
 {"at":"2026-11-13T21:42:40Z","by":"oco harvest","id":"2fe9628","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T08:59:20Z","by":"oco harvest","id":"30a6a92","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T19:30:56Z","by":"oco harvest","id":"30bfcf3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T03:47:17Z","by":"grenudi","id":"3144d76","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261117-034702","says":"docs: a practice for linux-phone-oco: data through tad, landing through land (#108)"}
 {"at":"2026-11-16T05:30:14Z","by":"oco harvest","id":"315eda3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T22:06:59Z","by":"oco harvest","id":"31e1dda","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T19:03:43Z","by":"grenudi","id":"32dcb8b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: a practice - after a change to how something looks, look at it (#23)"}
@@ -2687,6 +2690,7 @@
 {"at":"2026-11-13T16:55:37Z","by":"oco harvest","id":"d27e19e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T01:44:11Z","by":"oco harvest","id":"d2c28d3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T00:47:45Z","by":"oco harvest","id":"d344dc5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T03:47:01Z","by":"oco harvest","id":"d34a062","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T12:46:47Z","by":"oco harvest","id":"d35c827","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T13:45:35Z","by":"oco harvest","id":"d3ae004","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T10:35:39Z","by":"oco harvest","id":"d449141","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
