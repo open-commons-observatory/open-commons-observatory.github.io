@@ -69,9 +69,9 @@
 {"bytes":33019,"id":"docs/feature_support.md","lines":517,"path":"docs/feature_support.md","project":"linux-phone-oco/docs"}
 {"bytes":5630,"id":"docs/features.md","lines":462,"path":"docs/features.md","project":"linux-phone-oco/docs"}
 {"bytes":3071,"id":"docs/idea.md","lines":117,"path":"docs/idea.md","project":"linux-phone-oco/docs"}
-{"bytes":1166,"id":"docs/index.md","lines":26,"path":"docs/index.md","project":"linux-phone-oco/docs"}
+{"bytes":1167,"id":"docs/index.md","lines":26,"path":"docs/index.md","project":"linux-phone-oco/docs"}
 {"bytes":922,"id":"docs/kernel_activity.md","lines":54,"path":"docs/kernel_activity.md","project":"linux-phone-oco/docs"}
-{"bytes":2852,"id":"docs/landscape.md","lines":116,"path":"docs/landscape.md","project":"linux-phone-oco/docs"}
+{"bytes":7154,"id":"docs/landscape.md","lines":192,"path":"docs/landscape.md","project":"linux-phone-oco/docs"}
 {"bytes":4312,"id":"docs/milestones.md","lines":310,"path":"docs/milestones.md","project":"linux-phone-oco/docs"}
 {"bytes":3979,"id":"docs/picture.md","lines":63,"path":"docs/picture.md","project":"linux-phone-oco/docs"}
 {"bytes":770,"id":"docs/platforms.md","lines":69,"path":"docs/platforms.md","project":"linux-phone-oco/docs"}
@@ -85,7 +85,9 @@
 {"bytes":43101,"id":"docs/translations.md","lines":4012,"path":"docs/translations.md","project":"linux-phone-oco/docs"}
 {"bytes":5994,"id":"docs/wiki_claims.md","lines":126,"path":"docs/wiki_claims.md","project":"linux-phone-oco/docs"}
 {"bytes":3947,"id":"docs/workings.md","lines":265,"path":"docs/workings.md","project":"linux-phone-oco/docs"}
-{"bytes":10863,"id":"prompts/bring-up.md","lines":139,"path":"prompts/bring-up.md","project":"linux-phone-oco/docs"}
+{"bytes":10975,"id":"prompts/bring-up.md","lines":140,"path":"prompts/bring-up.md","project":"linux-phone-oco/docs"}
+{"bytes":2970,"id":"prompts/feature-research.md","lines":40,"path":"prompts/feature-research.md","project":"linux-phone-oco/docs"}
+{"bytes":5599,"id":"prompts/orchestration.md","lines":73,"path":"prompts/orchestration.md","project":"linux-phone-oco/docs"}
 {"bytes":907,"id":"research/README.md","lines":14,"path":"research/README.md","project":"linux-phone-oco/docs"}
 {"bytes":22355,"id":"research/open-handset-commons/README.md","lines":307,"path":"research/open-handset-commons/README.md","project":"linux-phone-oco/docs"}
 {"bytes":4065,"id":"README.md","lines":66,"path":"README.md","project":"linux-phone-oco/lab-tools"}

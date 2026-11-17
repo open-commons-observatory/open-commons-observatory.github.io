@@ -46,6 +46,8 @@
 {"id":"CONTRIBUTING.md:Contributing","line":1,"name":"Contributing","path":"CONTRIBUTING.md","project":"linux-phone-oco/docs"}
 {"id":"README.md:linux-phone-oco/docs","line":1,"name":"linux-phone-oco/docs","path":"README.md","project":"linux-phone-oco/docs"}
 {"id":"prompts/bring-up.md:Bring-up: making Linux phones work, part by part","line":1,"name":"Bring-up: making Linux phones work, part by part","path":"prompts/bring-up.md","project":"linux-phone-oco/docs"}
+{"id":"prompts/feature-research.md:Feature research: finding the best way to make one hard feature work","line":1,"name":"Feature research: finding the best way to make one hard feature work","path":"prompts/feature-research.md","project":"linux-phone-oco/docs"}
+{"id":"prompts/orchestration.md:Orchestration: keeping the agents on the ways, and the conveyor running","line":1,"name":"Orchestration: keeping the agents on the ways, and the conveyor running","path":"prompts/orchestration.md","project":"linux-phone-oco/docs"}
 {"id":"research/README.md:Research","line":1,"name":"Research","path":"research/README.md","project":"linux-phone-oco/docs"}
 {"id":"research/open-handset-commons/README.md:Open Handset Commons","line":1,"name":"Open Handset Commons","path":"research/open-handset-commons/README.md","project":"linux-phone-oco/docs"}
 {"id":"README.md:lab-tools","line":1,"name":"lab-tools","path":"README.md","project":"linux-phone-oco/lab-tools"}
