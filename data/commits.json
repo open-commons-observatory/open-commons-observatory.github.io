@@ -541,6 +541,7 @@
 {"at":"2026-11-17T12:48:42Z","by":"grenudi","id":"954abd3","project":"grenudi/ideal-agent","says":"docs: Gmail and Claude Docs off by default; a session that needs one asks (#19)"}
 {"at":"2026-11-17T15:07:13Z","by":"grenudi","id":"9c6e55d","project":"grenudi/ideal-agent","says":"feat: skills: record with ikb, read the base's IKB.md (plugin 0.2.8) (#25)"}
 {"at":"2026-11-17T13:05:26Z","by":"grenudi","id":"a0df0f2","project":"grenudi/ideal-agent","says":"docs: the first after number, and why it is not yet comparable (#24)"}
+{"at":"2026-11-17T18:37:18Z","by":"grenudi","id":"a27b543","project":"grenudi/ideal-agent","says":"feat: bring-up-a-part: a device from nothing (plugin 0.3.21) (#56)"}
 {"at":"2026-11-17T12:40:01Z","by":"grenudi","id":"aab4ad6","project":"grenudi/ideal-agent","says":"feat: read only when: the start reads the task's summary; what a session read, measured (#17)"}
 {"at":"2026-11-17T16:51:38Z","by":"grenudi","id":"af417ba","project":"grenudi/ideal-agent","says":"feat: a harness is a subject: Claude Code specifics leave the skills (plugin 0.3.12) (#46)"}
 {"at":"2026-11-17T11:51:06Z","by":"grenudi","id":"b31fefd","project":"grenudi/ideal-agent","says":"feat: keep the start light: housekeeping measured per role, reasons a command away (#13)"}
@@ -866,6 +867,7 @@
 {"at":"2026-11-17T04:36:17Z","by":"grenudi","id":"bce1959","project":"linux-phone-oco/docs","says":"docs: surya takes its health suite from the Alpine package (#123)"}
 {"at":"2026-11-17T10:35:15Z","by":"grenudi","id":"bfb5853","project":"linux-phone-oco/docs","says":"feat: Every record names what it is about; tad q about gives a subject's whole knowledge (#170)"}
 {"at":"2026-11-12T19:13:00Z","by":"grenudi","id":"bfe5aa4","project":"linux-phone-oco/docs","says":"docs: two problems raised: a release that failed unheard, and a version from nothing (#73)"}
+{"at":"2026-11-17T18:38:34Z","by":"grenudi","id":"c16bb01","project":"linux-phone-oco/docs","says":"docs: the bring-up-order item landed in ideal-agent PR 56 (#312)"}
 {"at":"2026-11-17T01:50:53Z","by":"grenudi","id":"c1e4e95","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#106)"}
 {"at":"2026-11-17T03:28:12Z","by":"grenudi","id":"c254333","project":"linux-phone-oco/docs","says":"docs: Boot race: the audio PD's up notification never arrives; PD mapper order suspected (#117)"}
 {"at":"2026-11-17T17:58:46Z","by":"grenudi","id":"c50743e","project":"linux-phone-oco/docs","says":"docs: walleye: the control was refused too; research and one slot-a control queued (#287)"}
@@ -873,8 +875,10 @@
 {"at":"2026-11-05T07:43:11Z","by":"grenudi","id":"c7800d4","project":"linux-phone-oco/docs","says":"ci: deploy Pages via Actions instead of the legacy pipeline (#2)"}
 {"at":"2026-11-17T05:29:32Z","by":"grenudi","id":"c90431e","project":"linux-phone-oco/docs","says":"docs: The microphones hold across boots; the boot race is fixed in every flash (#137)"}
 {"at":"2026-11-17T14:18:43Z","by":"grenudi","id":"cb2189a","project":"linux-phone-oco/docs","says":"docs(lab-tools): lpoco-health weighed against building on postmarketOS upstream (#214)"}
+{"at":"2026-11-17T18:38:08Z","by":"grenudi","id":"cb27861","project":"linux-phone-oco/docs","says":"docs: surya: BT-blocked cycle resets the phone; SH0 looks by-design (floor-sh0-owner) (#311)"}
 {"at":"2026-11-17T18:34:27Z","by":"grenudi","id":"cbb9e12","project":"linux-phone-oco/docs","says":"docs: walleye: the bisect's s1 is the vendor-kernel gadget image (#308)"}
 {"at":"2026-11-17T15:12:53Z","by":"grenudi","id":"cbec011","project":"linux-phone-oco/docs","says":"feat: docs declares idealkb's upstream tables (empty): where knowledge can flow, what is sent (#217)"}
+{"at":"2026-11-17T18:39:06Z","by":"grenudi","id":"cc37f3f","project":"linux-phone-oco/docs","says":"docs: research question - is SH0 the blocker, counter validity (needs research) (#313)"}
 {"at":"2026-11-17T03:40:31Z","by":"grenudi","id":"ccc6e74","project":"linux-phone-oco/docs","says":"feat: one database for linux-phone: every place's records, through named records (#118)"}
 {"at":"2026-11-17T15:51:32Z","by":"grenudi","id":"cd8e9b1","project":"linux-phone-oco/docs","says":"docs(google-walleye): the shortest honest path to a mainline fastboot boot of the Pixel 2 (#229)"}
 {"at":"2026-11-17T11:08:23Z","by":"grenudi","id":"ce464d6","project":"linux-phone-oco/docs","says":"feat: feat: the Pixel 2 and 2 XL tracked beside surya, from published sources (all unknown) (#177)"}
@@ -2798,6 +2802,7 @@
 {"at":"2026-11-17T12:28:14Z","by":"oco harvest","id":"4dc50b6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T21:48:58Z","by":"oco harvest","id":"4dd46bc","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T09:24:35Z","by":"oco harvest","id":"4ebdb0a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T18:36:55Z","by":"oco harvest","id":"4ebf6d2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T11:04:16Z","by":"oco harvest","id":"4ed30ae","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T20:02:26Z","by":"oco harvest","id":"4edef89","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T02:16:41Z","by":"oco harvest","id":"4ee4cbb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
