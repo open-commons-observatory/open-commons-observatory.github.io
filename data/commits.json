@@ -532,8 +532,10 @@
 {"at":"2026-11-17T13:03:37Z","by":"grenudi","id":"d0593fa","project":"grenudi/ideal-agent","says":"docs: the keeper's before number, and where the after comes from (#23)"}
 {"at":"2026-11-17T10:38:51Z","by":"grenudi","id":"d167984","project":"grenudi/ideal-agent","says":"docs: a project's briefs live in its agent folder; practice 42 points there (#5)"}
 {"at":"2026-11-17T12:09:55Z","by":"grenudi","id":"faf6656","project":"grenudi/ideal-agent","says":"feat: briefs first: ideal-agent follows idealkb 0.4.0, its records briefed (#16)"}
+{"at":"2026-11-17T14:40:26Z","by":"github-actions[bot]","id":"062d589","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#21)"}
 {"at":"2026-11-17T11:36:40Z","by":"grenudi","id":"12334d7","project":"grenudi/ideal-knowledge-base","says":"feat: a summary over many records, and research kept aside in dated folders (#5)"}
 {"at":"2026-11-17T11:37:15Z","by":"github-actions[bot]","id":"36a5b62","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.2.0 (#6)"}
+{"at":"2026-11-17T14:51:08Z","by":"github-actions[bot]","id":"3dc496f","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#23)"}
 {"at":"2026-11-17T11:49:27Z","by":"grenudi","id":"42b4fd0","project":"grenudi/ideal-knowledge-base","says":"docs: the weekly pin job moves grenudi/ideal-agent too, its second follower (#10)"}
 {"at":"2026-11-17T12:08:07Z","by":"github-actions[bot]","id":"4571b0c","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.4.0 (#12)"}
 {"at":"2026-11-17T11:00:42Z","by":"grenudi","id":"58ba247","project":"grenudi/ideal-knowledge-base","says":"Initial commit"}
@@ -546,11 +548,13 @@
 {"at":"2026-11-17T14:29:16Z","by":"grenudi","id":"898147a","project":"grenudi/ideal-knowledge-base","says":"docs: ikb: the research and the decision to build one record command per base (#19)"}
 {"at":"2026-11-17T12:40:46Z","by":"grenudi","id":"a066b6b","project":"grenudi/ideal-knowledge-base","says":"feat: at a task's start ask only about its subject; deeper only when a step needs it (#18)"}
 {"at":"2026-11-17T12:14:07Z","by":"grenudi","id":"acc6558","project":"grenudi/ideal-knowledge-base","says":"fix: a release is tagged only once every follower answers with main laid over it (#16)"}
+{"at":"2026-11-17T14:50:06Z","by":"grenudi","id":"b9e6a12","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: the release carries a .deb and an .rpm, as the conveyor needs (#22)"}
 {"at":"2026-11-17T12:12:51Z","by":"grenudi","id":"bdafc93","project":"grenudi/ideal-knowledge-base","says":"feat: a release waits until every follower answers the five queries with it laid (#15)"}
 {"at":"2026-11-17T11:15:04Z","by":"grenudi","id":"c6f39d0","project":"grenudi/ideal-knowledge-base","says":"docs: docs follows 0.1.0, and the lab moves every base's pin weekly (#3)"}
 {"at":"2026-11-17T12:41:36Z","by":"github-actions[bot]","id":"d475f66","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.5.0 (#14)"}
 {"at":"2026-11-17T11:46:09Z","by":"grenudi","id":"d82eceb","project":"grenudi/ideal-knowledge-base","says":"docs: about's subject tables no longer stop a base: closed here, left to ocoeco (#9)"}
 {"at":"2026-11-17T11:40:29Z","by":"grenudi","id":"dc3cca0","project":"grenudi/ideal-knowledge-base","says":"feat: sources keep who made what they describe (by); second follower done (#7)"}
+{"at":"2026-11-17T14:36:26Z","by":"grenudi","id":"eb51545","project":"grenudi/ideal-knowledge-base","says":"feat: ikb 0.1: record into a base by commands read from its own records (#20)"}
 {"at":"2026-11-17T11:04:56Z","by":"grenudi","id":"f483421","project":"grenudi/ideal-knowledge-base","says":"feat: the ideal knowledge base: a layer on tad - five queries, standing tables, one entry (#1)"}
 {"at":"2026-11-16T19:25:40Z","by":"grenudi","id":"0df165f","project":"linux-package-distribution-oco/conveyor","record":"g-20261116-192510","says":"feat: a release is said once its files are there: a draft, said by the conveyor (#12)"}
 {"at":"2026-11-11T16:10:23Z","by":"grenudi","id":"1e27551","project":"linux-package-distribution-oco/conveyor","says":"docs/nix direction (#8)"}
@@ -1171,6 +1175,7 @@
 {"at":"2026-11-16T09:46:41Z","by":"oco observe","id":"3dcc66d","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T17:18:10Z","by":"oco observe","id":"3def3cf","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T09:36:05Z","by":"oco observe","id":"3e4ca67","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T14:36:37Z","by":"oco observe","id":"3eb8f1c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:09:28Z","by":"oco observe","id":"404aac8","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T23:30:28Z","by":"oco observe","id":"404bcb5","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T16:40:39Z","by":"oco observe","id":"40c08a8","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1486,6 +1491,7 @@
 {"at":"2026-11-14T22:39:11Z","by":"oco observe","id":"c697d8b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T20:52:26Z","by":"oco observe","id":"c6e44de","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T01:28:51Z","by":"oco observe","id":"c8809ab","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T14:40:23Z","by":"oco observe","id":"c9084c2","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T14:12:39Z","by":"oco observe","id":"c9300d9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T19:08:31Z","by":"oco observe","id":"c97e01d","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:30:18Z","by":"grenudi","id":"c9e1bf5","project":"marshall-oco/marshall-oco.github.io","record":"g-20261114-233003","says":"docs: a guard is part of the file it is in: a relation, added to the lens of the program (#12)"}
@@ -2560,6 +2566,7 @@
 {"at":"2026-11-12T03:02:50Z","by":"oco harvest","id":"4748eb4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T02:07:49Z","by":"oco harvest","id":"47ca691","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T02:14:36Z","by":"oco harvest","id":"4817ade","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T14:32:55Z","by":"oco harvest","id":"483ba39","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T00:19:35Z","by":"oco harvest","id":"484fb19","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T12:32:27Z","by":"oco harvest","id":"4855f23","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T09:36:12Z","by":"oco harvest","id":"487857c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
