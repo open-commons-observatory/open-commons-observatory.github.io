@@ -484,11 +484,12 @@
 {"id":"health/src/tone.rs:a_tone_made_raw_is_found_in_its_window_and_silence_is_not","line":189,"name":"a_tone_made_raw_is_found_in_its_window_and_silence_is_not","path":"health/src/tone.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"health/src/tone.rs:a_wrong_ask_is_said_not_guessed","line":181,"name":"a_wrong_ask_is_said_not_guessed","path":"health/src/tone.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"health/src/tone.rs:options_and_the_file_are_read_in_any_order","line":167,"name":"options_and_the_file_are_read_in_any_order","path":"health/src/tone.rs","project":"linux-phone-oco/lab-tools"}
-{"id":"lpoco/src/cli.rs:the_declaration_holds","line":70,"name":"the_declaration_holds","path":"lpoco/src/cli.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"lpoco/src/cli.rs:the_declaration_holds","line":73,"name":"the_declaration_holds","path":"lpoco/src/cli.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"lpoco/tests/dispatch.rs:a_missing_name_stops_with_one_line_naming_what_was_searched","line":52,"name":"a_missing_name_stops_with_one_line_naming_what_was_searched","path":"lpoco/tests/dispatch.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"lpoco/tests/dispatch.rs:lpoco_refuses_mixed_versions","line":63,"name":"lpoco_refuses_mixed_versions","path":"lpoco/tests/dispatch.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"lpoco/tests/dispatch.rs:lpoco_runs_subcommand_by_path","line":43,"name":"lpoco_runs_subcommand_by_path","path":"lpoco/tests/dispatch.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"lpoco/tests/dispatch.rs:version_list_completions_and_man_come_from_the_declaration","line":74,"name":"version_list_completions_and_man_come_from_the_declaration","path":"lpoco/tests/dispatch.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"lpoco/tests/mcp.rs:lpoco_mcp_lists_every_family_tool","line":92,"name":"lpoco_mcp_lists_every_family_tool","path":"lpoco/tests/mcp.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"tone/src/lib.rs:a_quiet_tone_is_found_in_noise","line":233,"name":"a_quiet_tone_is_found_in_noise","path":"tone/src/lib.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"tone/src/lib.rs:a_tone_measures_at_its_own_level","line":216,"name":"a_tone_measures_at_its_own_level","path":"tone/src/lib.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"tone/src/lib.rs:a_wav_and_a_raw_file_read_alike","line":184,"name":"a_wav_and_a_raw_file_read_alike","path":"tone/src/lib.rs","project":"linux-phone-oco/lab-tools"}
