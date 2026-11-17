@@ -5,6 +5,7 @@
 {"category":"connectivity","id":"bluetooth","name":"Bluetooth","project":"linux-phone-oco/docs"}
 {"category":"camera","id":"camera-front","name":"Front camera","project":"linux-phone-oco/docs"}
 {"category":"camera","id":"camera-rear","name":"Rear camera(s)","project":"linux-phone-oco/docs"}
+{"category":"power","id":"deep-sleep","name":"Deep sleep (the SoC at its lowest power state)","project":"linux-phone-oco/docs"}
 {"category":"display","id":"display-panel","name":"Display panel","project":"linux-phone-oco/docs"}
 {"category":"power","id":"fastboot","name":"Fastboot / bootloader","project":"linux-phone-oco/docs"}
 {"category":"input","id":"fingerprint","name":"Fingerprint sensor","project":"linux-phone-oco/docs"}

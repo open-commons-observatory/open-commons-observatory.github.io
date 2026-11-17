@@ -98,7 +98,7 @@
 {"bytes":5810,"id":"devlab/src/outcome.rs","lines":156,"path":"devlab/src/outcome.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":7996,"id":"devlab/src/phone.rs","lines":233,"path":"devlab/src/phone.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":12037,"id":"devlab/src/provision.rs","lines":333,"path":"devlab/src/provision.rs","project":"linux-phone-oco/lab-tools"}
-{"bytes":13834,"id":"devlab/src/suite.rs","lines":408,"path":"devlab/src/suite.rs","project":"linux-phone-oco/lab-tools"}
+{"bytes":13987,"id":"devlab/src/suite.rs","lines":413,"path":"devlab/src/suite.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":3806,"id":"devlab/src/watch.rs","lines":95,"path":"devlab/src/watch.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":16590,"id":"health/src/main.rs","lines":487,"path":"health/src/main.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":4101,"id":"tone/src/lib.rs","lines":125,"path":"tone/src/lib.rs","project":"linux-phone-oco/lab-tools"}
