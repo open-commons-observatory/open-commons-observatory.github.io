@@ -506,6 +506,7 @@
 {"at":"2026-11-17T09:51:25Z","by":"grenudi","id":"5905800","project":"grenudi/ideal-agent","says":"feat: the ideal agent: its mark, its tad database, and one Claude Code plugin (#1)"}
 {"at":"2026-11-17T10:24:33Z","by":"grenudi","id":"5967ea8","project":"grenudi/ideal-agent","says":"docs: the move into ideal-agent recorded: done, proven live, every old place pointing here (#3)"}
 {"at":"2026-11-17T10:17:19Z","by":"grenudi","id":"6a54fd7","project":"grenudi/ideal-agent","says":"feat: one keeper per shared resource: a role skill, a practice and its research (#2)"}
+{"at":"2026-11-17T10:38:51Z","by":"grenudi","id":"d167984","project":"grenudi/ideal-agent","says":"docs: a project's briefs live in its agent folder; practice 42 points there (#5)"}
 {"at":"2026-11-16T19:25:40Z","by":"grenudi","id":"0df165f","project":"linux-package-distribution-oco/conveyor","record":"g-20261116-192510","says":"feat: a release is said once its files are there: a draft, said by the conveyor (#12)"}
 {"at":"2026-11-11T16:10:23Z","by":"grenudi","id":"1e27551","project":"linux-package-distribution-oco/conveyor","says":"docs/nix direction (#8)"}
 {"at":"2026-11-11T10:27:09Z","by":"lab-agent-session","id":"2bda54f","project":"linux-package-distribution-oco/conveyor","says":"docs: the package conveyor, designed - its idea, decisions and path"}
@@ -597,6 +598,7 @@
 {"at":"2026-11-17T08:50:44Z","by":"grenudi","id":"63d2ff1","project":"linux-phone-oco/docs","says":"docs: health-data-check narrowed: surya's mobile-data check already carries traffic (#146)"}
 {"at":"2026-11-16T23:40:58Z","by":"github-actions[bot]","id":"652ae0b","project":"linux-phone-oco/docs","says":"chore(main): release 0.1.0 (#72)"}
 {"at":"2026-11-11T09:37:56Z","by":"grenudi","id":"6c24d21","project":"linux-phone-oco/docs","says":"feat(data): the microphone's chain nearly whole; which speaker is the bottom one (#54)"}
+{"at":"2026-11-17T10:37:21Z","by":"grenudi","id":"6d85dd7","project":"linux-phone-oco/docs","says":"docs: The agent specifics in their own folder: ideal-agent-linux-phone-oco/ (#171)"}
 {"at":"2026-11-17T05:09:50Z","by":"grenudi","id":"6e92d71","project":"linux-phone-oco/docs","says":"docs: Earpiece taken up: the path powers on, nothing heard yet (#131)"}
 {"at":"2026-11-17T01:58:21Z","by":"grenudi","id":"6f14388","project":"linux-phone-oco/docs","says":"docs: Deep sleep's first step names the suspend cycle lab-tools already plans (#109)"}
 {"at":"2026-11-05T08:03:38Z","by":"grenudi","id":"6f79a41","project":"linux-phone-oco/docs","says":"fix(data): the distro is Nura now (#5)"}
@@ -1359,6 +1361,7 @@
 {"at":"2026-11-14T16:33:19Z","by":"oco observe","id":"c18206d","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T02:48:18Z","by":"oco observe","id":"c1cd4f6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T14:47:23Z","by":"oco observe","id":"c203ff0","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T10:36:03Z","by":"oco observe","id":"c29970c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T17:03:08Z","by":"oco observe","id":"c2af823","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T10:48:13Z","by":"oco observe","id":"c38dfb3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T21:06:38Z","by":"oco observe","id":"c39bc87","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -2201,6 +2204,7 @@
 {"at":"2026-11-11T13:43:25Z","by":"grenudi","id":"e0aa5ef","project":"open-commons-observatory/ocoeco-engine","says":"data: patching source by text is automated by structural edits (#50)"}
 {"at":"2026-11-10T22:08:56Z","by":"grenudi","id":"e179fb0","project":"open-commons-observatory/ocoeco-engine","says":"feat(site): Essence - the signature view: why, what, how, now on one page (#32)"}
 {"at":"2026-11-10T18:10:54Z","by":"grenudi","id":"e56e8bd","project":"open-commons-observatory/ocoeco-engine","says":"feat(site): grand views from lenses - the face draws what each lens declares (#18)"}
+{"at":"2026-11-17T10:36:08Z","by":"grenudi","id":"e57ea3b","project":"open-commons-observatory/ocoeco-engine","record":"g-20261117-103529","says":"feat: A resource's queue in its order, each item saying what it waits on (#64)"}
 {"at":"2026-11-17T00:23:41Z","by":"grenudi","id":"e61040f","project":"open-commons-observatory/ocoeco-engine","record":"g-20261117-002253","says":"feat: A site of one family's data is that family's face (#59)"}
 {"at":"2026-11-10T19:48:22Z","by":"grenudi","id":"ebb02ab","project":"open-commons-observatory/ocoeco-engine","says":"fix(site): not yet is not failure - planned work has its own calm sign (#28)"}
 {"at":"2026-11-11T13:16:31Z","by":"grenudi","id":"ec4e529","project":"open-commons-observatory/ocoeco-engine","says":"feat/timeline and word badges (#46)"}
@@ -2681,6 +2685,7 @@
 {"at":"2026-11-10T15:44:12Z","by":"oco harvest","id":"9334002","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T10:25:11Z","by":"oco harvest","id":"93b5d49","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T23:46:06Z","by":"oco harvest","id":"9450d3d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T10:36:33Z","by":"oco harvest","id":"945e9a6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T00:48:26Z","by":"oco harvest","id":"9475d13","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T19:11:04Z","by":"grenudi","id":"94a0678","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261112-191047","says":"fix: the harvest's guard can rebase: proven against a staged collision (#73)"}
 {"at":"2026-11-17T02:39:28Z","by":"oco harvest","id":"94d115d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
