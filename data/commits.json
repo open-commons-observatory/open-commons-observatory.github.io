@@ -643,6 +643,7 @@
 {"at":"2026-11-17T04:55:54Z","by":"grenudi","id":"d56b60c","project":"linux-phone-oco/docs","says":"docs: Backlog: mic-held is only the three boots now; the gap is gone (#130)"}
 {"at":"2026-11-17T05:32:57Z","by":"grenudi","id":"d69891b","project":"linux-phone-oco/docs","says":"docs: audio-mic judged works: both microphones, proven by the phone after every boot (#140)"}
 {"at":"2026-11-17T00:25:35Z","by":"grenudi","id":"d72b13b","project":"linux-phone-oco/docs","says":"feat: linux-phone's face, drawn in CI from its open database (#82)"}
+{"at":"2026-11-17T09:37:14Z","by":"grenudi","id":"d75d79a","project":"linux-phone-oco/docs","says":"docs: Analysis in Rust on the phone, and mobile data under a monthly budget (#154)"}
 {"at":"2026-11-10T22:58:00Z","by":"grenudi","id":"d7680d2","project":"linux-phone-oco/docs","says":"fix(data): the claim that a machine heard the speakers is withdrawn (#49)"}
 {"at":"2026-11-09T18:46:01Z","by":"grenudi","id":"d816352","project":"linux-phone-oco/docs","says":"feat(data): the ADSP crash loop is understood and stopped on the phone (#10)"}
 {"at":"2026-11-09T16:52:15Z","by":"grenudi","id":"d971a63","project":"linux-phone-oco/docs","says":"docs: state the project's goal, not only what this repo holds (#9)"}
@@ -835,6 +836,7 @@
 {"at":"2026-11-09T14:15:41Z","by":"grenudi","id":"ac6df31","project":"linux-phone-oco/surya-lab","says":"docs: AGENTS.md"}
 {"at":"2026-11-17T01:35:29Z","by":"grenudi","id":"ae09d6e","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#77)"}
 {"at":"2026-11-10T19:44:00Z","by":"grenudi","id":"ae41bb3","project":"linux-phone-oco/surya-lab","says":"chore: gathered data lives on the oco-data branch - main is the history of the work (#37)"}
+{"at":"2026-11-17T09:38:54Z","by":"grenudi","id":"afadb91","project":"linux-phone-oco/surya-lab","says":"docs: Calls work both ways: the voice topology at boot, and a daily echo call the phone judges (#118)"}
 {"at":"2026-11-09T14:15:45Z","by":"grenudi","id":"b57101f","project":"linux-phone-oco/surya-lab","says":"feat: dt/disable-node.py"}
 {"at":"2026-11-10T02:22:55Z","by":"grenudi","id":"b64213f","project":"linux-phone-oco/surya-lab","says":"fix(tests): find the vibration motor by reading each input device as a whole block (#10)"}
 {"at":"2026-11-09T14:15:47Z","by":"grenudi","id":"b949467","project":"linux-phone-oco/surya-lab","says":"feat: dt/reg-audit.py"}
@@ -2510,6 +2512,7 @@
 {"at":"2026-11-11T23:22:59Z","by":"oco harvest","id":"6db821b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T17:46:09Z","by":"ocoeco gather","id":"6dbef37","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: gathered by ocoeco"}
 {"at":"2026-11-10T15:54:25Z","by":"grenudi","id":"6e805c4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"feat(data): oco-eco named; tad the heart, a rhizcut with its own path (#8)"}
+{"at":"2026-11-17T09:32:50Z","by":"oco harvest","id":"6f217c6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T01:36:51Z","by":"oco harvest","id":"6f6e0ab","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T04:37:20Z","by":"oco harvest","id":"7071a3a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T10:31:58Z","by":"oco harvest","id":"70d1d85","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
