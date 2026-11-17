@@ -866,6 +866,7 @@
 {"at":"2026-11-14T19:11:37Z","by":"oco observe","id":"0270e2c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T14:03:20Z","by":"oco observe","id":"0281854","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:31:32Z","by":"oco observe","id":"02faa4c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T07:03:23Z","by":"oco observe","id":"0353c6b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T03:18:15Z","by":"oco observe","id":"039b990","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T02:18:22Z","by":"oco observe","id":"03baa32","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T19:11:22Z","by":"oco observe","id":"044b476","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -915,6 +916,7 @@
 {"at":"2026-11-14T07:41:27Z","by":"oco observe","id":"1706774","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T11:33:21Z","by":"oco observe","id":"1709ccb","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T07:51:28Z","by":"oco observe","id":"174a4ce","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T06:03:06Z","by":"oco observe","id":"174be36","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T00:39:27Z","by":"oco observe","id":"17ce83b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T19:59:17Z","by":"grenudi","id":"1892758","project":"marshall-oco/marshall-oco.github.io","record":"g-20261114-195901","says":"docs: the part about next steps, taken back from the sheet (#9)"}
 {"at":"2026-11-13T23:06:11Z","by":"oco observe","id":"19280ed","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -980,6 +982,7 @@
 {"at":"2026-11-14T10:33:14Z","by":"oco observe","id":"362f6ef","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T23:19:18Z","by":"oco observe","id":"364ed19","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T10:35:23Z","by":"oco observe","id":"3698eaf","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T07:48:16Z","by":"oco observe","id":"36a0f6f","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T00:52:54Z","by":"oco observe","id":"36d28ce","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T23:38:35Z","by":"oco observe","id":"37ff7cc","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T07:30:29Z","by":"oco observe","id":"3818516","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1002,6 +1005,7 @@
 {"at":"2026-11-14T23:40:49Z","by":"oco observe","id":"40cf205","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T04:56:44Z","by":"grenudi","id":"40dccff","project":"marshall-oco/marshall-oco.github.io","record":"g-20261115-045628","says":"feat: this observatory says its site: the whole, and a page for each place (#14)"}
 {"at":"2026-11-13T19:07:01Z","by":"oco observe","id":"4165b19","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T06:33:18Z","by":"oco observe","id":"4175a0f","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T08:44:32Z","by":"oco observe","id":"420942d","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-17T03:15:38Z","by":"oco observe","id":"42107a9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T12:33:17Z","by":"oco observe","id":"424d87f","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1009,6 +1013,7 @@
 {"at":"2026-11-14T19:54:55Z","by":"oco observe","id":"428f154","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T12:03:25Z","by":"oco observe","id":"4490622","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T17:03:10Z","by":"oco observe","id":"44e4315","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T06:04:07Z","by":"oco observe","id":"4541af0","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T05:47:06Z","by":"oco observe","id":"45a6b5f","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T17:28:22Z","by":"oco observe","id":"45d56e3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T19:04:08Z","by":"grenudi","id":"468c5c8","project":"marshall-oco/marshall-oco.github.io","record":"g-20261115-190352","says":"ci: ocoeco is taken from its newest release that has its files (#21)"}
@@ -1046,6 +1051,7 @@
 {"at":"2026-11-15T20:59:39Z","by":"oco observe","id":"540d1cd","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T11:18:18Z","by":"oco observe","id":"544700a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T17:25:34Z","by":"oco observe","id":"54c3861","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T07:33:25Z","by":"oco observe","id":"55447b8","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T18:03:15Z","by":"oco observe","id":"556e1d3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T09:40:56Z","by":"oco observe","id":"557c458","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T08:20:53Z","by":"oco observe","id":"55f1ce2","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1053,6 +1059,7 @@
 {"at":"2026-11-15T20:24:30Z","by":"oco observe","id":"56ac8d1","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T18:33:39Z","by":"oco observe","id":"57077ba","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T19:13:39Z","by":"oco observe","id":"571304f","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T06:48:15Z","by":"oco observe","id":"5792dd6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T01:18:06Z","by":"oco observe","id":"57fc232","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T18:33:23Z","by":"oco observe","id":"580a9e7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T18:07:54Z","by":"oco observe","id":"58691dc","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1065,6 +1072,7 @@
 {"at":"2026-11-14T18:45:26Z","by":"oco observe","id":"5bada81","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T07:27:48Z","by":"oco observe","id":"5c6f37e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T14:48:23Z","by":"oco observe","id":"5c8a942","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T06:18:26Z","by":"oco observe","id":"5c9334b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T11:40:08Z","by":"oco observe","id":"5cf06ba","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T07:18:24Z","by":"oco observe","id":"5d03d07","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T12:59:41Z","by":"oco observe","id":"5dbfdc1","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1137,6 +1145,7 @@
 {"at":"2026-11-13T12:07:07Z","by":"oco observe","id":"7eae7c0","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T16:37:56Z","by":"oco observe","id":"7ec2099","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T21:57:01Z","by":"oco observe","id":"7edde6c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T07:18:19Z","by":"oco observe","id":"7f4a0f1","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T09:06:56Z","by":"oco observe","id":"7f5ff67","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T15:33:06Z","by":"oco observe","id":"7f87d2c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T21:10:38Z","by":"oco observe","id":"7fe0fec","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -2526,6 +2535,7 @@
 {"at":"2026-11-11T15:46:20Z","by":"grenudi","id":"80e05af","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the wrap-up pass - settled with reasons (#63)"}
 {"at":"2026-11-14T08:36:10Z","by":"oco harvest","id":"80ef3a3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T18:50:59Z","by":"grenudi","id":"8153bf3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: data translations under way; a practice - reflect progress in every project you touch (#22)"}
+{"at":"2026-11-17T05:38:55Z","by":"oco harvest","id":"839c30c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T18:41:53Z","by":"oco harvest","id":"843adb1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T07:13:14Z","by":"oco harvest","id":"8509a76","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T18:46:07Z","by":"oco harvest","id":"856d824","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
