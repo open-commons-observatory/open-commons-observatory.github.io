@@ -541,6 +541,7 @@
 {"at":"2026-11-17T23:15:44Z","by":"grenudi","id":"6cc3f23","project":"grenudi/ideal-agent","says":"feat: a stored start is a head and a brief; the patrol watches lanes and host (plugin 0.3.27) (#62)"}
 {"at":"2026-11-17T16:54:06Z","by":"grenudi","id":"6e4eaba","project":"grenudi/ideal-agent","says":"docs: the unused skills are name-only in the author's settings; the after waits on a fresh session (#47)"}
 {"at":"2026-11-17T11:43:57Z","by":"grenudi","id":"6fce9c3","project":"grenudi/ideal-agent","says":"fix: nothing of ocoeco: skills look and record through tad and idealkb only (#9)"}
+{"at":"2026-11-17T23:23:24Z","by":"grenudi","id":"76807bd","project":"grenudi/ideal-agent","says":"fix: a brief is read from its repository's main, not a drifted clone (plugin 0.3.28) (#63)"}
 {"at":"2026-11-17T16:28:27Z","by":"grenudi","id":"82343cf","project":"grenudi/ideal-agent","says":"docs: work-struggles cites ikb-cli's friction measure (#42)"}
 {"at":"2026-11-17T15:34:25Z","by":"grenudi","id":"8293de5","project":"grenudi/ideal-agent","says":"docs: ideal-agent's hand-over says where the neutral start stands (#30)"}
 {"at":"2026-11-17T21:44:08Z","by":"grenudi","id":"870e881","project":"grenudi/ideal-agent","says":"feat: overlay-check takes a domain's own text to check against too (plugin 0.3.24) (#59)"}
@@ -1121,6 +1122,8 @@
 {"at":"2026-11-17T21:43:59Z","by":"grenudi","id":"c008d55","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the s3o try unblocked, first (#59)"}
 {"at":"2026-11-17T22:41:04Z","by":"grenudi","id":"c6b2fc5","project":"linux-phone-oco/google-walleye-lab","says":"walleye: n3r try - gadget enumerates, cdc_acm needs functional descriptors (#76)"}
 {"at":"2026-11-17T15:29:58Z","by":"grenudi","id":"cbe406f","project":"linux-phone-oco/google-walleye-lab","says":"feat: walleye's fastboot serial, writes off (#2)"}
+{"at":"2026-11-17T23:25:23Z","by":"grenudi","id":"ce4ef64","project":"linux-phone-oco/google-walleye-lab","says":"walleye: pk1/pk2 try - no init, 75 s x4 (#86)"}
+{"at":"2026-11-17T23:26:18Z","by":"grenudi","id":"d7af0a6","project":"linux-phone-oco/google-walleye-lab","says":"walleye: earlycon on a gated UART as the common cause of every dark mainline image (build item) (#87)"}
 {"at":"2026-11-17T20:17:20Z","by":"grenudi","id":"d9072bd","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget5b1..b4, the ncm step of the gadget bring-up split (walleye-ncm-split) (#32)"}
 {"at":"2026-11-17T17:08:03Z","by":"grenudi","id":"dc676bd","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants c and d carry an os version and patch level (#5)"}
 {"at":"2026-11-17T19:55:45Z","by":"grenudi","id":"e00c523","project":"linux-phone-oco/google-walleye-lab","says":"feat: phone-stands, the keeper's last hand-over (#20)"}
@@ -3422,6 +3425,7 @@
 {"at":"2026-11-12T10:34:57Z","by":"oco harvest","id":"b2b23e5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T13:39:12Z","by":"oco harvest","id":"b2db452","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T04:16:24Z","by":"oco harvest","id":"b344a8c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T23:24:36Z","by":"oco harvest","id":"b3689e8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T17:45:44Z","by":"oco harvest","id":"b37e4fd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T21:49:59Z","by":"oco harvest","id":"b391b07","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T12:22:26Z","by":"oco harvest","id":"b395e7e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}

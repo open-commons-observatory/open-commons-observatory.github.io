@@ -93,7 +93,7 @@
 {"bytes":273,"id":"src/lib.rs","lines":6,"path":"src/lib.rs","project":"grenudi/ideal-agent"}
 {"bytes":9976,"id":"src/main.rs","lines":268,"path":"src/main.rs","project":"grenudi/ideal-agent"}
 {"bytes":7217,"id":"src/practices.rs","lines":174,"path":"src/practices.rs","project":"grenudi/ideal-agent"}
-{"bytes":18771,"id":"src/roles.rs","lines":482,"path":"src/roles.rs","project":"grenudi/ideal-agent"}
+{"bytes":20132,"id":"src/roles.rs","lines":518,"path":"src/roles.rs","project":"grenudi/ideal-agent"}
 {"bytes":11402,"id":"src/shell.rs","lines":304,"path":"src/shell.rs","project":"grenudi/ideal-agent"}
 {"bytes":6435,"id":"ikb/src/complete.rs","lines":168,"path":"ikb/src/complete.rs","project":"grenudi/ideal-knowledge-base"}
 {"bytes":7430,"id":"ikb/src/edit.rs","lines":225,"path":"ikb/src/edit.rs","project":"grenudi/ideal-knowledge-base"}

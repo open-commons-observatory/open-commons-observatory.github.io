@@ -71,7 +71,7 @@
 {"bytes":4373,"id":"docs/landscape.md","lines":78,"path":"docs/landscape.md","project":"grenudi/ideal-agent"}
 {"bytes":28499,"id":"docs/practices.md","lines":644,"path":"docs/practices.md","project":"grenudi/ideal-agent"}
 {"bytes":39143,"id":"docs/research.md","lines":584,"path":"docs/research.md","project":"grenudi/ideal-agent"}
-{"bytes":14578,"id":"docs/session_log.md","lines":459,"path":"docs/session_log.md","project":"grenudi/ideal-agent"}
+{"bytes":15411,"id":"docs/session_log.md","lines":480,"path":"docs/session_log.md","project":"grenudi/ideal-agent"}
 {"bytes":19972,"id":"docs/sources.md","lines":1019,"path":"docs/sources.md","project":"grenudi/ideal-agent"}
 {"bytes":1507,"id":"docs/subjects.md","lines":72,"path":"docs/subjects.md","project":"grenudi/ideal-agent"}
 {"bytes":561,"id":"docs/summaries.md","lines":17,"path":"docs/summaries.md","project":"grenudi/ideal-agent"}
@@ -217,14 +217,14 @@
 {"bytes":5018,"id":"AGENTS.md","lines":49,"path":"AGENTS.md","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":3384,"id":"README.md","lines":51,"path":"README.md","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":12151,"id":"build/README.md","lines":129,"path":"build/README.md","project":"linux-phone-oco/google-walleye-lab"}
-{"bytes":56766,"id":"docs/backlog.md","lines":1817,"path":"docs/backlog.md","project":"linux-phone-oco/google-walleye-lab"}
+{"bytes":58178,"id":"docs/backlog.md","lines":1839,"path":"docs/backlog.md","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":25543,"id":"docs/decisions.md","lines":375,"path":"docs/decisions.md","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":70,"id":"docs/devices.md","lines":3,"path":"docs/devices.md","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":2683,"id":"docs/hardware.md","lines":141,"path":"docs/hardware.md","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":474,"id":"docs/index.md","lines":17,"path":"docs/index.md","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":7190,"id":"docs/parts.md","lines":380,"path":"docs/parts.md","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":69461,"id":"docs/research.md","lines":863,"path":"docs/research.md","project":"linux-phone-oco/google-walleye-lab"}
-{"bytes":32477,"id":"docs/session_log.md","lines":825,"path":"docs/session_log.md","project":"linux-phone-oco/google-walleye-lab"}
+{"bytes":33646,"id":"docs/session_log.md","lines":864,"path":"docs/session_log.md","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":7335,"id":"docs/sources.md","lines":273,"path":"docs/sources.md","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":72,"id":"docs/summaries.md","lines":3,"path":"docs/summaries.md","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":75,"id":"docs/test_results.md","lines":3,"path":"docs/test_results.md","project":"linux-phone-oco/google-walleye-lab"}
