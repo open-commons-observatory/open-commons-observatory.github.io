@@ -543,6 +543,7 @@
 {"at":"2026-11-17T12:15:19Z","by":"grenudi","id":"734d789","project":"grenudi/ideal-knowledge-base","says":"docs: docs takes briefs: both followers answer 0.4.0 (#17)"}
 {"at":"2026-11-17T12:11:06Z","by":"grenudi","id":"812dc8e","project":"grenudi/ideal-knowledge-base","says":"fix: the pin job leaves a base that refuses a release as its main has it (#13)"}
 {"at":"2026-11-17T12:07:28Z","by":"grenudi","id":"8775b40","project":"grenudi/ideal-knowledge-base","says":"feat: briefs first: every record has a one-line brief, answers give briefs (#11)"}
+{"at":"2026-11-17T14:29:16Z","by":"grenudi","id":"898147a","project":"grenudi/ideal-knowledge-base","says":"docs: ikb: the research and the decision to build one record command per base (#19)"}
 {"at":"2026-11-17T12:40:46Z","by":"grenudi","id":"a066b6b","project":"grenudi/ideal-knowledge-base","says":"feat: at a task's start ask only about its subject; deeper only when a step needs it (#18)"}
 {"at":"2026-11-17T12:14:07Z","by":"grenudi","id":"acc6558","project":"grenudi/ideal-knowledge-base","says":"fix: a release is tagged only once every follower answers with main laid over it (#16)"}
 {"at":"2026-11-17T12:12:51Z","by":"grenudi","id":"bdafc93","project":"grenudi/ideal-knowledge-base","says":"feat: a release waits until every follower answers the five queries with it laid (#15)"}
@@ -2507,6 +2508,7 @@
 {"at":"2026-11-10T18:00:12Z","by":"oco harvest","id":"3b61b6c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T05:08:01Z","by":"oco harvest","id":"3bb9073","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T16:48:16Z","by":"oco harvest","id":"3bc1e66","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T14:23:07Z","by":"oco harvest","id":"3c10119","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T14:49:21Z","by":"oco harvest","id":"3c5c113","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:11:46Z","by":"oco harvest","id":"3c84937","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T02:59:41Z","by":"oco harvest","id":"3ccfe2a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
