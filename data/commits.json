@@ -513,6 +513,7 @@
 {"at":"2026-11-17T16:29:35Z","by":"grenudi","id":"28b3b44","project":"grenudi/ideal-agent","says":"docs: land-a-change reads its diff against main before landing (plugin 0.3.11) (#43)"}
 {"at":"2026-11-17T11:39:20Z","by":"grenudi","id":"3289502","project":"grenudi/ideal-agent","says":"feat: ideal-agent follows ideal-knowledge-base: every record names its subject (#7)"}
 {"at":"2026-11-17T11:46:18Z","by":"grenudi","id":"346a768","project":"grenudi/ideal-agent","says":"docs: the sources' by goes back once idealkb 0.3.0 is pinned (#11)"}
+{"at":"2026-11-17T17:20:34Z","by":"grenudi","id":"3ae559e","project":"grenudi/ideal-agent","says":"docs: land-a-change: plain land, and land refuses a revert of main (plugin 0.3.16) (#51)"}
 {"at":"2026-11-17T09:42:13Z","by":"grenudi","id":"3cbec09","project":"grenudi/ideal-agent","says":"Initial commit"}
 {"at":"2026-11-17T12:01:02Z","by":"grenudi","id":"3d853d7","project":"grenudi/ideal-agent","says":"feat: the session start reads each practice's first sentence, numbered by its id (#15)"}
 {"at":"2026-11-17T13:00:20Z","by":"grenudi","id":"3dab6ee","project":"grenudi/ideal-agent","says":"docs: ideal-agent's own hand-over: a fresh session starts from it (#21)"}
@@ -563,6 +564,7 @@
 {"at":"2026-11-17T15:46:46Z","by":"github-actions[bot]","id":"0d675ca","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#33)"}
 {"at":"2026-11-17T11:36:40Z","by":"grenudi","id":"12334d7","project":"grenudi/ideal-knowledge-base","says":"feat: a summary over many records, and research kept aside in dated folders (#5)"}
 {"at":"2026-11-17T15:18:26Z","by":"github-actions[bot]","id":"12ca79f","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#31)"}
+{"at":"2026-11-17T17:18:48Z","by":"grenudi","id":"2700beb","project":"grenudi/ideal-knowledge-base","says":"docs: ikb: research and decision - a commons base plus one open base per unit (#43)"}
 {"at":"2026-11-17T15:46:29Z","by":"grenudi","id":"2ba3592","project":"grenudi/ideal-knowledge-base","says":"feat: ikb: completions for four shells, asked as you type; the agent starts with ikb --help (#34)"}
 {"at":"2026-11-17T11:37:15Z","by":"github-actions[bot]","id":"36a5b62","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.2.0 (#6)"}
 {"at":"2026-11-17T14:51:08Z","by":"github-actions[bot]","id":"3dc496f","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#23)"}
@@ -655,6 +657,7 @@
 {"at":"2026-11-17T17:17:06Z","by":"github-actions[bot]","id":"1e80ae5","project":"linux-phone-oco/docs","says":"chore(main): release 0.11.0 (#261)"}
 {"at":"2026-11-17T08:33:09Z","by":"grenudi","id":"1f3337c","project":"linux-phone-oco/docs","says":"docs: The earpiece works: it is the top speaker, proven by the top mic (#143)"}
 {"at":"2026-11-17T17:07:07Z","by":"grenudi","id":"233946f","project":"linux-phone-oco/docs","says":"docs: why a failed fastboot boot flipped walleye's slots, and what to do (decision) (#252)"}
+{"at":"2026-11-17T17:19:49Z","by":"grenudi","id":"24834f2","project":"linux-phone-oco/docs","says":"docs: docs: the commons and the device bases - decision and the work for each owner (#265)"}
 {"at":"2026-11-17T16:28:33Z","by":"grenudi","id":"24aca71","project":"linux-phone-oco/docs","says":"docs: sleep-cluster-params - not the floor; waits on a deeper decision (keeper-7) (#245)"}
 {"at":"2026-11-09T23:21:22Z","by":"grenudi","id":"24c64c3","project":"linux-phone-oco/docs","says":"feat(data): phosh-usb - the PC loses the phone over USB under Phosh (#14)"}
 {"at":"2026-11-14T00:46:11Z","by":"grenudi","id":"2590f09","project":"linux-phone-oco/docs","says":"docs: feature and component are other names for features and components (#76)"}
@@ -681,6 +684,7 @@
 {"at":"2026-11-17T04:20:06Z","by":"grenudi","id":"39af2c0","project":"linux-phone-oco/docs","says":"docs: lab-tools: the LPASS debugfs hazard is held by devlab and surya's manifest (#121)"}
 {"at":"2026-11-17T12:45:02Z","by":"grenudi","id":"39b2cd4","project":"linux-phone-oco/docs","says":"docs: the keeper's brief starts from its purpose and exact commands; bring-up folded in (#193)"}
 {"at":"2026-11-17T01:25:21Z","by":"grenudi","id":"3a88fc0","project":"linux-phone-oco/docs","says":"docs: How linux-phone's agents are organised: roles, briefs, the data as shared state (#93)"}
+{"at":"2026-11-17T17:20:46Z","by":"grenudi","id":"3afb527","project":"linux-phone-oco/docs","says":"docs: docs: the research the commons-and-device-bases decision rests on (#266)"}
 {"at":"2026-11-17T16:26:59Z","by":"grenudi","id":"3bafba0","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#244)"}
 {"at":"2026-11-11T16:44:33Z","by":"grenudi","id":"3d67245","project":"linux-phone-oco/docs","says":"docs: the tables declared as data, for tad in Rust (#60)"}
 {"at":"2026-11-17T10:05:15Z","by":"grenudi","id":"3e5e6c8","project":"linux-phone-oco/docs","says":"docs: An ideal knowledge base proposed: about link, one entry, idealkb from the template (#161)"}
@@ -835,6 +839,7 @@
 {"at":"2026-11-17T09:37:14Z","by":"grenudi","id":"d75d79a","project":"linux-phone-oco/docs","says":"docs: Analysis in Rust on the phone, and mobile data under a monthly budget (#154)"}
 {"at":"2026-11-10T22:58:00Z","by":"grenudi","id":"d7680d2","project":"linux-phone-oco/docs","says":"fix(data): the claim that a machine heard the speakers is withdrawn (#49)"}
 {"at":"2026-11-09T18:46:01Z","by":"grenudi","id":"d816352","project":"linux-phone-oco/docs","says":"feat(data): the ADSP crash loop is understood and stopped on the phone (#10)"}
+{"at":"2026-11-17T17:18:54Z","by":"grenudi","id":"d8deea6","project":"linux-phone-oco/docs","says":"docs: walleye's first fastboot boot heads its queue (#264)"}
 {"at":"2026-11-09T16:52:15Z","by":"grenudi","id":"d971a63","project":"linux-phone-oco/docs","says":"docs: state the project's goal, not only what this repo holds (#9)"}
 {"at":"2026-11-17T00:31:45Z","by":"grenudi","id":"daee663","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#84)"}
 {"at":"2026-11-10T19:43:26Z","by":"grenudi","id":"daf3c67","project":"linux-phone-oco/docs","says":"chore: gathered data lives on the oco-data branch - main is the history of the work (#44)"}
@@ -2819,6 +2824,7 @@
 {"at":"2026-11-11T21:15:36Z","by":"oco harvest","id":"6bd6f77","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T12:18:38Z","by":"grenudi","id":"6bf9517","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: hand-work in effort - totals, load, effort (#53)"}
 {"at":"2026-11-14T17:31:37Z","by":"oco harvest","id":"6c4583c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T17:18:42Z","by":"oco harvest","id":"6c7d5b4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T13:04:16Z","by":"oco harvest","id":"6d099d7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T08:40:09Z","by":"oco harvest","id":"6d37453","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T20:40:54Z","by":"oco harvest","id":"6d8a865","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
