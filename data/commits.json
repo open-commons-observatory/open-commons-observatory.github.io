@@ -760,6 +760,7 @@
 {"at":"2026-11-10T19:08:45Z","by":"grenudi","id":"78d7269","project":"linux-phone-oco/lens","says":"feat: the lens names its rows and orders its feature groups; the row names in Russian (#2)"}
 {"at":"2026-11-11T21:37:56Z","by":"grenudi","id":"8f42d03","project":"linux-phone-oco/lens","says":"chore: glimpses are recorded here from now on (#5)"}
 {"at":"2026-11-17T02:17:59Z","by":"grenudi","id":"da67d69","project":"linux-phone-oco/lens","says":"feat: The face shows each feature's research and every decision (#7)"}
+{"at":"2026-11-17T10:13:48Z","by":"grenudi","id":"dae75e3","project":"linux-phone-oco/lens","says":"feat: The face shows the phone's queue (#9)"}
 {"at":"2026-11-10T11:47:04Z","by":"grenudi","id":"038f743","project":"linux-phone-oco/surya-lab","says":"docs: test kernels through devlab (lab-tools); the shell original kept until devlab's try is proven live (#28)"}
 {"at":"2026-11-11T14:35:51Z","by":"grenudi","id":"055eed8","project":"linux-phone-oco/surya-lab","says":"data: the community's reports compared with our checks; the sensors lead (#60)"}
 {"at":"2026-11-10T01:24:40Z","by":"grenudi","id":"0a12a4d","project":"linux-phone-oco/surya-lab","says":"feat: automatic tests on the phone, and their results filed into the docs (#9)"}
@@ -2171,6 +2172,7 @@
 {"at":"2026-11-10T21:40:47Z","by":"grenudi","id":"b80fe32","project":"open-commons-observatory/ocoeco-engine","says":"feat(site): the idea, as an article - a project's own writing, for anyone (#30)"}
 {"at":"2026-11-10T17:46:05Z","by":"ocoeco gather","id":"c6b528f","project":"open-commons-observatory/ocoeco-engine","says":"data: gathered by ocoeco"}
 {"at":"2026-11-11T00:26:39Z","by":"grenudi","id":"c96ac97","project":"open-commons-observatory/ocoeco-engine","says":"feat(site): every project's four marks on the front page, by one rule (#36)"}
+{"at":"2026-11-17T10:15:16Z","by":"grenudi","id":"ca23dc8","project":"open-commons-observatory/ocoeco-engine","record":"g-20261117-101427","says":"feat: Backlog: a shared resource's queue (the phone's), each item with its proof (#63)"}
 {"at":"2026-11-10T15:43:06Z","by":"grenudi","id":"cb84fd1","project":"open-commons-observatory/ocoeco-engine","says":"feat(site): the path - every subject's visit card, filled by its evidence (#5)"}
 {"at":"2026-11-10T15:56:04Z","by":"grenudi","id":"d19977f","project":"open-commons-observatory/ocoeco-engine","says":"feat(site): other projects on their way - every project with milestones gets its path (#8)"}
 {"at":"2026-11-10T15:20:44Z","by":"grenudi","id":"d2c191a","project":"open-commons-observatory/ocoeco-engine","says":"feat(site): the observatory as the meta view, grand projects as tabs with their own views (#3)"}
@@ -2334,6 +2336,7 @@
 {"at":"2026-11-16T10:17:31Z","by":"oco harvest","id":"3485d70","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T13:59:13Z","by":"oco harvest","id":"34a0d34","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T00:41:08Z","by":"grenudi","id":"34c0edb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: essence measured at home and on the front page; ideas in Russian; what is still owed (#39)"}
+{"at":"2026-11-17T10:11:48Z","by":"oco harvest","id":"34ff18e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T08:16:11Z","by":"oco harvest","id":"359b668","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T08:20:47Z","by":"oco harvest","id":"35c0451","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T13:19:08Z","by":"grenudi","id":"3682cf2","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-131853","says":"docs: look at it: a terminal too, with termshot (#89)"}
