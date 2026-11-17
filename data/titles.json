@@ -39,6 +39,9 @@
 {"id":"README.md:git-rhizoid.github.io","line":1,"name":"git-rhizoid.github.io","path":"README.md","project":"git-rhizoid/git-rhizoid.github.io"}
 {"id":"AGENTS.md:AGENTS.md - working in ideal-agent","line":1,"name":"AGENTS.md - working in ideal-agent","path":"AGENTS.md","project":"grenudi/ideal-agent"}
 {"id":"README.md:Ideal agent","line":1,"name":"Ideal agent","path":"README.md","project":"grenudi/ideal-agent"}
+{"id":"AGENTS.md:AGENTS.md - ideal-knowledge-base","line":1,"name":"AGENTS.md - ideal-knowledge-base","path":"AGENTS.md","project":"grenudi/ideal-knowledge-base"}
+{"id":"CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"CHANGELOG.md","project":"grenudi/ideal-knowledge-base"}
+{"id":"README.md:ideal-knowledge-base","line":1,"name":"ideal-knowledge-base","path":"README.md","project":"grenudi/ideal-knowledge-base"}
 {"id":"README.md:Package conveyor","line":1,"name":"Package conveyor","path":"README.md","project":"linux-package-distribution-oco/conveyor"}
 {"id":"README.md:The package conveyor lens","line":1,"name":"The package conveyor lens","path":"README.md","project":"linux-package-distribution-oco/lens"}
 {"id":"AGENTS.md:Notes for agents","line":1,"name":"Notes for agents","path":"AGENTS.md","project":"linux-phone-oco/device-template"}

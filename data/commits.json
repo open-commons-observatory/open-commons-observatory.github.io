@@ -509,6 +509,9 @@
 {"at":"2026-11-17T10:24:33Z","by":"grenudi","id":"5967ea8","project":"grenudi/ideal-agent","says":"docs: the move into ideal-agent recorded: done, proven live, every old place pointing here (#3)"}
 {"at":"2026-11-17T10:17:19Z","by":"grenudi","id":"6a54fd7","project":"grenudi/ideal-agent","says":"feat: one keeper per shared resource: a role skill, a practice and its research (#2)"}
 {"at":"2026-11-17T10:38:51Z","by":"grenudi","id":"d167984","project":"grenudi/ideal-agent","says":"docs: a project's briefs live in its agent folder; practice 42 points there (#5)"}
+{"at":"2026-11-17T11:00:42Z","by":"grenudi","id":"58ba247","project":"grenudi/ideal-knowledge-base","says":"Initial commit"}
+{"at":"2026-11-17T11:05:31Z","by":"github-actions[bot]","id":"62a6a64","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.1.0 (#2)"}
+{"at":"2026-11-17T11:04:56Z","by":"grenudi","id":"f483421","project":"grenudi/ideal-knowledge-base","says":"feat: the ideal knowledge base: a layer on tad - five queries, standing tables, one entry (#1)"}
 {"at":"2026-11-16T19:25:40Z","by":"grenudi","id":"0df165f","project":"linux-package-distribution-oco/conveyor","record":"g-20261116-192510","says":"feat: a release is said once its files are there: a draft, said by the conveyor (#12)"}
 {"at":"2026-11-11T16:10:23Z","by":"grenudi","id":"1e27551","project":"linux-package-distribution-oco/conveyor","says":"docs/nix direction (#8)"}
 {"at":"2026-11-11T10:27:09Z","by":"lab-agent-session","id":"2bda54f","project":"linux-package-distribution-oco/conveyor","says":"docs: the package conveyor, designed - its idea, decisions and path"}
@@ -534,6 +537,7 @@
 {"at":"2026-11-17T02:05:19Z","by":"grenudi","id":"84cb9ca","project":"linux-phone-oco/device-template","says":"feat: The device template: a new phone's lab is a new device.toml (#1)"}
 {"at":"2026-11-16T23:55:39Z","by":"lab-agent-session","id":"8642359","project":"linux-phone-oco/device-template","says":"feat: The device template: a new phone's lab is a new device.toml"}
 {"at":"2026-11-17T03:43:18Z","by":"grenudi","id":"e3dc336","project":"linux-phone-oco/device-template","says":"chore: the records are kept in docs; the mark points there (#2)"}
+{"at":"2026-11-17T11:05:01Z","by":"grenudi","id":"02edd49","project":"linux-phone-oco/docs","says":"feat: the sensor hub's way decided: the registry kept current, steps on the phone's queue (#176)"}
 {"at":"2026-11-17T05:18:05Z","by":"grenudi","id":"057dec0","project":"linux-phone-oco/docs","says":"docs: Both microphones record through the sound server (UCM); headset mic next (#135)"}
 {"at":"2026-11-17T03:55:46Z","by":"grenudi","id":"0956e27","project":"linux-phone-oco/docs","says":"fix: the one-database decision's about pointed nowhere (#119)"}
 {"at":"2026-11-17T10:22:44Z","by":"grenudi","id":"0b9178b","project":"linux-phone-oco/docs","says":"docs: The phone's queue: six proven items closed (#166)"}
@@ -624,6 +628,7 @@
 {"at":"2026-11-09T16:48:31Z","by":"grenudi","id":"8bb7568","project":"linux-phone-oco/docs","says":"feat(data): the boot hang, the ADSP crash loop and off-state charging, recorded (#8)"}
 {"at":"2026-11-17T09:42:01Z","by":"grenudi","id":"8deb2ef","project":"linux-phone-oco/docs","says":"docs: 7 runs of xiaomi-surya filed by devlab, from the phone's own reports (#156)"}
 {"at":"2026-11-10T00:05:14Z","by":"grenudi","id":"919f1ec","project":"linux-phone-oco/docs","says":"docs: the grand picture - why, what, where, the evidence conveyor, the orgs, the phases (#15)"}
+{"at":"2026-11-17T11:05:34Z","by":"github-actions[bot]","id":"96c1274","project":"linux-phone-oco/docs","says":"chore(main): release 0.2.0 (#83)"}
 {"at":"2026-11-10T14:20:29Z","by":"grenudi","id":"96cfe9e","project":"linux-phone-oco/docs","says":"chore: the observatory's mark (oco.toml) (#38)"}
 {"at":"2026-11-11T00:45:43Z","by":"grenudi","id":"98c8c5c","project":"linux-phone-oco/docs","says":"feat(data): four of surya's parts no longer unknown - each follows its evidence (#51)"}
 {"at":"2026-11-17T04:49:24Z","by":"grenudi","id":"99fd21e","project":"linux-phone-oco/docs","says":"docs: Tests: the top microphone hears the speaker too (#128)"}
@@ -715,6 +720,7 @@
 {"at":"2026-11-16T23:29:04Z","by":"grenudi","id":"1ab2ce7","project":"linux-phone-oco/lab-tools","says":"feat: The phone checks its own health after every boot: devlab-health and devlab suite (#29)"}
 {"at":"2026-11-10T12:38:33Z","by":"grenudi","id":"25e5fe4","project":"linux-phone-oco/lab-tools","says":"feat: devlab test, health and watch - regressions caught, silence when all is well (#5)"}
 {"at":"2026-11-17T09:29:21Z","by":"grenudi","id":"26ef2ed","project":"linux-phone-oco/lab-tools","says":"fix: mobile-data measures the data bearer, never the IMS one beside it (#62)"}
+{"at":"2026-11-17T11:06:54Z","by":"grenudi","id":"2820694","project":"linux-phone-oco/lab-tools","says":"feat: sensors counted through iio-sensor-proxy too; proximity-reads (#68)"}
 {"at":"2026-11-17T10:29:28Z","by":"grenudi","id":"28f327a","project":"linux-phone-oco/lab-tools","says":"refactor: devlab's guard reads commands with ideal-agent's reader (#67)"}
 {"at":"2026-11-10T11:43:09Z","by":"grenudi","id":"2b14996","project":"linux-phone-oco/lab-tools","says":"feat: devlab - the device lab for any phone, from its manifest; step 1, reaching the phone (#1)"}
 {"at":"2026-11-11T21:37:29Z","by":"grenudi","id":"2b36565","project":"linux-phone-oco/lab-tools","says":"chore: glimpses are recorded here from now on (#26)"}
@@ -1364,6 +1370,7 @@
 {"at":"2026-11-14T21:18:19Z","by":"oco observe","id":"c0c4e59","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:44:19Z","by":"oco observe","id":"c11fd12","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T01:21:06Z","by":"oco observe","id":"c141e76","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T11:04:35Z","by":"oco observe","id":"c144a58","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T16:33:19Z","by":"oco observe","id":"c18206d","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T02:48:18Z","by":"oco observe","id":"c1cd4f6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T14:47:23Z","by":"oco observe","id":"c203ff0","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1408,6 +1415,7 @@
 {"at":"2026-11-13T01:36:18Z","by":"oco observe","id":"d40506e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T09:48:14Z","by":"oco observe","id":"d42b563","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T15:42:45Z","by":"oco observe","id":"d496caf","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T11:06:24Z","by":"oco observe","id":"d49d30b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-17T08:03:31Z","by":"oco observe","id":"d515fd8","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T18:48:18Z","by":"oco observe","id":"d57247d","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T18:23:13Z","by":"oco observe","id":"d5a342a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -2699,6 +2707,7 @@
 {"at":"2026-11-12T19:11:04Z","by":"grenudi","id":"94a0678","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261112-191047","says":"fix: the harvest's guard can rebase: proven against a staged collision (#73)"}
 {"at":"2026-11-17T02:39:28Z","by":"oco harvest","id":"94d115d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T12:51:19Z","by":"oco harvest","id":"961b514","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T11:00:59Z","by":"oco harvest","id":"9741ef4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T12:49:40Z","by":"grenudi","id":"9752daa","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-124925","says":"docs: where the practices are shown: eleven more say what shows them (#88)"}
 {"at":"2026-11-15T20:30:38Z","by":"oco harvest","id":"97a3137","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T17:27:59Z","by":"oco harvest","id":"97b7314","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
