@@ -141,10 +141,10 @@
 {"bytes":11,"id":"CLAUDE.md","lines":1,"path":"CLAUDE.md","project":"linux-phone-oco/docs"}
 {"bytes":9048,"id":"CONTRIBUTING.md","lines":121,"path":"CONTRIBUTING.md","project":"linux-phone-oco/docs"}
 {"bytes":1463,"id":"README.md","lines":23,"path":"README.md","project":"linux-phone-oco/docs"}
-{"bytes":136441,"id":"docs/backlog.md","lines":4933,"path":"docs/backlog.md","project":"linux-phone-oco/docs"}
+{"bytes":137791,"id":"docs/backlog.md","lines":4961,"path":"docs/backlog.md","project":"linux-phone-oco/docs"}
 {"bytes":1493,"id":"docs/components.md","lines":149,"path":"docs/components.md","project":"linux-phone-oco/docs"}
 {"bytes":1786,"id":"docs/concepts.md","lines":73,"path":"docs/concepts.md","project":"linux-phone-oco/docs"}
-{"bytes":103558,"id":"docs/decisions.md","lines":1631,"path":"docs/decisions.md","project":"linux-phone-oco/docs"}
+{"bytes":104773,"id":"docs/decisions.md","lines":1656,"path":"docs/decisions.md","project":"linux-phone-oco/docs"}
 {"bytes":4097,"id":"docs/devices.md","lines":50,"path":"docs/devices.md","project":"linux-phone-oco/docs"}
 {"bytes":33016,"id":"docs/feature_support.md","lines":517,"path":"docs/feature_support.md","project":"linux-phone-oco/docs"}
 {"bytes":5630,"id":"docs/features.md","lines":462,"path":"docs/features.md","project":"linux-phone-oco/docs"}
@@ -159,8 +159,8 @@
 {"bytes":3979,"id":"docs/picture.md","lines":63,"path":"docs/picture.md","project":"linux-phone-oco/docs"}
 {"bytes":770,"id":"docs/platforms.md","lines":69,"path":"docs/platforms.md","project":"linux-phone-oco/docs"}
 {"bytes":6076,"id":"docs/problems.md","lines":255,"path":"docs/problems.md","project":"linux-phone-oco/docs"}
-{"bytes":137924,"id":"docs/research.md","lines":1902,"path":"docs/research.md","project":"linux-phone-oco/docs"}
-{"bytes":85243,"id":"docs/session_log.md","lines":2331,"path":"docs/session_log.md","project":"linux-phone-oco/docs"}
+{"bytes":138549,"id":"docs/research.md","lines":1924,"path":"docs/research.md","project":"linux-phone-oco/docs"}
+{"bytes":85875,"id":"docs/session_log.md","lines":2355,"path":"docs/session_log.md","project":"linux-phone-oco/docs"}
 {"bytes":373,"id":"docs/shell_releases.md","lines":28,"path":"docs/shell_releases.md","project":"linux-phone-oco/docs"}
 {"bytes":60951,"id":"docs/sources.md","lines":2692,"path":"docs/sources.md","project":"linux-phone-oco/docs"}
 {"bytes":6585,"id":"docs/summaries.md","lines":62,"path":"docs/summaries.md","project":"linux-phone-oco/docs"}
@@ -170,10 +170,10 @@
 {"bytes":6912,"id":"docs/tests.md","lines":600,"path":"docs/tests.md","project":"linux-phone-oco/docs"}
 {"bytes":58088,"id":"docs/translations.md","lines":5112,"path":"docs/translations.md","project":"linux-phone-oco/docs"}
 {"bytes":4135,"id":"docs/upstream_items.md","lines":304,"path":"docs/upstream_items.md","project":"linux-phone-oco/docs"}
-{"bytes":2747,"id":"docs/upstreams.md","lines":127,"path":"docs/upstreams.md","project":"linux-phone-oco/docs"}
+{"bytes":3326,"id":"docs/upstreams.md","lines":146,"path":"docs/upstreams.md","project":"linux-phone-oco/docs"}
 {"bytes":7564,"id":"docs/wiki_claims.md","lines":135,"path":"docs/wiki_claims.md","project":"linux-phone-oco/docs"}
 {"bytes":5957,"id":"docs/workings.md","lines":430,"path":"docs/workings.md","project":"linux-phone-oco/docs"}
-{"bytes":3391,"id":"ideal-agent-linux-phone-oco/README.md","lines":39,"path":"ideal-agent-linux-phone-oco/README.md","project":"linux-phone-oco/docs"}
+{"bytes":3659,"id":"ideal-agent-linux-phone-oco/README.md","lines":43,"path":"ideal-agent-linux-phone-oco/README.md","project":"linux-phone-oco/docs"}
 {"bytes":595,"id":"ideal-agent-linux-phone-oco/bring-up.md","lines":11,"path":"ideal-agent-linux-phone-oco/bring-up.md","project":"linux-phone-oco/docs"}
 {"bytes":1613,"id":"ideal-agent-linux-phone-oco/coordinator.md","lines":27,"path":"ideal-agent-linux-phone-oco/coordinator.md","project":"linux-phone-oco/docs"}
 {"bytes":2522,"id":"ideal-agent-linux-phone-oco/feature-research.md","lines":37,"path":"ideal-agent-linux-phone-oco/feature-research.md","project":"linux-phone-oco/docs"}
