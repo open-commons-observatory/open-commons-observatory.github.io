@@ -620,6 +620,7 @@
 {"at":"2026-11-16T15:06:42Z","by":"grenudi","id":"d313274","project":"linux-phone-oco/docs","says":"docs: a lens: test runs, and 8 more (#78)"}
 {"at":"2026-11-10T01:32:15Z","by":"grenudi","id":"d4795f9","project":"linux-phone-oco/docs","says":"fix(feed): no date column, so an unchanged wiki changes nothing (#22)"}
 {"at":"2026-11-10T15:40:02Z","by":"grenudi","id":"d4f4f80","project":"linux-phone-oco/docs","says":"feat(data): milestones - the path of Linux Phones and of surya, on three horizons (#41)"}
+{"at":"2026-11-17T04:55:54Z","by":"grenudi","id":"d56b60c","project":"linux-phone-oco/docs","says":"docs: Backlog: mic-held is only the three boots now; the gap is gone (#130)"}
 {"at":"2026-11-17T00:25:35Z","by":"grenudi","id":"d72b13b","project":"linux-phone-oco/docs","says":"feat: linux-phone's face, drawn in CI from its open database (#82)"}
 {"at":"2026-11-10T22:58:00Z","by":"grenudi","id":"d7680d2","project":"linux-phone-oco/docs","says":"fix(data): the claim that a machine heard the speakers is withdrawn (#49)"}
 {"at":"2026-11-09T18:46:01Z","by":"grenudi","id":"d816352","project":"linux-phone-oco/docs","says":"feat(data): the ADSP crash loop is understood and stopped on the phone (#10)"}
@@ -780,6 +781,7 @@
 {"at":"2026-11-11T15:11:14Z","by":"grenudi","id":"9964e65","project":"linux-phone-oco/surya-lab","says":"data: the modem - a wrong theory corrected; the transfer options remain the lead (#63)"}
 {"at":"2026-11-11T12:38:12Z","by":"grenudi","id":"9a10bf2","project":"linux-phone-oco/surya-lab","says":"data: the lab's decisions say which steps they are about (#56)"}
 {"at":"2026-11-09T14:16:19Z","by":"grenudi","id":"9e81bf1","project":"linux-phone-oco/surya-lab","says":"fix: make the dt/ scripts executable"}
+{"at":"2026-11-17T04:54:57Z","by":"grenudi","id":"a1754ae","project":"linux-phone-oco/surya-lab","says":"docs: mic-records: the bottom mic, analog; surya has no digital mics (#103)"}
 {"at":"2026-11-11T23:13:06Z","by":"grenudi","id":"a5323c3","project":"linux-phone-oco/surya-lab","says":"chore: parked: the lab-agent redesign comes first; each item keeps its resume point (#66)"}
 {"at":"2026-11-11T15:09:27Z","by":"grenudi","id":"a67aa41","project":"linux-phone-oco/surya-lab","says":"data: the modem's read-write directory is missing (#62)"}
 {"at":"2026-11-17T04:17:00Z","by":"grenudi","id":"a6cbf95","project":"linux-phone-oco/surya-lab","says":"docs: Microphone: DMICs on the branch kernel still silent; reading LPI pins safely (#94)"}
@@ -2726,6 +2728,7 @@
 {"at":"2026-11-15T21:05:03Z","by":"oco harvest","id":"cf4999c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T17:24:27Z","by":"oco harvest","id":"cf89846","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T18:24:53Z","by":"grenudi","id":"cf90d47","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: languages - the concept, the decision with what was rejected, three steps (#19)"}
+{"at":"2026-11-17T04:55:35Z","by":"oco harvest","id":"cfcba47","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T04:43:46Z","by":"oco harvest","id":"cff4688","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T19:45:28Z","by":"oco harvest","id":"d010795","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T09:46:56Z","by":"oco harvest","id":"d02a463","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
