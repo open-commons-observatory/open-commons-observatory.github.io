@@ -648,6 +648,7 @@
 {"at":"2026-11-11T14:33:32Z","by":"grenudi","id":"62cc1e4","project":"linux-phone-oco/lab-tools","says":"feat(devlab): health waits for the phone to settle before checking (#25)"}
 {"at":"2026-11-10T19:44:45Z","by":"grenudi","id":"7032731","project":"linux-phone-oco/lab-tools","says":"chore: gathered data lives on the oco-data branch - main is the history of the work (#13)"}
 {"at":"2026-11-10T12:14:25Z","by":"grenudi","id":"7077724","project":"linux-phone-oco/lab-tools","says":"fix: devlab finds the phone quietly - an address that does not answer is no error to show (#4)"}
+{"at":"2026-11-17T03:14:07Z","by":"grenudi","id":"714d740","project":"linux-phone-oco/lab-tools","record":"g-20261117-030025","says":"feat: devlab files each run by docs' record test-run, and derives by its derive-* records (#46)"}
 {"at":"2026-11-16T23:51:54Z","by":"grenudi","id":"71cbf80","project":"linux-phone-oco/lab-tools","record":"g-20261116-235054","says":"feat: The phone for any agent: devlab mcp, nine tools over MCP (#32)"}
 {"at":"2026-11-17T02:55:50Z","by":"grenudi","id":"7921fd7","project":"linux-phone-oco/lab-tools","record":"g-20261117-025429","says":"docs: The author asks: test sounds quiet, at a level the manifest sets (#44)"}
 {"at":"2026-11-10T13:38:10Z","by":"grenudi","id":"7edee0a","project":"linux-phone-oco/lab-tools","says":"feat: devlab flash - an image onto the phone with the manifest's fixes baked in (#8)"}
@@ -938,6 +939,7 @@
 {"at":"2026-11-15T04:56:44Z","by":"grenudi","id":"40dccff","project":"marshall-oco/marshall-oco.github.io","record":"g-20261115-045628","says":"feat: this observatory says its site: the whole, and a page for each place (#14)"}
 {"at":"2026-11-13T19:07:01Z","by":"oco observe","id":"4165b19","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T08:44:32Z","by":"oco observe","id":"420942d","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T03:15:38Z","by":"oco observe","id":"42107a9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T12:33:17Z","by":"oco observe","id":"424d87f","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T10:33:15Z","by":"oco observe","id":"4260846","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T19:54:55Z","by":"oco observe","id":"428f154","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1201,6 +1203,7 @@
 {"at":"2026-11-13T06:41:04Z","by":"oco observe","id":"b9f4aa7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T16:11:30Z","by":"grenudi","id":"bae5417","project":"marshall-oco/marshall-oco.github.io","record":"g-20261116-161113","says":"chore: a caller: what the gatherer writes is said where it writes it, not here (#30)"}
 {"at":"2026-11-14T19:42:42Z","by":"oco observe","id":"baeb8e0","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T03:05:52Z","by":"oco observe","id":"bb196b8","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T08:52:30Z","by":"oco observe","id":"bb465b6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T08:23:40Z","by":"grenudi","id":"bb63a3e","project":"marshall-oco/marshall-oco.github.io","record":"g-20261114-082323","says":"docs: the parts say places: one word for placing side by side (#4)"}
 {"at":"2026-11-16T17:17:52Z","by":"oco observe","id":"bcc29da","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -2261,6 +2264,7 @@
 {"at":"2026-11-12T01:09:18Z","by":"oco harvest","id":"48b4e88","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T15:43:02Z","by":"oco harvest","id":"48cdeb7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T20:19:31Z","by":"oco harvest","id":"4900f04","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T03:02:56Z","by":"oco harvest","id":"4915d0c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T07:03:10Z","by":"oco harvest","id":"4970451","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T23:14:55Z","by":"grenudi","id":"49eadbe","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261111-231439","says":"docs: the redesign comes first; everything else parked with its resume order (#69)"}
 {"at":"2026-11-16T11:56:19Z","by":"oco harvest","id":"49fd86f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}

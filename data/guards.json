@@ -371,9 +371,9 @@
 {"id":"devlab/src/device.rs:the_manifest_is_found_by_walking_up","line":414,"name":"the_manifest_is_found_by_walking_up","path":"devlab/src/device.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/device.rs:the_remembered_address_comes_last_and_once","line":399,"name":"the_remembered_address_comes_last_and_once","path":"devlab/src/device.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/flash.rs:manifest_places_point_inside_the_mounted_image","line":214,"name":"manifest_places_point_inside_the_mounted_image","path":"devlab/src/flash.rs","project":"linux-phone-oco/lab-tools"}
-{"id":"devlab/src/gather.rs:a_run_is_filed_as_the_report_says_it_and_counted_from_its_rows","line":318,"name":"a_run_is_filed_as_the_report_says_it_and_counted_from_its_rows","path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
-{"id":"devlab/src/gather.rs:only_the_phones_run_reports_are_brought","line":291,"name":"only_the_phones_run_reports_are_brought","path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
-{"id":"devlab/src/gather.rs:the_picture_says_what_it_derives","line":299,"name":"the_picture_says_what_it_derives","path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/gather.rs:a_run_is_filed_by_the_pictures_own_record","line":320,"name":"a_run_is_filed_by_the_pictures_own_record","path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/gather.rs:only_the_phones_run_reports_are_brought","line":292,"name":"only_the_phones_run_reports_are_brought","path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/gather.rs:the_picture_says_what_it_derives","line":300,"name":"the_picture_says_what_it_derives","path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/guard.rs:a_phones_addresses_are_the_ones_devlab_met","line":521,"name":"a_phones_addresses_are_the_ones_devlab_met","path":"devlab/src/guard.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/guard.rs:a_push_of_a_branch_is_not","line":456,"name":"a_push_of_a_branch_is_not","path":"devlab/src/guard.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/guard.rs:a_push_that_reaches_main_is_refused","line":439,"name":"a_push_that_reaches_main_is_refused","path":"devlab/src/guard.rs","project":"linux-phone-oco/lab-tools"}
