@@ -645,8 +645,10 @@
 {"at":"2026-11-05T08:12:55Z","by":"grenudi","id":"52819aa","project":"linux-phone-oco/docs","says":"feat(data): Nura boots and is reachable; no shell access without credentials (#6)"}
 {"at":"2026-11-17T11:10:48Z","by":"grenudi","id":"53eb9b1","project":"linux-phone-oco/docs","says":"docs: Patrol: three signs - unsigned landings, hand restarts of the watch, stale board rows (#179)"}
 {"at":"2026-11-17T05:13:29Z","by":"grenudi","id":"53ee7ee","project":"linux-phone-oco/docs","says":"docs: kernel remove keeps modules another kernel boots with (#134)"}
+{"at":"2026-11-17T14:09:13Z","by":"grenudi","id":"55a3ce8","project":"linux-phone-oco/docs","says":"docs(deep-sleep): the wake is irq 158, off for the cycle; cycle 15 measured, SoC not asleep (#210)"}
 {"at":"2026-11-10T22:21:29Z","by":"grenudi","id":"55e0319","project":"linux-phone-oco/docs","says":"feat(data): Linux Phones tells its essence - its idea for anyone, and its workings (#48)"}
 {"at":"2026-11-10T20:36:08Z","by":"grenudi","id":"55ee6ae","project":"linux-phone-oco/docs","says":"feat(data): the suspend crash's trigger found and fixed in the lab; the check corrected (#46)"}
+{"at":"2026-11-17T14:08:13Z","by":"grenudi","id":"5605fe6","project":"linux-phone-oco/docs","says":"docs(lab-tools): decision - lpoco-health, one health suite on the phone (#211)"}
 {"at":"2026-11-17T02:58:03Z","by":"grenudi","id":"5789774","project":"linux-phone-oco/docs","says":"feat: feeds and the status derivation as named records; devlab's filing as a record; tad 0.6.0 (#115)"}
 {"at":"2026-11-17T13:06:38Z","by":"grenudi","id":"57d08c3","project":"linux-phone-oco/docs","says":"docs: deep-sleep stands: Bluetooth UART is IRQ 157, the timed cycle lost the phone (#199)"}
 {"at":"2026-11-17T10:21:50Z","by":"grenudi","id":"57de208","project":"linux-phone-oco/docs","says":"docs: How the phone stands, for the phone keeper; proven items closed (#164)"}
@@ -847,6 +849,7 @@
 {"at":"2026-11-17T01:46:47Z","by":"grenudi","id":"d814970","project":"linux-phone-oco/lab-tools","says":"docs: Backlog: the checks surya-lab ran from the lab, to carry into the suite (#38)"}
 {"at":"2026-11-10T16:26:44Z","by":"grenudi","id":"e330899","project":"linux-phone-oco/lab-tools","says":"feat(oco): devlab's own backlog and path (#10)"}
 {"at":"2026-11-17T05:11:58Z","by":"grenudi","id":"e383108","project":"linux-phone-oco/lab-tools","says":"fix: kernel remove never takes modules another kernel boots with (#54)"}
+{"at":"2026-11-17T14:06:46Z","by":"grenudi","id":"e3b9e1a","project":"linux-phone-oco/lab-tools","says":"feat(lpoco-health): one health suite with switches, reasons and run-time conditions (#75)"}
 {"at":"2026-11-16T23:37:27Z","by":"grenudi","id":"e5329bb","project":"linux-phone-oco/lab-tools","says":"feat: Gathering is one command: devlab gather now (#30)"}
 {"at":"2026-11-17T13:13:08Z","by":"grenudi","id":"e8c20e3","project":"linux-phone-oco/lab-tools","says":"feat(devlab): suite put --runner builds the runner by itself (#72)"}
 {"at":"2026-11-17T09:09:41Z","by":"github-actions[bot]","id":"f21fb4b","project":"linux-phone-oco/lab-tools","says":"chore(devlab-health): release v0.1.1 (#50)"}
@@ -3005,6 +3008,7 @@
 {"at":"2026-11-14T20:50:26Z","by":"oco harvest","id":"cd8a260","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T08:32:06Z","by":"oco harvest","id":"cd8d0aa","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T08:26:56Z","by":"oco harvest","id":"cebcb6f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T14:07:07Z","by":"oco harvest","id":"ced4617","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T21:05:03Z","by":"oco harvest","id":"cf4999c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T17:24:27Z","by":"oco harvest","id":"cf89846","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T18:24:53Z","by":"grenudi","id":"cf90d47","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: languages - the concept, the decision with what was rejected, three steps (#19)"}
