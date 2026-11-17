@@ -537,6 +537,7 @@
 {"at":"2026-11-17T11:37:15Z","by":"github-actions[bot]","id":"36a5b62","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.2.0 (#6)"}
 {"at":"2026-11-17T14:51:08Z","by":"github-actions[bot]","id":"3dc496f","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#23)"}
 {"at":"2026-11-17T11:49:27Z","by":"grenudi","id":"42b4fd0","project":"grenudi/ideal-knowledge-base","says":"docs: the weekly pin job moves grenudi/ideal-agent too, its second follower (#10)"}
+{"at":"2026-11-17T15:02:47Z","by":"grenudi","id":"42c52b9","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: the installer pins ikb 0.2.0 (#26)"}
 {"at":"2026-11-17T12:08:07Z","by":"github-actions[bot]","id":"4571b0c","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.4.0 (#12)"}
 {"at":"2026-11-17T14:58:48Z","by":"grenudi","id":"52d8d49","project":"grenudi/ideal-knowledge-base","says":"feat: ikb: a leaner page (no type or optional on every option) and the first release measured (#24)"}
 {"at":"2026-11-17T11:00:42Z","by":"grenudi","id":"58ba247","project":"grenudi/ideal-knowledge-base","says":"Initial commit"}
@@ -558,6 +559,7 @@
 {"at":"2026-11-17T14:36:26Z","by":"grenudi","id":"eb51545","project":"grenudi/ideal-knowledge-base","says":"feat: ikb 0.1: record into a base by commands read from its own records (#20)"}
 {"at":"2026-11-17T11:04:56Z","by":"grenudi","id":"f483421","project":"grenudi/ideal-knowledge-base","says":"feat: the ideal knowledge base: a layer on tad - five queries, standing tables, one entry (#1)"}
 {"at":"2026-11-17T14:59:21Z","by":"github-actions[bot]","id":"f491787","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#25)"}
+{"at":"2026-11-17T15:03:35Z","by":"github-actions[bot]","id":"fabc4db","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#27)"}
 {"at":"2026-11-16T19:25:40Z","by":"grenudi","id":"0df165f","project":"linux-package-distribution-oco/conveyor","record":"g-20261116-192510","says":"feat: a release is said once its files are there: a draft, said by the conveyor (#12)"}
 {"at":"2026-11-11T16:10:23Z","by":"grenudi","id":"1e27551","project":"linux-package-distribution-oco/conveyor","says":"docs/nix direction (#8)"}
 {"at":"2026-11-11T10:27:09Z","by":"lab-agent-session","id":"2bda54f","project":"linux-package-distribution-oco/conveyor","says":"docs: the package conveyor, designed - its idea, decisions and path"}
@@ -3062,6 +3064,7 @@
 {"at":"2026-11-15T11:41:19Z","by":"oco harvest","id":"d6a9fc8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:52:16Z","by":"oco harvest","id":"d6d3be8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T09:06:07Z","by":"oco harvest","id":"d6d8dd6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T15:02:47Z","by":"oco harvest","id":"d6eb771","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T09:28:06Z","by":"oco harvest","id":"d7686c0","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T07:57:25Z","by":"oco harvest","id":"d7b1fa8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T15:22:20Z","by":"oco harvest","id":"d81b03e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
