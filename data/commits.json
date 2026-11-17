@@ -876,6 +876,7 @@
 {"at":"2026-11-17T01:40:02Z","by":"grenudi","id":"9ba117a","project":"linux-phone-oco/docs","says":"docs: A second phone: not now, the author says (#102)"}
 {"at":"2026-11-17T15:05:49Z","by":"grenudi","id":"9c0fcc4","project":"linux-phone-oco/docs","says":"feat: docs follows idealkb 0.7.1 and records with ikb: IKB.md, machine records named (#215)"}
 {"at":"2026-11-10T03:00:36Z","by":"grenudi","id":"9ca3b14","project":"linux-phone-oco/docs","says":"feat(data): upstream-sxmo-profile - the Sxmo device profile for surya, ready to send (#26)"}
+{"at":"2026-11-17T20:35:05Z","by":"grenudi","id":"9ccdcc8","project":"linux-phone-oco/docs","says":"docs: lpoco-rename-lab-tone done, session log (#370)"}
 {"at":"2026-11-17T05:11:46Z","by":"grenudi","id":"9e92c18","project":"linux-phone-oco/docs","says":"docs: Patrol: four signs - the watch files no run, unsigned landings, hand restarts, lens unchecked (#133)"}
 {"at":"2026-11-17T17:13:54Z","by":"grenudi","id":"9ec7b72","project":"linux-phone-oco/docs","says":"feat: a backlog item names its device; lane-next, and phone-next needs --device (#260)"}
 {"at":"2026-11-17T18:24:32Z","by":"grenudi","id":"9efc268","project":"linux-phone-oco/docs","says":"docs: walleye backlog: initramfs address 172.16.43.1 (#300)"}
@@ -978,6 +979,7 @@
 {"at":"2026-11-17T01:46:02Z","by":"grenudi","id":"dfcfe56","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#104)"}
 {"at":"2026-11-17T05:11:30Z","by":"grenudi","id":"e01bdb8","project":"linux-phone-oco/docs","says":"docs: Sxmo profile sent upstream; the microphones are analog, not digital (#132)"}
 {"at":"2026-11-16T14:49:52Z","by":"grenudi","id":"e1516d1","project":"linux-phone-oco/docs","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#77)"}
+{"at":"2026-11-17T20:36:22Z","by":"grenudi","id":"e2a8f09","project":"linux-phone-oco/docs","says":"docs: record the lpoco roof's leftovers - lpoco-lab-argenv, lpoco-names-sweep (#371)"}
 {"at":"2026-11-17T19:08:46Z","by":"grenudi","id":"e3f64a7","project":"linux-phone-oco/docs","says":"docs: 21 runs of xiaomi-surya filed by devlab, from the phone's own reports (#333)"}
 {"at":"2026-11-11T00:15:22Z","by":"grenudi","id":"e4aedd8","project":"linux-phone-oco/docs","says":"feat(data): the idea of Linux Phones in Russian (#50)"}
 {"at":"2026-11-17T17:36:55Z","by":"grenudi","id":"e4ceeeb","project":"linux-phone-oco/docs","says":"docs: floor-aoss-knobs - the channel opens, the sends are not acked (keeper-9) (#276)"}
@@ -1292,6 +1294,7 @@
 {"at":"2026-11-11T11:17:09Z","by":"grenudi","id":"d52f85d","project":"linux-phone-oco/surya-lab","says":"data: export the lab's backlog - it never reached the observatory; the SIM card waits on its author (#53)"}
 {"at":"2026-11-17T08:24:52Z","by":"grenudi","id":"d553225","project":"linux-phone-oco/surya-lab","says":"feat: Telegram at provisioning: telegram-desktop, as firefox is (#108)"}
 {"at":"2026-11-10T10:23:03Z","by":"grenudi","id":"d588318","project":"linux-phone-oco/surya-lab","says":"feat: kernel/test-entry.sh boot-once - the test kernel once, then stock again (#23)"}
+{"at":"2026-11-17T20:35:05Z","by":"grenudi","id":"d6f3d34","project":"linux-phone-oco/surya-lab","says":"sleep: r3 aborts 'aborted, partial'; irq 157 item queued (#144)"}
 {"at":"2026-11-09T21:32:50Z","by":"grenudi","id":"d7b221e","project":"linux-phone-oco/surya-lab","says":"feat: a stereo speaker profile for surya (#3)"}
 {"at":"2026-11-17T20:00:33Z","by":"grenudi","id":"d8a933d","project":"linux-phone-oco/surya-lab","says":"feat: surya's rows, its runs and its parts, moved here from docs; phone-stands (#136)"}
 {"at":"2026-11-10T11:57:49Z","by":"grenudi","id":"d8edfdb","project":"linux-phone-oco/surya-lab","says":"feat(provision): the Sxmo profile from linux-phone-oco/sxmo-deviceprofiles (#29)"}
@@ -3328,6 +3331,7 @@
 {"at":"2026-11-16T13:32:21Z","by":"oco harvest","id":"b974297","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T19:19:36Z","by":"oco harvest","id":"b98ae7b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T00:56:19Z","by":"grenudi","id":"b9adaae","project":"open-commons-observatory/open-commons-observatory.github.io","says":"docs: its workings in Russian (by machine, for a person to correct) (#42)"}
+{"at":"2026-11-17T20:36:03Z","by":"oco harvest","id":"ba1999e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T12:18:52Z","by":"oco harvest","id":"ba9d356","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T23:12:26Z","by":"oco harvest","id":"baab9b2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T12:21:56Z","by":"oco harvest","id":"bb16523","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
