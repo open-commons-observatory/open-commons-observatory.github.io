@@ -410,6 +410,7 @@
 {"at":"2026-09-22T00:30:15Z","by":"grenudi","id":"2916c4e","project":"creation-guidelines/tad-engine","says":"feat: initial tad-engine, extracted from text-as-data-template"}
 {"at":"2026-09-22T08:04:03Z","by":"grenudi","id":"2c7030b","project":"creation-guidelines/tad-engine","says":"feat(ci): tag dist at each release, so consumers can pin a version (#7)"}
 {"at":"2026-11-11T18:14:45Z","by":"github-actions[bot]","id":"2d88f3b","project":"creation-guidelines/tad-engine","says":"chore(main): release tad 0.2.0 (#50)"}
+{"at":"2026-11-17T19:52:36Z","by":"grenudi","id":"3022f09","project":"creation-guidelines/tad-engine","says":"fix: a reference names a row by the table's one-field key, else id (#90)"}
 {"at":"2026-09-22T00:35:16Z","by":"grenudi","id":"376c544","project":"creation-guidelines/tad-engine","says":"docs(engine): correct the version-pinning claim in README"}
 {"at":"2026-11-11T20:01:13Z","by":"grenudi","id":"39060c5","project":"creation-guidelines/tad-engine","says":"docs: ocoeco builds on tad (#58)"}
 {"at":"2026-11-10T01:01:33Z","by":"grenudi","id":"3a509c1","project":"creation-guidelines/tad-engine","says":"docs: squash-merging consumers update .tad with subrepo clone --force (#21)"}
@@ -718,6 +719,7 @@
 {"at":"2026-11-10T15:17:21Z","by":"grenudi","id":"2eeaf8b","project":"linux-phone-oco/docs","says":"chore(mark): the grand project's title and goal - Linux Phones (#40)"}
 {"at":"2026-11-10T03:04:00Z","by":"grenudi","id":"2ff823c","project":"linux-phone-oco/docs","says":"feat(data): the session log for 2026-11-10 - what was done, considered and rejected (#27)"}
 {"at":"2026-11-11T01:10:04Z","by":"grenudi","id":"309d3ea","project":"linux-phone-oco/docs","says":"feat(data): the cameras' fault, understood - no sensor described; the wiring known (#53)"}
+{"at":"2026-11-17T19:50:40Z","by":"grenudi","id":"317c9b1","project":"linux-phone-oco/docs","says":"feat(feeds): docs pulls each device base's parts; unread, stale or unclaimed shows as not known yet (#355)"}
 {"at":"2026-11-10T01:36:01Z","by":"grenudi","id":"325abe7","project":"linux-phone-oco/docs","says":"feat(feed): kernel work on surya's device tree, from sm7150-mainline (#23)"}
 {"at":"2026-11-17T02:04:12Z","by":"grenudi","id":"3288b61","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#111)"}
 {"at":"2026-11-17T17:31:35Z","by":"grenudi","id":"3356731","project":"linux-phone-oco/docs","says":"walleye boot tries c d (#271)"}
@@ -806,11 +808,13 @@
 {"at":"2026-11-17T17:45:10Z","by":"grenudi","id":"73b4efc","project":"linux-phone-oco/docs","says":"docs: SH0 sleep vote is a consumer tag; AOP QMP read-only first (research) (#282)"}
 {"at":"2026-11-17T19:13:17Z","by":"grenudi","id":"7581b17","project":"linux-phone-oco/docs","says":"docs: walleye vendor-gadget2 built, try queued, v1 panic cause (no RD_GZIP) (#338)"}
 {"at":"2026-11-17T17:10:37Z","by":"grenudi","id":"75dd496","project":"linux-phone-oco/docs","says":"docs: two signs from the patrol - agent folder over 3 KB, first reads of whole records (#256)"}
+{"at":"2026-11-17T19:51:41Z","by":"grenudi","id":"7632404","project":"linux-phone-oco/docs","says":"fix(feeds): install tad's pinned DuckDB before the feeds run (#356)"}
 {"at":"2026-11-17T04:40:08Z","by":"grenudi","id":"78455d1","project":"linux-phone-oco/docs","says":"docs: lab-tools: asked - make a proven test kernel the phone's default (#125)"}
 {"at":"2026-11-17T08:57:21Z","by":"grenudi","id":"78f2bf4","project":"linux-phone-oco/docs","says":"docs: Backlog: SMS loopback waits on the SIM's number; tqftpserv 1.3 for Alpine stable (#148)"}
 {"at":"2026-11-10T00:33:46Z","by":"grenudi","id":"7a10c36","project":"linux-phone-oco/docs","says":"feat(data): plasma-silent - sound works after writing the chips' volume; not yet persistent (#17)"}
 {"at":"2026-11-17T17:14:48Z","by":"grenudi","id":"7c0f6ba","project":"linux-phone-oco/docs","says":"feat: walleye boot image variants c and d recorded, with what public sources say of the v0 header (#254)"}
 {"at":"2026-11-17T04:54:11Z","by":"grenudi","id":"7ddbe05","project":"linux-phone-oco/docs","says":"docs: Microphones researched: analog on the WCD; UCM capture next, upstream with PR 60 (#129)"}
+{"at":"2026-11-17T19:48:31Z","by":"grenudi","id":"7e14429","project":"linux-phone-oco/docs","says":"chore: backlog: a device base derives its parts' measured fields from its runs (#354)"}
 {"at":"2026-11-17T16:01:17Z","by":"grenudi","id":"8044b50","project":"linux-phone-oco/docs","says":"docs: 9 runs of xiaomi-surya filed by devlab, from the phone's own reports (#237)"}
 {"at":"2026-11-17T15:39:16Z","by":"grenudi","id":"80ad527","project":"linux-phone-oco/docs","says":"docs: walleye research - vendor kernel hardware, how others booted it, Android reference (#226)"}
 {"at":"2026-11-17T19:15:45Z","by":"grenudi","id":"80e378e","project":"linux-phone-oco/docs","says":"docs: sleep-standby-current waits on nothing (null, not empty) (#340)"}
@@ -840,6 +844,7 @@
 {"at":"2026-11-17T11:05:34Z","by":"github-actions[bot]","id":"96c1274","project":"linux-phone-oco/docs","says":"chore(main): release 0.2.0 (#83)"}
 {"at":"2026-11-10T14:20:29Z","by":"grenudi","id":"96cfe9e","project":"linux-phone-oco/docs","says":"chore: the observatory's mark (oco.toml) (#38)"}
 {"at":"2026-11-11T00:45:43Z","by":"grenudi","id":"98c8c5c","project":"linux-phone-oco/docs","says":"feat(data): four of surya's parts no longer unknown - each follows its evidence (#51)"}
+{"at":"2026-11-17T19:52:06Z","by":"feeds","id":"997dd47","project":"linux-phone-oco/docs","says":"chore(feed): data from the scheduled feeds"}
 {"at":"2026-11-17T04:49:24Z","by":"grenudi","id":"99fd21e","project":"linux-phone-oco/docs","says":"docs: Tests: the top microphone hears the speaker too (#128)"}
 {"at":"2026-11-17T08:49:39Z","by":"grenudi","id":"9a38d3d","project":"linux-phone-oco/docs","says":"docs: Calls proven by an echo call; health checks in shell and Rust (#144)"}
 {"at":"2026-11-17T13:05:58Z","by":"grenudi","id":"9aaabee","project":"linux-phone-oco/docs","says":"docs: surya coordinator brief and decision 2026-11-17-a-coordinator-per-lane (#198)"}
@@ -1002,9 +1007,11 @@
 {"at":"2026-11-17T15:18:27Z","by":"grenudi","id":"6497db7","project":"linux-phone-oco/google-walleye-lab","says":"feat: the walleye lab's manifest and mark from the template (#1)"}
 {"at":"2026-11-17T18:26:59Z","by":"grenudi","id":"66e330d","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants g and h answer on 172.16.43.1 (walleye's own address); a-f byte for byte (#8)"}
 {"at":"2026-11-17T19:30:44Z","by":"grenudi","id":"6b3fdd7","project":"linux-phone-oco/google-walleye-lab","says":"feat: walleye's own device base, from device-template (#4, #5) (#14)"}
+{"at":"2026-11-17T19:48:29Z","by":"grenudi","id":"83984c0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the third try of vendor-gadget3, with the watcher kept alive (#16)"}
 {"at":"2026-11-17T17:46:28Z","by":"grenudi","id":"9e24777","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants e and f (stock header read; command line cut; board-id), check counts both (#6)"}
 {"at":"2026-11-17T16:20:31Z","by":"grenudi","id":"9faa48b","project":"linux-phone-oco/google-walleye-lab","says":"feat: the first walleye kernel dts, initramfs and boot image, built by script (#3)"}
 {"at":"2026-11-17T19:09:15Z","by":"grenudi","id":"a41a721","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget2.img, an xz ramdisk the vendor 4.4 kernel can unpack, checked (#12)"}
+{"at":"2026-11-17T19:52:33Z","by":"grenudi","id":"b4b077b","project":"linux-phone-oco/google-walleye-lab","says":"walleye: vendor-gadget3's third try (panic before the gadget), next build named (#17)"}
 {"at":"2026-11-17T15:29:58Z","by":"grenudi","id":"cbe406f","project":"linux-phone-oco/google-walleye-lab","says":"feat: walleye's fastboot serial, writes off (#2)"}
 {"at":"2026-11-17T17:08:03Z","by":"grenudi","id":"dc676bd","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants c and d carry an os version and patch level (#5)"}
 {"at":"2026-11-17T15:17:39Z","by":"grenudi","id":"fb58702","project":"linux-phone-oco/google-walleye-lab","says":"Initial commit"}
@@ -2631,6 +2638,7 @@
 {"at":"2026-11-17T11:47:03Z","by":"oco harvest","id":"0e1a1f6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T01:05:06Z","by":"oco harvest","id":"0edab12","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T16:06:27Z","by":"oco harvest","id":"0f2736a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T19:49:14Z","by":"oco harvest","id":"0f51508","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T16:17:11Z","by":"oco harvest","id":"0f56209","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T09:44:39Z","by":"oco harvest","id":"0fda4f2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T21:26:22Z","by":"oco harvest","id":"109b1e2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
