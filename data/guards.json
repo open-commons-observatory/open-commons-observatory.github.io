@@ -399,6 +399,7 @@
 {"id":"devlab/src/hear.rs:heard_means_out_of_the_noise_and_above_the_room","line":178,"name":"heard_means_out_of_the_noise_and_above_the_room","path":"devlab/src/hear.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/hear.rs:nothing_is_heard_without_the_word_that_the_microphone_is_placed","line":210,"name":"nothing_is_heard_without_the_word_that_the_microphone_is_placed","path":"devlab/src/hear.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/hold.rs:the_phone_is_held_by_one_change_at_a_time","line":27,"name":"the_phone_is_held_by_one_change_at_a_time","path":"devlab/src/hold.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/keeper.rs:one_keeper_at_a_time_and_a_lapsed_one_gives_way","line":130,"name":"one_keeper_at_a_time_and_a_lapsed_one_gives_way","path":"devlab/src/keeper.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/kernel.rs:a_device_tree_try_reuses_the_kernel_once","line":520,"name":"a_device_tree_try_reuses_the_kernel_once","path":"devlab/src/kernel.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/kernel.rs:a_kept_kernel_is_blessed_once_and_falls_back_after_three_bad_boots","line":408,"name":"a_kept_kernel_is_blessed_once_and_falls_back_after_three_bad_boots","path":"devlab/src/kernel.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/kernel.rs:module_names_read_both_layouts","line":557,"name":"module_names_read_both_layouts","path":"devlab/src/kernel.rs","project":"linux-phone-oco/lab-tools"}
