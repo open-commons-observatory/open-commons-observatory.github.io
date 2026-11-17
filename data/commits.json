@@ -545,6 +545,7 @@
 {"at":"2026-11-17T21:44:08Z","by":"grenudi","id":"870e881","project":"grenudi/ideal-agent","says":"feat: overlay-check takes a domain's own text to check against too (plugin 0.3.24) (#59)"}
 {"at":"2026-11-17T13:02:03Z","by":"grenudi","id":"87c2fcf","project":"grenudi/ideal-agent","says":"fix: scripts/read-weight lands: what a started session read, from its transcript (#22)"}
 {"at":"2026-11-17T11:48:30Z","by":"grenudi","id":"8820395","project":"grenudi/ideal-agent","says":"feat: look around first, as a skill; ideal-agent pins idealkb 0.3.0 (#12)"}
+{"at":"2026-11-17T21:48:01Z","by":"grenudi","id":"91fcabb","project":"grenudi/ideal-agent","says":"feat: a programmer subagent and the canon's core as a skill (plugin 0.3.25) (#60)"}
 {"at":"2026-11-17T12:48:42Z","by":"grenudi","id":"954abd3","project":"grenudi/ideal-agent","says":"docs: Gmail and Claude Docs off by default; a session that needs one asks (#19)"}
 {"at":"2026-11-17T15:07:13Z","by":"grenudi","id":"9c6e55d","project":"grenudi/ideal-agent","says":"feat: skills: record with ikb, read the base's IKB.md (plugin 0.2.8) (#25)"}
 {"at":"2026-11-17T13:05:26Z","by":"grenudi","id":"a0df0f2","project":"grenudi/ideal-agent","says":"docs: the first after number, and why it is not yet comparable (#24)"}
@@ -820,6 +821,7 @@
 {"at":"2026-11-17T18:46:34Z","by":"grenudi","id":"665d2a9","project":"linux-phone-oco/docs","says":"docs: floor-entry-trace first on surya's queue; the SH0 owner hunt pauses (#318)"}
 {"at":"2026-11-17T19:20:01Z","by":"grenudi","id":"6661035","project":"linux-phone-oco/docs","says":"docs: walleye s0n bisect try - same as s0, phone off USB (hands) (#341)"}
 {"at":"2026-11-17T20:03:47Z","by":"grenudi","id":"675f6e3","project":"linux-phone-oco/docs","says":"chore: surya's base is surya-lab: docs pulls its parts (#361)"}
+{"at":"2026-11-17T21:49:07Z","by":"grenudi","id":"69060cb","project":"linux-phone-oco/docs","says":"docs: lab-tools devlab-tone-on-argenv (practice 43) (#377)"}
 {"at":"2026-11-17T20:02:09Z","by":"grenudi","id":"6b010a8","project":"linux-phone-oco/docs","says":"chore: surya's rows move to surya-lab's own base; its briefs and the waker read the lab (#360)"}
 {"at":"2026-11-11T09:37:56Z","by":"grenudi","id":"6c24d21","project":"linux-phone-oco/docs","says":"feat(data): the microphone's chain nearly whole; which speaker is the bottom one (#54)"}
 {"at":"2026-11-17T10:37:21Z","by":"grenudi","id":"6d85dd7","project":"linux-phone-oco/docs","says":"docs: The agent specifics in their own folder: ideal-agent-linux-phone-oco/ (#171)"}
@@ -1085,6 +1087,8 @@
 {"at":"2026-11-17T20:17:20Z","by":"grenudi","id":"d9072bd","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget5b1..b4, the ncm step of the gadget bring-up split (walleye-ncm-split) (#32)"}
 {"at":"2026-11-17T17:08:03Z","by":"grenudi","id":"dc676bd","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants c and d carry an os version and patch level (#5)"}
 {"at":"2026-11-17T19:55:45Z","by":"grenudi","id":"e00c523","project":"linux-phone-oco/google-walleye-lab","says":"feat: phone-stands, the keeper's last hand-over (#20)"}
+{"at":"2026-11-17T21:47:09Z","by":"grenudi","id":"e0732fd","project":"linux-phone-oco/google-walleye-lab","says":"walleye: s4 overlay-symbols try, result recorded (#60)"}
+{"at":"2026-11-17T21:48:18Z","by":"grenudi","id":"e180218","project":"linux-phone-oco/google-walleye-lab","says":"walleye: first light of our mainline kernel with the symbols dtb (build item) (#61)"}
 {"at":"2026-11-17T19:53:56Z","by":"grenudi","id":"e2beef8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the idle-init bisect and the panic research queued (#18)"}
 {"at":"2026-11-17T19:55:47Z","by":"grenudi","id":"e74e497","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget4.img, an idle init without a gadget (the panic bisect) (#walleye) (#19)"}
 {"at":"2026-11-17T19:58:48Z","by":"grenudi","id":"ea0ffc0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: cmdline read first, the gadget4 try after it (#23)"}
@@ -2756,6 +2760,7 @@
 {"at":"2026-11-17T13:13:34Z","by":"oco harvest","id":"13cc0ff","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T01:36:21Z","by":"oco harvest","id":"141c18f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T17:23:11Z","by":"oco harvest","id":"145704d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T21:45:59Z","by":"oco harvest","id":"14aa616","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T14:15:25Z","by":"oco harvest","id":"14b5200","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T21:32:38Z","by":"grenudi","id":"14bd5fa","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261112-213222","says":"feat: the observatory's page shows the fulldome, beside the engine's views (#76)"}
 {"at":"2026-11-17T13:48:59Z","by":"oco harvest","id":"14c17fb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
