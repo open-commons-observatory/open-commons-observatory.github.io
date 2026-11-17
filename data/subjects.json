@@ -1,4 +1,5 @@
 {"id":"hooks","name":"The hooks","project":"grenudi/ideal-agent","what":"The ways held when they are tried: the guard and the session start."}
+{"id":"housekeeping","name":"Housekeeping the start","project":"grenudi/ideal-agent","what":"What a fresh agent must read before acting: measured, held to a budget, simplified behind summaries."}
 {"id":"ideal-agent","name":"The ideal agent itself","project":"grenudi/ideal-agent","what":"This repository: one home of general agent know-how, its database and its plugin."}
 {"id":"keeper","name":"The keeper of a shared resource","project":"grenudi/ideal-agent","what":"One owner per resource only one may change at a time, serving a queue."}
 {"id":"knowledge-base","name":"Knowledge bases","project":"grenudi/ideal-agent","what":"How an agent finds its way in a tad base, and how this one follows ideal-knowledge-base."}
