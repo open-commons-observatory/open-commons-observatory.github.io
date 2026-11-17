@@ -187,6 +187,8 @@
 {"advances":"backlog:a-second-phone","at":"2026-11-17T01:39:35Z","by":"claude","id":"g-20261117-013935","kind":"docs","project":"linux-phone-oco/docs","summary":"A second phone: not now, the author says","touches":"backlog:a-second-phone"}
 {"at":"2026-11-17T01:41:33Z","by":"devlab","id":"g-20261117-014133","kind":"docs","project":"linux-phone-oco/docs","summary":"2 runs of xiaomi-surya filed by devlab, from the phone's own reports"}
 {"at":"2026-11-17T01:45:36Z","by":"devlab","id":"g-20261117-014536","kind":"docs","project":"linux-phone-oco/docs","summary":"1 runs of xiaomi-surya filed by devlab, from the phone's own reports"}
+{"at":"2026-11-17T01:48:15Z","by":"conveyor","id":"g-20261117-014815","kind":"docs","project":"linux-phone-oco/docs","summary":"The conveyor session hands over: fewer, shorter, well-scoped sessions","touches":"decisions:2026-11-17-fewer-longer-sessions-no session_log:2026-11-17-the-conveyor-hands-over"}
+{"at":"2026-11-17T01:50:16Z","by":"devlab","id":"g-20261117-015016","kind":"docs","project":"linux-phone-oco/docs","summary":"1 runs of xiaomi-surya filed by devlab, from the phone's own reports"}
 {"at":"2026-11-11T21:36:39Z","by":"lab-agent-session","id":"g-20261111-213639","kind":"chore","project":"linux-phone-oco/lab-tools","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-16T14:50:06Z","by":"claude","id":"g-20261116-145006","kind":"chore","project":"linux-phone-oco/lab-tools","summary":"a mark: the latest runs are observed, as runs - no longer gathered here"}
 {"at":"2026-11-16T15:58:10Z","by":"claude","id":"g-20261116-155810","kind":"chore","project":"linux-phone-oco/lab-tools","summary":"a mark: what the gatherer writes is said where it writes it - no longer named here"}
@@ -218,6 +220,7 @@
 {"at":"2026-11-17T01:37:47Z","by":"devlab","id":"g-20261117-013747","kind":"docs","project":"linux-phone-oco/surya-lab","summary":"xiaomi-surya's own health reports, gathered"}
 {"at":"2026-11-17T01:40:58Z","by":"devlab","id":"g-20261117-014058","kind":"docs","project":"linux-phone-oco/surya-lab","summary":"xiaomi-surya's own health reports, gathered"}
 {"at":"2026-11-17T01:44:58Z","by":"devlab","id":"g-20261117-014458","kind":"docs","project":"linux-phone-oco/surya-lab","summary":"xiaomi-surya's own health reports, gathered"}
+{"at":"2026-11-17T01:49:40Z","by":"devlab","id":"g-20261117-014940","kind":"docs","project":"linux-phone-oco/surya-lab","summary":"xiaomi-surya's own health reports, gathered"}
 {"at":"2026-11-11T21:38:26Z","by":"lab-agent-session","id":"g-20261111-213826","kind":"chore","project":"linux-phone-oco/sxmo-deviceprofiles","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-16T14:53:15Z","by":"claude","id":"g-20261116-145315","kind":"chore","project":"linux-phone-oco/sxmo-deviceprofiles","summary":"a mark: the latest runs are observed, as runs - no longer gathered here"}
 {"at":"2026-11-16T16:00:03Z","by":"claude","id":"g-20261116-160003","kind":"chore","project":"linux-phone-oco/sxmo-deviceprofiles","summary":"a mark: what the gatherer writes is said where it writes it - no longer named here"}

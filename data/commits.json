@@ -577,6 +577,7 @@
 {"at":"2026-11-17T00:58:18Z","by":"grenudi","id":"ba01aae","project":"linux-phone-oco/docs","record":"g-20261117-005711","says":"feat: Support status read off the suite's results, beside what was judged (#86)"}
 {"at":"2026-11-05T07:33:49Z","by":"grenudi","id":"bbe722e","project":"linux-phone-oco/docs","says":"feat: schema for device/component/status tracking, RFC-style docs (#1)"}
 {"at":"2026-11-12T19:13:00Z","by":"grenudi","id":"bfe5aa4","project":"linux-phone-oco/docs","record":"g-20261112-191221","says":"docs: two problems raised: a release that failed unheard, and a version from nothing (#73)"}
+{"at":"2026-11-17T01:50:53Z","by":"grenudi","id":"c1e4e95","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#106)"}
 {"at":"2026-11-11T22:44:55Z","by":"grenudi","id":"c5a117f","project":"linux-phone-oco/docs","record":"g-20261111-223513","says":"build: tad 0.4.0: the pin moved, the data and documents re-rendered (#68)"}
 {"at":"2026-11-05T07:43:11Z","by":"grenudi","id":"c7800d4","project":"linux-phone-oco/docs","says":"ci: deploy Pages via Actions instead of the legacy pipeline (#2)"}
 {"at":"2026-11-11T15:47:43Z","by":"grenudi","id":"d0d0182","project":"linux-phone-oco/docs","says":"feat(data): the wrap-up pass - settled with reasons (#58)"}
@@ -596,6 +597,7 @@
 {"at":"2026-11-04T20:34:04Z","by":"grenudi","id":"e619d98","project":"linux-phone-oco/docs","says":"Initial commit"}
 {"at":"2026-11-09T22:06:35Z","by":"grenudi","id":"e67e79f","project":"linux-phone-oco/docs","says":"feat(data): shells, microphone and an org board in the backlog (#13)"}
 {"at":"2026-11-10T17:46:36Z","by":"ocoeco gather","id":"e751539","project":"linux-phone-oco/docs","says":"data: gathered by ocoeco"}
+{"at":"2026-11-17T01:48:42Z","by":"grenudi","id":"f05ecfd","project":"linux-phone-oco/docs","record":"g-20261117-014815","says":"docs: The conveyor session hands over: fewer, shorter, well-scoped sessions (#105)"}
 {"at":"2026-11-10T14:53:10Z","by":"grenudi","id":"f16b729","project":"linux-phone-oco/docs","says":"chore(mark): export the reference tables - features, platforms, components, devices (#39)"}
 {"at":"2026-11-11T18:21:06Z","by":"grenudi","id":"f1f51d3","project":"linux-phone-oco/docs","says":"build: tad 0.2.0 (#63)"}
 {"at":"2026-11-11T23:16:02Z","by":"grenudi","id":"f2d49fe","project":"linux-phone-oco/docs","record":"g-20261111-231211","says":"chore: parked: the lab-agent redesign comes first; each item keeps its resume point (#69)"}
@@ -661,6 +663,7 @@
 {"at":"2026-11-09T14:15:43Z","by":"grenudi","id":"0c1ce1d","project":"linux-phone-oco/surya-lab","says":"feat: dt/build-dtbs.sh"}
 {"at":"2026-11-09T23:38:24Z","by":"grenudi","id":"0c91049","project":"linux-phone-oco/surya-lab","says":"feat: FIXES=0 flashes the image as it is (sshd only), to tell an image fault from ours (#6)"}
 {"at":"2026-11-10T04:12:08Z","by":"grenudi","id":"0ea8dfa","project":"linux-phone-oco/surya-lab","says":"fix(tests): the ADSP check's crash count, and resume timestamps read inside the kernel's padding (#18)"}
+{"at":"2026-11-17T01:50:08Z","by":"grenudi","id":"16bda51","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#82)"}
 {"at":"2026-11-10T22:22:01Z","by":"grenudi","id":"170f4ba","project":"linux-phone-oco/surya-lab","says":"docs: the lab's idea, told for anyone (#42)"}
 {"at":"2026-11-17T01:38:15Z","by":"grenudi","id":"1a4f47a","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#78)"}
 {"at":"2026-11-10T12:37:52Z","by":"grenudi","id":"1c31ceb","project":"linux-phone-oco/surya-lab","says":"feat(tests): the default output is a real sound card, not a loopback (#31)"}
@@ -2754,6 +2757,7 @@
 {"at":"2026-11-11T12:40:11Z","by":"oco harvest","id":"fe1209e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T09:53:43Z","by":"oco harvest","id":"feaaf80","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T16:19:29Z","by":"grenudi","id":"fef074e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the loose-ends view is live (#66)"}
+{"at":"2026-11-17T01:48:27Z","by":"oco harvest","id":"ff78a1d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T21:45:30Z","by":"grenudi","id":"5528997","project":"rhizome-oco/lens","says":"feat: the lens opens with Rhizome's own idea; how close it is comes second (#1)"}
 {"at":"2026-11-13T00:33:48Z","by":"grenudi","id":"94971aa","project":"rhizome-oco/lens","record":"g-20261113-003332","says":"docs: this is a constellation, and says what it gathers (#4)"}
 {"at":"2026-11-11T21:41:19Z","by":"grenudi","id":"9bb0335","project":"rhizome-oco/lens","record":"g-20261111-214103","says":"chore: glimpses are recorded here from now on (#3)"}
