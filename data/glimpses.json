@@ -197,6 +197,7 @@
 {"at":"2026-11-17T02:00:24Z","by":"devlab","id":"g-20261117-020024","kind":"docs","project":"linux-phone-oco/docs","summary":"1 runs of xiaomi-surya filed by devlab, from the phone's own reports"}
 {"at":"2026-11-17T02:03:44Z","by":"devlab","id":"g-20261117-020344","kind":"docs","project":"linux-phone-oco/docs","summary":"1 runs of xiaomi-surya filed by devlab, from the phone's own reports"}
 {"at":"2026-11-17T02:07:10Z","by":"devlab","id":"g-20261117-020710","kind":"docs","project":"linux-phone-oco/docs","summary":"1 runs of xiaomi-surya filed by devlab, from the phone's own reports"}
+{"at":"2026-11-17T02:10:47Z","by":"devlab","id":"g-20261117-021047","kind":"docs","project":"linux-phone-oco/docs","summary":"2 runs of xiaomi-surya filed by devlab, from the phone's own reports"}
 {"at":"2026-11-11T21:36:39Z","by":"lab-agent-session","id":"g-20261111-213639","kind":"chore","project":"linux-phone-oco/lab-tools","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-16T14:50:06Z","by":"claude","id":"g-20261116-145006","kind":"chore","project":"linux-phone-oco/lab-tools","summary":"a mark: the latest runs are observed, as runs - no longer gathered here"}
 {"at":"2026-11-16T15:58:10Z","by":"claude","id":"g-20261116-155810","kind":"chore","project":"linux-phone-oco/lab-tools","summary":"a mark: what the gatherer writes is said where it writes it - no longer named here"}
@@ -212,6 +213,7 @@
 {"advances":"backlog:health-carry-old-checks","at":"2026-11-17T01:45:39Z","by":"orchestration","id":"g-20261117-014539","kind":"docs","project":"linux-phone-oco/lab-tools","summary":"Backlog: the checks surya-lab ran from the lab, to carry into the suite","touches":"backlog:health-carry-old-checks"}
 {"advances":"backlog:health-suspend-cycle","at":"2026-11-17T01:56:29Z","by":"research-deep-sleep","id":"g-20261117-015629","kind":"feat","project":"linux-phone-oco/lab-tools","summary":"Deep sleep's check: soc-sleeps reads the SoC's own counters after every boot","touches":"backlog:health-suspend-cycle"}
 {"advances":"backlog:health-apk","at":"2026-11-17T02:05:56Z","by":"orchestration","id":"g-20261117-020556","kind":"docs","project":"linux-phone-oco/lab-tools","summary":"Backlog: what devlab-health as an Alpine package waits on, and its path","touches":"backlog:health-apk"}
+{"advances":"backlog:gather-once-quiet","at":"2026-11-17T02:11:27Z","by":"orchestration","id":"g-20261117-021127","kind":"feat","project":"linux-phone-oco/lab-tools","summary":"watch: gathered once the phone is quiet, and landed again when main moved","touches":"backlog:gather-once-quiet"}
 {"at":"2026-11-11T21:37:35Z","by":"lab-agent-session","id":"g-20261111-213735","kind":"chore","project":"linux-phone-oco/lens","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-13T00:33:06Z","by":"claude","id":"g-20261113-003306","kind":"docs","project":"linux-phone-oco/lens","summary":"this is a constellation, and says what it gathers"}
 {"at":"2026-11-11T21:38:03Z","by":"lab-agent-session","id":"g-20261111-213803","kind":"chore","project":"linux-phone-oco/surya-lab","summary":"glimpses are recorded here from now on"}
