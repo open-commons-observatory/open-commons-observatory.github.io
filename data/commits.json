@@ -732,6 +732,7 @@
 {"at":"2026-11-11T22:44:55Z","by":"grenudi","id":"c5a117f","project":"linux-phone-oco/docs","says":"build: tad 0.4.0: the pin moved, the data and documents re-rendered (#68)"}
 {"at":"2026-11-05T07:43:11Z","by":"grenudi","id":"c7800d4","project":"linux-phone-oco/docs","says":"ci: deploy Pages via Actions instead of the legacy pipeline (#2)"}
 {"at":"2026-11-17T05:29:32Z","by":"grenudi","id":"c90431e","project":"linux-phone-oco/docs","says":"docs: The microphones hold across boots; the boot race is fixed in every flash (#137)"}
+{"at":"2026-11-17T14:18:43Z","by":"grenudi","id":"cb2189a","project":"linux-phone-oco/docs","says":"docs(lab-tools): lpoco-health weighed against building on postmarketOS upstream (#214)"}
 {"at":"2026-11-17T03:40:31Z","by":"grenudi","id":"ccc6e74","project":"linux-phone-oco/docs","says":"feat: one database for linux-phone: every place's records, through named records (#118)"}
 {"at":"2026-11-17T11:08:23Z","by":"grenudi","id":"ce464d6","project":"linux-phone-oco/docs","says":"feat: feat: the Pixel 2 and 2 XL tracked beside surya, from published sources (all unknown) (#177)"}
 {"at":"2026-11-17T13:48:17Z","by":"grenudi","id":"cebd25b","project":"linux-phone-oco/docs","says":"docs: hand-over of surya-keeper-3, and the amp after a bite (#208)"}
@@ -2574,6 +2575,7 @@
 {"at":"2026-11-17T03:17:14Z","by":"oco harvest","id":"4b81290","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T12:47:15Z","by":"oco harvest","id":"4c0e3bc","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T04:20:51Z","by":"oco harvest","id":"4c490c7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T14:18:56Z","by":"oco harvest","id":"4c6aa33","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T23:00:51Z","by":"grenudi","id":"4cbd2cb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"docs: its idea in Russian (by machine, for a person to correct) (#37)"}
 {"at":"2026-11-12T02:41:02Z","by":"oco harvest","id":"4cff19f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T07:40:37Z","by":"oco harvest","id":"4d48ffd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
