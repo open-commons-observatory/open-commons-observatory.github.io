@@ -1036,6 +1036,7 @@
 {"at":"2026-11-17T20:25:53Z","by":"grenudi","id":"2e16ba9","project":"linux-phone-oco/google-walleye-lab","says":"walleye: how the phone stands (#38)"}
 {"at":"2026-11-17T19:46:10Z","by":"grenudi","id":"2e46a6b","project":"linux-phone-oco/google-walleye-lab","says":"feat: walleye's rows, moved here from docs; lane-next for the launchers (#15)"}
 {"at":"2026-11-17T20:07:03Z","by":"grenudi","id":"2f2ee42","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the gadget bisect try waits on nothing (#28)"}
+{"at":"2026-11-17T20:58:02Z","by":"grenudi","id":"3034bbb","project":"linux-phone-oco/google-walleye-lab","says":"walleye: vendor-gadget-n3 image, the FunctionFS ACM console helper and its init (#44)"}
 {"at":"2026-11-17T20:01:33Z","by":"grenudi","id":"49a4712","project":"linux-phone-oco/google-walleye-lab","says":"walleye: vendor-gadget4 tried - idle init returns, bootreason reboot (#25)"}
 {"at":"2026-11-17T18:27:57Z","by":"grenudi","id":"4eb1a74","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants g, h, i answer on 172.16.43.1 (e, b, f); a-f byte for byte (#9)"}
 {"at":"2026-11-17T18:23:44Z","by":"grenudi","id":"4fa476d","project":"linux-phone-oco/google-walleye-lab","says":"address 43 (#7)"}
@@ -1067,6 +1068,7 @@
 {"at":"2026-11-17T19:55:47Z","by":"grenudi","id":"e74e497","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget4.img, an idle init without a gadget (the panic bisect) (#walleye) (#19)"}
 {"at":"2026-11-17T19:58:48Z","by":"grenudi","id":"ea0ffc0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: cmdline read first, the gadget4 try after it (#23)"}
 {"at":"2026-11-17T20:50:01Z","by":"grenudi","id":"eb48031","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the host channel order (mass-storage window, FunctionFS ACM helper); ecm/rndis dropped (#40)"}
+{"at":"2026-11-17T20:58:55Z","by":"grenudi","id":"f64566d","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the ffs-acm try ranked second, unblocked (#45)"}
 {"at":"2026-11-17T20:25:11Z","by":"grenudi","id":"fa3a54d","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ncm split - b1 returns, b2 (attribute writes) panics (#37)"}
 {"at":"2026-11-17T15:17:39Z","by":"grenudi","id":"fb58702","project":"linux-phone-oco/google-walleye-lab","says":"Initial commit"}
 {"at":"2026-11-17T04:43:10Z","by":"grenudi","id":"02582e5","project":"linux-phone-oco/lab-tools","says":"feat: devlab kernel keep: a proven test kernel becomes the default, stock still the fallback (#52)"}
@@ -1452,6 +1454,7 @@
 {"at":"2026-11-14T00:10:07Z","by":"oco observe","id":"30c717c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T11:34:43Z","by":"oco observe","id":"31a8c10","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T12:44:33Z","by":"oco observe","id":"31d179e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T21:00:06Z","by":"oco observe","id":"31ecb13","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T00:33:48Z","by":"oco observe","id":"333618c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T05:02:17Z","by":"oco observe","id":"334c85d","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T09:18:02Z","by":"oco observe","id":"3371143","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -2931,6 +2934,7 @@
 {"at":"2026-11-14T18:15:14Z","by":"oco harvest","id":"4aeb830","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T03:17:14Z","by":"oco harvest","id":"4b81290","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T12:47:15Z","by":"oco harvest","id":"4c0e3bc","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T20:56:37Z","by":"oco harvest","id":"4c3d853","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T04:20:51Z","by":"oco harvest","id":"4c490c7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T14:18:56Z","by":"oco harvest","id":"4c6aa33","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T23:00:51Z","by":"grenudi","id":"4cbd2cb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"docs: its idea in Russian (by machine, for a person to correct) (#37)"}
