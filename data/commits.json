@@ -623,6 +623,7 @@
 {"at":"2026-11-17T09:16:58Z","by":"grenudi","id":"a0cfdca","project":"linux-phone-oco/docs","says":"docs: the telephony layer; suite put from the lab's main (#153)"}
 {"at":"2026-11-12T01:08:04Z","by":"grenudi","id":"a316057","project":"linux-phone-oco/docs","says":"feat: SQL is back: make sql, tad engine in setup, the recipe (#71)"}
 {"at":"2026-11-10T04:53:05Z","by":"grenudi","id":"a427240","project":"linux-phone-oco/docs","says":"feat(data): the ADSP wake-up crash narrowed - rare, early in a boot (#33)"}
+{"at":"2026-11-17T10:02:22Z","by":"grenudi","id":"a6fff34","project":"linux-phone-oco/docs","says":"docs: briefs keep their domain and name the ideal-agent skills (#159)"}
 {"at":"2026-11-10T20:12:58Z","by":"grenudi","id":"abb2066","project":"linux-phone-oco/docs","says":"feat(data): the first devlab flash - the suspend crash now reproducible, a check to correct (#45)"}
 {"at":"2026-11-17T01:55:41Z","by":"grenudi","id":"ad2ca8e","project":"linux-phone-oco/docs","says":"docs: Deep sleep researched: measured s2idle to the SoC's floor, its steps and its check (#101)"}
 {"at":"2026-11-10T01:31:00Z","by":"grenudi","id":"b19ddde","project":"linux-phone-oco/docs","says":"feat(feed): the postmarketOS wiki's status fields, beside our own evidence (#21)"}
@@ -781,6 +782,7 @@
 {"at":"2026-11-09T23:23:37Z","by":"grenudi","id":"1f188ae","project":"linux-phone-oco/surya-lab","says":"feat: flash/flash.sh - flash any image with surya's fixes built in (#5)"}
 {"at":"2026-11-17T02:03:33Z","by":"grenudi","id":"286399c","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#86)"}
 {"at":"2026-11-17T01:52:23Z","by":"grenudi","id":"28976ee","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#83)"}
+{"at":"2026-11-17T10:03:24Z","by":"grenudi","id":"29c1fe4","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#122)"}
 {"at":"2026-11-09T14:15:42Z","by":"grenudi","id":"2adcbed","project":"linux-phone-oco/surya-lab","says":"docs: README.md"}
 {"at":"2026-11-17T09:44:13Z","by":"grenudi","id":"2b06c6e","project":"linux-phone-oco/surya-lab","says":"docs: SMS and the echo call move to the telephony layer, once a day by its helper (#120)"}
 {"at":"2026-11-17T04:35:58Z","by":"grenudi","id":"2b2ab94","project":"linux-phone-oco/surya-lab","says":"docs: Manifest: test sounds at -6 dBFS and 20%, the level the author heard as a quiet beep (#98)"}
@@ -1443,6 +1445,7 @@
 {"at":"2026-11-14T19:02:08Z","by":"oco observe","id":"e633ae9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T11:49:50Z","by":"oco observe","id":"e638e33","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T02:03:43Z","by":"oco observe","id":"e6dcb91","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T09:59:54Z","by":"grenudi","id":"e7172a6","project":"marshall-oco/marshall-oco.github.io","record":"g-20261117-095937","says":"feat: gather grenudi/ideal-agent: the one home of general agent know-how (#32)"}
 {"at":"2026-11-13T10:33:35Z","by":"oco observe","id":"e786bbe","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:04:29Z","by":"oco observe","id":"e7abb52","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T21:33:25Z","by":"oco observe","id":"e821d1b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1580,6 +1583,7 @@
 {"at":"2026-11-14T21:00:28Z","by":"grenudi","id":"71597d7","project":"open-commons-observatory/ecosystem","record":"g-20261114-210012","says":"docs: read as rows, not yet things: said where it is so, and as a sign (#80)"}
 {"at":"2026-11-14T23:54:24Z","by":"grenudi","id":"73993b4","project":"open-commons-observatory/ecosystem","record":"g-20261114-235407","says":"docs: the sheet: a part taken back, what was reached placed; two signs came to something (#91)"}
 {"at":"2026-11-16T12:53:46Z","by":"grenudi","id":"74888f6","project":"open-commons-observatory/ecosystem","record":"g-20261116-125325","says":"docs: a table: documents/documents, and 1 more (#141)"}
+{"at":"2026-11-17T10:00:25Z","by":"grenudi","id":"755a9f6","project":"open-commons-observatory/ecosystem","record":"g-20261117-100008","says":"feat: gather grenudi/ideal-agent: how agents work, beside lab-agent (#159)"}
 {"at":"2026-11-14T23:24:18Z","by":"grenudi","id":"765e68a","project":"open-commons-observatory/ecosystem","record":"g-20261114-232403","says":"fix: work toward an angle is what was made standing on it, not what wrote it (#89)"}
 {"at":"2026-11-14T09:30:17Z","by":"grenudi","id":"76c9dc8","project":"open-commons-observatory/ecosystem","record":"g-20261114-093000","says":"docs: the simplest lens: the author's note, and the trial it leads to (#51)"}
 {"at":"2026-11-13T10:27:15Z","by":"grenudi","id":"781a7de","project":"open-commons-observatory/ecosystem","record":"g-20261113-102658","says":"docs: a command line is an entry: what was seen, and the author's words (#12)"}
@@ -2598,6 +2602,7 @@
 {"at":"2026-11-17T05:38:55Z","by":"oco harvest","id":"839c30c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T18:41:53Z","by":"oco harvest","id":"843adb1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T07:13:14Z","by":"oco harvest","id":"8509a76","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T10:00:31Z","by":"oco harvest","id":"85271cd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T18:46:07Z","by":"oco harvest","id":"856d824","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T21:35:31Z","by":"oco harvest","id":"8582379","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T18:50:25Z","by":"oco harvest","id":"858be07","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
