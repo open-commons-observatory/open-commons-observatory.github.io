@@ -182,6 +182,7 @@
 {"bytes":2322,"id":"upstream/sm7150-mainline/sm7150-wcd-series/sm7150-mainline-wcd-question.md","lines":31,"path":"upstream/sm7150-mainline/sm7150-wcd-series/sm7150-mainline-wcd-question.md","project":"linux-phone-oco/docs"}
 {"bytes":1542,"id":"AGENTS.md","lines":19,"path":"AGENTS.md","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":2526,"id":"README.md","lines":40,"path":"README.md","project":"linux-phone-oco/google-walleye-lab"}
+{"bytes":1979,"id":"build/README.md","lines":26,"path":"build/README.md","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":990,"id":"tests/health/README.md","lines":19,"path":"tests/health/README.md","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":10930,"id":"README.md","lines":165,"path":"README.md","project":"linux-phone-oco/lab-tools"}
 {"bytes":2842,"id":"health/CHANGELOG.md","lines":65,"path":"health/CHANGELOG.md","project":"linux-phone-oco/lab-tools"}

@@ -852,6 +852,7 @@
 {"at":"2026-11-11T17:34:21Z","by":"feeds","id":"fefc0e3","project":"linux-phone-oco/docs","says":"chore(feed): data from the scheduled feeds"}
 {"at":"2026-11-17T14:13:58Z","by":"grenudi","id":"ffb3d84","project":"linux-phone-oco/docs","says":"docs: lpoco-health put on the phone; gathered runs filed; hand-over of surya-keeper-4 (#212)"}
 {"at":"2026-11-17T15:18:27Z","by":"grenudi","id":"6497db7","project":"linux-phone-oco/google-walleye-lab","says":"feat: the walleye lab's manifest and mark from the template (#1)"}
+{"at":"2026-11-17T16:20:31Z","by":"grenudi","id":"9faa48b","project":"linux-phone-oco/google-walleye-lab","says":"feat: the first walleye kernel dts, initramfs and boot image, built by script (#3)"}
 {"at":"2026-11-17T15:29:58Z","by":"grenudi","id":"cbe406f","project":"linux-phone-oco/google-walleye-lab","says":"feat: walleye's fastboot serial, writes off (#2)"}
 {"at":"2026-11-17T15:17:39Z","by":"grenudi","id":"fb58702","project":"linux-phone-oco/google-walleye-lab","says":"Initial commit"}
 {"at":"2026-11-17T04:43:10Z","by":"grenudi","id":"02582e5","project":"linux-phone-oco/lab-tools","says":"feat: devlab kernel keep: a proven test kernel becomes the default, stock still the fallback (#52)"}
@@ -3113,6 +3114,7 @@
 {"at":"2026-11-16T22:38:10Z","by":"oco harvest","id":"cc2ab8b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T12:03:47Z","by":"oco harvest","id":"cc7470f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T04:56:00Z","by":"oco harvest","id":"cccfafd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T16:21:20Z","by":"oco harvest","id":"cd00197","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T18:37:19Z","by":"oco harvest","id":"cd00855","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T13:45:33Z","by":"oco harvest","id":"cd11f3e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T04:47:31Z","by":"oco harvest","id":"cd1e93d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}

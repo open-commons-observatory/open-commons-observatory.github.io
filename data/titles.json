@@ -89,6 +89,7 @@
 {"id":"upstream/sm7150-mainline/mic-pr60-comment/message.md:From the backlog item mic-upstream (2026-11-17), as it stood when the upstream item was made","line":1,"name":"From the backlog item mic-upstream (2026-11-17), as it stood when the upstream item was made","path":"upstream/sm7150-mainline/mic-pr60-comment/message.md","project":"linux-phone-oco/docs"}
 {"id":"AGENTS.md:Notes for agents","line":1,"name":"Notes for agents","path":"AGENTS.md","project":"linux-phone-oco/google-walleye-lab"}
 {"id":"README.md:Device template","line":1,"name":"Device template","path":"README.md","project":"linux-phone-oco/google-walleye-lab"}
+{"id":"build/README.md:Building the first walleye image","line":1,"name":"Building the first walleye image","path":"build/README.md","project":"linux-phone-oco/google-walleye-lab"}
 {"id":"tests/health/README.md:This phone's own health checks","line":1,"name":"This phone's own health checks","path":"tests/health/README.md","project":"linux-phone-oco/google-walleye-lab"}
 {"id":"README.md:lab-tools","line":1,"name":"lab-tools","path":"README.md","project":"linux-phone-oco/lab-tools"}
 {"id":"health/CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"health/CHANGELOG.md","project":"linux-phone-oco/lab-tools"}
