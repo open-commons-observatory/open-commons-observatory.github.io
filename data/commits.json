@@ -709,6 +709,7 @@
 {"at":"2026-11-16T14:52:18Z","by":"grenudi","id":"5be562f","project":"linux-phone-oco/lab-tools","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#27)"}
 {"at":"2026-11-10T13:03:52Z","by":"grenudi","id":"5f3aac7","project":"linux-phone-oco/lab-tools","says":"feat: devlab kernel install --cmdline - extra kernel options for a test entry only (#6)"}
 {"at":"2026-11-11T14:33:32Z","by":"grenudi","id":"62cc1e4","project":"linux-phone-oco/lab-tools","says":"feat(devlab): health waits for the phone to settle before checking (#25)"}
+{"at":"2026-11-17T09:55:23Z","by":"grenudi","id":"701e299","project":"linux-phone-oco/lab-tools","says":"feat: devlab guard keeps only the phone's way; the shared ways are the ideal-agent plugin's (#65)"}
 {"at":"2026-11-10T19:44:45Z","by":"grenudi","id":"7032731","project":"linux-phone-oco/lab-tools","says":"chore: gathered data lives on the oco-data branch - main is the history of the work (#13)"}
 {"at":"2026-11-10T12:14:25Z","by":"grenudi","id":"7077724","project":"linux-phone-oco/lab-tools","says":"fix: devlab finds the phone quietly - an address that does not answer is no error to show (#4)"}
 {"at":"2026-11-17T03:14:07Z","by":"grenudi","id":"714d740","project":"linux-phone-oco/lab-tools","says":"feat: devlab files each run by docs' record test-run, and derives by its derive-* records (#46)"}
@@ -2737,6 +2738,7 @@
 {"at":"2026-11-16T20:00:18Z","by":"oco harvest","id":"b1698d2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T01:36:53Z","by":"oco harvest","id":"b247877","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T09:48:14Z","by":"oco harvest","id":"b259c6f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T09:52:54Z","by":"oco harvest","id":"b26260f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T03:13:00Z","by":"oco harvest","id":"b29f6ae","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T10:34:57Z","by":"oco harvest","id":"b2b23e5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T13:39:12Z","by":"oco harvest","id":"b2db452","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
