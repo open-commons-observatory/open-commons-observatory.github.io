@@ -501,6 +501,7 @@
 {"at":"2026-09-23T07:09:56Z","by":"grenudi","id":"ea6d4ae","project":"git-rhizoid/git-rhizoid.github.io","says":"feat(data): design the boundary layer, having read argenv's real API"}
 {"at":"2026-09-23T12:43:32Z","by":"grenudi","id":"ed86798","project":"git-rhizoid/git-rhizoid.github.io","says":"feat(data): log the boundary layer implementation and its real bugs"}
 {"at":"2026-11-13T06:56:35Z","by":"grenudi","id":"fafad80","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261113-065606","says":"docs: a milestone ahead of its evidence, raised (#22)"}
+{"at":"2026-11-17T10:31:19Z","by":"grenudi","id":"16dcd53","project":"grenudi/ideal-agent","says":"docs: devlab reads shell commands with ideal-agent's reader: done (#4)"}
 {"at":"2026-11-17T09:42:13Z","by":"grenudi","id":"3cbec09","project":"grenudi/ideal-agent","says":"Initial commit"}
 {"at":"2026-11-17T09:51:25Z","by":"grenudi","id":"5905800","project":"grenudi/ideal-agent","says":"feat: the ideal agent: its mark, its tad database, and one Claude Code plugin (#1)"}
 {"at":"2026-11-17T10:24:33Z","by":"grenudi","id":"5967ea8","project":"grenudi/ideal-agent","says":"docs: the move into ideal-agent recorded: done, proven live, every old place pointing here (#3)"}
@@ -704,6 +705,7 @@
 {"at":"2026-11-16T23:29:04Z","by":"grenudi","id":"1ab2ce7","project":"linux-phone-oco/lab-tools","says":"feat: The phone checks its own health after every boot: devlab-health and devlab suite (#29)"}
 {"at":"2026-11-10T12:38:33Z","by":"grenudi","id":"25e5fe4","project":"linux-phone-oco/lab-tools","says":"feat: devlab test, health and watch - regressions caught, silence when all is well (#5)"}
 {"at":"2026-11-17T09:29:21Z","by":"grenudi","id":"26ef2ed","project":"linux-phone-oco/lab-tools","says":"fix: mobile-data measures the data bearer, never the IMS one beside it (#62)"}
+{"at":"2026-11-17T10:29:28Z","by":"grenudi","id":"28f327a","project":"linux-phone-oco/lab-tools","says":"refactor: devlab's guard reads commands with ideal-agent's reader (#67)"}
 {"at":"2026-11-10T11:43:09Z","by":"grenudi","id":"2b14996","project":"linux-phone-oco/lab-tools","says":"feat: devlab - the device lab for any phone, from its manifest; step 1, reaching the phone (#1)"}
 {"at":"2026-11-11T21:37:29Z","by":"grenudi","id":"2b36565","project":"linux-phone-oco/lab-tools","says":"chore: glimpses are recorded here from now on (#26)"}
 {"at":"2026-11-17T01:33:23Z","by":"grenudi","id":"3029dfd","project":"linux-phone-oco/lab-tools","says":"feat: The ways, held for agents: devlab guard, for the lab's Claude Code hooks (#36)"}
@@ -2956,6 +2958,7 @@
 {"at":"2026-11-14T09:32:49Z","by":"oco harvest","id":"e9e0369","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T06:26:49Z","by":"oco harvest","id":"eb64d12","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T18:11:43Z","by":"grenudi","id":"ebc09fe","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: lenses drawn - the renderer and the Linux Phones lens done; the session logged (#18)"}
+{"at":"2026-11-17T10:28:42Z","by":"oco harvest","id":"ebecd04","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T02:03:05Z","by":"oco harvest","id":"ec28421","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T18:36:13Z","by":"grenudi","id":"ec7f56d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: languages live - the structure done, the interface in progress, the session logged (#20)"}
 {"at":"2026-11-12T11:43:04Z","by":"oco harvest","id":"eca3b93","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
