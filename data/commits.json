@@ -582,6 +582,7 @@
 {"at":"2026-11-17T01:00:18Z","by":"grenudi","id":"722b44a","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#87)"}
 {"at":"2026-11-17T04:40:08Z","by":"grenudi","id":"78455d1","project":"linux-phone-oco/docs","says":"docs: lab-tools: asked - make a proven test kernel the phone's default (#125)"}
 {"at":"2026-11-10T00:33:46Z","by":"grenudi","id":"7a10c36","project":"linux-phone-oco/docs","says":"feat(data): plasma-silent - sound works after writing the chips' volume; not yet persistent (#17)"}
+{"at":"2026-11-17T04:54:11Z","by":"grenudi","id":"7ddbe05","project":"linux-phone-oco/docs","says":"docs: Microphones researched: analog on the WCD; UCM capture next, upstream with PR 60 (#129)"}
 {"at":"2026-11-10T03:58:52Z","by":"grenudi","id":"81e7a43","project":"linux-phone-oco/docs","says":"feat(data): the tas2562 volume bug is fixed - Plasma's silence explained; both patches queued (#29)"}
 {"at":"2026-11-12T01:05:33Z","by":"grenudi","id":"82ca47b","project":"linux-phone-oco/docs","says":"build: tad 0.5.0: the pin moved, the data and documents re-rendered (#70)"}
 {"at":"2026-11-16T23:40:26Z","by":"grenudi","id":"8377c4a","project":"linux-phone-oco/docs","says":"docs: 9 runs of surya filed by devlab gather: the phone's own health reports (#80)"}
@@ -718,6 +719,7 @@
 {"at":"2026-11-09T23:38:24Z","by":"grenudi","id":"0c91049","project":"linux-phone-oco/surya-lab","says":"feat: FIXES=0 flashes the image as it is (sshd only), to tell an image fault from ours (#6)"}
 {"at":"2026-11-10T04:12:08Z","by":"grenudi","id":"0ea8dfa","project":"linux-phone-oco/surya-lab","says":"fix(tests): the ADSP check's crash count, and resume timestamps read inside the kernel's padding (#18)"}
 {"at":"2026-11-17T02:56:52Z","by":"grenudi","id":"11d21a6","project":"linux-phone-oco/surya-lab","says":"docs: mic-records: judge the last half second, not the filter's start-up ringing (#90)"}
+{"at":"2026-11-17T04:53:12Z","by":"grenudi","id":"162939c","project":"linux-phone-oco/surya-lab","says":"docs: The microphone is no longer a known gap: the kept kernel records with both mics (#102)"}
 {"at":"2026-11-17T03:23:31Z","by":"grenudi","id":"1674f01","project":"linux-phone-oco/surya-lab","says":"docs: Microphone: the reset was held by the codec's sleep pin state; capture now prepares (#91)"}
 {"at":"2026-11-17T01:50:08Z","by":"grenudi","id":"16bda51","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#82)"}
 {"at":"2026-11-10T22:22:01Z","by":"grenudi","id":"170f4ba","project":"linux-phone-oco/surya-lab","says":"docs: the lab's idea, told for anyone (#42)"}
@@ -2759,6 +2761,7 @@
 {"at":"2026-11-10T23:04:03Z","by":"oco harvest","id":"dca96b3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T11:53:06Z","by":"oco harvest","id":"dd3774c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T21:54:19Z","by":"oco harvest","id":"dd4aa63","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T04:51:43Z","by":"oco harvest","id":"dd9f339","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T01:12:59Z","by":"oco harvest","id":"ddbfdf1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T00:15:02Z","by":"oco harvest","id":"de15ca8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T07:27:09Z","by":"oco harvest","id":"de3b8e3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
