@@ -92,7 +92,7 @@
 {"bytes":7956,"id":"src/guard.rs","lines":242,"path":"src/guard.rs","project":"grenudi/ideal-agent"}
 {"bytes":258,"id":"src/lib.rs","lines":5,"path":"src/lib.rs","project":"grenudi/ideal-agent"}
 {"bytes":5202,"id":"src/main.rs","lines":160,"path":"src/main.rs","project":"grenudi/ideal-agent"}
-{"bytes":4809,"id":"src/practices.rs","lines":124,"path":"src/practices.rs","project":"grenudi/ideal-agent"}
+{"bytes":6528,"id":"src/practices.rs","lines":162,"path":"src/practices.rs","project":"grenudi/ideal-agent"}
 {"bytes":11402,"id":"src/shell.rs","lines":304,"path":"src/shell.rs","project":"grenudi/ideal-agent"}
 {"bytes":17303,"id":"devlab/src/device.rs","lines":527,"path":"devlab/src/device.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":7978,"id":"devlab/src/flash.rs","lines":232,"path":"devlab/src/flash.rs","project":"linux-phone-oco/lab-tools"}
