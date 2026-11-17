@@ -57,8 +57,8 @@
 {"bytes":3522,"id":"AGENTS.md","lines":47,"path":"AGENTS.md","project":"grenudi/ideal-agent"}
 {"bytes":4106,"id":"README.md","lines":69,"path":"README.md","project":"grenudi/ideal-agent"}
 {"bytes":1361,"id":"agents/researcher.md","lines":17,"path":"agents/researcher.md","project":"grenudi/ideal-agent"}
-{"bytes":4290,"id":"docs/backlog.md","lines":136,"path":"docs/backlog.md","project":"grenudi/ideal-agent"}
-{"bytes":27184,"id":"docs/decisions.md","lines":353,"path":"docs/decisions.md","project":"grenudi/ideal-agent"}
+{"bytes":4673,"id":"docs/backlog.md","lines":152,"path":"docs/backlog.md","project":"grenudi/ideal-agent"}
+{"bytes":28509,"id":"docs/decisions.md","lines":378,"path":"docs/decisions.md","project":"grenudi/ideal-agent"}
 {"bytes":739,"id":"docs/index.md","lines":15,"path":"docs/index.md","project":"grenudi/ideal-agent"}
 {"bytes":4373,"id":"docs/landscape.md","lines":78,"path":"docs/landscape.md","project":"grenudi/ideal-agent"}
 {"bytes":30907,"id":"docs/practices.md","lines":677,"path":"docs/practices.md","project":"grenudi/ideal-agent"}
@@ -72,8 +72,8 @@
 {"bytes":2752,"id":"skills/bring-up-a-part/SKILL.md","lines":35,"path":"skills/bring-up-a-part/SKILL.md","project":"grenudi/ideal-agent"}
 {"bytes":2157,"id":"skills/change-a-device/SKILL.md","lines":26,"path":"skills/change-a-device/SKILL.md","project":"grenudi/ideal-agent"}
 {"bytes":3325,"id":"skills/keep-a-shared-resource/SKILL.md","lines":48,"path":"skills/keep-a-shared-resource/SKILL.md","project":"grenudi/ideal-agent"}
-{"bytes":4126,"id":"skills/keep-the-start-light/SKILL.md","lines":58,"path":"skills/keep-the-start-light/SKILL.md","project":"grenudi/ideal-agent"}
-{"bytes":2589,"id":"skills/lab-session-start/SKILL.md","lines":40,"path":"skills/lab-session-start/SKILL.md","project":"grenudi/ideal-agent"}
+{"bytes":4338,"id":"skills/keep-the-start-light/SKILL.md","lines":60,"path":"skills/keep-the-start-light/SKILL.md","project":"grenudi/ideal-agent"}
+{"bytes":2850,"id":"skills/lab-session-start/SKILL.md","lines":44,"path":"skills/lab-session-start/SKILL.md","project":"grenudi/ideal-agent"}
 {"bytes":2031,"id":"skills/land-a-change/SKILL.md","lines":26,"path":"skills/land-a-change/SKILL.md","project":"grenudi/ideal-agent"}
 {"bytes":2667,"id":"skills/look-around-first/SKILL.md","lines":33,"path":"skills/look-around-first/SKILL.md","project":"grenudi/ideal-agent"}
 {"bytes":3874,"id":"skills/orchestrate-agents/SKILL.md","lines":52,"path":"skills/orchestrate-agents/SKILL.md","project":"grenudi/ideal-agent"}

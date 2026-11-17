@@ -520,6 +520,7 @@
 {"at":"2026-11-17T10:17:19Z","by":"grenudi","id":"6a54fd7","project":"grenudi/ideal-agent","says":"feat: one keeper per shared resource: a role skill, a practice and its research (#2)"}
 {"at":"2026-11-17T11:43:57Z","by":"grenudi","id":"6fce9c3","project":"grenudi/ideal-agent","says":"fix: nothing of ocoeco: skills look and record through tad and idealkb only (#9)"}
 {"at":"2026-11-17T11:48:30Z","by":"grenudi","id":"8820395","project":"grenudi/ideal-agent","says":"feat: look around first, as a skill; ideal-agent pins idealkb 0.3.0 (#12)"}
+{"at":"2026-11-17T12:48:42Z","by":"grenudi","id":"954abd3","project":"grenudi/ideal-agent","says":"docs: Gmail and Claude Docs off by default; a session that needs one asks (#19)"}
 {"at":"2026-11-17T12:40:01Z","by":"grenudi","id":"aab4ad6","project":"grenudi/ideal-agent","says":"feat: read only when: the start reads the task's summary; what a session read, measured (#17)"}
 {"at":"2026-11-17T11:51:06Z","by":"grenudi","id":"b31fefd","project":"grenudi/ideal-agent","says":"feat: keep the start light: housekeeping measured per role, reasons a command away (#13)"}
 {"at":"2026-11-17T11:18:19Z","by":"grenudi","id":"baf6ee3","project":"grenudi/ideal-agent","says":"feat: a skill: finding your way in a tad knowledge base (#6)"}
@@ -1561,6 +1562,7 @@
 {"at":"2026-11-14T16:11:48Z","by":"oco observe","id":"f13b5ef","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-17T10:34:25Z","by":"oco observe","id":"f17adb3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T12:21:15Z","by":"oco observe","id":"f1d4012","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T12:48:10Z","by":"oco observe","id":"f24321e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T00:48:24Z","by":"oco observe","id":"f33b1a8","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T08:55:36Z","by":"oco observe","id":"f488088","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T22:01:29Z","by":"oco observe","id":"f4aed04","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -2522,6 +2524,7 @@
 {"at":"2026-11-15T08:55:26Z","by":"oco harvest","id":"4abd005","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T18:15:14Z","by":"oco harvest","id":"4aeb830","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T03:17:14Z","by":"oco harvest","id":"4b81290","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T12:47:15Z","by":"oco harvest","id":"4c0e3bc","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T04:20:51Z","by":"oco harvest","id":"4c490c7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T23:00:51Z","by":"grenudi","id":"4cbd2cb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"docs: its idea in Russian (by machine, for a person to correct) (#37)"}
 {"at":"2026-11-12T02:41:02Z","by":"oco harvest","id":"4cff19f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
