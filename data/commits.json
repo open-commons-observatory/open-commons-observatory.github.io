@@ -610,6 +610,7 @@
 {"at":"2026-11-11T23:16:02Z","by":"grenudi","id":"f2d49fe","project":"linux-phone-oco/docs","record":"g-20261111-231211","says":"chore: parked: the lab-agent redesign comes first; each item keeps its resume point (#69)"}
 {"at":"2026-11-17T01:04:46Z","by":"grenudi","id":"f454dfa","project":"linux-phone-oco/docs","record":"g-20261117-010419","says":"docs: A prompt for the bring-up session: each part of a phone, made to work (#88)"}
 {"at":"2026-11-11T17:34:01Z","by":"grenudi","id":"f603be3","project":"linux-phone-oco/docs","says":"docs: after the switch to tad - the feed comment, the session logged (#62)"}
+{"at":"2026-11-17T02:07:39Z","by":"grenudi","id":"f659865","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#112)"}
 {"at":"2026-11-10T04:13:10Z","by":"grenudi","id":"f92337c","project":"linux-phone-oco/docs","says":"feat(data): the ADSP crashes after resume, and a kernel component (#30)"}
 {"at":"2026-11-10T13:34:55Z","by":"grenudi","id":"f97e75d","project":"linux-phone-oco/docs","says":"feat(data): the session log - the conveyor in Rust, self-watching health, the microphone narrowed (#37)"}
 {"at":"2026-11-17T01:34:49Z","by":"grenudi","id":"fa56de6","project":"linux-phone-oco/docs","record":"g-20261117-013422","says":"docs: Two needs of the author: an Android reference, a second phone (#96)"}
@@ -718,6 +719,7 @@
 {"at":"2026-11-11T09:58:49Z","by":"grenudi","id":"88e3225","project":"linux-phone-oco/surya-lab","says":"docs: the map to a first recording; the pin fix to be ported to the branch (#50)"}
 {"at":"2026-11-10T04:08:17Z","by":"grenudi","id":"8a96a88","project":"linux-phone-oco/surya-lab","says":"feat(tests): boot warnings - the known ones pass with their reasons, a new one fails by name (#16)"}
 {"at":"2026-11-10T00:03:16Z","by":"grenudi","id":"8c5ec1f","project":"linux-phone-oco/surya-lab","says":"fix: the stereo profile sets the amplifiers' digital volume to 0 dB (#8)"}
+{"at":"2026-11-17T02:07:01Z","by":"grenudi","id":"91e5e6d","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#87)"}
 {"at":"2026-11-10T12:32:09Z","by":"grenudi","id":"95c84eb","project":"linux-phone-oco/surya-lab","says":"fix(ucm): the speaker is the default output even with Sxmo's loopback card (#30)"}
 {"at":"2026-11-10T02:46:35Z","by":"grenudi","id":"971f981","project":"linux-phone-oco/surya-lab","says":"fix(tests): run ids per second, so two runs in one minute keep both results (#13)"}
 {"at":"2026-11-11T15:11:14Z","by":"grenudi","id":"9964e65","project":"linux-phone-oco/surya-lab","says":"data: the modem - a wrong theory corrected; the transfer options remain the lead (#63)"}
@@ -745,6 +747,7 @@
 {"at":"2026-11-09T18:41:20Z","by":"grenudi","id":"cddd6a1","project":"linux-phone-oco/surya-lab","says":"feat: adsp/registry-trial.sh - put the sensor registry in a named state and count ADSP crashes (#2)"}
 {"at":"2026-11-10T17:46:32Z","by":"ocoeco gather","id":"cfebd6a","project":"linux-phone-oco/surya-lab","says":"data: gathered by ocoeco"}
 {"at":"2026-11-11T15:04:51Z","by":"grenudi","id":"d1ad150","project":"linux-phone-oco/surya-lab","says":"data/the modem with a sim (#61)"}
+{"at":"2026-11-17T02:10:40Z","by":"grenudi","id":"d1cab3d","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#88)"}
 {"at":"2026-11-11T12:19:00Z","by":"grenudi","id":"d341d67","project":"linux-phone-oco/surya-lab","says":"data: hand-work in effort - totals, load, effort (#55)"}
 {"at":"2026-11-11T00:46:05Z","by":"grenudi","id":"d3eddb5","project":"linux-phone-oco/surya-lab","says":"docs: what the measuring showed is needed - a SIM card, image sensors, sensors without the crash (#46)"}
 {"at":"2026-11-11T21:38:20Z","by":"grenudi","id":"d4b3c81","project":"linux-phone-oco/surya-lab","record":"g-20261111-213803","says":"chore: glimpses are recorded here from now on (#65)"}
@@ -2225,6 +2228,7 @@
 {"at":"2026-11-13T07:55:53Z","by":"oco harvest","id":"473bd04","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T10:06:49Z","by":"oco harvest","id":"4746f07","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T03:02:50Z","by":"oco harvest","id":"4748eb4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T02:07:49Z","by":"oco harvest","id":"47ca691","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T00:19:35Z","by":"oco harvest","id":"484fb19","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T12:32:27Z","by":"oco harvest","id":"4855f23","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T09:36:12Z","by":"oco harvest","id":"487857c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
