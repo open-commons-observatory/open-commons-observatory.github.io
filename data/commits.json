@@ -679,6 +679,7 @@
 {"at":"2026-11-17T02:11:14Z","by":"grenudi","id":"1ab8705","project":"linux-phone-oco/docs","says":"docs: 2 runs of xiaomi-surya filed by devlab, from the phone's own reports (#113)"}
 {"at":"2026-11-17T18:53:06Z","by":"grenudi","id":"1b187a2","project":"linux-phone-oco/docs","says":"docs: walleye bisect s1 s2 s3 tried - none starts; footer next (#321)"}
 {"at":"2026-11-17T02:33:12Z","by":"grenudi","id":"1bece03","project":"linux-phone-oco/docs","says":"docs: Microphone: the codec drops off both buses at card registration; the boot race recurs (#114)"}
+{"at":"2026-11-17T19:02:25Z","by":"grenudi","id":"1bf3da3","project":"linux-phone-oco/docs","says":"docs: sleep-standby-current go - the keeper prepares the off-USB run (#329)"}
 {"at":"2026-11-17T18:16:11Z","by":"grenudi","id":"1c7042e","project":"linux-phone-oco/docs","says":"docs(surya): uart8 is not the SH0 sleep-vote owner; how the phone stands (#295)"}
 {"at":"2026-11-16T23:56:31Z","by":"grenudi","id":"1ccec59","project":"linux-phone-oco/docs","says":"docs: The conveyor for any phone: health on the phone, gather, MCP, the device template (#81)"}
 {"at":"2026-11-10T19:02:22Z","by":"grenudi","id":"1e0c661","project":"linux-phone-oco/docs","says":"feat(data): the project's own data in Russian - a translations table, by machine (#43)"}
@@ -705,6 +706,7 @@
 {"at":"2026-11-10T02:23:34Z","by":"grenudi","id":"2b15121","project":"linux-phone-oco/docs","says":"feat(data): the first automatic test runs on surya (Sxmo, 2026-11-10) (#25)"}
 {"at":"2026-11-17T04:39:00Z","by":"grenudi","id":"2b4b6d7","project":"linux-phone-oco/docs","says":"docs: Tests: mic-hears-speaker proves the microphone works; speaker-stereo (#124)"}
 {"at":"2026-11-10T01:12:39Z","by":"grenudi","id":"2cf8f19","project":"linux-phone-oco/docs","says":"feat(data): the feature catalog - 46 capabilities of a modern phone against Android, iOS and Linux (#19)"}
+{"at":"2026-11-17T19:01:14Z","by":"grenudi","id":"2d328d5","project":"linux-phone-oco/docs","says":"surya research aop view (#328)"}
 {"at":"2026-11-17T17:48:57Z","by":"grenudi","id":"2d83efd","project":"linux-phone-oco/docs","says":"docs: walleye stock-ids and variants-build done; control and variants tries carry their images (#285)"}
 {"at":"2026-11-10T00:21:56Z","by":"grenudi","id":"2da79d4","project":"linux-phone-oco/docs","says":"feat(data): plasma-silent and a second tas2562 bug (volume writes not reaching the chips) (#16)"}
 {"at":"2026-11-17T17:57:27Z","by":"grenudi","id":"2def2ef","project":"linux-phone-oco/docs","says":"docs: sensors-registry-writes first try (PR #27 build), how the phone stands (#288)"}
@@ -3434,6 +3436,7 @@
 {"at":"2026-11-14T18:22:48Z","by":"oco harvest","id":"f80a3e1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T08:37:49Z","by":"oco harvest","id":"f833e5a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T22:28:34Z","by":"oco harvest","id":"f842403","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T19:01:44Z","by":"oco harvest","id":"f8c81a6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T11:33:39Z","by":"oco harvest","id":"f91808f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T18:57:45Z","by":"oco harvest","id":"f93afa0","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T17:14:41Z","by":"oco harvest","id":"f970566","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
