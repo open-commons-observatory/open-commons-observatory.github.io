@@ -401,6 +401,7 @@
 {"at":"2026-11-12T00:31:03Z","by":"grenudi","id":"1cd6373","project":"creation-guidelines/tad-engine","record":"g-20261112-002954","says":"docs: tad's SQL: DuckDB as an adapter, measured; the repository becomes tad (#67)"}
 {"at":"2026-09-22T08:04:16Z","by":"github-actions[bot]","id":"1ce9f2e","project":"creation-guidelines/tad-engine","says":"chore(main): release 1.1.0"}
 {"at":"2026-11-10T15:18:07Z","by":"grenudi","id":"2269abe","project":"creation-guidelines/tad-engine","says":"chore(mark): tad is text as data (#23)"}
+{"at":"2026-11-17T10:58:18Z","by":"github-actions[bot]","id":"22a8f81","project":"creation-guidelines/tad-engine","says":"chore(main): release tad 0.7.0 (#86)"}
 {"at":"2026-09-23T06:37:40Z","by":"grenudi","id":"273400f","project":"creation-guidelines/tad-engine","says":"feat(render): horizontal rule between log entries (#13)"}
 {"at":"2026-09-22T00:30:15Z","by":"grenudi","id":"2916c4e","project":"creation-guidelines/tad-engine","says":"feat: initial tad-engine, extracted from text-as-data-template"}
 {"at":"2026-09-22T08:04:03Z","by":"grenudi","id":"2c7030b","project":"creation-guidelines/tad-engine","says":"feat(ci): tag dist at each release, so consumers can pin a version (#7)"}
@@ -445,6 +446,7 @@
 {"at":"2026-11-11T17:50:18Z","by":"grenudi","id":"a763e4d","project":"creation-guidelines/tad-engine","says":"ci: dependabot watches the Rust crate, not the retired Python engine (#42)"}
 {"at":"2026-11-11T17:47:18Z","by":"grenudi","id":"b5e49e4","project":"creation-guidelines/tad-engine","says":"refactor!: retire the Python engine - tad is the Rust tool (#41)"}
 {"at":"2026-11-11T16:27:05Z","by":"grenudi","id":"bd20730","project":"creation-guidelines/tad-engine","says":"docs: tad in Rust, designed - tables declared as data, proven equal before the switch (#31)"}
+{"at":"2026-11-17T10:57:39Z","by":"grenudi","id":"c4b0dd8","project":"creation-guidelines/tad-engine","record":"g-20261117-105629","says":"feat: tad init starts a bare database: declaration, data/, the pinned release, the CI check (#85)"}
 {"at":"2026-11-11T16:38:45Z","by":"grenudi","id":"c53c2d3","project":"creation-guidelines/tad-engine","says":"fix(tad): a rule guarded by another field is a dependency, not a requirement (#34)"}
 {"at":"2026-11-03T23:01:00Z","by":"grenudi","id":"c9df587","project":"creation-guidelines/tad-engine","says":"feat(render): write reStructuredText as well as Markdown (#16)"}
 {"at":"2026-11-11T17:17:06Z","by":"grenudi","id":"cd32edb","project":"creation-guidelines/tad-engine","says":"ci: release tad through the package conveyor - binaries with signed provenance for every tad-v tag (#39)"}
@@ -2537,6 +2539,7 @@
 {"at":"2026-11-17T08:35:48Z","by":"oco harvest","id":"62cb715","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T12:39:17Z","by":"oco harvest","id":"62d7f6f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T08:47:47Z","by":"oco harvest","id":"6303d70","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T10:53:58Z","by":"oco harvest","id":"63d4ed0","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T18:28:23Z","by":"grenudi","id":"63ff00e","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261112-182808","says":"docs: practice 25: evidence before the word - what landed is read back from main (#72)"}
 {"at":"2026-11-12T02:01:52Z","by":"oco harvest","id":"64db199","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T06:35:10Z","by":"oco harvest","id":"6568c4c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
