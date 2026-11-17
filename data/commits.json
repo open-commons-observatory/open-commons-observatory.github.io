@@ -524,6 +524,7 @@
 {"at":"2026-11-17T13:02:03Z","by":"grenudi","id":"87c2fcf","project":"grenudi/ideal-agent","says":"fix: scripts/read-weight lands: what a started session read, from its transcript (#22)"}
 {"at":"2026-11-17T11:48:30Z","by":"grenudi","id":"8820395","project":"grenudi/ideal-agent","says":"feat: look around first, as a skill; ideal-agent pins idealkb 0.3.0 (#12)"}
 {"at":"2026-11-17T12:48:42Z","by":"grenudi","id":"954abd3","project":"grenudi/ideal-agent","says":"docs: Gmail and Claude Docs off by default; a session that needs one asks (#19)"}
+{"at":"2026-11-17T15:07:13Z","by":"grenudi","id":"9c6e55d","project":"grenudi/ideal-agent","says":"feat: skills: record with ikb, read the base's IKB.md (plugin 0.2.8) (#25)"}
 {"at":"2026-11-17T13:05:26Z","by":"grenudi","id":"a0df0f2","project":"grenudi/ideal-agent","says":"docs: the first after number, and why it is not yet comparable (#24)"}
 {"at":"2026-11-17T12:40:01Z","by":"grenudi","id":"aab4ad6","project":"grenudi/ideal-agent","says":"feat: read only when: the start reads the task's summary; what a session read, measured (#17)"}
 {"at":"2026-11-17T11:51:06Z","by":"grenudi","id":"b31fefd","project":"grenudi/ideal-agent","says":"feat: keep the start light: housekeeping measured per role, reasons a command away (#13)"}
@@ -707,6 +708,7 @@
 {"at":"2026-11-17T13:05:58Z","by":"grenudi","id":"9aaabee","project":"linux-phone-oco/docs","says":"docs: surya coordinator brief and decision 2026-11-17-a-coordinator-per-lane (#198)"}
 {"at":"2026-11-17T13:10:38Z","by":"grenudi","id":"9b028df","project":"linux-phone-oco/docs","says":"feat(docs): phone-next, the keeper's one item in one row (#202)"}
 {"at":"2026-11-17T01:40:02Z","by":"grenudi","id":"9ba117a","project":"linux-phone-oco/docs","says":"docs: A second phone: not now, the author says (#102)"}
+{"at":"2026-11-17T15:05:49Z","by":"grenudi","id":"9c0fcc4","project":"linux-phone-oco/docs","says":"feat: docs follows idealkb 0.7.1 and records with ikb: IKB.md, machine records named (#215)"}
 {"at":"2026-11-10T03:00:36Z","by":"grenudi","id":"9ca3b14","project":"linux-phone-oco/docs","says":"feat(data): upstream-sxmo-profile - the Sxmo device profile for surya, ready to send (#26)"}
 {"at":"2026-11-17T05:11:46Z","by":"grenudi","id":"9e92c18","project":"linux-phone-oco/docs","says":"docs: Patrol: four signs - the watch files no run, unsigned landings, hand restarts, lens unchecked (#133)"}
 {"at":"2026-11-10T01:02:21Z","by":"grenudi","id":"9f876a6","project":"linux-phone-oco/docs","says":"feat: the engine's matrix rule - the support page becomes a device-by-component grid (#18)"}
@@ -2821,6 +2823,7 @@
 {"at":"2026-11-15T12:34:24Z","by":"oco harvest","id":"8ecbef7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T00:36:21Z","by":"oco harvest","id":"8f248f0","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T09:37:21Z","by":"grenudi","id":"8f3220b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"docs: this morning's findings, with concepts and decisions (#44)"}
+{"at":"2026-11-17T15:06:31Z","by":"oco harvest","id":"8f53541","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T08:38:10Z","by":"oco harvest","id":"8faa47a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T16:13:26Z","by":"oco harvest","id":"8fdb044","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T22:10:07Z","by":"oco harvest","id":"9073c3e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
