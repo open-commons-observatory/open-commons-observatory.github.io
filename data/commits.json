@@ -426,6 +426,7 @@
 {"at":"2026-09-22T06:50:20Z","by":"grenudi","id":"5d86914","project":"creation-guidelines/tad-engine","says":"docs(engine): recommend git subrepo instead of git subtree (#5)"}
 {"at":"2026-11-11T18:00:22Z","by":"grenudi","id":"5e4f67d","project":"creation-guidelines/tad-engine","says":"feat(render): the notice on every page names tad, not the retired Python renderer (#49)"}
 {"at":"2026-11-16T19:27:24Z","by":"grenudi","id":"64936e7","project":"creation-guidelines/tad-engine","record":"g-20261116-192602","says":"chore: tad's releases are drafts until the conveyor says them, once their files are there (#78)"}
+{"at":"2026-11-17T11:13:59Z","by":"grenudi","id":"651e5c9","project":"creation-guidelines/tad-engine","record":"g-20261117-111259","says":"fix: tad's weekly pin reaches bases tad init started; ideal-knowledge-base is one (#87)"}
 {"at":"2026-11-04T07:28:34Z","by":"grenudi","id":"672303f","project":"creation-guidelines/tad-engine","says":"fix(ci): dependabot watches the engine's own requirements (#17)"}
 {"at":"2026-11-11T18:20:30Z","by":"grenudi","id":"6eacd29","project":"creation-guidelines/tad-engine","says":"feat: update-pins keeps each repository's pinned tad current (#51)"}
 {"at":"2026-11-12T01:10:27Z","by":"grenudi","id":"706ce5f","project":"creation-guidelines/tad-engine","record":"g-20261112-010918","says":"docs: tad sql delivered: released and in use in the four repositories (#73)"}
@@ -639,6 +640,7 @@
 {"at":"2026-11-17T05:11:46Z","by":"grenudi","id":"9e92c18","project":"linux-phone-oco/docs","says":"docs: Patrol: four signs - the watch files no run, unsigned landings, hand restarts, lens unchecked (#133)"}
 {"at":"2026-11-10T01:02:21Z","by":"grenudi","id":"9f876a6","project":"linux-phone-oco/docs","says":"feat: the engine's matrix rule - the support page becomes a device-by-component grid (#18)"}
 {"at":"2026-11-11T17:32:51Z","by":"grenudi","id":"a028cc0","project":"linux-phone-oco/docs","says":"refactor: tad in Rust replaces the vendored Python engine (#61)"}
+{"at":"2026-11-17T11:11:43Z","by":"grenudi","id":"a094eb9","project":"linux-phone-oco/docs","says":"feat: docs follows ideal-knowledge-base 0.1.0: the short entry, next, find, row and recent (#180)"}
 {"at":"2026-11-17T09:16:58Z","by":"grenudi","id":"a0cfdca","project":"linux-phone-oco/docs","says":"docs: the telephony layer; suite put from the lab's main (#153)"}
 {"at":"2026-11-12T01:08:04Z","by":"grenudi","id":"a316057","project":"linux-phone-oco/docs","says":"feat: SQL is back: make sql, tad engine in setup, the recipe (#71)"}
 {"at":"2026-11-10T04:53:05Z","by":"grenudi","id":"a427240","project":"linux-phone-oco/docs","says":"feat(data): the ADSP wake-up crash narrowed - rare, early in a boot (#33)"}
@@ -2902,6 +2904,7 @@
 {"at":"2026-11-16T19:45:28Z","by":"oco harvest","id":"d010795","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T09:46:56Z","by":"oco harvest","id":"d02a463","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T01:22:51Z","by":"oco harvest","id":"d049d07","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T11:12:00Z","by":"oco harvest","id":"d0693e4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T03:56:23Z","by":"oco harvest","id":"d16a8f8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T15:46:17Z","by":"oco harvest","id":"d1960e5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T01:03:24Z","by":"oco harvest","id":"d2530d1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
