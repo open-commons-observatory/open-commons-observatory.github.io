@@ -537,6 +537,7 @@
 {"at":"2026-11-11T01:10:04Z","by":"grenudi","id":"309d3ea","project":"linux-phone-oco/docs","says":"feat(data): the cameras' fault, understood - no sensor described; the wiring known (#53)"}
 {"at":"2026-11-10T01:36:01Z","by":"grenudi","id":"325abe7","project":"linux-phone-oco/docs","says":"feat(feed): kernel work on surya's device tree, from sm7150-mainline (#23)"}
 {"at":"2026-11-17T02:04:12Z","by":"grenudi","id":"3288b61","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#111)"}
+{"at":"2026-11-17T03:24:33Z","by":"grenudi","id":"3799499","project":"linux-phone-oco/docs","record":"g-20261117-032404","says":"docs: Microphone: the reset fault found and queued; capture prepares, still silent (#116)"}
 {"at":"2026-11-17T01:25:21Z","by":"grenudi","id":"3a88fc0","project":"linux-phone-oco/docs","record":"g-20261117-012455","says":"docs: How linux-phone's agents are organised: roles, briefs, the data as shared state (#93)"}
 {"at":"2026-11-11T16:44:33Z","by":"grenudi","id":"3d67245","project":"linux-phone-oco/docs","says":"docs: the tables declared as data, for tad in Rust (#60)"}
 {"at":"2026-11-10T17:37:49Z","by":"grenudi","id":"41ca2e8","project":"linux-phone-oco/docs","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#42)"}
@@ -689,6 +690,7 @@
 {"at":"2026-11-09T23:38:24Z","by":"grenudi","id":"0c91049","project":"linux-phone-oco/surya-lab","says":"feat: FIXES=0 flashes the image as it is (sshd only), to tell an image fault from ours (#6)"}
 {"at":"2026-11-10T04:12:08Z","by":"grenudi","id":"0ea8dfa","project":"linux-phone-oco/surya-lab","says":"fix(tests): the ADSP check's crash count, and resume timestamps read inside the kernel's padding (#18)"}
 {"at":"2026-11-17T02:56:52Z","by":"grenudi","id":"11d21a6","project":"linux-phone-oco/surya-lab","record":"g-20261117-025635","says":"docs: mic-records: judge the last half second, not the filter's start-up ringing (#90)"}
+{"at":"2026-11-17T03:23:31Z","by":"grenudi","id":"1674f01","project":"linux-phone-oco/surya-lab","record":"g-20261117-032313","says":"docs: Microphone: the reset was held by the codec's sleep pin state; capture now prepares (#91)"}
 {"at":"2026-11-17T01:50:08Z","by":"grenudi","id":"16bda51","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#82)"}
 {"at":"2026-11-10T22:22:01Z","by":"grenudi","id":"170f4ba","project":"linux-phone-oco/surya-lab","says":"docs: the lab's idea, told for anyone (#42)"}
 {"at":"2026-11-17T01:38:15Z","by":"grenudi","id":"1a4f47a","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#78)"}
@@ -1796,6 +1798,7 @@
 {"at":"2026-11-10T18:49:46Z","by":"grenudi","id":"90ef54a","project":"open-commons-observatory/ocoeco","says":"docs(spec): whose translation - a project translates its own data; ocoeco's records caught up (#13)"}
 {"at":"2026-11-14T22:11:00Z","by":"grenudi","id":"916c046","project":"open-commons-observatory/ocoeco","record":"g-20261114-220930","says":"fix: the longest line, settled: one line, the same each look (#234)"}
 {"at":"2026-11-14T23:40:22Z","by":"github-actions[bot]","id":"916e7e8","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.36.0 (#247)"}
+{"at":"2026-11-17T03:22:44Z","by":"grenudi","id":"91a5fed","project":"open-commons-observatory/ocoeco","record":"g-20261117-032104","says":"fix: a held place's rows are its own where rows are read: one id in two places, two rows (#453)"}
 {"at":"2026-11-16T22:10:37Z","by":"grenudi","id":"9228352","project":"open-commons-observatory/ocoeco","record":"g-20261116-220835","says":"fix: an overlay, not a language: the entry no longer goes by the name of the lens of language (#442)"}
 {"at":"2026-11-13T21:35:38Z","by":"grenudi","id":"934dfb2","project":"open-commons-observatory/ocoeco","record":"g-20261113-213417","says":"feat: a lens is entered: kept by a place as rows, and looked through (#126)"}
 {"at":"2026-11-16T19:07:34Z","by":"grenudi","id":"94248cb","project":"open-commons-observatory/ocoeco","record":"g-20261116-190551","says":"feat: a saying that comes to nothing leaves one standing on nothing (#422)"}
@@ -1904,6 +1907,7 @@
 {"at":"2026-11-15T23:07:17Z","by":"grenudi","id":"cf940c7","project":"open-commons-observatory/ocoeco","record":"g-20261115-230535","says":"feat: entering is said by a lens: what an entry asks, and the row it would keep (#325)"}
 {"at":"2026-11-15T22:11:48Z","by":"grenudi","id":"cfbb77c","project":"open-commons-observatory/ocoeco","record":"g-20261115-221028","says":"fix: an entry said in the window is made where it is kept; a mark names a thing to point at (#321)"}
 {"at":"2026-11-16T21:54:41Z","by":"grenudi","id":"d026447","project":"open-commons-observatory/ocoeco","record":"g-20261116-215249","says":"feat: the language read is in view for every lens: a surface says its own offer of them (#437)"}
+{"at":"2026-11-17T03:23:50Z","by":"github-actions[bot]","id":"d04b599","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.82.2 (#454)"}
 {"at":"2026-11-13T21:06:34Z","by":"grenudi","id":"d1b01f5","project":"open-commons-observatory/ocoeco","record":"g-20261113-210525","says":"fix: in progress is the last day, not the last three (#125)"}
 {"at":"2026-11-10T17:33:32Z","by":"grenudi","id":"d23bb12","project":"open-commons-observatory/ocoeco","says":"docs(spec): lenses - grand views as repositories of their own, rendered by one engine (#6)"}
 {"at":"2026-11-16T11:31:19Z","by":"github-actions[bot]","id":"d47c3aa","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.67.0 (#384)"}
@@ -2271,6 +2275,7 @@
 {"at":"2026-11-14T21:57:46Z","by":"oco harvest","id":"4a30d93","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T08:55:26Z","by":"oco harvest","id":"4abd005","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T18:15:14Z","by":"oco harvest","id":"4aeb830","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T03:17:14Z","by":"oco harvest","id":"4b81290","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T04:20:51Z","by":"oco harvest","id":"4c490c7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T23:00:51Z","by":"grenudi","id":"4cbd2cb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"docs: its idea in Russian (by machine, for a person to correct) (#37)"}
 {"at":"2026-11-12T02:41:02Z","by":"oco harvest","id":"4cff19f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
