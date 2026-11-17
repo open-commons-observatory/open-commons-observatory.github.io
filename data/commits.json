@@ -546,6 +546,7 @@
 {"at":"2026-11-17T15:37:48Z","by":"grenudi","id":"f27a5f1","project":"grenudi/ideal-agent","says":"feat: skills: how to find, choose and record an upstream (plugin 0.3.2) (#32)"}
 {"at":"2026-11-17T12:09:55Z","by":"grenudi","id":"faf6656","project":"grenudi/ideal-agent","says":"feat: briefs first: ideal-agent follows idealkb 0.4.0, its records briefed (#16)"}
 {"at":"2026-11-17T14:40:26Z","by":"github-actions[bot]","id":"062d589","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#21)"}
+{"at":"2026-11-17T16:15:15Z","by":"github-actions[bot]","id":"0b45170","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#42)"}
 {"at":"2026-11-17T15:46:46Z","by":"github-actions[bot]","id":"0d675ca","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#33)"}
 {"at":"2026-11-17T11:36:40Z","by":"grenudi","id":"12334d7","project":"grenudi/ideal-knowledge-base","says":"feat: a summary over many records, and research kept aside in dated folders (#5)"}
 {"at":"2026-11-17T15:18:26Z","by":"github-actions[bot]","id":"12ca79f","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#31)"}
@@ -564,6 +565,7 @@
 {"at":"2026-11-17T11:19:15Z","by":"grenudi","id":"6becc2a","project":"grenudi/ideal-knowledge-base","says":"docs: navigation is ideal-agent's skill ask-a-knowledge-base (#4)"}
 {"at":"2026-11-17T15:56:49Z","by":"github-actions[bot]","id":"6d2f5c5","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#36)"}
 {"at":"2026-11-17T12:15:19Z","by":"grenudi","id":"734d789","project":"grenudi/ideal-knowledge-base","says":"docs: docs takes briefs: both followers answer 0.4.0 (#17)"}
+{"at":"2026-11-17T16:14:32Z","by":"grenudi","id":"75b9461","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: the installer pins ikb 0.4.0 (#41)"}
 {"at":"2026-11-17T15:56:08Z","by":"grenudi","id":"7caa0d1","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: the installer pins ikb 0.4.0 (#35)"}
 {"at":"2026-11-17T12:11:06Z","by":"grenudi","id":"812dc8e","project":"grenudi/ideal-knowledge-base","says":"fix: the pin job leaves a base that refuses a release as its main has it (#13)"}
 {"at":"2026-11-17T12:07:28Z","by":"grenudi","id":"8775b40","project":"grenudi/ideal-knowledge-base","says":"feat: briefs first: every record has a one-line brief, answers give briefs (#11)"}
@@ -735,6 +737,7 @@
 {"at":"2026-11-17T09:42:01Z","by":"grenudi","id":"8deb2ef","project":"linux-phone-oco/docs","says":"docs: 7 runs of xiaomi-surya filed by devlab, from the phone's own reports (#156)"}
 {"at":"2026-11-10T00:05:14Z","by":"grenudi","id":"919f1ec","project":"linux-phone-oco/docs","says":"docs: the grand picture - why, what, where, the evidence conveyor, the orgs, the phases (#15)"}
 {"at":"2026-11-17T15:40:29Z","by":"grenudi","id":"92999d5","project":"linux-phone-oco/docs","says":"docs: orchestration hand-over, 2026-11-17 evening (#231)"}
+{"at":"2026-11-17T16:16:38Z","by":"grenudi","id":"93b230d","project":"linux-phone-oco/docs","says":"fix: docs follows idealkb 0.9.1: no IKB.md, ikb page prints (#241)"}
 {"at":"2026-11-17T11:05:34Z","by":"github-actions[bot]","id":"96c1274","project":"linux-phone-oco/docs","says":"chore(main): release 0.2.0 (#83)"}
 {"at":"2026-11-10T14:20:29Z","by":"grenudi","id":"96cfe9e","project":"linux-phone-oco/docs","says":"chore: the observatory's mark (oco.toml) (#38)"}
 {"at":"2026-11-11T00:45:43Z","by":"grenudi","id":"98c8c5c","project":"linux-phone-oco/docs","says":"feat(data): four of surya's parts no longer unknown - each follows its evidence (#51)"}
@@ -3233,6 +3236,7 @@
 {"at":"2026-11-14T13:51:31Z","by":"oco harvest","id":"f0bd688","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T00:22:03Z","by":"oco harvest","id":"f117a80","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T20:23:11Z","by":"oco harvest","id":"f174996","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T16:13:12Z","by":"oco harvest","id":"f19111d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T18:07:22Z","by":"grenudi","id":"f23ae1e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: curated lenses - Linux Phones first (#17)"}
 {"at":"2026-11-10T17:06:21Z","by":"oco harvest","id":"f2ec34e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T22:14:56Z","by":"oco harvest","id":"f3069f9","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
