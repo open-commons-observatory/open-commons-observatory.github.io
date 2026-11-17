@@ -60,8 +60,8 @@
 {"bytes":2810,"id":"docs/sources.md","lines":154,"path":"docs/sources.md","project":"git-rhizoid/git-rhizoid.github.io"}
 {"bytes":1899,"id":"README.md","lines":33,"path":"README.md","project":"linux-package-distribution-oco/conveyor"}
 {"bytes":169,"id":"README.md","lines":3,"path":"README.md","project":"linux-package-distribution-oco/lens"}
-{"bytes":1319,"id":"AGENTS.md","lines":17,"path":"AGENTS.md","project":"linux-phone-oco/device-template"}
-{"bytes":2410,"id":"README.md","lines":39,"path":"README.md","project":"linux-phone-oco/device-template"}
+{"bytes":1539,"id":"AGENTS.md","lines":19,"path":"AGENTS.md","project":"linux-phone-oco/device-template"}
+{"bytes":2526,"id":"README.md","lines":40,"path":"README.md","project":"linux-phone-oco/device-template"}
 {"bytes":990,"id":"tests/health/README.md","lines":19,"path":"tests/health/README.md","project":"linux-phone-oco/device-template"}
 {"bytes":399,"id":".github/PULL_REQUEST_TEMPLATE.md","lines":8,"path":".github/PULL_REQUEST_TEMPLATE.md","project":"linux-phone-oco/docs"}
 {"bytes":7233,"id":"AGENTS.md","lines":85,"path":"AGENTS.md","project":"linux-phone-oco/docs"}
