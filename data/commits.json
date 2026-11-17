@@ -541,6 +541,7 @@
 {"at":"2026-11-17T11:18:19Z","by":"grenudi","id":"baf6ee3","project":"grenudi/ideal-agent","says":"feat: a skill: finding your way in a tad knowledge base (#6)"}
 {"at":"2026-11-17T15:28:49Z","by":"grenudi","id":"bdd0b2a","project":"grenudi/ideal-agent","says":"docs: ideal-agent's hand-over says where roles stand (plugin 0.3.0) (#28)"}
 {"at":"2026-11-17T16:17:56Z","by":"grenudi","id":"c10e5e2","project":"grenudi/ideal-agent","says":"feat: start health folds into housekeeping: read-weight's given, not used (plugin 0.3.7) (#38)"}
+{"at":"2026-11-17T16:46:54Z","by":"grenudi","id":"c664bb3","project":"grenudi/ideal-agent","says":"fix: agent-env reads the GitHub token from ~/.config/ideal-agent/token (#45)"}
 {"at":"2026-11-17T16:07:56Z","by":"grenudi","id":"cda8005","project":"grenudi/ideal-agent","says":"fix: a started session's role is read past the app's reminders and the background (0.3.6) (#37)"}
 {"at":"2026-11-17T12:42:50Z","by":"grenudi","id":"d046c11","project":"grenudi/ideal-agent","says":"docs: follows idealkb 0.5.0: at a task's start, ask only about its subject (#18)"}
 {"at":"2026-11-17T13:03:37Z","by":"grenudi","id":"d0593fa","project":"grenudi/ideal-agent","says":"docs: the keeper's before number, and where the after comes from (#23)"}
@@ -932,6 +933,7 @@
 {"at":"2026-11-17T13:08:06Z","by":"grenudi","id":"cb68328","project":"linux-phone-oco/lab-tools","says":"fix(devlab): kernel try reads the booted entry off the running initramfs (#71)"}
 {"at":"2026-11-17T02:38:36Z","by":"grenudi","id":"cc4d893","project":"linux-phone-oco/lab-tools","says":"feat: devlab refuses a command that touches what the phone's manifest names as a hazard (#43)"}
 {"at":"2026-11-10T22:31:19Z","by":"grenudi","id":"d43d5e4","project":"linux-phone-oco/lab-tools","says":"docs: it tells its essence - its idea for anyone and its workings (#16)"}
+{"at":"2026-11-17T16:47:52Z","by":"grenudi","id":"d510232","project":"linux-phone-oco/lab-tools","says":"feat(devlab): fastboot boot says where the phone went and the slot flags; gated set-active (#80)"}
 {"at":"2026-11-17T01:07:49Z","by":"grenudi","id":"d53bb4e","project":"linux-phone-oco/lab-tools","says":"feat: The phone is held: one change at a time, whoever asks (#35)"}
 {"at":"2026-11-17T04:50:38Z","by":"grenudi","id":"d718f84","project":"linux-phone-oco/lab-tools","says":"fix: a kept kernel sorts after every try and before stock, so a try still comes first (#53)"}
 {"at":"2026-11-17T01:46:47Z","by":"grenudi","id":"d814970","project":"linux-phone-oco/lab-tools","says":"docs: Backlog: the checks surya-lab ran from the lab, to carry into the suite (#38)"}
@@ -2763,6 +2765,7 @@
 {"at":"2026-11-17T08:35:48Z","by":"oco harvest","id":"62cb715","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T12:39:17Z","by":"oco harvest","id":"62d7f6f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T08:47:47Z","by":"oco harvest","id":"6303d70","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T16:45:57Z","by":"oco harvest","id":"635566d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T10:53:58Z","by":"oco harvest","id":"63d4ed0","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T18:28:23Z","by":"grenudi","id":"63ff00e","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261112-182808","says":"docs: practice 25: evidence before the word - what landed is read back from main (#72)"}
 {"at":"2026-11-12T02:01:52Z","by":"oco harvest","id":"64db199","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
