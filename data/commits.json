@@ -587,6 +587,7 @@
 {"at":"2026-11-17T14:29:16Z","by":"grenudi","id":"898147a","project":"grenudi/ideal-knowledge-base","says":"docs: ikb: the research and the decision to build one record command per base (#19)"}
 {"at":"2026-11-17T12:40:46Z","by":"grenudi","id":"a066b6b","project":"grenudi/ideal-knowledge-base","says":"feat: at a task's start ask only about its subject; deeper only when a step needs it (#18)"}
 {"at":"2026-11-17T15:14:49Z","by":"github-actions[bot]","id":"a4b0093","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#29)"}
+{"at":"2026-11-17T17:28:32Z","by":"grenudi","id":"a9619a9","project":"grenudi/ideal-knowledge-base","says":"feat: ikb: set and remove - the checked way to change or take away one row (#44)"}
 {"at":"2026-11-17T12:14:07Z","by":"grenudi","id":"acc6558","project":"grenudi/ideal-knowledge-base","says":"fix: a release is tagged only once every follower answers with main laid over it (#16)"}
 {"at":"2026-11-17T16:10:29Z","by":"grenudi","id":"ad8bfdb","project":"grenudi/ideal-knowledge-base","says":"feat: ikb: IKB.md is not kept; ikb page only prints (#39)"}
 {"at":"2026-11-17T14:50:06Z","by":"grenudi","id":"b9e6a12","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: the release carries a .deb and an .rpm, as the conveyor needs (#22)"}
@@ -759,6 +760,8 @@
 {"at":"2026-11-16T23:40:26Z","by":"grenudi","id":"8377c4a","project":"linux-phone-oco/docs","says":"docs: 9 runs of surya filed by devlab gather: the phone's own health reports (#80)"}
 {"at":"2026-11-17T05:18:27Z","by":"grenudi","id":"8418610","project":"linux-phone-oco/docs","says":"docs: kernel try --dtb, for bring-up's device-tree changes (#136)"}
 {"at":"2026-11-17T16:19:47Z","by":"grenudi","id":"8422390","project":"linux-phone-oco/docs","says":"docs: restore the briefs' role start that docs 226 reverted (#242)"}
+{"at":"2026-11-17T17:28:10Z","by":"grenudi","id":"848cb04","project":"linux-phone-oco/docs","says":"docs: orchestration hand-over, 2026-11-17 night (#270)"}
+{"at":"2026-11-17T17:26:30Z","by":"grenudi","id":"8550ec1","project":"linux-phone-oco/docs","says":"docs: lab-tools gather-into-device-base waits on move-device-rows (#269)"}
 {"at":"2026-11-17T10:26:27Z","by":"grenudi","id":"87f9eb4","project":"linux-phone-oco/docs","says":"feat: the phone's queue in the author's order: deep sleep first (#168)"}
 {"at":"2026-11-17T01:26:55Z","by":"grenudi","id":"88476da","project":"linux-phone-oco/docs","says":"docs: ArtCraft's organisation, read: what fits ours and what we lack (#94)"}
 {"at":"2026-11-11T21:36:33Z","by":"grenudi","id":"8a3f860","project":"linux-phone-oco/docs","says":"chore: glimpses are recorded here from now on (#64)"}
@@ -2532,6 +2535,7 @@
 {"at":"2026-11-13T23:19:07Z","by":"oco harvest","id":"16c135d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T21:44:05Z","by":"grenudi","id":"1709298","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the observatory's idea, told for anyone (#30)"}
 {"at":"2026-11-10T14:57:49Z","by":"grenudi","id":"172126f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"ci: render the site from the harvest and publish it on GitHub Pages (#4)"}
+{"at":"2026-11-17T17:27:20Z","by":"oco harvest","id":"17b02bb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T13:42:52Z","by":"oco harvest","id":"17dcbab","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T00:32:42Z","by":"oco harvest","id":"17e692d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T10:30:53Z","by":"oco harvest","id":"17ff9bb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}

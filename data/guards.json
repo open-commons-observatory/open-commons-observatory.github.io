@@ -387,8 +387,8 @@
 {"id":"src/shell.rs:a_quoted_here_document_is_data","line":278,"name":"a_quoted_here_document_is_data","path":"src/shell.rs","project":"grenudi/ideal-agent"}
 {"id":"src/shell.rs:an_unquoted_here_documents_substitutions_run","line":286,"name":"an_unquoted_here_documents_substitutions_run","path":"src/shell.rs","project":"grenudi/ideal-agent"}
 {"id":"src/shell.rs:what_follows_a_here_document_is_read","line":292,"name":"what_follows_a_here_document_is_read","path":"src/shell.rs","project":"grenudi/ideal-agent"}
-{"id":"ikb/src/complete.rs:every_shell_has_a_script","line":151,"name":"every_shell_has_a_script","path":"ikb/src/complete.rs","project":"grenudi/ideal-knowledge-base"}
-{"id":"ikb/src/complete.rs:names_options_and_values_come_from_the_records","line":136,"name":"names_options_and_values_come_from_the_records","path":"ikb/src/complete.rs","project":"grenudi/ideal-knowledge-base"}
+{"id":"ikb/src/complete.rs:every_shell_has_a_script","line":156,"name":"every_shell_has_a_script","path":"ikb/src/complete.rs","project":"grenudi/ideal-knowledge-base"}
+{"id":"ikb/src/complete.rs:names_options_and_values_come_from_the_records","line":141,"name":"names_options_and_values_come_from_the_records","path":"ikb/src/complete.rs","project":"grenudi/ideal-knowledge-base"}
 {"id":"ikb/src/model.rs:a_record_is_a_command_with_its_options","line":233,"name":"a_record_is_a_command_with_its_options","path":"ikb/src/model.rs","project":"grenudi/ideal-knowledge-base"}
 {"id":"ikb/src/text.rs:at_expands","line":68,"name":"at_expands","path":"ikb/src/text.rs","project":"grenudi/ideal-knowledge-base"}
 {"id":"ikb/src/text.rs:slugs_cut_between_words","line":55,"name":"slugs_cut_between_words","path":"ikb/src/text.rs","project":"grenudi/ideal-knowledge-base"}
