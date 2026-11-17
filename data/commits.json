@@ -502,7 +502,9 @@
 {"at":"2026-11-11T10:27:09Z","by":"lab-agent-session","id":"2bda54f","project":"linux-package-distribution-oco/conveyor","says":"docs: the package conveyor, designed - its idea, decisions and path"}
 {"at":"2026-11-16T16:10:48Z","by":"grenudi","id":"3113d91","project":"linux-package-distribution-oco/conveyor","record":"g-20261116-161020","says":"chore: a caller: what the gatherer writes is said where it writes it, not here (#11)"}
 {"at":"2026-11-11T21:35:37Z","by":"grenudi","id":"381e216","project":"linux-package-distribution-oco/conveyor","record":"g-20261111-213519","says":"chore: glimpses are recorded here from now on (#10)"}
+{"at":"2026-11-17T04:06:17Z","by":"grenudi","id":"3ee175a","project":"linux-package-distribution-oco/conveyor","record":"g-20261117-040518","says":"feat: Publish: a signed Alpine repository, for postmarketOS phones (#13)"}
 {"at":"2026-11-11T15:40:23Z","by":"grenudi","id":"45d8c2a","project":"linux-package-distribution-oco/conveyor","says":"docs: a passing mirror outage must not fail a release (#4)"}
+{"at":"2026-11-17T04:07:25Z","by":"grenudi","id":"6902544","project":"linux-package-distribution-oco/conveyor","record":"g-20261117-040708","says":"docs: v1.1.0: the Alpine path released, v1 moved onto it (#14)"}
 {"at":"2026-11-11T16:12:23Z","by":"grenudi","id":"9ddfe04","project":"linux-package-distribution-oco/conveyor","says":"docs: tags only after landing; build in the project's own Nix environment (#9)"}
 {"at":"2026-11-11T15:56:36Z","by":"grenudi","id":"a8cee83","project":"linux-package-distribution-oco/conveyor","says":"fix: the musl toolchain install is patient - six tries, a minute apart (#7)"}
 {"at":"2026-11-11T10:49:37Z","by":"grenudi","id":"abca730","project":"linux-package-distribution-oco/conveyor","says":"docs: the first delivery - lab-agent v0.1.47; decisions refined (#1)"}
@@ -2131,6 +2133,7 @@
 {"at":"2026-11-11T00:18:10Z","by":"grenudi","id":"1587b06","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: ideas in Russian, the ear on notice, what is written and what follows (#38)"}
 {"at":"2026-11-12T00:21:08Z","by":"oco harvest","id":"15cd8af","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T02:50:19Z","by":"oco harvest","id":"161cd1e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T03:59:50Z","by":"oco harvest","id":"1624cd7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T09:38:53Z","by":"oco harvest","id":"162eea2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T16:16:36Z","by":"oco harvest","id":"163fae2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T00:18:38Z","by":"oco harvest","id":"1651aa7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
