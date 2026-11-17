@@ -81,3 +81,10 @@
 {"device_id":"xiaomi-surya","failed":1,"gaps":4,"id":"20261117-083120","kernel":"7.1.0-sm7150-mic+","passed":34,"project":"linux-phone-oco/docs","run_at":"2026-11-17 08:31:20","shell":"swmo","skipped":1}
 {"device_id":"xiaomi-surya","failed":0,"gaps":4,"id":"20261117-084447","kernel":"7.1.0-sm7150-mic+","passed":35,"project":"linux-phone-oco/docs","run_at":"2026-11-17 08:44:47","shell":"swmo","skipped":1}
 {"device_id":"xiaomi-surya","failed":0,"gaps":4,"id":"20261117-084825","kernel":"7.1.0-sm7150-mic+","passed":36,"project":"linux-phone-oco/docs","run_at":"2026-11-17 08:48:25","shell":"swmo","skipped":1}
+{"device_id":"xiaomi-surya","failed":0,"gaps":4,"id":"20261117-091250","kernel":"7.1.0-sm7150-mic+","passed":31,"project":"linux-phone-oco/docs","run_at":"2026-11-17 09:12:50","shell":"swmo","skipped":1}
+{"device_id":"xiaomi-surya","failed":1,"gaps":4,"id":"20261117-091316","kernel":"7.1.0-sm7150-mic+","passed":37,"project":"linux-phone-oco/docs","run_at":"2026-11-17 09:13:16","shell":"swmo","skipped":1}
+{"device_id":"xiaomi-surya","failed":0,"gaps":4,"id":"20261117-092215","kernel":"7.1.0-sm7150-calls+","passed":38,"project":"linux-phone-oco/docs","run_at":"2026-11-17 09:22:15","shell":"swmo","skipped":1}
+{"device_id":"xiaomi-surya","failed":0,"gaps":4,"id":"20261117-092300","kernel":"7.1.0-sm7150-calls+","passed":38,"project":"linux-phone-oco/docs","run_at":"2026-11-17 09:23:00","shell":"swmo","skipped":1}
+{"device_id":"xiaomi-surya","failed":2,"gaps":4,"id":"20261117-092633","kernel":"7.1.0-sm7150-calls+","passed":36,"project":"linux-phone-oco/docs","run_at":"2026-11-17 09:26:33","shell":"swmo","skipped":1}
+{"device_id":"xiaomi-surya","failed":1,"gaps":4,"id":"20261117-093452","kernel":"7.1.0-sm7150-calls+","passed":37,"project":"linux-phone-oco/docs","run_at":"2026-11-17 09:34:52","shell":"swmo","skipped":1}
+{"device_id":"xiaomi-surya","failed":0,"gaps":4,"id":"20261117-093527","kernel":"7.1.0-sm7150-calls+","passed":38,"project":"linux-phone-oco/docs","run_at":"2026-11-17 09:35:27","shell":"swmo","skipped":1}
