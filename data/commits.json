@@ -506,6 +506,7 @@
 {"at":"2026-11-11T21:36:00Z","by":"grenudi","id":"53a061f","project":"linux-package-distribution-oco/lens","record":"g-20261111-213543","says":"chore: glimpses are recorded here from now on (#1)"}
 {"at":"2026-11-13T00:34:41Z","by":"grenudi","id":"ae96f03","project":"linux-package-distribution-oco/lens","record":"g-20261113-003422","says":"docs: this is a constellation, and says what it gathers (#2)"}
 {"at":"2026-11-11T10:27:16Z","by":"lab-agent-session","id":"d33034d","project":"linux-package-distribution-oco/lens","says":"feat: the package conveyor's lens"}
+{"at":"2026-11-17T02:05:19Z","by":"grenudi","id":"84cb9ca","project":"linux-phone-oco/device-template","record":"g-20261116-235539","says":"feat: The device template: a new phone's lab is a new device.toml (#1)"}
 {"at":"2026-11-16T23:55:39Z","by":"lab-agent-session","id":"8642359","project":"linux-phone-oco/device-template","record":"g-20261116-235539","says":"feat: The device template: a new phone's lab is a new device.toml"}
 {"at":"2026-11-05T08:22:47Z","by":"grenudi","id":"0bdbff5","project":"linux-phone-oco/docs","says":"feat(data): a fresh-install plan, prepared but not run (#7)"}
 {"at":"2026-11-17T01:13:06Z","by":"grenudi","id":"127ebba","project":"linux-phone-oco/docs","record":"g-20261117-011238","says":"docs: Microphone taken up by bring-up: the weakest link, where it stands, the next step (#90)"}
@@ -528,6 +529,7 @@
 {"at":"2026-11-10T03:04:00Z","by":"grenudi","id":"2ff823c","project":"linux-phone-oco/docs","says":"feat(data): the session log for 2026-11-10 - what was done, considered and rejected (#27)"}
 {"at":"2026-11-11T01:10:04Z","by":"grenudi","id":"309d3ea","project":"linux-phone-oco/docs","says":"feat(data): the cameras' fault, understood - no sensor described; the wiring known (#53)"}
 {"at":"2026-11-10T01:36:01Z","by":"grenudi","id":"325abe7","project":"linux-phone-oco/docs","says":"feat(feed): kernel work on surya's device tree, from sm7150-mainline (#23)"}
+{"at":"2026-11-17T02:04:12Z","by":"grenudi","id":"3288b61","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#111)"}
 {"at":"2026-11-17T01:25:21Z","by":"grenudi","id":"3a88fc0","project":"linux-phone-oco/docs","record":"g-20261117-012455","says":"docs: How linux-phone's agents are organised: roles, briefs, the data as shared state (#93)"}
 {"at":"2026-11-11T16:44:33Z","by":"grenudi","id":"3d67245","project":"linux-phone-oco/docs","says":"docs: the tables declared as data, for tad in Rust (#60)"}
 {"at":"2026-11-10T17:37:49Z","by":"grenudi","id":"41ca2e8","project":"linux-phone-oco/docs","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#42)"}
@@ -618,6 +620,7 @@
 {"at":"2026-11-10T11:56:05Z","by":"grenudi","id":"0788383","project":"linux-phone-oco/lab-tools","says":"fix: devlab phone reboot waits for a new boot, by its boot id (#3)"}
 {"at":"2026-11-11T00:20:14Z","by":"grenudi","id":"07e678b","project":"linux-phone-oco/lab-tools","says":"feat(devlab): a listening test needs the word that the microphone is placed (#20)"}
 {"at":"2026-11-10T14:21:54Z","by":"grenudi","id":"10bc1be","project":"linux-phone-oco/lab-tools","says":"chore: the observatory's mark (oco.toml) (#9)"}
+{"at":"2026-11-17T02:06:56Z","by":"grenudi","id":"17912e6","project":"linux-phone-oco/lab-tools","record":"g-20261117-020556","says":"docs: Backlog: what devlab-health as an Alpine package waits on, and its path (#40)"}
 {"at":"2026-11-17T00:33:15Z","by":"grenudi","id":"192d4e1","project":"linux-phone-oco/lab-tools","record":"g-20261117-003216","says":"feat: Filed through tad, landed by itself: devlab gather --land, and watch after every boot (#33)"}
 {"at":"2026-11-11T09:36:58Z","by":"grenudi","id":"19ada91","project":"linux-phone-oco/lab-tools","says":"docs: this morning's findings, with concepts and decisions (#23)"}
 {"at":"2026-11-16T23:29:04Z","by":"grenudi","id":"1ab2ce7","project":"linux-phone-oco/lab-tools","record":"g-20261116-232816","says":"feat: The phone checks its own health after every boot: devlab-health and devlab suite (#29)"}
@@ -677,6 +680,7 @@
 {"at":"2026-11-11T09:51:32Z","by":"grenudi","id":"1cec218","project":"linux-phone-oco/surya-lab","says":"docs: the microphone codec comes up - one pin muxed to the wrong function (#49)"}
 {"at":"2026-11-10T20:43:54Z","by":"grenudi","id":"1ec8685","project":"linux-phone-oco/surya-lab","says":"fix: awake while on USB to a host - no suspend attempts that drop the link, under any shell (#40)"}
 {"at":"2026-11-09T23:23:37Z","by":"grenudi","id":"1f188ae","project":"linux-phone-oco/surya-lab","says":"feat: flash/flash.sh - flash any image with surya's fixes built in (#5)"}
+{"at":"2026-11-17T02:03:33Z","by":"grenudi","id":"286399c","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#86)"}
 {"at":"2026-11-17T01:52:23Z","by":"grenudi","id":"28976ee","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#83)"}
 {"at":"2026-11-09T14:15:42Z","by":"grenudi","id":"2adcbed","project":"linux-phone-oco/surya-lab","says":"docs: README.md"}
 {"at":"2026-11-10T22:56:20Z","by":"grenudi","id":"30d4a21","project":"linux-phone-oco/surya-lab","says":"fix: what the ear heard is withdrawn - the microphone moved (#43)"}
@@ -688,6 +692,7 @@
 {"at":"2026-11-11T14:33:58Z","by":"grenudi","id":"5040455","project":"linux-phone-oco/surya-lab","says":"data: waiting for the phone to settle is automated (#59)"}
 {"at":"2026-11-17T01:14:54Z","by":"grenudi","id":"57748d4","project":"linux-phone-oco/surya-lab","record":"g-20261117-011437","says":"docs: The main microphone's own check: records a second, fails until samples come back (#74)"}
 {"at":"2026-11-10T02:59:54Z","by":"grenudi","id":"57dfa81","project":"linux-phone-oco/surya-lab","says":"feat(provision): install this phone's Sxmo device profile until sxmo-utils ships it (#14)"}
+{"at":"2026-11-17T02:04:34Z","by":"grenudi","id":"580c436","project":"linux-phone-oco/surya-lab","record":"g-20261117-014702","says":"refactor: surya-lab gives up its own conveyor: devlab reaches, tests and files for it (#81)"}
 {"at":"2026-11-11T10:25:16Z","by":"grenudi","id":"581e671","project":"linux-phone-oco/surya-lab","says":"docs: the port table cleared; the next step is tracing the bus (#52)"}
 {"at":"2026-11-10T02:45:07Z","by":"grenudi","id":"59873b0","project":"linux-phone-oco/surya-lab","says":"refactor: one phone library for every script - no nested quoting, USB or Wi-Fi (#12)"}
 {"at":"2026-11-10T17:38:22Z","by":"grenudi","id":"5c716e4","project":"linux-phone-oco/surya-lab","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#36)"}
@@ -2702,6 +2707,7 @@
 {"at":"2026-11-14T09:32:49Z","by":"oco harvest","id":"e9e0369","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T06:26:49Z","by":"oco harvest","id":"eb64d12","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T18:11:43Z","by":"grenudi","id":"ebc09fe","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: lenses drawn - the renderer and the Linux Phones lens done; the session logged (#18)"}
+{"at":"2026-11-17T02:03:05Z","by":"oco harvest","id":"ec28421","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T18:36:13Z","by":"grenudi","id":"ec7f56d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: languages live - the structure done, the interface in progress, the session logged (#20)"}
 {"at":"2026-11-12T11:43:04Z","by":"oco harvest","id":"eca3b93","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T10:27:47Z","by":"oco harvest","id":"ed54af5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
