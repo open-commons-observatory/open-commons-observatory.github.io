@@ -661,6 +661,7 @@
 {"at":"2026-11-11T09:21:37Z","by":"grenudi","id":"b810574","project":"linux-phone-oco/lab-tools","says":"fix(devlab): only an EFI program is offered to the bootloader - a gzip kernel was lost silently (#22)"}
 {"at":"2026-11-10T17:46:42Z","by":"ocoeco gather","id":"b92e424","project":"linux-phone-oco/lab-tools","says":"data: gathered by ocoeco"}
 {"at":"2026-11-10T22:57:14Z","by":"grenudi","id":"b958458","project":"linux-phone-oco/lab-tools","says":"docs: the ear's first results withdrawn; it counts only with a microphone fixed in place (#18)"}
+{"at":"2026-11-17T02:59:51Z","by":"grenudi","id":"c2dabac","project":"linux-phone-oco/lab-tools","record":"g-20261117-025831","says":"fix: Test sounds are quiet: a level and volume per phone, -40 dBFS at 25% by default (#45)"}
 {"at":"2026-11-17T02:38:36Z","by":"grenudi","id":"cc4d893","project":"linux-phone-oco/lab-tools","record":"g-20261117-023716","says":"feat: devlab refuses a command that touches what the phone's manifest names as a hazard (#43)"}
 {"at":"2026-11-10T22:31:19Z","by":"grenudi","id":"d43d5e4","project":"linux-phone-oco/lab-tools","says":"docs: it tells its essence - its idea for anyone and its workings (#16)"}
 {"at":"2026-11-17T01:07:49Z","by":"grenudi","id":"d53bb4e","project":"linux-phone-oco/lab-tools","record":"g-20261117-010651","says":"feat: The phone is held: one change at a time, whoever asks (#35)"}
@@ -2206,6 +2207,7 @@
 {"at":"2026-11-11T16:48:16Z","by":"oco harvest","id":"3bc1e66","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T14:49:21Z","by":"oco harvest","id":"3c5c113","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:11:46Z","by":"oco harvest","id":"3c84937","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T02:59:41Z","by":"oco harvest","id":"3ccfe2a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T15:50:43Z","by":"grenudi","id":"3d0cd94","project":"open-commons-observatory/open-commons-observatory.github.io","says":"feat(data): a practice - change only what you mean to, never by copying whole files from a stale copy (#7)"}
 {"at":"2026-11-17T02:34:44Z","by":"oco harvest","id":"3d29221","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T09:34:56Z","by":"oco harvest","id":"3d2cada","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
