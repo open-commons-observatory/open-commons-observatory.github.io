@@ -673,6 +673,7 @@
 {"at":"2026-11-10T01:59:07Z","by":"grenudi","id":"1a72431","project":"linux-phone-oco/docs","says":"feat(data): the microphone test kernel is built; a safe second-boot-entry plan for the test (#24)"}
 {"at":"2026-11-17T02:11:14Z","by":"grenudi","id":"1ab8705","project":"linux-phone-oco/docs","says":"docs: 2 runs of xiaomi-surya filed by devlab, from the phone's own reports (#113)"}
 {"at":"2026-11-17T02:33:12Z","by":"grenudi","id":"1bece03","project":"linux-phone-oco/docs","says":"docs: Microphone: the codec drops off both buses at card registration; the boot race recurs (#114)"}
+{"at":"2026-11-17T18:16:11Z","by":"grenudi","id":"1c7042e","project":"linux-phone-oco/docs","says":"docs(surya): uart8 is not the SH0 sleep-vote owner; how the phone stands (#295)"}
 {"at":"2026-11-16T23:56:31Z","by":"grenudi","id":"1ccec59","project":"linux-phone-oco/docs","says":"docs: The conveyor for any phone: health on the phone, gather, MCP, the device template (#81)"}
 {"at":"2026-11-10T19:02:22Z","by":"grenudi","id":"1e0c661","project":"linux-phone-oco/docs","says":"feat(data): the project's own data in Russian - a translations table, by machine (#43)"}
 {"at":"2026-11-11T10:15:20Z","by":"grenudi","id":"1e61618","project":"linux-phone-oco/docs","says":"feat(data): the microphone's route is set; the stream does not start yet (#56)"}
@@ -773,6 +774,7 @@
 {"at":"2026-11-17T15:32:46Z","by":"grenudi","id":"722c162","project":"linux-phone-oco/docs","says":"docs: sleep-adsp-awake first try - macro hw-vote release measured, adsp unchanged (#218)"}
 {"at":"2026-11-17T09:40:19Z","by":"grenudi","id":"727bd14","project":"linux-phone-oco/docs","says":"docs: Calls work both ways, proven by a daily echo call; the calls queue is done (#155)"}
 {"at":"2026-11-17T09:48:51Z","by":"grenudi","id":"72fc8ea","project":"linux-phone-oco/docs","says":"docs: a change's health report stays on the phone until the watch files it (#157)"}
+{"at":"2026-11-17T18:14:12Z","by":"grenudi","id":"736b666","project":"linux-phone-oco/docs","says":"docs: walleye control accepted from the restored first state; phone then off USB (#294)"}
 {"at":"2026-11-17T17:45:10Z","by":"grenudi","id":"73b4efc","project":"linux-phone-oco/docs","says":"docs: SH0 sleep vote is a consumer tag; AOP QMP read-only first (research) (#282)"}
 {"at":"2026-11-17T17:10:37Z","by":"grenudi","id":"75dd496","project":"linux-phone-oco/docs","says":"docs: two signs from the patrol - agent folder over 3 KB, first reads of whole records (#256)"}
 {"at":"2026-11-17T04:40:08Z","by":"grenudi","id":"78455d1","project":"linux-phone-oco/docs","says":"docs: lab-tools: asked - make a proven test kernel the phone's default (#125)"}
@@ -3094,6 +3096,7 @@
 {"at":"2026-11-15T12:30:16Z","by":"oco harvest","id":"aa2fb72","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T13:23:50Z","by":"oco harvest","id":"aa4697e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T14:18:37Z","by":"oco harvest","id":"aa5a156","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T18:09:27Z","by":"oco harvest","id":"aa691a7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T06:32:21Z","by":"oco harvest","id":"aaa8fe2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T14:30:47Z","by":"oco harvest","id":"aac0bfd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T11:00:30Z","by":"grenudi","id":"ab8c46c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: recording is a tool now (#47)"}
