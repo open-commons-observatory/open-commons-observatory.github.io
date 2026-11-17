@@ -255,6 +255,7 @@
 {"at":"2026-11-10T03:09:56Z","by":"github-actions[bot]","id":"969ffe7","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.27 (#73)"}
 {"at":"2026-11-10T04:48:28Z","by":"github-actions[bot]","id":"9b0423d","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.31 (#81)"}
 {"at":"2026-11-10T01:55:58Z","by":"grenudi","id":"9c54284","project":"creation-guidelines/lab-agent","says":"feat: a status bar with a quit button and the agent's state; times in local time (#67)"}
+{"at":"2026-11-17T11:54:10Z","by":"grenudi","id":"9db0384","project":"creation-guidelines/lab-agent","record":"g-20261117-115321","says":"fix: landit checks a linux-phone place without ocoeco (#220)"}
 {"at":"2026-11-12T20:24:28Z","by":"grenudi","id":"9e9f08d","project":"creation-guidelines/lab-agent","record":"g-20261112-202328","says":"feat: the lab hears what fails: observed every quarter hour, said aloud (#171)"}
 {"at":"2026-11-10T11:53:28Z","by":"grenudi","id":"9f48823","project":"creation-guidelines/lab-agent","says":"feat: board remove ID - a task dropped, not done, leaves the board (#87)"}
 {"at":"2026-11-11T10:41:41Z","by":"github-actions[bot]","id":"a08a2ae","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.47 (#115)"}
@@ -510,6 +511,7 @@
 {"at":"2026-11-17T11:39:20Z","by":"grenudi","id":"3289502","project":"grenudi/ideal-agent","says":"feat: ideal-agent follows ideal-knowledge-base: every record names its subject (#7)"}
 {"at":"2026-11-17T11:46:18Z","by":"grenudi","id":"346a768","project":"grenudi/ideal-agent","says":"docs: the sources' by goes back once idealkb 0.3.0 is pinned (#11)"}
 {"at":"2026-11-17T09:42:13Z","by":"grenudi","id":"3cbec09","project":"grenudi/ideal-agent","says":"Initial commit"}
+{"at":"2026-11-17T11:55:46Z","by":"grenudi","id":"469559f","project":"grenudi/ideal-agent","says":"fix: the sources' by is back, now that idealkb 0.3.0 declares it (#14)"}
 {"at":"2026-11-17T09:51:25Z","by":"grenudi","id":"5905800","project":"grenudi/ideal-agent","says":"feat: the ideal agent: its mark, its tad database, and one Claude Code plugin (#1)"}
 {"at":"2026-11-17T10:24:33Z","by":"grenudi","id":"5967ea8","project":"grenudi/ideal-agent","says":"docs: the move into ideal-agent recorded: done, proven live, every old place pointing here (#3)"}
 {"at":"2026-11-17T11:45:00Z","by":"grenudi","id":"689bf46","project":"grenudi/ideal-agent","says":"fix: the practices that name ocoeco, counted (#10)"}
@@ -555,6 +557,8 @@
 {"at":"2026-11-17T02:05:19Z","by":"grenudi","id":"84cb9ca","project":"linux-phone-oco/device-template","says":"feat: The device template: a new phone's lab is a new device.toml (#1)"}
 {"at":"2026-11-16T23:55:39Z","by":"lab-agent-session","id":"8642359","project":"linux-phone-oco/device-template","says":"feat: The device template: a new phone's lab is a new device.toml"}
 {"at":"2026-11-17T03:43:18Z","by":"grenudi","id":"e3dc336","project":"linux-phone-oco/device-template","says":"chore: the records are kept in docs; the mark points there (#2)"}
+{"at":"2026-11-17T11:53:44Z","by":"grenudi","id":"00afdde","project":"linux-phone-oco/docs","says":"feat: audio-mic's answer leads with its summary; research material in dated folders (#186)"}
+{"at":"2026-11-17T11:56:59Z","by":"github-actions[bot]","id":"0235881","project":"linux-phone-oco/docs","says":"chore(main): release 0.4.0 (#183)"}
 {"at":"2026-11-17T11:05:01Z","by":"grenudi","id":"02edd49","project":"linux-phone-oco/docs","says":"feat: the sensor hub's way decided: the registry kept current, steps on the phone's queue (#176)"}
 {"at":"2026-11-17T05:18:05Z","by":"grenudi","id":"057dec0","project":"linux-phone-oco/docs","says":"docs: Both microphones record through the sound server (UCM); headset mic next (#135)"}
 {"at":"2026-11-17T03:55:46Z","by":"grenudi","id":"0956e27","project":"linux-phone-oco/docs","says":"fix: the one-database decision's about pointed nowhere (#119)"}
@@ -598,6 +602,7 @@
 {"at":"2026-11-10T17:37:49Z","by":"grenudi","id":"41ca2e8","project":"linux-phone-oco/docs","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#42)"}
 {"at":"2026-11-11T09:52:07Z","by":"grenudi","id":"426141a","project":"linux-phone-oco/docs","says":"feat(data): the microphone codec comes up (#55)"}
 {"at":"2026-11-17T11:45:53Z","by":"grenudi","id":"4286b4c","project":"linux-phone-oco/docs","says":"docs: sensors-and-the-mask probe done: the DSP still writes; next is registry writes (#181)"}
+{"at":"2026-11-17T11:56:33Z","by":"grenudi","id":"42f4ac6","project":"linux-phone-oco/docs","says":"docs: the patrol measures the start's weight; no ocoeco step in it (#187)"}
 {"at":"2026-11-12T19:14:52Z","by":"grenudi","id":"43f79d8","project":"linux-phone-oco/docs","says":"fix: the docs begin their own history at 0.1.0; the template's is cleared (#74)"}
 {"at":"2026-11-17T01:57:32Z","by":"grenudi","id":"448d28f","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#108)"}
 {"at":"2026-11-17T01:42:10Z","by":"grenudi","id":"45b36ae","project":"linux-phone-oco/docs","says":"docs: 2 runs of xiaomi-surya filed by devlab, from the phone's own reports (#103)"}
@@ -812,6 +817,7 @@
 {"at":"2026-11-17T03:44:15Z","by":"grenudi","id":"658b470","project":"linux-phone-oco/lens","says":"chore: the lens exports no glimpses: where each hand stands is read off commits (#8)"}
 {"at":"2026-11-10T18:07:03Z","by":"lab-agent-session","id":"688b938","project":"linux-phone-oco/lens","says":"feat: the Linux Phones lens - the family's grand view, declared as data"}
 {"at":"2026-11-10T19:08:45Z","by":"grenudi","id":"78d7269","project":"linux-phone-oco/lens","says":"feat: the lens names its rows and orders its feature groups; the row names in Russian (#2)"}
+{"at":"2026-11-17T11:54:41Z","by":"grenudi","id":"7f5e015","project":"linux-phone-oco/lens","says":"docs: the lens moved into linux-phone-oco/docs face/; nothing reads this repository (#10)"}
 {"at":"2026-11-11T21:37:56Z","by":"grenudi","id":"8f42d03","project":"linux-phone-oco/lens","says":"chore: glimpses are recorded here from now on (#5)"}
 {"at":"2026-11-17T02:17:59Z","by":"grenudi","id":"da67d69","project":"linux-phone-oco/lens","says":"feat: The face shows each feature's research and every decision (#7)"}
 {"at":"2026-11-17T10:13:48Z","by":"grenudi","id":"dae75e3","project":"linux-phone-oco/lens","says":"feat: The face shows the phone's queue (#9)"}
@@ -2569,6 +2575,7 @@
 {"at":"2026-11-17T04:20:10Z","by":"oco harvest","id":"5f93001","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T17:35:29Z","by":"oco harvest","id":"6026128","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T03:50:54Z","by":"oco harvest","id":"60bc989","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T11:54:23Z","by":"oco harvest","id":"60cf8d4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T19:38:58Z","by":"grenudi","id":"60f29de","project":"open-commons-observatory/open-commons-observatory.github.io","says":"chore/gathered on oco data (#24)"}
 {"at":"2026-11-15T10:16:39Z","by":"oco harvest","id":"614fa1a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T21:11:09Z","by":"oco harvest","id":"61ae851","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
