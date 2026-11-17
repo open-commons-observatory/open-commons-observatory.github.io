@@ -660,6 +660,7 @@
 {"at":"2026-11-17T03:40:31Z","by":"grenudi","id":"ccc6e74","project":"linux-phone-oco/docs","says":"feat: one database for linux-phone: every place's records, through named records (#118)"}
 {"at":"2026-11-11T15:47:43Z","by":"grenudi","id":"d0d0182","project":"linux-phone-oco/docs","says":"feat(data): the wrap-up pass - settled with reasons (#58)"}
 {"at":"2026-11-16T15:06:42Z","by":"grenudi","id":"d313274","project":"linux-phone-oco/docs","says":"docs: a lens: test runs, and 8 more (#78)"}
+{"at":"2026-11-17T10:50:01Z","by":"grenudi","id":"d31efa0","project":"linux-phone-oco/docs","says":"docs: idealkb design accepted by the author; its build waits on no one (#175)"}
 {"at":"2026-11-10T01:32:15Z","by":"grenudi","id":"d4795f9","project":"linux-phone-oco/docs","says":"fix(feed): no date column, so an unchanged wiki changes nothing (#22)"}
 {"at":"2026-11-10T15:40:02Z","by":"grenudi","id":"d4f4f80","project":"linux-phone-oco/docs","says":"feat(data): milestones - the path of Linux Phones and of surya, on three horizons (#41)"}
 {"at":"2026-11-17T04:55:54Z","by":"grenudi","id":"d56b60c","project":"linux-phone-oco/docs","says":"docs: Backlog: mic-held is only the three boots now; the gap is gone (#130)"}
@@ -2248,6 +2249,7 @@
 {"at":"2026-11-16T13:24:18Z","by":"oco harvest","id":"098b9d8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T16:19:11Z","by":"grenudi","id":"09de9e7","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-161856","says":"ci: the harvest observes by holding: what a route reads is in what it observed (#94)"}
 {"at":"2026-11-16T08:45:05Z","by":"oco harvest","id":"0a15ecd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T10:50:21Z","by":"oco harvest","id":"0a5313c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T15:51:55Z","by":"oco harvest","id":"0a73567","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T10:04:19Z","by":"oco harvest","id":"0b27317","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T07:25:09Z","by":"grenudi","id":"0b53aba","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261113-072453","says":"docs: practice 26: refining first, and recorded through ocoeco (#77)"}
