@@ -508,6 +508,7 @@
 {"at":"2026-11-11T16:12:23Z","by":"grenudi","id":"9ddfe04","project":"linux-package-distribution-oco/conveyor","says":"docs: tags only after landing; build in the project's own Nix environment (#9)"}
 {"at":"2026-11-11T15:56:36Z","by":"grenudi","id":"a8cee83","project":"linux-package-distribution-oco/conveyor","says":"fix: the musl toolchain install is patient - six tries, a minute apart (#7)"}
 {"at":"2026-11-11T10:49:37Z","by":"grenudi","id":"abca730","project":"linux-package-distribution-oco/conveyor","says":"docs: the first delivery - lab-agent v0.1.47; decisions refined (#1)"}
+{"at":"2026-11-17T04:11:58Z","by":"grenudi","id":"c10ad0c","project":"linux-package-distribution-oco/conveyor","record":"g-20261117-041141","says":"fix: Alpine path: packaging gets abuild's whole toolset, and a step that fails stops the job (#15)"}
 {"at":"2026-11-11T11:10:00Z","by":"grenudi","id":"e367a05","project":"linux-package-distribution-oco/conveyor","says":"docs: the declaration gets a typed Rust reader (#2)"}
 {"at":"2026-11-11T12:38:33Z","by":"grenudi","id":"f585d7e","project":"linux-package-distribution-oco/conveyor","says":"data: the conveyor's decisions say which steps they are about (#3)"}
 {"at":"2026-11-11T10:39:49Z","by":"lab-agent-session","id":"f917324","project":"linux-package-distribution-oco/conveyor","says":"feat: the reusable workflows - binaries with provenance, and a signed pacman repository published and installed"}
@@ -673,6 +674,7 @@
 {"at":"2026-11-10T17:46:42Z","by":"ocoeco gather","id":"b92e424","project":"linux-phone-oco/lab-tools","says":"data: gathered by ocoeco"}
 {"at":"2026-11-10T22:57:14Z","by":"grenudi","id":"b958458","project":"linux-phone-oco/lab-tools","says":"docs: the ear's first results withdrawn; it counts only with a microphone fixed in place (#18)"}
 {"at":"2026-11-17T02:59:51Z","by":"grenudi","id":"c2dabac","project":"linux-phone-oco/lab-tools","says":"fix: Test sounds are quiet: a level and volume per phone, -40 dBFS at 25% by default (#45)"}
+{"at":"2026-11-17T04:09:15Z","by":"grenudi","id":"caba4f3","project":"linux-phone-oco/lab-tools","says":"feat: devlab-health as an Alpine package: released by release-plz, published by the package conveyor (#48)"}
 {"at":"2026-11-17T02:38:36Z","by":"grenudi","id":"cc4d893","project":"linux-phone-oco/lab-tools","says":"feat: devlab refuses a command that touches what the phone's manifest names as a hazard (#43)"}
 {"at":"2026-11-10T22:31:19Z","by":"grenudi","id":"d43d5e4","project":"linux-phone-oco/lab-tools","says":"docs: it tells its essence - its idea for anyone and its workings (#16)"}
 {"at":"2026-11-17T01:07:49Z","by":"grenudi","id":"d53bb4e","project":"linux-phone-oco/lab-tools","says":"feat: The phone is held: one change at a time, whoever asks (#35)"}
@@ -2195,6 +2197,7 @@
 {"at":"2026-11-15T15:20:46Z","by":"oco harvest","id":"2fbfa22","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T21:42:40Z","by":"oco harvest","id":"2fe9628","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T08:59:20Z","by":"oco harvest","id":"30a6a92","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T04:09:05Z","by":"oco harvest","id":"30b760d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T19:30:56Z","by":"oco harvest","id":"30bfcf3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T03:47:17Z","by":"grenudi","id":"3144d76","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261117-034702","says":"docs: a practice for linux-phone-oco: data through tad, landing through land (#108)"}
 {"at":"2026-11-16T05:30:14Z","by":"oco harvest","id":"315eda3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
