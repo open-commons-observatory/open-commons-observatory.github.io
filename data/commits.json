@@ -396,6 +396,7 @@
 {"at":"2026-09-22T06:24:52Z","by":"github-actions[bot]","id":"0e499db","project":"creation-guidelines/tad-engine","says":"chore(main): release 1.0.1"}
 {"at":"2026-11-17T02:54:07Z","by":"github-actions[bot]","id":"0f8f2e8","project":"creation-guidelines/tad-engine","says":"chore(main): release tad 0.6.0 (#83)"}
 {"at":"2026-11-11T00:33:46Z","by":"grenudi","id":"1484cec","project":"creation-guidelines/tad-engine","says":"docs: its idea in Russian (by machine, for a person to correct) (#28)"}
+{"at":"2026-11-17T10:24:02Z","by":"grenudi","id":"1633e45","project":"creation-guidelines/tad-engine","record":"g-20261117-102252","says":"docs: tad is an open, transparent, easily accessible database (#84)"}
 {"at":"2026-11-11T21:27:48Z","by":"grenudi","id":"1b8a261","project":"creation-guidelines/tad-engine","says":"feat: update-pins records a glimpse where glimpses are recorded (#59)"}
 {"at":"2026-11-12T00:31:03Z","by":"grenudi","id":"1cd6373","project":"creation-guidelines/tad-engine","record":"g-20261112-002954","says":"docs: tad's SQL: DuckDB as an adapter, measured; the repository becomes tad (#67)"}
 {"at":"2026-09-22T08:04:16Z","by":"github-actions[bot]","id":"1ce9f2e","project":"creation-guidelines/tad-engine","says":"chore(main): release 1.1.0"}
@@ -502,6 +503,7 @@
 {"at":"2026-11-13T06:56:35Z","by":"grenudi","id":"fafad80","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261113-065606","says":"docs: a milestone ahead of its evidence, raised (#22)"}
 {"at":"2026-11-17T09:42:13Z","by":"grenudi","id":"3cbec09","project":"grenudi/ideal-agent","says":"Initial commit"}
 {"at":"2026-11-17T09:51:25Z","by":"grenudi","id":"5905800","project":"grenudi/ideal-agent","says":"feat: the ideal agent: its mark, its tad database, and one Claude Code plugin (#1)"}
+{"at":"2026-11-17T10:24:33Z","by":"grenudi","id":"5967ea8","project":"grenudi/ideal-agent","says":"docs: the move into ideal-agent recorded: done, proven live, every old place pointing here (#3)"}
 {"at":"2026-11-17T10:17:19Z","by":"grenudi","id":"6a54fd7","project":"grenudi/ideal-agent","says":"feat: one keeper per shared resource: a role skill, a practice and its research (#2)"}
 {"at":"2026-11-16T19:25:40Z","by":"grenudi","id":"0df165f","project":"linux-package-distribution-oco/conveyor","record":"g-20261116-192510","says":"feat: a release is said once its files are there: a draft, said by the conveyor (#12)"}
 {"at":"2026-11-11T16:10:23Z","by":"grenudi","id":"1e27551","project":"linux-package-distribution-oco/conveyor","says":"docs/nix direction (#8)"}
@@ -609,6 +611,7 @@
 {"at":"2026-11-12T01:05:33Z","by":"grenudi","id":"82ca47b","project":"linux-phone-oco/docs","says":"build: tad 0.5.0: the pin moved, the data and documents re-rendered (#70)"}
 {"at":"2026-11-16T23:40:26Z","by":"grenudi","id":"8377c4a","project":"linux-phone-oco/docs","says":"docs: 9 runs of surya filed by devlab gather: the phone's own health reports (#80)"}
 {"at":"2026-11-17T05:18:27Z","by":"grenudi","id":"8418610","project":"linux-phone-oco/docs","says":"docs: kernel try --dtb, for bring-up's device-tree changes (#136)"}
+{"at":"2026-11-17T10:26:27Z","by":"grenudi","id":"87f9eb4","project":"linux-phone-oco/docs","says":"feat: the phone's queue in the author's order: deep sleep first (#168)"}
 {"at":"2026-11-17T01:26:55Z","by":"grenudi","id":"88476da","project":"linux-phone-oco/docs","says":"docs: ArtCraft's organisation, read: what fits ours and what we lack (#94)"}
 {"at":"2026-11-11T21:36:33Z","by":"grenudi","id":"8a3f860","project":"linux-phone-oco/docs","says":"chore: glimpses are recorded here from now on (#64)"}
 {"at":"2026-11-17T09:02:14Z","by":"grenudi","id":"8afdf9c","project":"linux-phone-oco/docs","says":"feat: tad q coverage: each device's parts no test proves work (#151)"}
@@ -2687,6 +2690,7 @@
 {"at":"2026-11-16T00:02:42Z","by":"oco harvest","id":"9b10c21","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T22:23:23Z","by":"oco harvest","id":"9b2eb97","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T19:15:31Z","by":"oco harvest","id":"9bbf0d2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T10:24:22Z","by":"oco harvest","id":"9bd3552","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T01:15:23Z","by":"oco harvest","id":"9c1925a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T22:30:37Z","by":"grenudi","id":"9cea372","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: it tells its essence - its idea for anyone and its workings (#34)"}
 {"at":"2026-11-11T13:27:38Z","by":"grenudi","id":"9d7723c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: practice 24 - a check must stop (#58)"}
