@@ -563,6 +563,7 @@
 {"at":"2026-11-17T14:40:26Z","by":"github-actions[bot]","id":"062d589","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#21)"}
 {"at":"2026-11-17T16:15:15Z","by":"github-actions[bot]","id":"0b45170","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#42)"}
 {"at":"2026-11-17T15:46:46Z","by":"github-actions[bot]","id":"0d675ca","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#33)"}
+{"at":"2026-11-17T17:34:50Z","by":"github-actions[bot]","id":"0fee4f1","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#47)"}
 {"at":"2026-11-17T11:36:40Z","by":"grenudi","id":"12334d7","project":"grenudi/ideal-knowledge-base","says":"feat: a summary over many records, and research kept aside in dated folders (#5)"}
 {"at":"2026-11-17T15:18:26Z","by":"github-actions[bot]","id":"12ca79f","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#31)"}
 {"at":"2026-11-17T17:18:48Z","by":"grenudi","id":"2700beb","project":"grenudi/ideal-knowledge-base","says":"docs: ikb: research and decision - a commons base plus one open base per unit (#43)"}
@@ -584,6 +585,7 @@
 {"at":"2026-11-17T16:14:32Z","by":"grenudi","id":"75b9461","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: the installer pins ikb 0.4.0 (#41)"}
 {"at":"2026-11-17T15:56:08Z","by":"grenudi","id":"7caa0d1","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: the installer pins ikb 0.4.0 (#35)"}
 {"at":"2026-11-17T12:11:06Z","by":"grenudi","id":"812dc8e","project":"grenudi/ideal-knowledge-base","says":"fix: the pin job leaves a base that refuses a release as its main has it (#13)"}
+{"at":"2026-11-17T17:37:20Z","by":"grenudi","id":"8572af4","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: set and remove are listed in the help, the man page and the completions (#48)"}
 {"at":"2026-11-17T12:07:28Z","by":"grenudi","id":"8775b40","project":"grenudi/ideal-knowledge-base","says":"feat: briefs first: every record has a one-line brief, answers give briefs (#11)"}
 {"at":"2026-11-17T14:29:16Z","by":"grenudi","id":"898147a","project":"grenudi/ideal-knowledge-base","says":"docs: ikb: the research and the decision to build one record command per base (#19)"}
 {"at":"2026-11-17T12:40:46Z","by":"grenudi","id":"a066b6b","project":"grenudi/ideal-knowledge-base","says":"feat: at a task's start ask only about its subject; deeper only when a step needs it (#18)"}
@@ -591,6 +593,7 @@
 {"at":"2026-11-17T17:28:32Z","by":"grenudi","id":"a9619a9","project":"grenudi/ideal-knowledge-base","says":"feat: ikb: set and remove - the checked way to change or take away one row (#44)"}
 {"at":"2026-11-17T12:14:07Z","by":"grenudi","id":"acc6558","project":"grenudi/ideal-knowledge-base","says":"fix: a release is tagged only once every follower answers with main laid over it (#16)"}
 {"at":"2026-11-17T16:10:29Z","by":"grenudi","id":"ad8bfdb","project":"grenudi/ideal-knowledge-base","says":"feat: ikb: IKB.md is not kept; ikb page only prints (#39)"}
+{"at":"2026-11-17T17:34:08Z","by":"grenudi","id":"b29fe99","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: the installer pins ikb 0.5.0 (#46)"}
 {"at":"2026-11-17T14:50:06Z","by":"grenudi","id":"b9e6a12","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: the release carries a .deb and an .rpm, as the conveyor needs (#22)"}
 {"at":"2026-11-17T12:12:51Z","by":"grenudi","id":"bdafc93","project":"grenudi/ideal-knowledge-base","says":"feat: a release waits until every follower answers the five queries with it laid (#15)"}
 {"at":"2026-11-17T15:35:54Z","by":"grenudi","id":"bef407c","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: an empty option value counts as not given (#32)"}
@@ -694,6 +697,7 @@
 {"at":"2026-11-17T16:26:59Z","by":"grenudi","id":"3bafba0","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#244)"}
 {"at":"2026-11-11T16:44:33Z","by":"grenudi","id":"3d67245","project":"linux-phone-oco/docs","says":"docs: the tables declared as data, for tad in Rust (#60)"}
 {"at":"2026-11-17T10:05:15Z","by":"grenudi","id":"3e5e6c8","project":"linux-phone-oco/docs","says":"docs: An ideal knowledge base proposed: about link, one entry, idealkb from the template (#161)"}
+{"at":"2026-11-17T17:34:00Z","by":"grenudi","id":"40a8dc0","project":"linux-phone-oco/docs","says":"docs: floor-udc-unbound - USB is not the holder (keeper-9) (#274)"}
 {"at":"2026-11-10T17:37:49Z","by":"grenudi","id":"41ca2e8","project":"linux-phone-oco/docs","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#42)"}
 {"at":"2026-11-11T09:52:07Z","by":"grenudi","id":"426141a","project":"linux-phone-oco/docs","says":"feat(data): the microphone codec comes up (#55)"}
 {"at":"2026-11-17T11:45:53Z","by":"grenudi","id":"4286b4c","project":"linux-phone-oco/docs","says":"docs: sensors-and-the-mask probe done: the DSP still writes; next is registry writes (#181)"}
@@ -761,6 +765,7 @@
 {"at":"2026-11-10T03:58:52Z","by":"grenudi","id":"81e7a43","project":"linux-phone-oco/docs","says":"feat(data): the tas2562 volume bug is fixed - Plasma's silence explained; both patches queued (#29)"}
 {"at":"2026-11-12T01:05:33Z","by":"grenudi","id":"82ca47b","project":"linux-phone-oco/docs","says":"build: tad 0.5.0: the pin moved, the data and documents re-rendered (#70)"}
 {"at":"2026-11-16T23:40:26Z","by":"grenudi","id":"8377c4a","project":"linux-phone-oco/docs","says":"docs: 9 runs of surya filed by devlab gather: the phone's own health reports (#80)"}
+{"at":"2026-11-17T17:35:59Z","by":"grenudi","id":"8399555","project":"linux-phone-oco/docs","says":"docs: floor-aoss-knobs - the AOP QMP link does not ack (keeper-9) (#275)"}
 {"at":"2026-11-17T05:18:27Z","by":"grenudi","id":"8418610","project":"linux-phone-oco/docs","says":"docs: kernel try --dtb, for bring-up's device-tree changes (#136)"}
 {"at":"2026-11-17T16:19:47Z","by":"grenudi","id":"8422390","project":"linux-phone-oco/docs","says":"docs: restore the briefs' role start that docs 226 reverted (#242)"}
 {"at":"2026-11-17T17:28:10Z","by":"grenudi","id":"848cb04","project":"linux-phone-oco/docs","says":"docs: orchestration hand-over, 2026-11-17 night (#270)"}
@@ -862,6 +867,7 @@
 {"at":"2026-11-17T05:11:30Z","by":"grenudi","id":"e01bdb8","project":"linux-phone-oco/docs","says":"docs: Sxmo profile sent upstream; the microphones are analog, not digital (#132)"}
 {"at":"2026-11-16T14:49:52Z","by":"grenudi","id":"e1516d1","project":"linux-phone-oco/docs","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#77)"}
 {"at":"2026-11-11T00:15:22Z","by":"grenudi","id":"e4aedd8","project":"linux-phone-oco/docs","says":"feat(data): the idea of Linux Phones in Russian (#50)"}
+{"at":"2026-11-17T17:36:55Z","by":"grenudi","id":"e4ceeeb","project":"linux-phone-oco/docs","says":"docs: floor-aoss-knobs - the channel opens, the sends are not acked (keeper-9) (#276)"}
 {"at":"2026-11-17T16:05:16Z","by":"grenudi","id":"e55ac2e","project":"linux-phone-oco/docs","says":"feat: docs follows idealkb 0.8.4: an agent starts with ikb --help and ikb help RECORD (#238)"}
 {"at":"2026-11-04T20:34:04Z","by":"grenudi","id":"e619d98","project":"linux-phone-oco/docs","says":"Initial commit"}
 {"at":"2026-11-09T22:06:35Z","by":"grenudi","id":"e67e79f","project":"linux-phone-oco/docs","says":"feat(data): shells, microphone and an org board in the backlog (#13)"}
@@ -3179,6 +3185,7 @@
 {"at":"2026-11-14T22:43:35Z","by":"oco harvest","id":"cc21a73","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T22:38:10Z","by":"oco harvest","id":"cc2ab8b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T12:03:47Z","by":"oco harvest","id":"cc7470f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T17:34:40Z","by":"oco harvest","id":"ccc6ff3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T04:56:00Z","by":"oco harvest","id":"cccfafd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T16:21:20Z","by":"oco harvest","id":"cd00197","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T18:37:19Z","by":"oco harvest","id":"cd00855","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
