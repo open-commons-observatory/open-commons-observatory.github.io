@@ -603,6 +603,7 @@
 {"at":"2026-11-17T17:34:08Z","by":"grenudi","id":"b29fe99","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: the installer pins ikb 0.5.0 (#46)"}
 {"at":"2026-11-17T17:53:43Z","by":"github-actions[bot]","id":"b2fe7db","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#55)"}
 {"at":"2026-11-17T14:50:06Z","by":"grenudi","id":"b9e6a12","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: the release carries a .deb and an .rpm, as the conveyor needs (#22)"}
+{"at":"2026-11-17T17:58:06Z","by":"github-actions[bot]","id":"bbd2582","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#57)"}
 {"at":"2026-11-17T12:12:51Z","by":"grenudi","id":"bdafc93","project":"grenudi/ideal-knowledge-base","says":"feat: a release waits until every follower answers the five queries with it laid (#15)"}
 {"at":"2026-11-17T15:35:54Z","by":"grenudi","id":"bef407c","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: an empty option value counts as not given (#32)"}
 {"at":"2026-11-17T11:15:04Z","by":"grenudi","id":"c6f39d0","project":"grenudi/ideal-knowledge-base","says":"docs: docs follows 0.1.0, and the lab moves every base's pin weekly (#3)"}
@@ -614,6 +615,7 @@
 {"at":"2026-11-17T11:40:29Z","by":"grenudi","id":"dc3cca0","project":"grenudi/ideal-knowledge-base","says":"feat: sources keep who made what they describe (by); second follower done (#7)"}
 {"at":"2026-11-17T17:45:24Z","by":"grenudi","id":"e53515b","project":"grenudi/ideal-knowledge-base","says":"docs: ikb: the chain follows by slice; improvements go back as upstream items (#52)"}
 {"at":"2026-11-17T14:36:26Z","by":"grenudi","id":"eb51545","project":"grenudi/ideal-knowledge-base","says":"feat: ikb 0.1: record into a base by commands read from its own records (#20)"}
+{"at":"2026-11-17T17:57:25Z","by":"grenudi","id":"ee1c2bf","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: the installer pins ikb 0.5.2 (#56)"}
 {"at":"2026-11-17T11:04:56Z","by":"grenudi","id":"f483421","project":"grenudi/ideal-knowledge-base","says":"feat: the ideal knowledge base: a layer on tad - five queries, standing tables, one entry (#1)"}
 {"at":"2026-11-17T14:59:21Z","by":"github-actions[bot]","id":"f491787","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#25)"}
 {"at":"2026-11-17T15:17:44Z","by":"grenudi","id":"fa43f67","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: the installer pins ikb 0.3.0 (#30)"}
@@ -693,6 +695,7 @@
 {"at":"2026-11-10T01:12:39Z","by":"grenudi","id":"2cf8f19","project":"linux-phone-oco/docs","says":"feat(data): the feature catalog - 46 capabilities of a modern phone against Android, iOS and Linux (#19)"}
 {"at":"2026-11-17T17:48:57Z","by":"grenudi","id":"2d83efd","project":"linux-phone-oco/docs","says":"docs: walleye stock-ids and variants-build done; control and variants tries carry their images (#285)"}
 {"at":"2026-11-10T00:21:56Z","by":"grenudi","id":"2da79d4","project":"linux-phone-oco/docs","says":"feat(data): plasma-silent and a second tas2562 bug (volume writes not reaching the chips) (#16)"}
+{"at":"2026-11-17T17:57:27Z","by":"grenudi","id":"2def2ef","project":"linux-phone-oco/docs","says":"docs: sensors-registry-writes first try (PR #27 build), how the phone stands (#288)"}
 {"at":"2026-11-10T15:17:21Z","by":"grenudi","id":"2eeaf8b","project":"linux-phone-oco/docs","says":"chore(mark): the grand project's title and goal - Linux Phones (#40)"}
 {"at":"2026-11-10T03:04:00Z","by":"grenudi","id":"2ff823c","project":"linux-phone-oco/docs","says":"feat(data): the session log for 2026-11-10 - what was done, considered and rejected (#27)"}
 {"at":"2026-11-11T01:10:04Z","by":"grenudi","id":"309d3ea","project":"linux-phone-oco/docs","says":"feat(data): the cameras' fault, understood - no sensor described; the wiring known (#53)"}
@@ -796,6 +799,7 @@
 {"at":"2026-11-17T09:42:01Z","by":"grenudi","id":"8deb2ef","project":"linux-phone-oco/docs","says":"docs: 7 runs of xiaomi-surya filed by devlab, from the phone's own reports (#156)"}
 {"at":"2026-11-10T00:05:14Z","by":"grenudi","id":"919f1ec","project":"linux-phone-oco/docs","says":"docs: the grand picture - why, what, where, the evidence conveyor, the orgs, the phases (#15)"}
 {"at":"2026-11-17T15:40:29Z","by":"grenudi","id":"92999d5","project":"linux-phone-oco/docs","says":"docs: orchestration hand-over, 2026-11-17 evening (#231)"}
+{"at":"2026-11-17T17:58:58Z","by":"grenudi","id":"937a549","project":"linux-phone-oco/docs","says":"docs: floor-sh0-owner first on surya's phone queue (#289)"}
 {"at":"2026-11-17T16:16:38Z","by":"grenudi","id":"93b230d","project":"linux-phone-oco/docs","says":"fix: docs follows idealkb 0.9.1: no IKB.md, ikb page prints (#241)"}
 {"at":"2026-11-17T11:05:34Z","by":"github-actions[bot]","id":"96c1274","project":"linux-phone-oco/docs","says":"chore(main): release 0.2.0 (#83)"}
 {"at":"2026-11-10T14:20:29Z","by":"grenudi","id":"96cfe9e","project":"linux-phone-oco/docs","says":"chore: the observatory's mark (oco.toml) (#38)"}
@@ -845,6 +849,7 @@
 {"at":"2026-11-12T19:13:00Z","by":"grenudi","id":"bfe5aa4","project":"linux-phone-oco/docs","says":"docs: two problems raised: a release that failed unheard, and a version from nothing (#73)"}
 {"at":"2026-11-17T01:50:53Z","by":"grenudi","id":"c1e4e95","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#106)"}
 {"at":"2026-11-17T03:28:12Z","by":"grenudi","id":"c254333","project":"linux-phone-oco/docs","says":"docs: Boot race: the audio PD's up notification never arrives; PD mapper order suspected (#117)"}
+{"at":"2026-11-17T17:58:46Z","by":"grenudi","id":"c50743e","project":"linux-phone-oco/docs","says":"docs: walleye: the control was refused too; research and one slot-a control queued (#287)"}
 {"at":"2026-11-11T22:44:55Z","by":"grenudi","id":"c5a117f","project":"linux-phone-oco/docs","says":"build: tad 0.4.0: the pin moved, the data and documents re-rendered (#68)"}
 {"at":"2026-11-05T07:43:11Z","by":"grenudi","id":"c7800d4","project":"linux-phone-oco/docs","says":"ci: deploy Pages via Actions instead of the legacy pipeline (#2)"}
 {"at":"2026-11-17T05:29:32Z","by":"grenudi","id":"c90431e","project":"linux-phone-oco/docs","says":"docs: The microphones hold across boots; the boot race is fixed in every flash (#137)"}
@@ -2954,6 +2959,7 @@
 {"at":"2026-11-17T05:38:55Z","by":"oco harvest","id":"839c30c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T10:16:55Z","by":"oco harvest","id":"83f1fa6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T18:41:53Z","by":"oco harvest","id":"843adb1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T17:57:59Z","by":"oco harvest","id":"84f1376","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T07:13:14Z","by":"oco harvest","id":"8509a76","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T12:55:14Z","by":"oco harvest","id":"8520ac2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T10:00:31Z","by":"oco harvest","id":"85271cd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
