@@ -1051,6 +1051,7 @@
 {"at":"2026-11-17T19:25:55Z","by":"grenudi","id":"ff03afa","project":"linux-phone-oco/docs","says":"docs: walleye: vendor-gadget3 item carries what to queue when done (#344)"}
 {"at":"2026-11-17T14:13:58Z","by":"grenudi","id":"ffb3d84","project":"linux-phone-oco/docs","says":"docs: lpoco-health put on the phone; gathered runs filed; hand-over of surya-keeper-4 (#212)"}
 {"at":"2026-11-17T18:34:17Z","by":"grenudi","id":"01f9138","project":"linux-phone-oco/google-walleye-lab","says":"feat: bisect images s0 s0n s1 s2 s3 from the stock control, one swap each, checked (#10)"}
+{"at":"2026-11-17T23:01:26Z","by":"grenudi","id":"02de1d0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ml5 try done - kernel never reaches init (4 timed boots) (#83)"}
 {"at":"2026-11-17T19:59:32Z","by":"grenudi","id":"0333021","project":"linux-phone-oco/google-walleye-lab","says":"chore: tad 0.7.1 (#24)"}
 {"at":"2026-11-17T22:55:36Z","by":"grenudi","id":"03d2c57","project":"linux-phone-oco/google-walleye-lab","says":"feat: device base: hardware (claimed or confirmed) and items that await it (#80)"}
 {"at":"2026-11-17T22:23:57Z","by":"grenudi","id":"0999efe","project":"linux-phone-oco/google-walleye-lab","says":"walleye: m1 window read on host 7.3.4 (lpoco-host acceptance passes) (#70)"}
@@ -1099,6 +1100,7 @@
 {"at":"2026-11-17T21:37:58Z","by":"grenudi","id":"7e2c0cc","project":"linux-phone-oco/google-walleye-lab","says":"walleye: dtbo overlay merge needs __symbols__ - research, decision, host test, backlog (#56)"}
 {"at":"2026-11-17T20:50:49Z","by":"grenudi","id":"7f32736","project":"linux-phone-oco/google-walleye-lab","says":"walleye: decision on the host channel order (#41)"}
 {"at":"2026-11-17T19:48:29Z","by":"grenudi","id":"83984c0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the third try of vendor-gadget3, with the watcher kept alive (#16)"}
+{"at":"2026-11-17T23:02:56Z","by":"grenudi","id":"84f8e82","project":"linux-phone-oco/google-walleye-lab","says":"walleye: a known-good mainline kernel (porthole's) as the next bisect (build item) (#84)"}
 {"at":"2026-11-17T22:06:27Z","by":"grenudi","id":"89082b8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ml3, our kernel's log at the phone's own ramoops region (build item) (#65)"}
 {"at":"2026-11-17T22:51:28Z","by":"grenudi","id":"94942e8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ml5 built (timing bins below the dead-kernel reset), try queued (#81)"}
 {"at":"2026-11-17T20:18:44Z","by":"grenudi","id":"981c2f6","project":"linux-phone-oco/google-walleye-lab","says":"walleye: why ncm panics the vendor kernel (attribute writes on a NULL net), decision and backlog (#33)"}
@@ -3678,6 +3680,7 @@
 {"at":"2026-11-16T17:05:52Z","by":"oco harvest","id":"f78ac9c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T15:41:18Z","by":"oco harvest","id":"f7a0bd5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T19:40:00Z","by":"grenudi","id":"f7b953e","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261112-193943","says":"feat: the observatory observes: what has run in every place, in the picture (#74)"}
+{"at":"2026-11-17T23:00:08Z","by":"oco harvest","id":"f7cca9b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T20:30:55Z","by":"oco harvest","id":"f800551","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T18:22:48Z","by":"oco harvest","id":"f80a3e1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T08:37:49Z","by":"oco harvest","id":"f833e5a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
