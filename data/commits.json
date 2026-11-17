@@ -780,6 +780,7 @@
 {"at":"2026-11-17T08:27:36Z","by":"grenudi","id":"fe6020f","project":"linux-phone-oco/docs","says":"docs: Telegram at provisioning: telegram-desktop held, Alpine v3.24 cannot install it (#142)"}
 {"at":"2026-11-10T11:15:13Z","by":"grenudi","id":"fe8fa18","project":"linux-phone-oco/docs","says":"feat(data): the Rust toolset for any phone; the WCD kernel boots (#34)"}
 {"at":"2026-11-11T17:34:21Z","by":"feeds","id":"fefc0e3","project":"linux-phone-oco/docs","says":"chore(feed): data from the scheduled feeds"}
+{"at":"2026-11-17T14:13:58Z","by":"grenudi","id":"ffb3d84","project":"linux-phone-oco/docs","says":"docs: lpoco-health put on the phone; gathered runs filed; hand-over of surya-keeper-4 (#212)"}
 {"at":"2026-11-17T04:43:10Z","by":"grenudi","id":"02582e5","project":"linux-phone-oco/lab-tools","says":"feat: devlab kernel keep: a proven test kernel becomes the default, stock still the fallback (#52)"}
 {"at":"2026-11-10T20:05:16Z","by":"grenudi","id":"05e3552","project":"linux-phone-oco/lab-tools","says":"feat(devlab): provision sets a fresh phone's clock and grows its system first; flashing proven (#14)"}
 {"at":"2026-11-17T09:46:50Z","by":"grenudi","id":"070cfd7","project":"linux-phone-oco/lab-tools","says":"fix: a change's health report stays on the phone until the watch files it (#64)"}
@@ -833,12 +834,15 @@
 {"at":"2026-11-17T09:30:26Z","by":"github-actions[bot]","id":"9edd329","project":"linux-phone-oco/lab-tools","says":"chore(devlab-health): release v0.1.4 (#63)"}
 {"at":"2026-11-17T09:11:31Z","by":"grenudi","id":"a298768","project":"linux-phone-oco/lab-tools","says":"feat: devlab-health tone make|find: the tone crate on the phone, for checks that listen (#57)"}
 {"at":"2026-11-17T13:16:38Z","by":"grenudi","id":"a7cc258","project":"linux-phone-oco/lab-tools","says":"feat(health): no_sim helper; mobile data and modem-registered skip 'no SIM card' (#73)"}
+{"at":"2026-11-17T14:14:03Z","by":"grenudi","id":"a96564a","project":"linux-phone-oco/lab-tools","says":"fix(devlab): suite put takes the Alpine package by default; the package keeps the old names (#78)"}
+{"at":"2026-11-17T14:11:39Z","by":"github-actions[bot]","id":"aad3648","project":"linux-phone-oco/lab-tools","says":"chore(lpoco-health): release v0.1.7 (#77)"}
 {"at":"2026-11-11T00:13:44Z","by":"grenudi","id":"acfc451","project":"linux-phone-oco/lab-tools","says":"docs: the ear on notice - the procedure, a guard to build, and a proper rig on the backlog (#19)"}
 {"at":"2026-11-17T01:02:02Z","by":"grenudi","id":"af660dc","project":"linux-phone-oco/lab-tools","says":"feat: After filing, the picture's derivations follow: support status from results (#34)"}
 {"at":"2026-11-17T01:57:27Z","by":"grenudi","id":"b67c2c1","project":"linux-phone-oco/lab-tools","says":"feat: Deep sleep's check: soc-sleeps reads the SoC's own counters after every boot (#39)"}
 {"at":"2026-11-11T09:21:37Z","by":"grenudi","id":"b810574","project":"linux-phone-oco/lab-tools","says":"fix(devlab): only an EFI program is offered to the bootloader - a gzip kernel was lost silently (#22)"}
 {"at":"2026-11-10T17:46:42Z","by":"ocoeco gather","id":"b92e424","project":"linux-phone-oco/lab-tools","says":"data: gathered by ocoeco"}
 {"at":"2026-11-10T22:57:14Z","by":"grenudi","id":"b958458","project":"linux-phone-oco/lab-tools","says":"docs: the ear's first results withdrawn; it counts only with a microphone fixed in place (#18)"}
+{"at":"2026-11-17T14:10:45Z","by":"grenudi","id":"badfc81","project":"linux-phone-oco/lab-tools","says":"fix(lpoco-health): keep no_sim and the old library path for the phone's own checks (#76)"}
 {"at":"2026-11-17T02:59:51Z","by":"grenudi","id":"c2dabac","project":"linux-phone-oco/lab-tools","says":"fix: Test sounds are quiet: a level and volume per phone, -40 dBFS at 25% by default (#45)"}
 {"at":"2026-11-17T04:09:15Z","by":"grenudi","id":"caba4f3","project":"linux-phone-oco/lab-tools","says":"feat: devlab-health as an Alpine package: released by release-plz, published by the package conveyor (#48)"}
 {"at":"2026-11-17T13:08:06Z","by":"grenudi","id":"cb68328","project":"linux-phone-oco/lab-tools","says":"fix(devlab): kernel try reads the booted entry off the running initramfs (#71)"}
@@ -899,6 +903,7 @@
 {"at":"2026-11-10T22:56:20Z","by":"grenudi","id":"30d4a21","project":"linux-phone-oco/surya-lab","says":"fix: what the ear heard is withdrawn - the microphone moved (#43)"}
 {"at":"2026-11-09T16:52:27Z","by":"grenudi","id":"30f139d","project":"linux-phone-oco/surya-lab","says":"docs: the lab is for the whole phone; audio is the current front (#1)"}
 {"at":"2026-11-09T23:55:24Z","by":"grenudi","id":"32e1a1f","project":"linux-phone-oco/surya-lab","says":"fix: no depmod from the PC when baking in the amp module (#7)"}
+{"at":"2026-11-17T14:11:36Z","by":"grenudi","id":"3354414","project":"linux-phone-oco/surya-lab","says":"fix(health): device checks source lib.sh from /usr/lib/lpoco-health (the runner's new home) (#126)"}
 {"at":"2026-11-10T22:03:59Z","by":"grenudi","id":"3618fa7","project":"linux-phone-oco/surya-lab","says":"feat: the tones the lab's ear listens for; both speakers heard by a machine (#41)"}
 {"at":"2026-11-12T13:07:30Z","by":"grenudi","id":"3643d40","project":"linux-phone-oco/surya-lab","says":"fix: decisions about the phone's milestones name the star that keeps them (#67)"}
 {"at":"2026-11-17T02:30:46Z","by":"grenudi","id":"3891e00","project":"linux-phone-oco/surya-lab","says":"docs: Microphone research: the codec drops off both SoundWire buses as the card registers (#89)"}
@@ -940,6 +945,7 @@
 {"at":"2026-11-17T01:56:58Z","by":"grenudi","id":"855454d","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#84)"}
 {"at":"2026-11-10T04:51:27Z","by":"grenudi","id":"8809feb","project":"linux-phone-oco/surya-lab","says":"fix(tests): read the kernel log from the journal, not the dmesg ring (#21)"}
 {"at":"2026-11-11T09:58:49Z","by":"grenudi","id":"88e3225","project":"linux-phone-oco/surya-lab","says":"docs: the map to a first recording; the pin fix to be ported to the branch (#50)"}
+{"at":"2026-11-17T14:14:05Z","by":"grenudi","id":"894bbcb","project":"linux-phone-oco/surya-lab","says":"chore(tests): reports gathered from the phone after lpoco-health was put (#127)"}
 {"at":"2026-11-17T09:27:54Z","by":"grenudi","id":"89f0734","project":"linux-phone-oco/surya-lab","says":"docs: Calls: a Voice Call verb, q6voiced on PCM 0,6, and the uplink capture service (#117)"}
 {"at":"2026-11-10T04:08:17Z","by":"grenudi","id":"8a96a88","project":"linux-phone-oco/surya-lab","says":"feat(tests): boot warnings - the known ones pass with their reasons, a new one fails by name (#16)"}
 {"at":"2026-11-10T00:03:16Z","by":"grenudi","id":"8c5ec1f","project":"linux-phone-oco/surya-lab","says":"fix: the stereo profile sets the amplifiers' digital volume to 0 dB (#8)"}
@@ -1194,6 +1200,7 @@
 {"at":"2026-11-15T10:23:19Z","by":"oco observe","id":"4c38f94","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:34:35Z","by":"oco observe","id":"4d26395","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T18:06:51Z","by":"oco observe","id":"4d70310","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T14:10:47Z","by":"oco observe","id":"4deb01c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T06:33:35Z","by":"oco observe","id":"4dfa13a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T08:33:19Z","by":"oco observe","id":"4e0e1d4","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T07:05:05Z","by":"oco observe","id":"4e4c59f","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -2484,6 +2491,7 @@
 {"at":"2026-11-10T16:03:49Z","by":"oco harvest","id":"380da48","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T19:38:59Z","by":"oco harvest","id":"3833910","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T15:57:42Z","by":"oco harvest","id":"389a601","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T14:11:07Z","by":"oco harvest","id":"38de7fa","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T01:28:51Z","by":"oco harvest","id":"3940c9e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T17:09:08Z","by":"oco harvest","id":"3960891","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T02:55:38Z","by":"oco harvest","id":"39b68ec","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}

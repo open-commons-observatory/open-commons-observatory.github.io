@@ -103,12 +103,12 @@
 {"bytes":1536,"id":"devlab/src/hold.rs","lines":46,"path":"devlab/src/hold.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":6032,"id":"devlab/src/keeper.rs","lines":154,"path":"devlab/src/keeper.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":26384,"id":"devlab/src/kernel.rs","lines":600,"path":"devlab/src/kernel.rs","project":"linux-phone-oco/lab-tools"}
-{"bytes":18113,"id":"devlab/src/main.rs","lines":451,"path":"devlab/src/main.rs","project":"linux-phone-oco/lab-tools"}
+{"bytes":17750,"id":"devlab/src/main.rs","lines":445,"path":"devlab/src/main.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":9649,"id":"devlab/src/mcp.rs","lines":280,"path":"devlab/src/mcp.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":9411,"id":"devlab/src/outcome.rs","lines":248,"path":"devlab/src/outcome.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":8341,"id":"devlab/src/phone.rs","lines":243,"path":"devlab/src/phone.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":12037,"id":"devlab/src/provision.rs","lines":333,"path":"devlab/src/provision.rs","project":"linux-phone-oco/lab-tools"}
-{"bytes":20626,"id":"devlab/src/suite.rs","lines":567,"path":"devlab/src/suite.rs","project":"linux-phone-oco/lab-tools"}
+{"bytes":20801,"id":"devlab/src/suite.rs","lines":568,"path":"devlab/src/suite.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":4830,"id":"devlab/src/watch.rs","lines":119,"path":"devlab/src/watch.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":4205,"id":"health/src/cli.rs","lines":131,"path":"health/src/cli.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":8214,"id":"health/src/data.rs","lines":226,"path":"health/src/data.rs","project":"linux-phone-oco/lab-tools"}
