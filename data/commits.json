@@ -722,6 +722,7 @@
 {"at":"2026-11-17T04:20:06Z","by":"grenudi","id":"39af2c0","project":"linux-phone-oco/docs","says":"docs: lab-tools: the LPASS debugfs hazard is held by devlab and surya's manifest (#121)"}
 {"at":"2026-11-17T12:45:02Z","by":"grenudi","id":"39b2cd4","project":"linux-phone-oco/docs","says":"docs: the keeper's brief starts from its purpose and exact commands; bring-up folded in (#193)"}
 {"at":"2026-11-17T01:25:21Z","by":"grenudi","id":"3a88fc0","project":"linux-phone-oco/docs","says":"docs: How linux-phone's agents are organised: roles, briefs, the data as shared state (#93)"}
+{"at":"2026-11-17T18:58:57Z","by":"grenudi","id":"3ab31d5","project":"linux-phone-oco/docs","says":"docs: sleep-standby-current waits for the author's hands; how the phone stands (#326)"}
 {"at":"2026-11-17T17:20:46Z","by":"grenudi","id":"3afb527","project":"linux-phone-oco/docs","says":"docs: docs: the research the commons-and-device-bases decision rests on (#266)"}
 {"at":"2026-11-17T16:26:59Z","by":"grenudi","id":"3bafba0","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#244)"}
 {"at":"2026-11-11T16:44:33Z","by":"grenudi","id":"3d67245","project":"linux-phone-oco/docs","says":"docs: the tables declared as data, for tad in Rust (#60)"}
@@ -893,10 +894,12 @@
 {"at":"2026-11-17T15:38:21Z","by":"grenudi","id":"cf47780","project":"linux-phone-oco/docs","says":"docs: the briefs name their role (ideal-agent cards) and drop . oco-work (#230)"}
 {"at":"2026-11-17T18:40:51Z","by":"grenudi","id":"cfbce35","project":"linux-phone-oco/docs","says":"docs: walleye images g h i and bisect s0n s1 s2 s3 built; tries queued; gadget-up test (#314)"}
 {"at":"2026-11-17T17:39:31Z","by":"grenudi","id":"d00e57b","project":"linux-phone-oco/docs","says":"docs: the author's word to download the LineageOS walleye control image (#279)"}
+{"at":"2026-11-17T18:56:53Z","by":"grenudi","id":"d0518ec","project":"linux-phone-oco/docs","says":"docs: walleye s1 vendor-gadget tried twice: Load Error, gadget-up fails (#324)"}
 {"at":"2026-11-11T15:47:43Z","by":"grenudi","id":"d0d0182","project":"linux-phone-oco/docs","says":"feat(data): the wrap-up pass - settled with reasons (#58)"}
 {"at":"2026-11-17T13:14:33Z","by":"grenudi","id":"d29ab2a","project":"linux-phone-oco/docs","says":"docs: suite-put-runner-default done (lab-tools PR 72) (#204)"}
 {"at":"2026-11-16T15:06:42Z","by":"grenudi","id":"d313274","project":"linux-phone-oco/docs","says":"docs: a lens: test runs, and 8 more (#78)"}
 {"at":"2026-11-17T10:50:01Z","by":"grenudi","id":"d31efa0","project":"linux-phone-oco/docs","says":"docs: idealkb design accepted by the author; its build waits on no one (#175)"}
+{"at":"2026-11-17T18:57:09Z","by":"grenudi","id":"d423487","project":"linux-phone-oco/docs","says":"docs: entry trace done; standby current first; research question on the AOP view (#325)"}
 {"at":"2026-11-10T01:32:15Z","by":"grenudi","id":"d4795f9","project":"linux-phone-oco/docs","says":"fix(feed): no date column, so an unchanged wiki changes nothing (#22)"}
 {"at":"2026-11-10T15:40:02Z","by":"grenudi","id":"d4f4f80","project":"linux-phone-oco/docs","says":"feat(data): milestones - the path of Linux Phones and of surya, on three horizons (#41)"}
 {"at":"2026-11-17T18:44:15Z","by":"grenudi","id":"d50bbc2","project":"linux-phone-oco/docs","says":"docs: walleye vendor-gadget image and gadget-up check built (#315)"}
@@ -935,6 +938,7 @@
 {"at":"2026-11-17T15:29:00Z","by":"grenudi","id":"e9ca400","project":"linux-phone-oco/docs","says":"docs: the walleye coordinator's start no longer sources oco-work (#225)"}
 {"at":"2026-11-17T17:10:03Z","by":"grenudi","id":"eb317a8","project":"linux-phone-oco/docs","says":"docs: walleye coordinator brief: the lane's launchers and decision routing (#255)"}
 {"at":"2026-11-17T17:11:37Z","by":"grenudi","id":"ee54b3e","project":"linux-phone-oco/docs","says":"docs: floor-dsps-never-started - the DSPs are not the holder (keeper-9) (#257)"}
+{"at":"2026-11-17T18:59:50Z","by":"grenudi","id":"eea2797","project":"linux-phone-oco/docs","says":"docs: sleep-standby-current waits for the author (#327)"}
 {"at":"2026-11-17T12:03:40Z","by":"grenudi","id":"ef8b4e0","project":"linux-phone-oco/docs","says":"docs: the first s2idle slept the full 60 s; the 2.4 s was the clocks not counting sleep (#189)"}
 {"at":"2026-11-17T01:48:42Z","by":"grenudi","id":"f05ecfd","project":"linux-phone-oco/docs","says":"docs: The conveyor session hands over: fewer, shorter, well-scoped sessions (#105)"}
 {"at":"2026-11-10T14:53:10Z","by":"grenudi","id":"f16b729","project":"linux-phone-oco/docs","says":"chore(mark): export the reference tables - features, platforms, components, devices (#39)"}
@@ -3431,6 +3435,7 @@
 {"at":"2026-11-16T08:37:49Z","by":"oco harvest","id":"f833e5a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T22:28:34Z","by":"oco harvest","id":"f842403","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T11:33:39Z","by":"oco harvest","id":"f91808f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T18:57:45Z","by":"oco harvest","id":"f93afa0","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T17:14:41Z","by":"oco harvest","id":"f970566","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T23:32:17Z","by":"oco harvest","id":"f97cbc9","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T08:59:26Z","by":"oco harvest","id":"f9b9437","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
