@@ -647,6 +647,7 @@
 {"at":"2026-11-17T00:58:18Z","by":"grenudi","id":"ba01aae","project":"linux-phone-oco/docs","says":"feat: Support status read off the suite's results, beside what was judged (#86)"}
 {"at":"2026-11-05T07:33:49Z","by":"grenudi","id":"bbe722e","project":"linux-phone-oco/docs","says":"feat: schema for device/component/status tracking, RFC-style docs (#1)"}
 {"at":"2026-11-17T04:36:17Z","by":"grenudi","id":"bce1959","project":"linux-phone-oco/docs","says":"docs: surya takes its health suite from the Alpine package (#123)"}
+{"at":"2026-11-17T10:35:15Z","by":"grenudi","id":"bfb5853","project":"linux-phone-oco/docs","says":"feat: Every record names what it is about; tad q about gives a subject's whole knowledge (#170)"}
 {"at":"2026-11-12T19:13:00Z","by":"grenudi","id":"bfe5aa4","project":"linux-phone-oco/docs","says":"docs: two problems raised: a release that failed unheard, and a version from nothing (#73)"}
 {"at":"2026-11-17T01:50:53Z","by":"grenudi","id":"c1e4e95","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#106)"}
 {"at":"2026-11-17T03:28:12Z","by":"grenudi","id":"c254333","project":"linux-phone-oco/docs","says":"docs: Boot race: the audio PD's up notification never arrives; PD mapper order suspected (#117)"}
@@ -688,6 +689,7 @@
 {"at":"2026-11-10T04:13:10Z","by":"grenudi","id":"f92337c","project":"linux-phone-oco/docs","says":"feat(data): the ADSP crashes after resume, and a kernel component (#30)"}
 {"at":"2026-11-10T13:34:55Z","by":"grenudi","id":"f97e75d","project":"linux-phone-oco/docs","says":"feat(data): the session log - the conveyor in Rust, self-watching health, the microphone narrowed (#37)"}
 {"at":"2026-11-17T01:34:49Z","by":"grenudi","id":"fa56de6","project":"linux-phone-oco/docs","says":"docs: Two needs of the author: an Android reference, a second phone (#96)"}
+{"at":"2026-11-17T10:34:35Z","by":"grenudi","id":"fb831b2","project":"linux-phone-oco/docs","says":"fix: the phone's queue reads in the author's order, waiting items in their place (#169)"}
 {"at":"2026-11-17T01:09:07Z","by":"grenudi","id":"fd42fba","project":"linux-phone-oco/docs","says":"docs: The bring-up prompt: devlab holds the phone itself (#89)"}
 {"at":"2026-11-17T08:27:36Z","by":"grenudi","id":"fe6020f","project":"linux-phone-oco/docs","says":"docs: Telegram at provisioning: telegram-desktop held, Alpine v3.24 cannot install it (#142)"}
 {"at":"2026-11-10T11:15:13Z","by":"grenudi","id":"fe8fa18","project":"linux-phone-oco/docs","says":"feat(data): the Rust toolset for any phone; the WCD kernel boots (#34)"}
@@ -1486,6 +1488,7 @@
 {"at":"2026-11-14T07:28:55Z","by":"grenudi","id":"f0d15a1","project":"marshall-oco/marshall-oco.github.io","record":"g-20261114-072840","says":"docs: still showing: a sheet of what the whole waits on, made through entries (#3)"}
 {"at":"2026-11-14T14:30:47Z","by":"oco observe","id":"f0f2b11","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T16:11:48Z","by":"oco observe","id":"f13b5ef","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T10:34:25Z","by":"oco observe","id":"f17adb3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T12:21:15Z","by":"oco observe","id":"f1d4012","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T00:48:24Z","by":"oco observe","id":"f33b1a8","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T08:55:36Z","by":"oco observe","id":"f488088","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -2876,6 +2879,7 @@
 {"at":"2026-11-13T20:09:31Z","by":"oco harvest","id":"d26426d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T16:55:37Z","by":"oco harvest","id":"d27e19e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T01:44:11Z","by":"oco harvest","id":"d2c28d3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T10:32:57Z","by":"oco harvest","id":"d33f3bb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T00:47:45Z","by":"oco harvest","id":"d344dc5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T03:47:01Z","by":"oco harvest","id":"d34a062","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T12:46:47Z","by":"oco harvest","id":"d35c827","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
