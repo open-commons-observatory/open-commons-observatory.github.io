@@ -753,6 +753,7 @@
 {"at":"2026-11-09T21:33:54Z","by":"grenudi","id":"4eca37d","project":"linux-phone-oco/docs","says":"feat(data): stereo speakers on surya, and the two upstream items they need (#12)"}
 {"at":"2026-11-05T07:46:02Z","by":"grenudi","id":"4f4ba71","project":"linux-phone-oco/docs","says":"fix: _config.yml is actually valid YAML (#3)"}
 {"at":"2026-11-10T20:44:39Z","by":"grenudi","id":"4ff014b","project":"linux-phone-oco/docs","says":"feat(data): the USB flapping fixed; a shell-free base and the TTY-first shell recorded (#47)"}
+{"at":"2026-11-17T19:12:10Z","by":"grenudi","id":"5065b25","project":"linux-phone-oco/docs","says":"docs: standby drain as a repeatable test (research + decision) (#336)"}
 {"at":"2026-11-05T08:12:55Z","by":"grenudi","id":"52819aa","project":"linux-phone-oco/docs","says":"feat(data): Nura boots and is reachable; no shell access without credentials (#6)"}
 {"at":"2026-11-17T18:25:57Z","by":"grenudi","id":"53d3188","project":"linux-phone-oco/docs","says":"docs: walleye backlog: the bootstrap method, researched (#301)"}
 {"at":"2026-11-17T11:10:48Z","by":"grenudi","id":"53eb9b1","project":"linux-phone-oco/docs","says":"docs: Patrol: three signs - unsigned landings, hand restarts of the watch, stale board rows (#179)"}
@@ -795,6 +796,7 @@
 {"at":"2026-11-17T09:48:51Z","by":"grenudi","id":"72fc8ea","project":"linux-phone-oco/docs","says":"docs: a change's health report stays on the phone until the watch files it (#157)"}
 {"at":"2026-11-17T18:14:12Z","by":"grenudi","id":"736b666","project":"linux-phone-oco/docs","says":"docs: walleye control accepted from the restored first state; phone then off USB (#294)"}
 {"at":"2026-11-17T17:45:10Z","by":"grenudi","id":"73b4efc","project":"linux-phone-oco/docs","says":"docs: SH0 sleep vote is a consumer tag; AOP QMP read-only first (research) (#282)"}
+{"at":"2026-11-17T19:13:17Z","by":"grenudi","id":"7581b17","project":"linux-phone-oco/docs","says":"docs: walleye vendor-gadget2 built, try queued, v1 panic cause (no RD_GZIP) (#338)"}
 {"at":"2026-11-17T17:10:37Z","by":"grenudi","id":"75dd496","project":"linux-phone-oco/docs","says":"docs: two signs from the patrol - agent folder over 3 KB, first reads of whole records (#256)"}
 {"at":"2026-11-17T04:40:08Z","by":"grenudi","id":"78455d1","project":"linux-phone-oco/docs","says":"docs: lab-tools: asked - make a proven test kernel the phone's default (#125)"}
 {"at":"2026-11-17T08:57:21Z","by":"grenudi","id":"78f2bf4","project":"linux-phone-oco/docs","says":"docs: Backlog: SMS loopback waits on the SIM's number; tqftpserv 1.3 for Alpine stable (#148)"}
@@ -847,6 +849,7 @@
 {"at":"2026-11-11T17:32:51Z","by":"grenudi","id":"a028cc0","project":"linux-phone-oco/docs","says":"refactor: tad in Rust replaces the vendored Python engine (#61)"}
 {"at":"2026-11-17T11:11:43Z","by":"grenudi","id":"a094eb9","project":"linux-phone-oco/docs","says":"feat: docs follows ideal-knowledge-base 0.1.0: the short entry, next, find, row and recent (#180)"}
 {"at":"2026-11-17T09:16:58Z","by":"grenudi","id":"a0cfdca","project":"linux-phone-oco/docs","says":"docs: the telephony layer; suite put from the lab's main (#153)"}
+{"at":"2026-11-17T19:10:32Z","by":"grenudi","id":"a192021","project":"linux-phone-oco/docs","says":"docs: walleye s0 control from healthy state accepted, phone off USB (hands) (#334)"}
 {"at":"2026-11-17T11:17:31Z","by":"github-actions[bot]","id":"a1ae9ca","project":"linux-phone-oco/docs","says":"chore(main): release 0.3.0 (#178)"}
 {"at":"2026-11-12T01:08:04Z","by":"grenudi","id":"a316057","project":"linux-phone-oco/docs","says":"feat: SQL is back: make sql, tad engine in setup, the recipe (#71)"}
 {"at":"2026-11-10T04:53:05Z","by":"grenudi","id":"a427240","project":"linux-phone-oco/docs","says":"feat(data): the ADSP wake-up crash narrowed - rare, early in a boot (#33)"}
@@ -1116,6 +1119,7 @@
 {"at":"2026-11-12T13:07:30Z","by":"grenudi","id":"3643d40","project":"linux-phone-oco/surya-lab","says":"fix: decisions about the phone's milestones name the star that keeps them (#67)"}
 {"at":"2026-11-17T02:30:46Z","by":"grenudi","id":"3891e00","project":"linux-phone-oco/surya-lab","says":"docs: Microphone research: the codec drops off both SoundWire buses as the card registers (#89)"}
 {"at":"2026-11-17T04:41:03Z","by":"grenudi","id":"4062484","project":"linux-phone-oco/surya-lab","says":"docs: The microphone works: the capture link used the TX controller's playback DAI (#100)"}
+{"at":"2026-11-17T19:13:48Z","by":"grenudi","id":"46fb0d6","project":"linux-phone-oco/surya-lab","says":"patches: hexagonrpcd serves a writable sns_reg_version (on PR #27's 40e5041) (#132)"}
 {"at":"2026-11-17T04:21:09Z","by":"grenudi","id":"4c54945","project":"linux-phone-oco/surya-lab","says":"docs: Microphone research: which reset question each note answered (#97)"}
 {"at":"2026-11-16T14:53:02Z","by":"grenudi","id":"4d0335f","project":"linux-phone-oco/surya-lab","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#68)"}
 {"at":"2026-11-11T14:33:58Z","by":"grenudi","id":"5040455","project":"linux-phone-oco/surya-lab","says":"data: waiting for the phone to settle is automated (#59)"}
@@ -2652,6 +2656,7 @@
 {"at":"2026-11-11T16:41:00Z","by":"oco harvest","id":"1dbfd88","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T23:03:17Z","by":"oco harvest","id":"1de3480","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T09:56:36Z","by":"oco harvest","id":"1e73aca","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T19:10:42Z","by":"oco harvest","id":"1ee6b3a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T11:15:45Z","by":"oco harvest","id":"1f22393","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T15:04:39Z","by":"oco harvest","id":"1f5c558","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T18:17:26Z","by":"oco harvest","id":"1f9bec5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
