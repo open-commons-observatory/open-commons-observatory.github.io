@@ -550,6 +550,7 @@
 {"at":"2026-11-17T15:33:07Z","by":"grenudi","id":"e654280","project":"grenudi/ideal-agent","says":"feat: a neutral start - agent-env instead of . oco-work (plugin 0.3.1) (#29)"}
 {"at":"2026-11-17T15:37:48Z","by":"grenudi","id":"f27a5f1","project":"grenudi/ideal-agent","says":"feat: skills: how to find, choose and record an upstream (plugin 0.3.2) (#32)"}
 {"at":"2026-11-17T16:26:38Z","by":"grenudi","id":"f45ab77","project":"grenudi/ideal-agent","says":"fix: the guard's Python refusal is one line (plugin 0.3.10) (#41)"}
+{"at":"2026-11-17T16:42:19Z","by":"grenudi","id":"f9667bb","project":"grenudi/ideal-agent","says":"research: what lab-agent is used for, its dependents, and the decision to retire it by parts (#44)"}
 {"at":"2026-11-17T12:09:55Z","by":"grenudi","id":"faf6656","project":"grenudi/ideal-agent","says":"feat: briefs first: ideal-agent follows idealkb 0.4.0, its records briefed (#16)"}
 {"at":"2026-11-17T14:40:26Z","by":"github-actions[bot]","id":"062d589","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#21)"}
 {"at":"2026-11-17T16:15:15Z","by":"github-actions[bot]","id":"0b45170","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#42)"}
@@ -782,6 +783,7 @@
 {"at":"2026-11-17T09:50:32Z","by":"grenudi","id":"b5c0222","project":"linux-phone-oco/docs","says":"feat: support status looks past skips to each test's latest measurement (#158)"}
 {"at":"2026-11-11T14:44:34Z","by":"grenudi","id":"b640902","project":"linux-phone-oco/docs","says":"feat(data): export the community's claims, to be drawn beside our checks (#57)"}
 {"at":"2026-11-17T01:38:21Z","by":"grenudi","id":"b6f5db4","project":"linux-phone-oco/docs","says":"feat: Tests: a known gap counted apart from a failure, in every run (#98)"}
+{"at":"2026-11-17T16:43:25Z","by":"grenudi","id":"b7c01a1","project":"linux-phone-oco/docs","says":"walleye first boot tries (#247)"}
 {"at":"2026-11-17T00:58:18Z","by":"grenudi","id":"ba01aae","project":"linux-phone-oco/docs","says":"feat: Support status read off the suite's results, beside what was judged (#86)"}
 {"at":"2026-11-17T13:26:01Z","by":"github-actions[bot]","id":"bbe525b","project":"linux-phone-oco/docs","says":"chore(main): release 0.6.0 (#203)"}
 {"at":"2026-11-05T07:33:49Z","by":"grenudi","id":"bbe722e","project":"linux-phone-oco/docs","says":"feat: schema for device/component/status tracking, RFC-style docs (#1)"}
@@ -2802,6 +2804,7 @@
 {"at":"2026-11-17T16:24:53Z","by":"oco harvest","id":"6f05881","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T09:32:50Z","by":"oco harvest","id":"6f217c6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T01:36:51Z","by":"oco harvest","id":"6f6e0ab","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T16:37:10Z","by":"oco harvest","id":"6fae117","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T15:22:32Z","by":"oco harvest","id":"6ffc4ba","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T04:37:20Z","by":"oco harvest","id":"7071a3a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T10:31:58Z","by":"oco harvest","id":"70d1d85","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
