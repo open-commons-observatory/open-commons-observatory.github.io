@@ -1072,6 +1072,7 @@
 {"at":"2026-11-17T18:27:57Z","by":"grenudi","id":"4eb1a74","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants g, h, i answer on 172.16.43.1 (e, b, f); a-f byte for byte (#9)"}
 {"at":"2026-11-17T18:23:44Z","by":"grenudi","id":"4fa476d","project":"linux-phone-oco/google-walleye-lab","says":"address 43 (#7)"}
 {"at":"2026-11-17T21:49:13Z","by":"grenudi","id":"520a680","project":"linux-phone-oco/google-walleye-lab","says":"walleye: code hygiene item (C probe removal, Rust CI) queued after the n3r try (#62)"}
+{"at":"2026-11-17T22:29:03Z","by":"grenudi","id":"52d622a","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ml3 tried, pstore empty; ml3-ramoops-read proof test; records (#72)"}
 {"at":"2026-11-17T20:21:07Z","by":"grenudi","id":"5315bf5","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget-n1, n2, the ncm step without settings writes (walleye-ncm-noattr-images) (#35)"}
 {"at":"2026-11-17T20:02:36Z","by":"grenudi","id":"53a8965","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the gadget bring-up bisect (build item); cmdline-read and panic-time closed (#26)"}
 {"at":"2026-11-17T20:13:44Z","by":"grenudi","id":"54419ea","project":"linux-phone-oco/google-walleye-lab","says":"walleye: gadget bisect - 5a returns, 5b panics (ncm step) (#30)"}
@@ -1269,6 +1270,7 @@
 {"at":"2026-11-16T14:53:02Z","by":"grenudi","id":"4d0335f","project":"linux-phone-oco/surya-lab","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#68)"}
 {"at":"2026-11-11T14:33:58Z","by":"grenudi","id":"5040455","project":"linux-phone-oco/surya-lab","says":"data: waiting for the phone to settle is automated (#59)"}
 {"at":"2026-11-17T08:49:13Z","by":"grenudi","id":"5282921","project":"linux-phone-oco/surya-lab","says":"docs: Mobile data: tqftpserv from edge, the mobile connection, a check that carries traffic (#112)"}
+{"at":"2026-11-17T22:26:00Z","by":"grenudi","id":"529e7b9","project":"linux-phone-oco/surya-lab","says":"surya: standby r4 plan; waits cleared (#153)"}
 {"at":"2026-11-17T05:28:34Z","by":"grenudi","id":"5606ccf","project":"linux-phone-oco/surya-lab","says":"docs: Every flash loads the PD mapper before the ADSP: the sound card no longer goes missing (#106)"}
 {"at":"2026-11-17T01:14:54Z","by":"grenudi","id":"57748d4","project":"linux-phone-oco/surya-lab","says":"docs: The main microphone's own check: records a second, fails until samples come back (#74)"}
 {"at":"2026-11-10T02:59:54Z","by":"grenudi","id":"57dfa81","project":"linux-phone-oco/surya-lab","says":"feat(provision): install this phone's Sxmo device profile until sxmo-utils ships it (#14)"}
@@ -1321,6 +1323,7 @@
 {"at":"2026-11-11T12:38:12Z","by":"grenudi","id":"9a10bf2","project":"linux-phone-oco/surya-lab","says":"data: the lab's decisions say which steps they are about (#56)"}
 {"at":"2026-11-09T14:16:19Z","by":"grenudi","id":"9e81bf1","project":"linux-phone-oco/surya-lab","says":"fix: make the dt/ scripts executable"}
 {"at":"2026-11-17T04:54:57Z","by":"grenudi","id":"a1754ae","project":"linux-phone-oco/surya-lab","says":"docs: mic-records: the bottom mic, analog; surya has no digital mics (#103)"}
+{"at":"2026-11-17T22:25:13Z","by":"grenudi","id":"a1b1d96","project":"linux-phone-oco/surya-lab","says":"surya: sleep-wakes-for-calls waits on the SIM (#152)"}
 {"at":"2026-11-11T23:13:06Z","by":"grenudi","id":"a5323c3","project":"linux-phone-oco/surya-lab","says":"chore: parked: the lab-agent redesign comes first; each item keeps its resume point (#66)"}
 {"at":"2026-11-11T15:09:27Z","by":"grenudi","id":"a67aa41","project":"linux-phone-oco/surya-lab","says":"data: the modem's read-write directory is missing (#62)"}
 {"at":"2026-11-17T04:17:00Z","by":"grenudi","id":"a6cbf95","project":"linux-phone-oco/surya-lab","says":"docs: Microphone: DMICs on the branch kernel still silent; reading LPI pins safely (#94)"}
@@ -1367,6 +1370,7 @@
 {"at":"2026-11-17T13:18:06Z","by":"grenudi","id":"dd13a05","project":"linux-phone-oco/surya-lab","says":"feat(health): call-echo and SMS self-test skip 'no SIM card' (before the day is marked) (#123)"}
 {"at":"2026-11-10T02:30:13Z","by":"grenudi","id":"de63990","project":"linux-phone-oco/surya-lab","says":"feat: provision a freshly flashed phone - Firefox and the standard packages over the PC's connection (#11)"}
 {"at":"2026-11-11T00:44:09Z","by":"grenudi","id":"dee5ff6","project":"linux-phone-oco/surya-lab","says":"feat(checks): more of the phone measured - Wi-Fi joined, Bluetooth hearing, the SIM, what the kernel exposes (#45)"}
+{"at":"2026-11-17T22:26:57Z","by":"grenudi","id":"e098d86","project":"linux-phone-oco/surya-lab","says":"sleep: r4 stops sensorspd for the run and restores it; r4 armed (#154)"}
 {"at":"2026-11-17T00:31:09Z","by":"grenudi","id":"e0e623d","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#72)"}
 {"at":"2026-11-17T01:41:25Z","by":"grenudi","id":"e176708","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#79)"}
 {"at":"2026-11-09T14:20:29Z","by":"grenudi","id":"e4c336d","project":"linux-phone-oco/surya-lab","says":"feat: flash/flash-dtb.sh - flash a stock image with one device tree swapped in"}
@@ -3670,6 +3674,7 @@
 {"at":"2026-11-14T18:58:46Z","by":"oco harvest","id":"fa6821b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T00:15:14Z","by":"oco harvest","id":"fa8214f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T01:11:09Z","by":"oco harvest","id":"fa8f4c1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T22:25:39Z","by":"oco harvest","id":"fa938fb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T09:33:17Z","by":"grenudi","id":"faaab58","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-093300","says":"docs: a job says only what is its own: a practice, shown where it was decided (#85)"}
 {"at":"2026-11-12T09:09:16Z","by":"oco harvest","id":"fab85ec","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T22:52:11Z","by":"grenudi","id":"fabab5c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the ear in health, two kinds of gap told apart, what is written and what waits (#36)"}
