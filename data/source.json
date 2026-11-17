@@ -1,4 +1,4 @@
-{"bytes":18648,"id":"crates/argenv-cli/src/main.rs","lines":537,"path":"crates/argenv-cli/src/main.rs","project":"argenv-opencommons/argenv"}
+{"bytes":18668,"id":"crates/argenv-cli/src/main.rs","lines":538,"path":"crates/argenv-cli/src/main.rs","project":"argenv-opencommons/argenv"}
 {"bytes":15582,"id":"crates/argenv-cli/tests/cli.rs","lines":461,"path":"crates/argenv-cli/tests/cli.rs","project":"argenv-opencommons/argenv"}
 {"bytes":7651,"id":"crates/argenv-resolve/examples/consumer.rs","lines":223,"path":"crates/argenv-resolve/examples/consumer.rs","project":"argenv-opencommons/argenv"}
 {"bytes":6853,"id":"crates/argenv-resolve/examples/docker.rs","lines":203,"path":"crates/argenv-resolve/examples/docker.rs","project":"argenv-opencommons/argenv"}
@@ -7,12 +7,12 @@
 {"bytes":5116,"id":"crates/argenv-resolve/examples/minimal.rs","lines":160,"path":"crates/argenv-resolve/examples/minimal.rs","project":"argenv-opencommons/argenv"}
 {"bytes":6634,"id":"crates/argenv-resolve/examples/proton.rs","lines":188,"path":"crates/argenv-resolve/examples/proton.rs","project":"argenv-opencommons/argenv"}
 {"bytes":4065,"id":"crates/argenv-resolve/src/ext.rs","lines":113,"path":"crates/argenv-resolve/src/ext.rs","project":"argenv-opencommons/argenv"}
-{"bytes":6504,"id":"crates/argenv-resolve/src/generate/bash.rs","lines":157,"path":"crates/argenv-resolve/src/generate/bash.rs","project":"argenv-opencommons/argenv"}
-{"bytes":3198,"id":"crates/argenv-resolve/src/generate/fish.rs","lines":92,"path":"crates/argenv-resolve/src/generate/fish.rs","project":"argenv-opencommons/argenv"}
+{"bytes":6916,"id":"crates/argenv-resolve/src/generate/bash.rs","lines":161,"path":"crates/argenv-resolve/src/generate/bash.rs","project":"argenv-opencommons/argenv"}
+{"bytes":3612,"id":"crates/argenv-resolve/src/generate/fish.rs","lines":99,"path":"crates/argenv-resolve/src/generate/fish.rs","project":"argenv-opencommons/argenv"}
 {"bytes":7833,"id":"crates/argenv-resolve/src/generate/man.rs","lines":226,"path":"crates/argenv-resolve/src/generate/man.rs","project":"argenv-opencommons/argenv"}
-{"bytes":11779,"id":"crates/argenv-resolve/src/generate/mod.rs","lines":357,"path":"crates/argenv-resolve/src/generate/mod.rs","project":"argenv-opencommons/argenv"}
-{"bytes":5169,"id":"crates/argenv-resolve/src/generate/nushell.rs","lines":146,"path":"crates/argenv-resolve/src/generate/nushell.rs","project":"argenv-opencommons/argenv"}
-{"bytes":4990,"id":"crates/argenv-resolve/src/generate/zsh.rs","lines":141,"path":"crates/argenv-resolve/src/generate/zsh.rs","project":"argenv-opencommons/argenv"}
+{"bytes":14513,"id":"crates/argenv-resolve/src/generate/mod.rs","lines":421,"path":"crates/argenv-resolve/src/generate/mod.rs","project":"argenv-opencommons/argenv"}
+{"bytes":6215,"id":"crates/argenv-resolve/src/generate/nushell.rs","lines":176,"path":"crates/argenv-resolve/src/generate/nushell.rs","project":"argenv-opencommons/argenv"}
+{"bytes":5821,"id":"crates/argenv-resolve/src/generate/zsh.rs","lines":158,"path":"crates/argenv-resolve/src/generate/zsh.rs","project":"argenv-opencommons/argenv"}
 {"bytes":13728,"id":"crates/argenv-resolve/src/invocation.rs","lines":392,"path":"crates/argenv-resolve/src/invocation.rs","project":"argenv-opencommons/argenv"}
 {"bytes":9069,"id":"crates/argenv-resolve/src/lib.rs","lines":220,"path":"crates/argenv-resolve/src/lib.rs","project":"argenv-opencommons/argenv"}
 {"bytes":16871,"id":"crates/argenv-resolve/src/lint.rs","lines":455,"path":"crates/argenv-resolve/src/lint.rs","project":"argenv-opencommons/argenv"}
@@ -20,7 +20,7 @@
 {"bytes":1930,"id":"crates/argenv-resolve/src/source.rs","lines":61,"path":"crates/argenv-resolve/src/source.rs","project":"argenv-opencommons/argenv"}
 {"bytes":4371,"id":"crates/argenv-resolve/tests/common/mod.rs","lines":161,"path":"crates/argenv-resolve/tests/common/mod.rs","project":"argenv-opencommons/argenv"}
 {"bytes":5424,"id":"crates/argenv-resolve/tests/fixtures/mock.rs","lines":161,"path":"crates/argenv-resolve/tests/fixtures/mock.rs","project":"argenv-opencommons/argenv"}
-{"bytes":24333,"id":"crates/argenv-resolve/tests/generate.rs","lines":749,"path":"crates/argenv-resolve/tests/generate.rs","project":"argenv-opencommons/argenv"}
+{"bytes":33851,"id":"crates/argenv-resolve/tests/generate.rs","lines":1043,"path":"crates/argenv-resolve/tests/generate.rs","project":"argenv-opencommons/argenv"}
 {"bytes":7368,"id":"crates/argenv-resolve/tests/integration.rs","lines":211,"path":"crates/argenv-resolve/tests/integration.rs","project":"argenv-opencommons/argenv"}
 {"bytes":15972,"id":"crates/argenv-resolve/tests/linting.rs","lines":504,"path":"crates/argenv-resolve/tests/linting.rs","project":"argenv-opencommons/argenv"}
 {"bytes":4950,"id":"crates/argenv-resolve/tests/reading.rs","lines":160,"path":"crates/argenv-resolve/tests/reading.rs","project":"argenv-opencommons/argenv"}
@@ -85,7 +85,7 @@
 {"bytes":7259,"id":"tad/src/main.rs","lines":209,"path":"tad/src/main.rs","project":"creation-guidelines/tad-engine"}
 {"bytes":46080,"id":"tad/src/render.rs","lines":1288,"path":"tad/src/render.rs","project":"creation-guidelines/tad-engine"}
 {"bytes":17868,"id":"tad/src/sql.rs","lines":495,"path":"tad/src/sql.rs","project":"creation-guidelines/tad-engine"}
-{"bytes":12918,"id":"devlab/src/device.rs","lines":402,"path":"devlab/src/device.rs","project":"linux-phone-oco/lab-tools"}
+{"bytes":14792,"id":"devlab/src/device.rs","lines":455,"path":"devlab/src/device.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":7978,"id":"devlab/src/flash.rs","lines":232,"path":"devlab/src/flash.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":13112,"id":"devlab/src/gather.rs","lines":336,"path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":18640,"id":"devlab/src/guard.rs","lines":534,"path":"devlab/src/guard.rs","project":"linux-phone-oco/lab-tools"}
@@ -96,7 +96,7 @@
 {"bytes":13259,"id":"devlab/src/main.rs","lines":354,"path":"devlab/src/main.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":8289,"id":"devlab/src/mcp.rs","lines":238,"path":"devlab/src/mcp.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":5810,"id":"devlab/src/outcome.rs","lines":156,"path":"devlab/src/outcome.rs","project":"linux-phone-oco/lab-tools"}
-{"bytes":7996,"id":"devlab/src/phone.rs","lines":233,"path":"devlab/src/phone.rs","project":"linux-phone-oco/lab-tools"}
+{"bytes":8341,"id":"devlab/src/phone.rs","lines":243,"path":"devlab/src/phone.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":12037,"id":"devlab/src/provision.rs","lines":333,"path":"devlab/src/provision.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":13987,"id":"devlab/src/suite.rs","lines":413,"path":"devlab/src/suite.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":4831,"id":"devlab/src/watch.rs","lines":119,"path":"devlab/src/watch.rs","project":"linux-phone-oco/lab-tools"}

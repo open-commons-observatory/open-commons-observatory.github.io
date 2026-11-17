@@ -78,6 +78,7 @@
 {"at":"2026-11-13T11:02:17Z","by":"grenudi","id":"d94ccda","project":"argenv-opencommons/argenv","record":"g-20261113-110107","says":"docs: the trial read against records made as the program runs: nothing here had to change (#48)"}
 {"at":"2026-11-13T10:28:45Z","by":"grenudi","id":"d98c112","project":"argenv-opencommons/argenv","record":"g-20261113-102725","says":"docs: the designed step is held: looked at as one with ocoeco (#47)"}
 {"at":"2026-10-23T19:19:38Z","by":"github-actions[bot]","id":"dbaebf8","project":"argenv-opencommons/argenv","says":"chore: release v0.3.0"}
+{"at":"2026-11-17T02:41:58Z","by":"grenudi","id":"dc20399","project":"argenv-opencommons/argenv","record":"g-20261117-023849","says":"feat!: completions can ask the program for a positional's values (#54)"}
 {"at":"2026-10-24T00:30:53Z","by":"grenudi","id":"de17bad","project":"argenv-opencommons/argenv","says":"fix(resolve): bash completes a flag's values only where the flag applies (#34)"}
 {"at":"2026-10-23T19:00:25Z","by":"grenudi","id":"e15c2d3","project":"argenv-opencommons/argenv","says":"docs(examples): the Rust Book's minigrep, with its arguments and environment declared once (#27)"}
 {"at":"2026-09-25T08:18:12Z","by":"grenudi","id":"e1dadd3","project":"argenv-opencommons/argenv","says":"Merge branch 'main' into dependabot/github_actions/actions/checkout-7"}
@@ -655,6 +656,7 @@
 {"at":"2026-11-11T09:21:37Z","by":"grenudi","id":"b810574","project":"linux-phone-oco/lab-tools","says":"fix(devlab): only an EFI program is offered to the bootloader - a gzip kernel was lost silently (#22)"}
 {"at":"2026-11-10T17:46:42Z","by":"ocoeco gather","id":"b92e424","project":"linux-phone-oco/lab-tools","says":"data: gathered by ocoeco"}
 {"at":"2026-11-10T22:57:14Z","by":"grenudi","id":"b958458","project":"linux-phone-oco/lab-tools","says":"docs: the ear's first results withdrawn; it counts only with a microphone fixed in place (#18)"}
+{"at":"2026-11-17T02:38:36Z","by":"grenudi","id":"cc4d893","project":"linux-phone-oco/lab-tools","record":"g-20261117-023716","says":"feat: devlab refuses a command that touches what the phone's manifest names as a hazard (#43)"}
 {"at":"2026-11-10T22:31:19Z","by":"grenudi","id":"d43d5e4","project":"linux-phone-oco/lab-tools","says":"docs: it tells its essence - its idea for anyone and its workings (#16)"}
 {"at":"2026-11-17T01:07:49Z","by":"grenudi","id":"d53bb4e","project":"linux-phone-oco/lab-tools","record":"g-20261117-010651","says":"feat: The phone is held: one change at a time, whoever asks (#35)"}
 {"at":"2026-11-17T01:46:47Z","by":"grenudi","id":"d814970","project":"linux-phone-oco/lab-tools","record":"g-20261117-014539","says":"docs: Backlog: the checks surya-lab ran from the lab, to carry into the suite (#38)"}
@@ -2472,6 +2474,7 @@
 {"at":"2026-11-16T23:46:06Z","by":"oco harvest","id":"9450d3d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T00:48:26Z","by":"oco harvest","id":"9475d13","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T19:11:04Z","by":"grenudi","id":"94a0678","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261112-191047","says":"fix: the harvest's guard can rebase: proven against a staged collision (#73)"}
+{"at":"2026-11-17T02:39:28Z","by":"oco harvest","id":"94d115d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T12:51:19Z","by":"oco harvest","id":"961b514","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T12:49:40Z","by":"grenudi","id":"9752daa","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-124925","says":"docs: where the practices are shown: eleven more say what shows them (#88)"}
 {"at":"2026-11-15T20:30:38Z","by":"oco harvest","id":"97a3137","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
