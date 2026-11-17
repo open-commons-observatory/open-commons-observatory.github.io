@@ -370,8 +370,9 @@
 {"id":"src/guard.rs:only_bash_is_read","line":234,"name":"only_bash_is_read","path":"src/guard.rs","project":"grenudi/ideal-agent"}
 {"id":"src/guard.rs:python_is_refused_wherever_it_runs","line":206,"name":"python_is_refused_wherever_it_runs","path":"src/guard.rs","project":"grenudi/ideal-agent"}
 {"id":"src/main.rs:the_declaration_holds","line":254,"name":"the_declaration_holds","path":"src/main.rs","project":"grenudi/ideal-agent"}
+{"id":"src/practices.rs:a_retired_practice_is_not_read","line":162,"name":"a_retired_practice_is_not_read","path":"src/practices.rs","project":"grenudi/ideal-agent"}
 {"id":"src/practices.rs:practices_are_numbered_with_their_reasons","line":117,"name":"practices_are_numbered_with_their_reasons","path":"src/practices.rs","project":"grenudi/ideal-agent"}
-{"id":"src/practices.rs:the_built_in_copy_holds_practices","line":162,"name":"the_built_in_copy_holds_practices","path":"src/practices.rs","project":"grenudi/ideal-agent"}
+{"id":"src/practices.rs:the_built_in_copy_holds_practices","line":170,"name":"the_built_in_copy_holds_practices","path":"src/practices.rs","project":"grenudi/ideal-agent"}
 {"id":"src/practices.rs:the_start_reads_first_sentences_in_the_order_of_the_ids","line":141,"name":"the_start_reads_first_sentences_in_the_order_of_the_ids","path":"src/practices.rs","project":"grenudi/ideal-agent"}
 {"id":"src/practices.rs:the_start_reads_the_practices_without_their_reasons","line":129,"name":"the_start_reads_the_practices_without_their_reasons","path":"src/practices.rs","project":"grenudi/ideal-agent"}
 {"id":"src/roles.rs:a_brief_names_its_role_on_a_line_of_its_own","line":236,"name":"a_brief_names_its_role_on_a_line_of_its_own","path":"src/roles.rs","project":"grenudi/ideal-agent"}

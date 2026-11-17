@@ -515,6 +515,7 @@
 {"at":"2026-11-17T12:01:02Z","by":"grenudi","id":"3d853d7","project":"grenudi/ideal-agent","says":"feat: the session start reads each practice's first sentence, numbered by its id (#15)"}
 {"at":"2026-11-17T13:00:20Z","by":"grenudi","id":"3dab6ee","project":"grenudi/ideal-agent","says":"docs: ideal-agent's own hand-over: a fresh session starts from it (#21)"}
 {"at":"2026-11-17T15:36:40Z","by":"grenudi","id":"412518b","project":"grenudi/ideal-agent","says":"fix: a role is read only from a new session's first prompt, never from a message (plugin 0.3.2) (#31)"}
+{"at":"2026-11-17T15:42:54Z","by":"grenudi","id":"4290da4","project":"grenudi/ideal-agent","says":"feat: practices without ocoeco's tools: 16 reworded, 40 and 41 retired (plugin 0.3.4) (#34)"}
 {"at":"2026-11-17T11:55:46Z","by":"grenudi","id":"469559f","project":"grenudi/ideal-agent","says":"fix: the sources' by is back, now that idealkb 0.3.0 declares it (#14)"}
 {"at":"2026-11-17T15:27:24Z","by":"grenudi","id":"530d58d","project":"grenudi/ideal-agent","says":"feat: roles - a card per role, and a session reads only its role's (plugin 0.3.0) (#27)"}
 {"at":"2026-11-17T12:59:06Z","by":"grenudi","id":"54bf7a2","project":"grenudi/ideal-agent","says":"feat: hold little while working; a long-lived role hands over and restarts fresh (#20)"}
@@ -538,6 +539,7 @@
 {"at":"2026-11-17T12:42:50Z","by":"grenudi","id":"d046c11","project":"grenudi/ideal-agent","says":"docs: follows idealkb 0.5.0: at a task's start, ask only about its subject (#18)"}
 {"at":"2026-11-17T13:03:37Z","by":"grenudi","id":"d0593fa","project":"grenudi/ideal-agent","says":"docs: the keeper's before number, and where the after comes from (#23)"}
 {"at":"2026-11-17T10:38:51Z","by":"grenudi","id":"d167984","project":"grenudi/ideal-agent","says":"docs: a project's briefs live in its agent folder; practice 42 points there (#5)"}
+{"at":"2026-11-17T15:45:11Z","by":"grenudi","id":"d703876","project":"grenudi/ideal-agent","says":"docs: the skill listing is the start's larger part; the clean after waits on keeper 7 (#35)"}
 {"at":"2026-11-17T15:33:07Z","by":"grenudi","id":"e654280","project":"grenudi/ideal-agent","says":"feat: a neutral start - agent-env instead of . oco-work (plugin 0.3.1) (#29)"}
 {"at":"2026-11-17T15:37:48Z","by":"grenudi","id":"f27a5f1","project":"grenudi/ideal-agent","says":"feat: skills: how to find, choose and record an upstream (plugin 0.3.2) (#32)"}
 {"at":"2026-11-17T12:09:55Z","by":"grenudi","id":"faf6656","project":"grenudi/ideal-agent","says":"feat: briefs first: ideal-agent follows idealkb 0.4.0, its records briefed (#16)"}
@@ -2727,6 +2729,7 @@
 {"at":"2026-11-16T16:39:41Z","by":"grenudi","id":"67941c6","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261116-163923","says":"feat: the lens of its pages is called site, as it was first meant to be (#106)"}
 {"at":"2026-11-14T23:15:06Z","by":"oco harvest","id":"67fc33a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T15:29:53Z","by":"oco harvest","id":"68621b2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T15:42:20Z","by":"oco harvest","id":"6890dc5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T19:50:27Z","by":"oco harvest","id":"68abe76","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T12:11:18Z","by":"oco harvest","id":"690c0e8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T11:25:41Z","by":"oco harvest","id":"6914773","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
