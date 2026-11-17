@@ -540,6 +540,7 @@
 {"at":"2026-11-16T13:37:56Z","by":"feeds","id":"279ca53","project":"linux-phone-oco/docs","says":"chore(feed): data from the scheduled feeds"}
 {"at":"2026-11-17T02:00:51Z","by":"grenudi","id":"2991279","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#110)"}
 {"at":"2026-11-10T02:23:34Z","by":"grenudi","id":"2b15121","project":"linux-phone-oco/docs","says":"feat(data): the first automatic test runs on surya (Sxmo, 2026-11-10) (#25)"}
+{"at":"2026-11-17T04:39:00Z","by":"grenudi","id":"2b4b6d7","project":"linux-phone-oco/docs","says":"docs: Tests: mic-hears-speaker proves the microphone works; speaker-stereo (#124)"}
 {"at":"2026-11-10T01:12:39Z","by":"grenudi","id":"2cf8f19","project":"linux-phone-oco/docs","says":"feat(data): the feature catalog - 46 capabilities of a modern phone against Android, iOS and Linux (#19)"}
 {"at":"2026-11-10T00:21:56Z","by":"grenudi","id":"2da79d4","project":"linux-phone-oco/docs","says":"feat(data): plasma-silent and a second tas2562 bug (volume writes not reaching the chips) (#16)"}
 {"at":"2026-11-10T15:17:21Z","by":"grenudi","id":"2eeaf8b","project":"linux-phone-oco/docs","says":"chore(mark): the grand project's title and goal - Linux Phones (#40)"}
@@ -755,6 +756,7 @@
 {"at":"2026-11-16T23:38:20Z","by":"grenudi","id":"7b0c23d","project":"linux-phone-oco/surya-lab","says":"docs: The phone's own health reports, gathered: 4 runs of 2026-11-16 (#71)"}
 {"at":"2026-11-10T13:34:11Z","by":"grenudi","id":"7b92e12","project":"linux-phone-oco/surya-lab","says":"docs: the explicit-intent example is devlab provision now (#33)"}
 {"at":"2026-11-10T04:52:22Z","by":"grenudi","id":"7cbdc4e","project":"linux-phone-oco/surya-lab","says":"feat: kernel/test-entry.sh - boot a test kernel beside the stock one (#22)"}
+{"at":"2026-11-17T04:38:13Z","by":"grenudi","id":"7ce498d","project":"linux-phone-oco/surya-lab","says":"docs: The microphone hears the speaker: a quiet tone found by the phone itself (#99)"}
 {"at":"2026-11-09T14:15:46Z","by":"grenudi","id":"81a566b","project":"linux-phone-oco/surya-lab","says":"feat: dt/irq-audit.py"}
 {"at":"2026-11-17T02:00:15Z","by":"grenudi","id":"81f246f","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#85)"}
 {"at":"2026-11-17T01:56:58Z","by":"grenudi","id":"855454d","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#84)"}
@@ -2421,6 +2423,7 @@
 {"at":"2026-11-10T17:46:09Z","by":"ocoeco gather","id":"6dbef37","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: gathered by ocoeco"}
 {"at":"2026-11-10T15:54:25Z","by":"grenudi","id":"6e805c4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"feat(data): oco-eco named; tad the heart, a rhizcut with its own path (#8)"}
 {"at":"2026-11-12T01:36:51Z","by":"oco harvest","id":"6f6e0ab","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T04:37:20Z","by":"oco harvest","id":"7071a3a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T10:31:58Z","by":"oco harvest","id":"70d1d85","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T19:13:50Z","by":"oco harvest","id":"719fa51","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T10:24:01Z","by":"oco harvest","id":"71ba2ba","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
