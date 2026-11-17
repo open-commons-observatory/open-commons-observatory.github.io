@@ -24,3 +24,4 @@
 {"device_id":"xiaomi-surya","failed":4,"gaps":5,"id":"20261117-013421","kernel":"7.1.0-rc3-sm7150","passed":25,"project":"linux-phone-oco/docs","run_at":"2026-11-17 01:34:21","shell":"swmo","skipped":1}
 {"device_id":"xiaomi-surya","failed":4,"gaps":5,"id":"20261117-013738","kernel":"7.1.0-rc3-sm7150-wcd","passed":25,"project":"linux-phone-oco/docs","run_at":"2026-11-17 01:37:38","shell":"swmo","skipped":1}
 {"device_id":"xiaomi-surya","failed":0,"gaps":5,"id":"20261117-014051","kernel":"7.1.0-rc3-sm7150","passed":29,"project":"linux-phone-oco/docs","run_at":"2026-11-17 01:40:51","shell":"swmo","skipped":1}
+{"device_id":"xiaomi-surya","failed":1,"gaps":5,"id":"20261117-014448","kernel":"7.1.0-rc3-sm7150-wcd","passed":28,"project":"linux-phone-oco/docs","run_at":"2026-11-17 01:44:48","shell":"swmo","skipped":1}
