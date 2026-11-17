@@ -716,6 +716,7 @@
 {"at":"2026-11-17T18:21:23Z","by":"grenudi","id":"210669e","project":"linux-phone-oco/docs","says":"docs: fastboot whereabouts by serial or port (lab-tools) (#298)"}
 {"at":"2026-11-17T17:47:55Z","by":"grenudi","id":"2252d43","project":"linux-phone-oco/docs","says":"docs: walleye stock boot.img read (research), e/f built, control image ready, tries noted (#283)"}
 {"at":"2026-11-17T17:07:07Z","by":"grenudi","id":"233946f","project":"linux-phone-oco/docs","says":"docs: why a failed fastboot boot flipped walleye's slots, and what to do (decision) (#252)"}
+{"at":"2026-11-17T22:15:14Z","by":"grenudi","id":"24355b6","project":"linux-phone-oco/docs","says":"docs: lpoco-host-script-tools - the off-the-pin advice points at the wrong bin dir (#387)"}
 {"at":"2026-11-17T17:19:49Z","by":"grenudi","id":"24834f2","project":"linux-phone-oco/docs","says":"docs: docs: the commons and the device bases - decision and the work for each owner (#265)"}
 {"at":"2026-11-17T16:28:33Z","by":"grenudi","id":"24aca71","project":"linux-phone-oco/docs","says":"docs: sleep-cluster-params - not the floor; waits on a deeper decision (keeper-7) (#245)"}
 {"at":"2026-11-09T23:21:22Z","by":"grenudi","id":"24c64c3","project":"linux-phone-oco/docs","says":"feat(data): phosh-usb - the PC loses the phone over USB under Phosh (#14)"}
@@ -3613,6 +3614,7 @@
 {"at":"2026-11-12T11:43:04Z","by":"oco harvest","id":"eca3b93","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T10:27:47Z","by":"oco harvest","id":"ed54af5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T20:05:38Z","by":"oco harvest","id":"edee31c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T22:15:02Z","by":"oco harvest","id":"ee0ce38","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T00:54:23Z","by":"grenudi","id":"eeaab1c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: words that follow their number - done (#41)"}
 {"at":"2026-11-15T13:51:13Z","by":"oco harvest","id":"eebf998","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T19:35:36Z","by":"oco harvest","id":"ef16552","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
