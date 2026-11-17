@@ -389,6 +389,7 @@
 {"at":"2026-11-11T18:25:30Z","by":"grenudi","id":"043c9de","project":"creation-guidelines/tad-engine","says":"docs: tad pins kept current weekly (#52)"}
 {"at":"2026-11-16T15:56:09Z","by":"grenudi","id":"071bb36","project":"creation-guidelines/tad-engine","record":"g-20261116-155458","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#77)"}
 {"at":"2026-09-22T06:24:52Z","by":"github-actions[bot]","id":"0e499db","project":"creation-guidelines/tad-engine","says":"chore(main): release 1.0.1"}
+{"at":"2026-11-17T02:54:07Z","by":"github-actions[bot]","id":"0f8f2e8","project":"creation-guidelines/tad-engine","says":"chore(main): release tad 0.6.0 (#83)"}
 {"at":"2026-11-11T00:33:46Z","by":"grenudi","id":"1484cec","project":"creation-guidelines/tad-engine","says":"docs: its idea in Russian (by machine, for a person to correct) (#28)"}
 {"at":"2026-11-11T21:27:48Z","by":"grenudi","id":"1b8a261","project":"creation-guidelines/tad-engine","says":"feat: update-pins records a glimpse where glimpses are recorded (#59)"}
 {"at":"2026-11-12T00:31:03Z","by":"grenudi","id":"1cd6373","project":"creation-guidelines/tad-engine","record":"g-20261112-002954","says":"docs: tad's SQL: DuckDB as an adapter, measured; the repository becomes tad (#67)"}
@@ -446,6 +447,7 @@
 {"at":"2026-11-16T14:48:16Z","by":"grenudi","id":"d650472","project":"creation-guidelines/tad-engine","record":"g-20261116-144655","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#76)"}
 {"at":"2026-11-11T00:14:37Z","by":"grenudi","id":"d713181","project":"creation-guidelines/tad-engine","says":"docs: tad tells its essence - its idea for anyone and its workings (#27)"}
 {"at":"2026-09-22T17:20:57Z","by":"grenudi","id":"d879b22","project":"creation-guidelines/tad-engine","says":"feat(render): use definition lists instead of bold field labels (#11)"}
+{"at":"2026-11-17T02:52:56Z","by":"grenudi","id":"dca53ce","project":"creation-guidelines/tad-engine","record":"g-20261117-025142","says":"feat: named statements run by name with typed parameters; a command line declared with argenv (#82)"}
 {"at":"2026-11-11T21:34:19Z","by":"grenudi","id":"e4ce7cc","project":"creation-guidelines/tad-engine","record":"g-20261111-213259","says":"chore: glimpses are recorded here from now on (#60)"}
 {"at":"2026-11-10T19:41:14Z","by":"grenudi","id":"e6dda8d","project":"creation-guidelines/tad-engine","says":"chore: gathered data lives on the oco-data branch - main is the history of the work (#26)"}
 {"at":"2026-11-11T19:51:35Z","by":"grenudi","id":"ed98ffb","project":"creation-guidelines/tad-engine","says":"feat: check_row, extra fields and dated rows - what ocoeco's shared language needs (#56)"}
@@ -1921,6 +1923,7 @@
 {"at":"2026-11-12T18:36:54Z","by":"grenudi","id":"db94b05","project":"open-commons-observatory/ocoeco","record":"g-20261112-183533","says":"fix: ocoeco check brings every lens into focus; a broken lens cannot land (#70)"}
 {"at":"2026-11-14T18:51:42Z","by":"github-actions[bot]","id":"dbe0df5","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.26.1 (#206)"}
 {"at":"2026-11-14T22:36:36Z","by":"grenudi","id":"dcb3c44","project":"open-commons-observatory/ocoeco","record":"g-20261114-223456","says":"docs: what the engine's views show that the fulldome does not: looked at, and said (#239)"}
+{"at":"2026-11-17T02:50:58Z","by":"github-actions[bot]","id":"dd29811","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.82.1 (#443)"}
 {"at":"2026-11-16T11:38:44Z","by":"grenudi","id":"deebd73","project":"open-commons-observatory/ocoeco","record":"g-20261116-113712","says":"docs: a relation: results/2, and 4 more (#385)"}
 {"at":"2026-11-16T04:37:06Z","by":"grenudi","id":"df43446","project":"open-commons-observatory/ocoeco","record":"g-20261116-043514","says":"docs: a sign: a link by a shorter name is not told (#349)"}
 {"at":"2026-11-16T09:31:52Z","by":"grenudi","id":"dfa18ab","project":"open-commons-observatory/ocoeco","record":"g-20261116-092957","says":"docs: a decision: a name within quotes is words (#371)"}
@@ -2102,6 +2105,7 @@
 {"at":"2026-11-14T19:40:30Z","by":"grenudi","id":"14e48a3","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261114-194013","says":"docs: four practices say how work is done now (#79)"}
 {"at":"2026-11-11T00:18:10Z","by":"grenudi","id":"1587b06","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: ideas in Russian, the ear on notice, what is written and what follows (#38)"}
 {"at":"2026-11-12T00:21:08Z","by":"oco harvest","id":"15cd8af","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T02:50:19Z","by":"oco harvest","id":"161cd1e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T09:38:53Z","by":"oco harvest","id":"162eea2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T16:16:36Z","by":"oco harvest","id":"163fae2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T00:18:38Z","by":"oco harvest","id":"1651aa7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
