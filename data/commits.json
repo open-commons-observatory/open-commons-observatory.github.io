@@ -400,6 +400,7 @@
 {"at":"2026-11-17T02:54:07Z","by":"github-actions[bot]","id":"0f8f2e8","project":"creation-guidelines/tad-engine","says":"chore(main): release tad 0.6.0 (#83)"}
 {"at":"2026-11-11T00:33:46Z","by":"grenudi","id":"1484cec","project":"creation-guidelines/tad-engine","says":"docs: its idea in Russian (by machine, for a person to correct) (#28)"}
 {"at":"2026-11-17T10:24:02Z","by":"grenudi","id":"1633e45","project":"creation-guidelines/tad-engine","record":"g-20261117-102252","says":"docs: tad is an open, transparent, easily accessible database (#84)"}
+{"at":"2026-11-17T19:45:54Z","by":"grenudi","id":"1a0cf6b","project":"creation-guidelines/tad-engine","says":"fix/reference by key (#89)"}
 {"at":"2026-11-11T21:27:48Z","by":"grenudi","id":"1b8a261","project":"creation-guidelines/tad-engine","says":"feat: update-pins records a glimpse where glimpses are recorded (#59)"}
 {"at":"2026-11-12T00:31:03Z","by":"grenudi","id":"1cd6373","project":"creation-guidelines/tad-engine","record":"g-20261112-002954","says":"docs: tad's SQL: DuckDB as an adapter, measured; the repository becomes tad (#67)"}
 {"at":"2026-09-22T08:04:16Z","by":"github-actions[bot]","id":"1ce9f2e","project":"creation-guidelines/tad-engine","says":"chore(main): release 1.1.0"}
@@ -861,6 +862,7 @@
 {"at":"2026-11-17T11:17:31Z","by":"github-actions[bot]","id":"a1ae9ca","project":"linux-phone-oco/docs","says":"chore(main): release 0.3.0 (#178)"}
 {"at":"2026-11-12T01:08:04Z","by":"grenudi","id":"a316057","project":"linux-phone-oco/docs","says":"feat: SQL is back: make sql, tad engine in setup, the recipe (#71)"}
 {"at":"2026-11-10T04:53:05Z","by":"grenudi","id":"a427240","project":"linux-phone-oco/docs","says":"feat(data): the ADSP wake-up crash narrowed - rare, early in a boot (#33)"}
+{"at":"2026-11-17T19:46:49Z","by":"grenudi","id":"a47918f","project":"linux-phone-oco/docs","says":"chore: walleye's rows move to google-walleye-lab's own base; its briefs read the lab (#353)"}
 {"at":"2026-11-17T18:35:38Z","by":"grenudi","id":"a6f0c61","project":"linux-phone-oco/docs","says":"docs: upstream item for ideal-agent: bring-up order (feedback channel, vendor kernel, mainline) (#309)"}
 {"at":"2026-11-17T10:02:22Z","by":"grenudi","id":"a6fff34","project":"linux-phone-oco/docs","says":"docs: briefs keep their domain and name the ideal-agent skills (#159)"}
 {"at":"2026-11-17T19:36:03Z","by":"grenudi","id":"a95f7a1","project":"linux-phone-oco/docs","says":"docs: bringup follows by pin, devices extend beside it, what rhizoid lacks (#349)"}
@@ -994,6 +996,7 @@
 {"at":"2026-11-17T18:34:17Z","by":"grenudi","id":"01f9138","project":"linux-phone-oco/google-walleye-lab","says":"feat: bisect images s0 s0n s1 s2 s3 from the stock control, one swap each, checked (#10)"}
 {"at":"2026-11-17T19:27:08Z","by":"grenudi","id":"0f14a92","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget3.img, vendor-gadget2 plus a self-reboot timer and a kmsg marker (#13)"}
 {"at":"2026-11-17T18:43:18Z","by":"grenudi","id":"13c1a61","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget.img (the control with our gadget initramfs) and the host check walleye-gadget-up (#11)"}
+{"at":"2026-11-17T19:46:10Z","by":"grenudi","id":"2e46a6b","project":"linux-phone-oco/google-walleye-lab","says":"feat: walleye's rows, moved here from docs; lane-next for the launchers (#15)"}
 {"at":"2026-11-17T18:27:57Z","by":"grenudi","id":"4eb1a74","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants g, h, i answer on 172.16.43.1 (e, b, f); a-f byte for byte (#9)"}
 {"at":"2026-11-17T18:23:44Z","by":"grenudi","id":"4fa476d","project":"linux-phone-oco/google-walleye-lab","says":"address 43 (#7)"}
 {"at":"2026-11-17T15:18:27Z","by":"grenudi","id":"6497db7","project":"linux-phone-oco/google-walleye-lab","says":"feat: the walleye lab's manifest and mark from the template (#1)"}
@@ -3283,6 +3286,7 @@
 {"at":"2026-11-15T07:09:45Z","by":"oco harvest","id":"c42f426","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T11:22:26Z","by":"grenudi","id":"c45e21e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: no new Python, even for one-offs - practice 21 and the decision (#50)"}
 {"at":"2026-11-17T13:33:30Z","by":"oco harvest","id":"c4da7ec","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T19:43:49Z","by":"oco harvest","id":"c4e1065","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T17:07:46Z","by":"grenudi","id":"c4faf42","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the session log - every project its view, the family, ocoeco founded (#14)"}
 {"at":"2026-11-16T15:07:12Z","by":"grenudi","id":"c508b30","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261116-150655","says":"docs: a lens: curated, and 4 more (#104)"}
 {"at":"2026-11-11T01:10:24Z","by":"grenudi","id":"c53b1da","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: a Russian page that is Russian; the cameras understood (#43)"}
