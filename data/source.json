@@ -83,7 +83,7 @@
 {"bytes":4182,"id":"src/waits.rs","lines":126,"path":"src/waits.rs","project":"creation-guidelines/lab-agent"}
 {"bytes":10218,"id":"tad/src/contract.rs","lines":254,"path":"tad/src/contract.rs","project":"creation-guidelines/tad-engine"}
 {"bytes":4910,"id":"tad/src/init.rs","lines":126,"path":"tad/src/init.rs","project":"creation-guidelines/tad-engine"}
-{"bytes":43622,"id":"tad/src/lib.rs","lines":1215,"path":"tad/src/lib.rs","project":"creation-guidelines/tad-engine"}
+{"bytes":43692,"id":"tad/src/lib.rs","lines":1215,"path":"tad/src/lib.rs","project":"creation-guidelines/tad-engine"}
 {"bytes":14056,"id":"tad/src/main.rs","lines":391,"path":"tad/src/main.rs","project":"creation-guidelines/tad-engine"}
 {"bytes":46080,"id":"tad/src/render.rs","lines":1288,"path":"tad/src/render.rs","project":"creation-guidelines/tad-engine"}
 {"bytes":19600,"id":"tad/src/sql.rs","lines":556,"path":"tad/src/sql.rs","project":"creation-guidelines/tad-engine"}
