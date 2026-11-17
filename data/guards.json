@@ -400,11 +400,12 @@
 {"id":"devlab/src/device.rs:test_sounds_are_quiet_unless_the_manifest_says_otherwise","line":377,"name":"test_sounds_are_quiet_unless_the_manifest_says_otherwise","path":"devlab/src/device.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/device.rs:the_manifest_is_found_by_walking_up","line":447,"name":"the_manifest_is_found_by_walking_up","path":"devlab/src/device.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/device.rs:the_remembered_address_comes_last_and_once","line":432,"name":"the_remembered_address_comes_last_and_once","path":"devlab/src/device.rs","project":"linux-phone-oco/lab-tools"}
-{"id":"devlab/src/fastboot.rs:a_phone_is_found_by_its_own_serial_only","line":350,"name":"a_phone_is_found_by_its_own_serial_only","path":"devlab/src/fastboot.rs","project":"linux-phone-oco/lab-tools"}
-{"id":"devlab/src/fastboot.rs:getvar_answers_are_read_off_what_fastboot_says","line":360,"name":"getvar_answers_are_read_off_what_fastboot_says","path":"devlab/src/fastboot.rs","project":"linux-phone-oco/lab-tools"}
-{"id":"devlab/src/fastboot.rs:no_serial_no_fastboot_and_no_switch_unless_said","line":394,"name":"no_serial_no_fastboot_and_no_switch_unless_said","path":"devlab/src/fastboot.rs","project":"linux-phone-oco/lab-tools"}
-{"id":"devlab/src/fastboot.rs:only_a_boot_image_is_booted","line":387,"name":"only_a_boot_image_is_booted","path":"devlab/src/fastboot.rs","project":"linux-phone-oco/lab-tools"}
-{"id":"devlab/src/fastboot.rs:what_the_bootloader_changed_is_said","line":369,"name":"what_the_bootloader_changed_is_said","path":"devlab/src/fastboot.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/fastboot.rs:a_phone_is_found_by_its_own_serial_only","line":397,"name":"a_phone_is_found_by_its_own_serial_only","path":"devlab/src/fastboot.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/fastboot.rs:a_phone_is_found_by_its_serial_or_its_port_never_by_another_phones_gadget","line":434,"name":"a_phone_is_found_by_its_serial_or_its_port_never_by_another_phones_gadget","path":"devlab/src/fastboot.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/fastboot.rs:getvar_answers_are_read_off_what_fastboot_says","line":407,"name":"getvar_answers_are_read_off_what_fastboot_says","path":"devlab/src/fastboot.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/fastboot.rs:no_serial_no_fastboot_and_no_switch_unless_said","line":468,"name":"no_serial_no_fastboot_and_no_switch_unless_said","path":"devlab/src/fastboot.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/fastboot.rs:only_a_boot_image_is_booted","line":461,"name":"only_a_boot_image_is_booted","path":"devlab/src/fastboot.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/fastboot.rs:what_the_bootloader_changed_is_said","line":416,"name":"what_the_bootloader_changed_is_said","path":"devlab/src/fastboot.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/flash.rs:manifest_places_point_inside_the_mounted_image","line":230,"name":"manifest_places_point_inside_the_mounted_image","path":"devlab/src/flash.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/gather.rs:a_run_is_filed_by_the_pictures_own_record","line":323,"name":"a_run_is_filed_by_the_pictures_own_record","path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/gather.rs:only_the_phones_run_reports_are_brought","line":295,"name":"only_the_phones_run_reports_are_brought","path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
