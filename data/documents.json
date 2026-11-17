@@ -77,7 +77,7 @@
 {"bytes":311,"id":"CHANGELOG.md","lines":8,"path":"CHANGELOG.md","project":"grenudi/ideal-knowledge-base"}
 {"bytes":11,"id":"CLAUDE.md","lines":1,"path":"CLAUDE.md","project":"grenudi/ideal-knowledge-base"}
 {"bytes":2957,"id":"README.md","lines":47,"path":"README.md","project":"grenudi/ideal-knowledge-base"}
-{"bytes":2365,"id":"docs/backlog.md","lines":111,"path":"docs/backlog.md","project":"grenudi/ideal-knowledge-base"}
+{"bytes":2805,"id":"docs/backlog.md","lines":111,"path":"docs/backlog.md","project":"grenudi/ideal-knowledge-base"}
 {"bytes":4246,"id":"docs/concepts.md","lines":72,"path":"docs/concepts.md","project":"grenudi/ideal-knowledge-base"}
 {"bytes":6442,"id":"docs/decisions.md","lines":103,"path":"docs/decisions.md","project":"grenudi/ideal-knowledge-base"}
 {"bytes":722,"id":"docs/index.md","lines":12,"path":"docs/index.md","project":"grenudi/ideal-knowledge-base"}
@@ -91,7 +91,7 @@
 {"bytes":990,"id":"tests/health/README.md","lines":19,"path":"tests/health/README.md","project":"linux-phone-oco/device-template"}
 {"bytes":399,"id":".github/PULL_REQUEST_TEMPLATE.md","lines":8,"path":".github/PULL_REQUEST_TEMPLATE.md","project":"linux-phone-oco/docs"}
 {"bytes":2141,"id":"AGENTS.md","lines":38,"path":"AGENTS.md","project":"linux-phone-oco/docs"}
-{"bytes":15691,"id":"CHANGELOG.md","lines":93,"path":"CHANGELOG.md","project":"linux-phone-oco/docs"}
+{"bytes":16296,"id":"CHANGELOG.md","lines":101,"path":"CHANGELOG.md","project":"linux-phone-oco/docs"}
 {"bytes":11,"id":"CLAUDE.md","lines":1,"path":"CLAUDE.md","project":"linux-phone-oco/docs"}
 {"bytes":9021,"id":"CONTRIBUTING.md","lines":121,"path":"CONTRIBUTING.md","project":"linux-phone-oco/docs"}
 {"bytes":1463,"id":"README.md","lines":23,"path":"README.md","project":"linux-phone-oco/docs"}

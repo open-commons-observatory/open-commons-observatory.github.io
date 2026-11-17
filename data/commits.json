@@ -431,6 +431,7 @@
 {"at":"2026-11-11T18:20:30Z","by":"grenudi","id":"6eacd29","project":"creation-guidelines/tad-engine","says":"feat: update-pins keeps each repository's pinned tad current (#51)"}
 {"at":"2026-11-12T01:10:27Z","by":"grenudi","id":"706ce5f","project":"creation-guidelines/tad-engine","record":"g-20261112-010918","says":"docs: tad sql delivered: released and in use in the four repositories (#73)"}
 {"at":"2026-11-11T23:34:19Z","by":"grenudi","id":"724dc5d","project":"creation-guidelines/tad-engine","record":"g-20261111-233321","says":"docs: tad answers real SQL again: decided, with the reason it was dropped (#63)"}
+{"at":"2026-11-17T11:16:44Z","by":"grenudi","id":"7c3b76a","project":"creation-guidelines/tad-engine","record":"g-20261117-111524","says":"docs: backlog: compact rows when tad's output is read by a program (#88)"}
 {"at":"2026-11-10T17:35:46Z","by":"grenudi","id":"7daf5ed","project":"creation-guidelines/tad-engine","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#25)"}
 {"at":"2026-11-10T00:58:34Z","by":"grenudi","id":"81016b2","project":"creation-guidelines/tad-engine","says":"feat: a status between two tables is drawn as a grid (#20)"}
 {"at":"2026-11-11T23:12:04Z","by":"grenudi","id":"8492fa8","project":"creation-guidelines/tad-engine","record":"g-20261111-230922","says":"chore: parked: the lab-agent redesign comes first; each item keeps its resume point (#62)"}
@@ -512,6 +513,7 @@
 {"at":"2026-11-17T10:38:51Z","by":"grenudi","id":"d167984","project":"grenudi/ideal-agent","says":"docs: a project's briefs live in its agent folder; practice 42 points there (#5)"}
 {"at":"2026-11-17T11:00:42Z","by":"grenudi","id":"58ba247","project":"grenudi/ideal-knowledge-base","says":"Initial commit"}
 {"at":"2026-11-17T11:05:31Z","by":"github-actions[bot]","id":"62a6a64","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.1.0 (#2)"}
+{"at":"2026-11-17T11:15:04Z","by":"grenudi","id":"c6f39d0","project":"grenudi/ideal-knowledge-base","says":"docs: docs follows 0.1.0, and the lab moves every base's pin weekly (#3)"}
 {"at":"2026-11-17T11:04:56Z","by":"grenudi","id":"f483421","project":"grenudi/ideal-knowledge-base","says":"feat: the ideal knowledge base: a layer on tad - five queries, standing tables, one entry (#1)"}
 {"at":"2026-11-16T19:25:40Z","by":"grenudi","id":"0df165f","project":"linux-package-distribution-oco/conveyor","record":"g-20261116-192510","says":"feat: a release is said once its files are there: a draft, said by the conveyor (#12)"}
 {"at":"2026-11-11T16:10:23Z","by":"grenudi","id":"1e27551","project":"linux-package-distribution-oco/conveyor","says":"docs/nix direction (#8)"}
@@ -642,6 +644,7 @@
 {"at":"2026-11-11T17:32:51Z","by":"grenudi","id":"a028cc0","project":"linux-phone-oco/docs","says":"refactor: tad in Rust replaces the vendored Python engine (#61)"}
 {"at":"2026-11-17T11:11:43Z","by":"grenudi","id":"a094eb9","project":"linux-phone-oco/docs","says":"feat: docs follows ideal-knowledge-base 0.1.0: the short entry, next, find, row and recent (#180)"}
 {"at":"2026-11-17T09:16:58Z","by":"grenudi","id":"a0cfdca","project":"linux-phone-oco/docs","says":"docs: the telephony layer; suite put from the lab's main (#153)"}
+{"at":"2026-11-17T11:17:31Z","by":"github-actions[bot]","id":"a1ae9ca","project":"linux-phone-oco/docs","says":"chore(main): release 0.3.0 (#178)"}
 {"at":"2026-11-12T01:08:04Z","by":"grenudi","id":"a316057","project":"linux-phone-oco/docs","says":"feat: SQL is back: make sql, tad engine in setup, the recipe (#71)"}
 {"at":"2026-11-10T04:53:05Z","by":"grenudi","id":"a427240","project":"linux-phone-oco/docs","says":"feat(data): the ADSP wake-up crash narrowed - rare, early in a boot (#33)"}
 {"at":"2026-11-17T10:02:22Z","by":"grenudi","id":"a6fff34","project":"linux-phone-oco/docs","says":"docs: briefs keep their domain and name the ideal-agent skills (#159)"}
@@ -2321,6 +2324,7 @@
 {"at":"2026-11-11T16:41:00Z","by":"oco harvest","id":"1dbfd88","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T23:03:17Z","by":"oco harvest","id":"1de3480","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T09:56:36Z","by":"oco harvest","id":"1e73aca","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T11:15:45Z","by":"oco harvest","id":"1f22393","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T15:04:39Z","by":"oco harvest","id":"1f5c558","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T20:30:02Z","by":"oco harvest","id":"204e81c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T08:25:00Z","by":"oco harvest","id":"21ddc25","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
