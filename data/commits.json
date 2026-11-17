@@ -650,6 +650,7 @@
 {"at":"2026-11-10T19:02:22Z","by":"grenudi","id":"1e0c661","project":"linux-phone-oco/docs","says":"feat(data): the project's own data in Russian - a translations table, by machine (#43)"}
 {"at":"2026-11-11T10:15:20Z","by":"grenudi","id":"1e61618","project":"linux-phone-oco/docs","says":"feat(data): the microphone's route is set; the stream does not start yet (#56)"}
 {"at":"2026-11-17T08:33:09Z","by":"grenudi","id":"1f3337c","project":"linux-phone-oco/docs","says":"docs: The earpiece works: it is the top speaker, proven by the top mic (#143)"}
+{"at":"2026-11-17T17:07:07Z","by":"grenudi","id":"233946f","project":"linux-phone-oco/docs","says":"docs: why a failed fastboot boot flipped walleye's slots, and what to do (decision) (#252)"}
 {"at":"2026-11-17T16:28:33Z","by":"grenudi","id":"24aca71","project":"linux-phone-oco/docs","says":"docs: sleep-cluster-params - not the floor; waits on a deeper decision (keeper-7) (#245)"}
 {"at":"2026-11-09T23:21:22Z","by":"grenudi","id":"24c64c3","project":"linux-phone-oco/docs","says":"feat(data): phosh-usb - the PC loses the phone over USB under Phosh (#14)"}
 {"at":"2026-11-14T00:46:11Z","by":"grenudi","id":"2590f09","project":"linux-phone-oco/docs","says":"docs: feature and component are other names for features and components (#76)"}
@@ -874,6 +875,7 @@
 {"at":"2026-11-17T15:18:27Z","by":"grenudi","id":"6497db7","project":"linux-phone-oco/google-walleye-lab","says":"feat: the walleye lab's manifest and mark from the template (#1)"}
 {"at":"2026-11-17T16:20:31Z","by":"grenudi","id":"9faa48b","project":"linux-phone-oco/google-walleye-lab","says":"feat: the first walleye kernel dts, initramfs and boot image, built by script (#3)"}
 {"at":"2026-11-17T15:29:58Z","by":"grenudi","id":"cbe406f","project":"linux-phone-oco/google-walleye-lab","says":"feat: walleye's fastboot serial, writes off (#2)"}
+{"at":"2026-11-17T17:08:03Z","by":"grenudi","id":"dc676bd","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants c and d carry an os version and patch level (#5)"}
 {"at":"2026-11-17T15:17:39Z","by":"grenudi","id":"fb58702","project":"linux-phone-oco/google-walleye-lab","says":"Initial commit"}
 {"at":"2026-11-17T04:43:10Z","by":"grenudi","id":"02582e5","project":"linux-phone-oco/lab-tools","says":"feat: devlab kernel keep: a proven test kernel becomes the default, stock still the fallback (#52)"}
 {"at":"2026-11-10T20:05:16Z","by":"grenudi","id":"05e3552","project":"linux-phone-oco/lab-tools","says":"feat(devlab): provision sets a fresh phone's clock and grows its system first; flashing proven (#14)"}
@@ -3317,6 +3319,7 @@
 {"at":"2026-11-15T09:14:23Z","by":"oco harvest","id":"facc6cb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T17:05:27Z","by":"oco harvest","id":"fb0c5c1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T19:03:32Z","by":"oco harvest","id":"fb1e911","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T17:06:19Z","by":"oco harvest","id":"fb3d756","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:07:08Z","by":"oco harvest","id":"fbbda5a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T19:48:43Z","by":"grenudi","id":"fbe1b24","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: a practice - never run two jobs in the same clone at once (#25)"}
 {"at":"2026-11-15T21:51:44Z","by":"oco harvest","id":"fc303b8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}

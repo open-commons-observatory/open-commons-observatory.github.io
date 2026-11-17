@@ -128,7 +128,7 @@
 {"bytes":117980,"id":"docs/backlog.md","lines":4154,"path":"docs/backlog.md","project":"linux-phone-oco/docs"}
 {"bytes":1493,"id":"docs/components.md","lines":149,"path":"docs/components.md","project":"linux-phone-oco/docs"}
 {"bytes":1786,"id":"docs/concepts.md","lines":73,"path":"docs/concepts.md","project":"linux-phone-oco/docs"}
-{"bytes":89435,"id":"docs/decisions.md","lines":1416,"path":"docs/decisions.md","project":"linux-phone-oco/docs"}
+{"bytes":91700,"id":"docs/decisions.md","lines":1444,"path":"docs/decisions.md","project":"linux-phone-oco/docs"}
 {"bytes":4097,"id":"docs/devices.md","lines":50,"path":"docs/devices.md","project":"linux-phone-oco/docs"}
 {"bytes":33016,"id":"docs/feature_support.md","lines":517,"path":"docs/feature_support.md","project":"linux-phone-oco/docs"}
 {"bytes":5630,"id":"docs/features.md","lines":462,"path":"docs/features.md","project":"linux-phone-oco/docs"}
@@ -143,7 +143,7 @@
 {"bytes":3979,"id":"docs/picture.md","lines":63,"path":"docs/picture.md","project":"linux-phone-oco/docs"}
 {"bytes":770,"id":"docs/platforms.md","lines":69,"path":"docs/platforms.md","project":"linux-phone-oco/docs"}
 {"bytes":5115,"id":"docs/problems.md","lines":217,"path":"docs/problems.md","project":"linux-phone-oco/docs"}
-{"bytes":105733,"id":"docs/research.md","lines":1501,"path":"docs/research.md","project":"linux-phone-oco/docs"}
+{"bytes":108684,"id":"docs/research.md","lines":1530,"path":"docs/research.md","project":"linux-phone-oco/docs"}
 {"bytes":77484,"id":"docs/session_log.md","lines":2085,"path":"docs/session_log.md","project":"linux-phone-oco/docs"}
 {"bytes":373,"id":"docs/shell_releases.md","lines":28,"path":"docs/shell_releases.md","project":"linux-phone-oco/docs"}
 {"bytes":54430,"id":"docs/sources.md","lines":2399,"path":"docs/sources.md","project":"linux-phone-oco/docs"}
@@ -191,7 +191,7 @@
 {"bytes":2322,"id":"upstream/sm7150-mainline/sm7150-wcd-series/sm7150-mainline-wcd-question.md","lines":31,"path":"upstream/sm7150-mainline/sm7150-wcd-series/sm7150-mainline-wcd-question.md","project":"linux-phone-oco/docs"}
 {"bytes":1542,"id":"AGENTS.md","lines":19,"path":"AGENTS.md","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":2526,"id":"README.md","lines":40,"path":"README.md","project":"linux-phone-oco/google-walleye-lab"}
-{"bytes":1979,"id":"build/README.md","lines":26,"path":"build/README.md","project":"linux-phone-oco/google-walleye-lab"}
+{"bytes":2406,"id":"build/README.md","lines":32,"path":"build/README.md","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":990,"id":"tests/health/README.md","lines":19,"path":"tests/health/README.md","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":11385,"id":"README.md","lines":169,"path":"README.md","project":"linux-phone-oco/lab-tools"}
 {"bytes":2842,"id":"health/CHANGELOG.md","lines":65,"path":"health/CHANGELOG.md","project":"linux-phone-oco/lab-tools"}
