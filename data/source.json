@@ -87,6 +87,12 @@
 {"bytes":46080,"id":"tad/src/render.rs","lines":1288,"path":"tad/src/render.rs","project":"creation-guidelines/tad-engine"}
 {"bytes":19600,"id":"tad/src/sql.rs","lines":556,"path":"tad/src/sql.rs","project":"creation-guidelines/tad-engine"}
 {"bytes":19197,"id":"tad/src/statements.rs","lines":549,"path":"tad/src/statements.rs","project":"creation-guidelines/tad-engine"}
+{"bytes":3598,"id":"src/contract.rs","lines":96,"path":"src/contract.rs","project":"grenudi/ideal-agent"}
+{"bytes":7956,"id":"src/guard.rs","lines":242,"path":"src/guard.rs","project":"grenudi/ideal-agent"}
+{"bytes":258,"id":"src/lib.rs","lines":5,"path":"src/lib.rs","project":"grenudi/ideal-agent"}
+{"bytes":5196,"id":"src/main.rs","lines":160,"path":"src/main.rs","project":"grenudi/ideal-agent"}
+{"bytes":3440,"id":"src/practices.rs","lines":92,"path":"src/practices.rs","project":"grenudi/ideal-agent"}
+{"bytes":11402,"id":"src/shell.rs","lines":304,"path":"src/shell.rs","project":"grenudi/ideal-agent"}
 {"bytes":17303,"id":"devlab/src/device.rs","lines":527,"path":"devlab/src/device.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":7978,"id":"devlab/src/flash.rs","lines":232,"path":"devlab/src/flash.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":13850,"id":"devlab/src/gather.rs","lines":372,"path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}

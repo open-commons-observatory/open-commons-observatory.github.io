@@ -499,6 +499,8 @@
 {"at":"2026-09-23T07:09:56Z","by":"grenudi","id":"ea6d4ae","project":"git-rhizoid/git-rhizoid.github.io","says":"feat(data): design the boundary layer, having read argenv's real API"}
 {"at":"2026-09-23T12:43:32Z","by":"grenudi","id":"ed86798","project":"git-rhizoid/git-rhizoid.github.io","says":"feat(data): log the boundary layer implementation and its real bugs"}
 {"at":"2026-11-13T06:56:35Z","by":"grenudi","id":"fafad80","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261113-065606","says":"docs: a milestone ahead of its evidence, raised (#22)"}
+{"at":"2026-11-17T09:42:13Z","by":"grenudi","id":"3cbec09","project":"grenudi/ideal-agent","says":"Initial commit"}
+{"at":"2026-11-17T09:51:25Z","by":"grenudi","id":"5905800","project":"grenudi/ideal-agent","says":"feat: the ideal agent: its mark, its tad database, and one Claude Code plugin (#1)"}
 {"at":"2026-11-16T19:25:40Z","by":"grenudi","id":"0df165f","project":"linux-package-distribution-oco/conveyor","record":"g-20261116-192510","says":"feat: a release is said once its files are there: a draft, said by the conveyor (#12)"}
 {"at":"2026-11-11T16:10:23Z","by":"grenudi","id":"1e27551","project":"linux-package-distribution-oco/conveyor","says":"docs/nix direction (#8)"}
 {"at":"2026-11-11T10:27:09Z","by":"lab-agent-session","id":"2bda54f","project":"linux-package-distribution-oco/conveyor","says":"docs: the package conveyor, designed - its idea, decisions and path"}
@@ -592,6 +594,7 @@
 {"at":"2026-11-05T08:03:38Z","by":"grenudi","id":"6f79a41","project":"linux-phone-oco/docs","says":"fix(data): the distro is Nura now (#5)"}
 {"at":"2026-11-17T01:00:18Z","by":"grenudi","id":"722b44a","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#87)"}
 {"at":"2026-11-17T09:40:19Z","by":"grenudi","id":"727bd14","project":"linux-phone-oco/docs","says":"docs: Calls work both ways, proven by a daily echo call; the calls queue is done (#155)"}
+{"at":"2026-11-17T09:48:51Z","by":"grenudi","id":"72fc8ea","project":"linux-phone-oco/docs","says":"docs: a change's health report stays on the phone until the watch files it (#157)"}
 {"at":"2026-11-17T04:40:08Z","by":"grenudi","id":"78455d1","project":"linux-phone-oco/docs","says":"docs: lab-tools: asked - make a proven test kernel the phone's default (#125)"}
 {"at":"2026-11-17T08:57:21Z","by":"grenudi","id":"78f2bf4","project":"linux-phone-oco/docs","says":"docs: Backlog: SMS loopback waits on the SIM's number; tqftpserv 1.3 for Alpine stable (#148)"}
 {"at":"2026-11-10T00:33:46Z","by":"grenudi","id":"7a10c36","project":"linux-phone-oco/docs","says":"feat(data): plasma-silent - sound works after writing the chips' volume; not yet persistent (#17)"}
@@ -626,6 +629,7 @@
 {"at":"2026-11-10T11:34:52Z","by":"grenudi","id":"b2ae42e","project":"linux-phone-oco/docs","says":"feat(data): the WCD boot analysed - a bus clash, then clocks off mid-init (#35)"}
 {"at":"2026-11-17T04:48:28Z","by":"grenudi","id":"b31550f","project":"linux-phone-oco/docs","says":"docs: surya keeps the microphone kernel: devlab kernel keep, proven (#127)"}
 {"at":"2026-11-17T08:56:23Z","by":"grenudi","id":"b51b84f","project":"linux-phone-oco/docs","says":"docs: Mobile data works: the modem online with tqftpserv 1.3, proven after every boot (#147)"}
+{"at":"2026-11-17T09:50:32Z","by":"grenudi","id":"b5c0222","project":"linux-phone-oco/docs","says":"feat: support status looks past skips to each test's latest measurement (#158)"}
 {"at":"2026-11-11T14:44:34Z","by":"grenudi","id":"b640902","project":"linux-phone-oco/docs","says":"feat(data): export the community's claims, to be drawn beside our checks (#57)"}
 {"at":"2026-11-17T01:38:21Z","by":"grenudi","id":"b6f5db4","project":"linux-phone-oco/docs","says":"feat: Tests: a known gap counted apart from a failure, in every run (#98)"}
 {"at":"2026-11-17T00:58:18Z","by":"grenudi","id":"ba01aae","project":"linux-phone-oco/docs","says":"feat: Support status read off the suite's results, beside what was judged (#86)"}
@@ -841,6 +845,7 @@
 {"at":"2026-11-17T01:35:29Z","by":"grenudi","id":"ae09d6e","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#77)"}
 {"at":"2026-11-10T19:44:00Z","by":"grenudi","id":"ae41bb3","project":"linux-phone-oco/surya-lab","says":"chore: gathered data lives on the oco-data branch - main is the history of the work (#37)"}
 {"at":"2026-11-17T09:38:54Z","by":"grenudi","id":"afadb91","project":"linux-phone-oco/surya-lab","says":"docs: Calls work both ways: the voice topology at boot, and a daily echo call the phone judges (#118)"}
+{"at":"2026-11-17T09:51:34Z","by":"grenudi","id":"b52ce76","project":"linux-phone-oco/surya-lab","says":"docs: SMS and echo-call checks skip on later runs of a day, as the derivation reads (#121)"}
 {"at":"2026-11-09T14:15:45Z","by":"grenudi","id":"b57101f","project":"linux-phone-oco/surya-lab","says":"feat: dt/disable-node.py"}
 {"at":"2026-11-10T02:22:55Z","by":"grenudi","id":"b64213f","project":"linux-phone-oco/surya-lab","says":"fix(tests): find the vibration motor by reading each input device as a whole block (#10)"}
 {"at":"2026-11-09T14:15:47Z","by":"grenudi","id":"b949467","project":"linux-phone-oco/surya-lab","says":"feat: dt/reg-audit.py"}
@@ -2981,6 +2986,7 @@
 {"at":"2026-11-16T00:22:31Z","by":"oco harvest","id":"fc45b81","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T16:40:33Z","by":"oco harvest","id":"fc49e58","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T08:44:45Z","by":"oco harvest","id":"fcc7d89","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T09:49:06Z","by":"oco harvest","id":"fcc7e79","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T12:46:50Z","by":"oco harvest","id":"fceb98a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T00:17:01Z","by":"oco harvest","id":"fcfeadb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T19:02:18Z","by":"oco harvest","id":"fd2f3bd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}

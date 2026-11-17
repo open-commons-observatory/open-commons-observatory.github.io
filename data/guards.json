@@ -363,6 +363,17 @@
 {"id":"tad/src/statements.rs:the_header_declares_the_parameters","line":475,"name":"the_header_declares_the_parameters","path":"tad/src/statements.rs","project":"creation-guidelines/tad-engine"}
 {"id":"tad/src/statements.rs:values_are_written_as_literals_never_inside_quotes_or_comments","line":488,"name":"values_are_written_as_literals_never_inside_quotes_or_comments","path":"tad/src/statements.rs","project":"creation-guidelines/tad-engine"}
 {"id":"tad/src/statements.rs:what_is_not_of_its_type_or_not_declared_is_refused","line":504,"name":"what_is_not_of_its_type_or_not_declared_is_refused","path":"tad/src/statements.rs","project":"creation-guidelines/tad-engine"}
+{"id":"src/guard.rs:a_push_of_a_branch_is_not","line":191,"name":"a_push_of_a_branch_is_not","path":"src/guard.rs","project":"grenudi/ideal-agent"}
+{"id":"src/guard.rs:a_push_that_reaches_main_is_refused","line":174,"name":"a_push_that_reaches_main_is_refused","path":"src/guard.rs","project":"grenudi/ideal-agent"}
+{"id":"src/guard.rs:only_bash_is_read","line":234,"name":"only_bash_is_read","path":"src/guard.rs","project":"grenudi/ideal-agent"}
+{"id":"src/guard.rs:python_is_refused_wherever_it_runs","line":206,"name":"python_is_refused_wherever_it_runs","path":"src/guard.rs","project":"grenudi/ideal-agent"}
+{"id":"src/main.rs:the_declaration_holds","line":152,"name":"the_declaration_holds","path":"src/main.rs","project":"grenudi/ideal-agent"}
+{"id":"src/practices.rs:practices_are_numbered_with_their_reasons","line":76,"name":"practices_are_numbered_with_their_reasons","path":"src/practices.rs","project":"grenudi/ideal-agent"}
+{"id":"src/practices.rs:the_built_in_copy_holds_practices","line":88,"name":"the_built_in_copy_holds_practices","path":"src/practices.rs","project":"grenudi/ideal-agent"}
+{"id":"src/shell.rs:a_here_string_is_not_a_here_document","line":300,"name":"a_here_string_is_not_a_here_document","path":"src/shell.rs","project":"grenudi/ideal-agent"}
+{"id":"src/shell.rs:a_quoted_here_document_is_data","line":278,"name":"a_quoted_here_document_is_data","path":"src/shell.rs","project":"grenudi/ideal-agent"}
+{"id":"src/shell.rs:an_unquoted_here_documents_substitutions_run","line":286,"name":"an_unquoted_here_documents_substitutions_run","path":"src/shell.rs","project":"grenudi/ideal-agent"}
+{"id":"src/shell.rs:what_follows_a_here_document_is_read","line":292,"name":"what_follows_a_here_document_is_read","path":"src/shell.rs","project":"grenudi/ideal-agent"}
 {"id":"devlab/src/device.rs:a_command_that_touches_a_hazard_is_refused_saying_why","line":329,"name":"a_command_that_touches_a_hazard_is_refused_saying_why","path":"devlab/src/device.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/device.rs:a_manifest_reads","line":395,"name":"a_manifest_reads","path":"devlab/src/device.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/device.rs:a_manifest_without_addresses_is_refused","line":402,"name":"a_manifest_without_addresses_is_refused","path":"devlab/src/device.rs","project":"linux-phone-oco/lab-tools"}
