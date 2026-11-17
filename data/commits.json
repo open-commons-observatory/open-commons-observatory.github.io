@@ -523,6 +523,7 @@
 {"at":"2026-11-17T12:40:01Z","by":"grenudi","id":"aab4ad6","project":"grenudi/ideal-agent","says":"feat: read only when: the start reads the task's summary; what a session read, measured (#17)"}
 {"at":"2026-11-17T11:51:06Z","by":"grenudi","id":"b31fefd","project":"grenudi/ideal-agent","says":"feat: keep the start light: housekeeping measured per role, reasons a command away (#13)"}
 {"at":"2026-11-17T11:18:19Z","by":"grenudi","id":"baf6ee3","project":"grenudi/ideal-agent","says":"feat: a skill: finding your way in a tad knowledge base (#6)"}
+{"at":"2026-11-17T12:42:50Z","by":"grenudi","id":"d046c11","project":"grenudi/ideal-agent","says":"docs: follows idealkb 0.5.0: at a task's start, ask only about its subject (#18)"}
 {"at":"2026-11-17T10:38:51Z","by":"grenudi","id":"d167984","project":"grenudi/ideal-agent","says":"docs: a project's briefs live in its agent folder; practice 42 points there (#5)"}
 {"at":"2026-11-17T12:09:55Z","by":"grenudi","id":"faf6656","project":"grenudi/ideal-agent","says":"feat: briefs first: ideal-agent follows idealkb 0.4.0, its records briefed (#16)"}
 {"at":"2026-11-17T11:36:40Z","by":"grenudi","id":"12334d7","project":"grenudi/ideal-knowledge-base","says":"feat: a summary over many records, and research kept aside in dated folders (#5)"}
@@ -610,6 +611,7 @@
 {"at":"2026-11-17T09:10:58Z","by":"grenudi","id":"3858805","project":"linux-phone-oco/docs","says":"docs: SMS works: the phone texts itself and receives it, once a day (#152)"}
 {"at":"2026-11-17T09:01:19Z","by":"grenudi","id":"3891906","project":"linux-phone-oco/docs","says":"docs: 4 runs of xiaomi-surya filed by devlab, from the phone's own reports (#150)"}
 {"at":"2026-11-17T04:20:06Z","by":"grenudi","id":"39af2c0","project":"linux-phone-oco/docs","says":"docs: lab-tools: the LPASS debugfs hazard is held by devlab and surya's manifest (#121)"}
+{"at":"2026-11-17T12:45:02Z","by":"grenudi","id":"39b2cd4","project":"linux-phone-oco/docs","says":"docs: the keeper's brief starts from its purpose and exact commands; bring-up folded in (#193)"}
 {"at":"2026-11-17T01:25:21Z","by":"grenudi","id":"3a88fc0","project":"linux-phone-oco/docs","says":"docs: How linux-phone's agents are organised: roles, briefs, the data as shared state (#93)"}
 {"at":"2026-11-11T16:44:33Z","by":"grenudi","id":"3d67245","project":"linux-phone-oco/docs","says":"docs: the tables declared as data, for tad in Rust (#60)"}
 {"at":"2026-11-17T10:05:15Z","by":"grenudi","id":"3e5e6c8","project":"linux-phone-oco/docs","says":"docs: An ideal knowledge base proposed: about link, one entry, idealkb from the template (#161)"}
@@ -2774,6 +2776,7 @@
 {"at":"2026-11-15T20:30:38Z","by":"oco harvest","id":"97a3137","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T17:27:59Z","by":"oco harvest","id":"97b7314","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T09:11:46Z","by":"oco harvest","id":"97eb7ef","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T12:42:56Z","by":"oco harvest","id":"987592c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T05:34:22Z","by":"oco harvest","id":"99371c3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T21:39:38Z","by":"oco harvest","id":"9ae6c55","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T21:47:01Z","by":"oco harvest","id":"9aeff2b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
