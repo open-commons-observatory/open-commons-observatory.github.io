@@ -529,6 +529,7 @@
 {"at":"2026-11-05T08:22:47Z","by":"grenudi","id":"0bdbff5","project":"linux-phone-oco/docs","says":"feat(data): a fresh-install plan, prepared but not run (#7)"}
 {"at":"2026-11-17T01:13:06Z","by":"grenudi","id":"127ebba","project":"linux-phone-oco/docs","says":"docs: Microphone taken up by bring-up: the weakest link, where it stands, the next step (#90)"}
 {"at":"2026-11-17T01:52:58Z","by":"grenudi","id":"14cba00","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#107)"}
+{"at":"2026-11-17T09:00:53Z","by":"grenudi","id":"169cb55","project":"linux-phone-oco/docs","says":"docs: Research: an expert is a domain written down in docs, not a standing session (#149)"}
 {"at":"2026-11-10T12:16:20Z","by":"grenudi","id":"18ea436","project":"linux-phone-oco/docs","says":"feat(data): the landscape - what postmarketOS and Mobian offer the conveyor (#36)"}
 {"at":"2026-11-10T01:59:07Z","by":"grenudi","id":"1a72431","project":"linux-phone-oco/docs","says":"feat(data): the microphone test kernel is built; a safe second-boot-entry plan for the test (#24)"}
 {"at":"2026-11-17T02:11:14Z","by":"grenudi","id":"1ab8705","project":"linux-phone-oco/docs","says":"docs: 2 runs of xiaomi-surya filed by devlab, from the phone's own reports (#113)"}
@@ -553,6 +554,7 @@
 {"at":"2026-11-10T01:36:01Z","by":"grenudi","id":"325abe7","project":"linux-phone-oco/docs","says":"feat(feed): kernel work on surya's device tree, from sm7150-mainline (#23)"}
 {"at":"2026-11-17T02:04:12Z","by":"grenudi","id":"3288b61","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#111)"}
 {"at":"2026-11-17T03:24:33Z","by":"grenudi","id":"3799499","project":"linux-phone-oco/docs","says":"docs: Microphone: the reset fault found and queued; capture prepares, still silent (#116)"}
+{"at":"2026-11-17T09:01:19Z","by":"grenudi","id":"3891906","project":"linux-phone-oco/docs","says":"docs: 4 runs of xiaomi-surya filed by devlab, from the phone's own reports (#150)"}
 {"at":"2026-11-17T04:20:06Z","by":"grenudi","id":"39af2c0","project":"linux-phone-oco/docs","says":"docs: lab-tools: the LPASS debugfs hazard is held by devlab and surya's manifest (#121)"}
 {"at":"2026-11-17T01:25:21Z","by":"grenudi","id":"3a88fc0","project":"linux-phone-oco/docs","says":"docs: How linux-phone's agents are organised: roles, briefs, the data as shared state (#93)"}
 {"at":"2026-11-11T16:44:33Z","by":"grenudi","id":"3d67245","project":"linux-phone-oco/docs","says":"docs: the tables declared as data, for tad in Rust (#60)"}
@@ -599,6 +601,7 @@
 {"at":"2026-11-17T05:18:27Z","by":"grenudi","id":"8418610","project":"linux-phone-oco/docs","says":"docs: kernel try --dtb, for bring-up's device-tree changes (#136)"}
 {"at":"2026-11-17T01:26:55Z","by":"grenudi","id":"88476da","project":"linux-phone-oco/docs","says":"docs: ArtCraft's organisation, read: what fits ours and what we lack (#94)"}
 {"at":"2026-11-11T21:36:33Z","by":"grenudi","id":"8a3f860","project":"linux-phone-oco/docs","says":"chore: glimpses are recorded here from now on (#64)"}
+{"at":"2026-11-17T09:02:14Z","by":"grenudi","id":"8afdf9c","project":"linux-phone-oco/docs","says":"feat: tad q coverage: each device's parts no test proves work (#151)"}
 {"at":"2026-11-09T16:48:31Z","by":"grenudi","id":"8bb7568","project":"linux-phone-oco/docs","says":"feat(data): the boot hang, the ADSP crash loop and off-state charging, recorded (#8)"}
 {"at":"2026-11-10T00:05:14Z","by":"grenudi","id":"919f1ec","project":"linux-phone-oco/docs","says":"docs: the grand picture - why, what, where, the evidence conveyor, the orgs, the phases (#15)"}
 {"at":"2026-11-10T14:20:29Z","by":"grenudi","id":"96cfe9e","project":"linux-phone-oco/docs","says":"chore: the observatory's mark (oco.toml) (#38)"}
@@ -849,6 +852,7 @@
 {"at":"2026-11-09T14:20:29Z","by":"grenudi","id":"e4c336d","project":"linux-phone-oco/surya-lab","says":"feat: flash/flash-dtb.sh - flash a stock image with one device tree swapped in"}
 {"at":"2026-11-10T14:21:01Z","by":"grenudi","id":"e7b6154","project":"linux-phone-oco/surya-lab","says":"chore: the observatory's mark (oco.toml) (#35)"}
 {"at":"2026-11-17T08:26:25Z","by":"grenudi","id":"e9c9686","project":"linux-phone-oco/surya-lab","says":"fix: telegram-desktop held: Alpine v3.24 cannot install it (needs libada.so.3) (#109)"}
+{"at":"2026-11-17T09:00:42Z","by":"grenudi","id":"edc05e8","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#113)"}
 {"at":"2026-11-10T04:10:44Z","by":"grenudi","id":"ef3e8ff","project":"linux-phone-oco/surya-lab","says":"feat(tests): the ADSP check says how many crashes came right after a resume (#17)"}
 {"at":"2026-11-11T12:59:38Z","by":"grenudi","id":"efbac1e","project":"linux-phone-oco/surya-lab","says":"data: hand-work is manual work, with its events (#57)"}
 {"at":"2026-11-17T08:32:07Z","by":"grenudi","id":"f313456","project":"linux-phone-oco/surya-lab","says":"docs: The earpiece is the top speaker: a UCM Earpiece device, proven by the top mic (#110)"}
@@ -2829,6 +2833,7 @@
 {"at":"2026-11-17T04:51:43Z","by":"oco harvest","id":"dd9f339","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T01:12:59Z","by":"oco harvest","id":"ddbfdf1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T00:15:02Z","by":"oco harvest","id":"de15ca8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T08:59:50Z","by":"oco harvest","id":"de1bf1b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T07:27:09Z","by":"oco harvest","id":"de3b8e3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T15:21:39Z","by":"oco harvest","id":"debd218","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T15:35:05Z","by":"grenudi","id":"df899b8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"feat(data): the working practices, for agents and people - read live by every agent (#6)"}
