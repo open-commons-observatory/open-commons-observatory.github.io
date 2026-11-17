@@ -22,6 +22,7 @@
 {"id":"DESIGN.md:oco-agent: lab-agent, redesigned (2026-11-12)","line":1,"name":"oco-agent: lab-agent, redesigned (2026-11-12)","path":"DESIGN.md","project":"creation-guidelines/lab-agent"}
 {"id":"README.md:lab-agent","line":1,"name":"lab-agent","path":"README.md","project":"creation-guidelines/lab-agent"}
 {"id":"oco-agent/README.md:oco-agent","line":1,"name":"oco-agent","path":"oco-agent/README.md","project":"creation-guidelines/lab-agent"}
+{"id":"oco-agent/skills/README.md:Skills shared by every agent on the lab","line":1,"name":"Skills shared by every agent on the lab","path":"oco-agent/skills/README.md","project":"creation-guidelines/lab-agent"}
 {"id":"oco-agent/watcher/README.md:The watcher outside the machine","line":1,"name":"The watcher outside the machine","path":"oco-agent/watcher/README.md","project":"creation-guidelines/lab-agent"}
 {"id":"AGENTS.md:AGENTS.md - how to work in this repository","line":1,"name":"AGENTS.md - how to work in this repository","path":"AGENTS.md","project":"creation-guidelines/software-engineering-canon"}
 {"id":"CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"CHANGELOG.md","project":"creation-guidelines/software-engineering-canon"}

@@ -85,14 +85,15 @@
 {"bytes":7259,"id":"tad/src/main.rs","lines":209,"path":"tad/src/main.rs","project":"creation-guidelines/tad-engine"}
 {"bytes":46080,"id":"tad/src/render.rs","lines":1288,"path":"tad/src/render.rs","project":"creation-guidelines/tad-engine"}
 {"bytes":17868,"id":"tad/src/sql.rs","lines":495,"path":"tad/src/sql.rs","project":"creation-guidelines/tad-engine"}
-{"bytes":12238,"id":"devlab/src/device.rs","lines":386,"path":"devlab/src/device.rs","project":"linux-phone-oco/lab-tools"}
+{"bytes":12918,"id":"devlab/src/device.rs","lines":402,"path":"devlab/src/device.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":7978,"id":"devlab/src/flash.rs","lines":232,"path":"devlab/src/flash.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":11827,"id":"devlab/src/gather.rs","lines":313,"path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
+{"bytes":18640,"id":"devlab/src/guard.rs","lines":534,"path":"devlab/src/guard.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":9535,"id":"devlab/src/health.rs","lines":276,"path":"devlab/src/health.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":9237,"id":"devlab/src/hear.rs","lines":239,"path":"devlab/src/hear.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":1536,"id":"devlab/src/hold.rs","lines":46,"path":"devlab/src/hold.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":12906,"id":"devlab/src/kernel.rs","lines":322,"path":"devlab/src/kernel.rs","project":"linux-phone-oco/lab-tools"}
-{"bytes":12456,"id":"devlab/src/main.rs","lines":331,"path":"devlab/src/main.rs","project":"linux-phone-oco/lab-tools"}
+{"bytes":13259,"id":"devlab/src/main.rs","lines":354,"path":"devlab/src/main.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":8289,"id":"devlab/src/mcp.rs","lines":238,"path":"devlab/src/mcp.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":5810,"id":"devlab/src/outcome.rs","lines":156,"path":"devlab/src/outcome.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":7996,"id":"devlab/src/phone.rs","lines":233,"path":"devlab/src/phone.rs","project":"linux-phone-oco/lab-tools"}
