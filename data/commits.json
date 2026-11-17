@@ -678,6 +678,7 @@
 {"at":"2026-11-11T17:34:21Z","by":"feeds","id":"fefc0e3","project":"linux-phone-oco/docs","says":"chore(feed): data from the scheduled feeds"}
 {"at":"2026-11-17T04:43:10Z","by":"grenudi","id":"02582e5","project":"linux-phone-oco/lab-tools","says":"feat: devlab kernel keep: a proven test kernel becomes the default, stock still the fallback (#52)"}
 {"at":"2026-11-10T20:05:16Z","by":"grenudi","id":"05e3552","project":"linux-phone-oco/lab-tools","says":"feat(devlab): provision sets a fresh phone's clock and grows its system first; flashing proven (#14)"}
+{"at":"2026-11-17T09:46:50Z","by":"grenudi","id":"070cfd7","project":"linux-phone-oco/lab-tools","says":"fix: a change's health report stays on the phone until the watch files it (#64)"}
 {"at":"2026-11-10T11:56:05Z","by":"grenudi","id":"0788383","project":"linux-phone-oco/lab-tools","says":"fix: devlab phone reboot waits for a new boot, by its boot id (#3)"}
 {"at":"2026-11-11T00:20:14Z","by":"grenudi","id":"07e678b","project":"linux-phone-oco/lab-tools","says":"feat(devlab): a listening test needs the word that the microphone is placed (#20)"}
 {"at":"2026-11-10T14:21:54Z","by":"grenudi","id":"10bc1be","project":"linux-phone-oco/lab-tools","says":"chore: the observatory's mark (oco.toml) (#9)"}
@@ -775,6 +776,7 @@
 {"at":"2026-11-17T02:03:33Z","by":"grenudi","id":"286399c","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#86)"}
 {"at":"2026-11-17T01:52:23Z","by":"grenudi","id":"28976ee","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#83)"}
 {"at":"2026-11-09T14:15:42Z","by":"grenudi","id":"2adcbed","project":"linux-phone-oco/surya-lab","says":"docs: README.md"}
+{"at":"2026-11-17T09:44:13Z","by":"grenudi","id":"2b06c6e","project":"linux-phone-oco/surya-lab","says":"docs: SMS and the echo call move to the telephony layer, once a day by its helper (#120)"}
 {"at":"2026-11-17T04:35:58Z","by":"grenudi","id":"2b2ab94","project":"linux-phone-oco/surya-lab","says":"docs: Manifest: test sounds at -6 dBFS and 20%, the level the author heard as a quiet beep (#98)"}
 {"at":"2026-11-10T22:56:20Z","by":"grenudi","id":"30d4a21","project":"linux-phone-oco/surya-lab","says":"fix: what the ear heard is withdrawn - the microphone moved (#43)"}
 {"at":"2026-11-09T16:52:27Z","by":"grenudi","id":"30f139d","project":"linux-phone-oco/surya-lab","says":"docs: the lab is for the whole phone; audio is the current front (#1)"}
@@ -2223,6 +2225,7 @@
 {"at":"2026-11-17T01:05:06Z","by":"oco harvest","id":"0edab12","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T16:06:27Z","by":"oco harvest","id":"0f2736a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T16:17:11Z","by":"oco harvest","id":"0f56209","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T09:44:39Z","by":"oco harvest","id":"0fda4f2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T21:26:22Z","by":"oco harvest","id":"109b1e2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T05:03:43Z","by":"grenudi","id":"114c2bc","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261117-050327","says":"docs: A practice for everyone: declare every program's surface once with argenv (#109)"}
 {"at":"2026-11-14T09:43:38Z","by":"oco harvest","id":"11b626b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
