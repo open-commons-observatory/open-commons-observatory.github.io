@@ -575,6 +575,7 @@
 {"at":"2026-11-10T22:58:00Z","by":"grenudi","id":"d7680d2","project":"linux-phone-oco/docs","says":"fix(data): the claim that a machine heard the speakers is withdrawn (#49)"}
 {"at":"2026-11-09T18:46:01Z","by":"grenudi","id":"d816352","project":"linux-phone-oco/docs","says":"feat(data): the ADSP crash loop is understood and stopped on the phone (#10)"}
 {"at":"2026-11-09T16:52:15Z","by":"grenudi","id":"d971a63","project":"linux-phone-oco/docs","says":"docs: state the project's goal, not only what this repo holds (#9)"}
+{"at":"2026-11-17T00:31:45Z","by":"grenudi","id":"daee663","project":"linux-phone-oco/docs","record":"g-20261117-003117","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#84)"}
 {"at":"2026-11-10T19:43:26Z","by":"grenudi","id":"daf3c67","project":"linux-phone-oco/docs","says":"chore: gathered data lives on the oco-data branch - main is the history of the work (#44)"}
 {"at":"2026-11-16T14:49:52Z","by":"grenudi","id":"e1516d1","project":"linux-phone-oco/docs","record":"g-20261116-144924","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#77)"}
 {"at":"2026-11-11T00:15:22Z","by":"grenudi","id":"e4aedd8","project":"linux-phone-oco/docs","says":"feat(data): the idea of Linux Phones in Russian (#50)"}
@@ -593,6 +594,7 @@
 {"at":"2026-11-10T11:56:05Z","by":"grenudi","id":"0788383","project":"linux-phone-oco/lab-tools","says":"fix: devlab phone reboot waits for a new boot, by its boot id (#3)"}
 {"at":"2026-11-11T00:20:14Z","by":"grenudi","id":"07e678b","project":"linux-phone-oco/lab-tools","says":"feat(devlab): a listening test needs the word that the microphone is placed (#20)"}
 {"at":"2026-11-10T14:21:54Z","by":"grenudi","id":"10bc1be","project":"linux-phone-oco/lab-tools","says":"chore: the observatory's mark (oco.toml) (#9)"}
+{"at":"2026-11-17T00:33:15Z","by":"grenudi","id":"192d4e1","project":"linux-phone-oco/lab-tools","record":"g-20261117-003216","says":"feat: Filed through tad, landed by itself: devlab gather --land, and watch after every boot (#33)"}
 {"at":"2026-11-11T09:36:58Z","by":"grenudi","id":"19ada91","project":"linux-phone-oco/lab-tools","says":"docs: this morning's findings, with concepts and decisions (#23)"}
 {"at":"2026-11-16T23:29:04Z","by":"grenudi","id":"1ab2ce7","project":"linux-phone-oco/lab-tools","record":"g-20261116-232816","says":"feat: The phone checks its own health after every boot: devlab-health and devlab suite (#29)"}
 {"at":"2026-11-10T12:38:33Z","by":"grenudi","id":"25e5fe4","project":"linux-phone-oco/lab-tools","says":"feat: devlab test, health and watch - regressions caught, silence when all is well (#5)"}
@@ -706,6 +708,7 @@
 {"at":"2026-11-10T11:57:49Z","by":"grenudi","id":"d8edfdb","project":"linux-phone-oco/surya-lab","says":"feat(provision): the Sxmo profile from linux-phone-oco/sxmo-deviceprofiles (#29)"}
 {"at":"2026-11-10T02:30:13Z","by":"grenudi","id":"de63990","project":"linux-phone-oco/surya-lab","says":"feat: provision a freshly flashed phone - Firefox and the standard packages over the PC's connection (#11)"}
 {"at":"2026-11-11T00:44:09Z","by":"grenudi","id":"dee5ff6","project":"linux-phone-oco/surya-lab","says":"feat(checks): more of the phone measured - Wi-Fi joined, Bluetooth hearing, the SIM, what the kernel exposes (#45)"}
+{"at":"2026-11-17T00:31:09Z","by":"grenudi","id":"e0e623d","project":"linux-phone-oco/surya-lab","record":"g-20261117-003041","says":"docs: xiaomi-surya's own health reports, gathered (#72)"}
 {"at":"2026-11-09T14:20:29Z","by":"grenudi","id":"e4c336d","project":"linux-phone-oco/surya-lab","says":"feat: flash/flash-dtb.sh - flash a stock image with one device tree swapped in"}
 {"at":"2026-11-10T14:21:01Z","by":"grenudi","id":"e7b6154","project":"linux-phone-oco/surya-lab","says":"chore: the observatory's mark (oco.toml) (#35)"}
 {"at":"2026-11-10T04:10:44Z","by":"grenudi","id":"ef3e8ff","project":"linux-phone-oco/surya-lab","says":"feat(tests): the ADSP check says how many crashes came right after a resume (#17)"}
@@ -2532,6 +2535,7 @@
 {"at":"2026-11-11T13:03:30Z","by":"grenudi","id":"c678408","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: practice 23 - words are decisions (#57)"}
 {"at":"2026-11-16T10:13:38Z","by":"oco harvest","id":"c67ec70","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T17:32:00Z","by":"oco harvest","id":"c6f4821","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T00:31:12Z","by":"oco harvest","id":"c6f4d05","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T20:26:40Z","by":"oco harvest","id":"c703f4e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T22:10:35Z","by":"oco harvest","id":"c724c21","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T17:01:25Z","by":"oco harvest","id":"c73e559","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}

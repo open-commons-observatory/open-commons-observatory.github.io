@@ -357,9 +357,8 @@
 {"id":"devlab/src/device.rs:the_manifest_is_found_by_walking_up","line":330,"name":"the_manifest_is_found_by_walking_up","path":"devlab/src/device.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/device.rs:the_remembered_address_comes_last_and_once","line":315,"name":"the_remembered_address_comes_last_and_once","path":"devlab/src/device.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/flash.rs:manifest_places_point_inside_the_mounted_image","line":214,"name":"manifest_places_point_inside_the_mounted_image","path":"devlab/src/flash.rs","project":"linux-phone-oco/lab-tools"}
-{"id":"devlab/src/gather.rs:a_report_becomes_the_tables_rows_without_retyping","line":154,"name":"a_report_becomes_the_tables_rows_without_retyping","path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
-{"id":"devlab/src/gather.rs:a_run_is_filed_once","line":172,"name":"a_run_is_filed_once","path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
-{"id":"devlab/src/gather.rs:only_the_phones_run_reports_are_brought","line":146,"name":"only_the_phones_run_reports_are_brought","path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/gather.rs:a_run_is_filed_as_the_report_says_it_and_counted_from_its_rows","line":265,"name":"a_run_is_filed_as_the_report_says_it_and_counted_from_its_rows","path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/gather.rs:only_the_phones_run_reports_are_brought","line":257,"name":"only_the_phones_run_reports_are_brought","path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/health.rs:a_baseline_check_that_did_not_run_is_a_regression","line":220,"name":"a_baseline_check_that_did_not_run_is_a_regression","path":"devlab/src/health.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/health.rs:a_fresh_boot_waits_and_a_settled_phone_does_not","line":270,"name":"a_fresh_boot_waits_and_a_settled_phone_does_not","path":"devlab/src/health.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/health.rs:a_run_that_did_not_listen_is_not_asked_what_only_listening_tells","line":233,"name":"a_run_that_did_not_listen_is_not_asked_what_only_listening_tells","path":"devlab/src/health.rs","project":"linux-phone-oco/lab-tools"}
@@ -388,7 +387,7 @@
 {"id":"devlab/src/suite.rs:a_report_reads_as_rows_and_noise_is_ignored","line":346,"name":"a_report_reads_as_rows_and_noise_is_ignored","path":"devlab/src/suite.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/suite.rs:every_suite_file_is_built_in","line":385,"name":"every_suite_file_is_built_in","path":"devlab/src/suite.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/suite.rs:failures_are_said_first","line":371,"name":"failures_are_said_first","path":"devlab/src/suite.rs","project":"linux-phone-oco/lab-tools"}
-{"id":"devlab/src/watch.rs:silence_when_all_is_well_and_a_named_alert_when_not","line":70,"name":"silence_when_all_is_well_and_a_named_alert_when_not","path":"devlab/src/watch.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/watch.rs:silence_when_well_and_the_phones_own_words_when_not","line":79,"name":"silence_when_well_and_the_phones_own_words_when_not","path":"devlab/src/watch.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"health/src/main.rs:a_check_line_is_outcome_test_component_and_the_rest_is_detail","line":384,"name":"a_check_line_is_outcome_test_component_and_the_rest_is_detail","path":"health/src/main.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"health/src/main.rs:a_check_that_says_nothing_or_hangs_is_a_finding_not_a_gap","line":405,"name":"a_check_that_says_nothing_or_hangs_is_a_finding_not_a_gap","path":"health/src/main.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"health/src/main.rs:every_row_carries_its_run","line":474,"name":"every_row_carries_its_run","path":"health/src/main.rs","project":"linux-phone-oco/lab-tools"}
