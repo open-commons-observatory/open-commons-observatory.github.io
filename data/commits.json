@@ -536,6 +536,7 @@
 {"at":"2026-11-16T23:56:31Z","by":"grenudi","id":"1ccec59","project":"linux-phone-oco/docs","says":"docs: The conveyor for any phone: health on the phone, gather, MCP, the device template (#81)"}
 {"at":"2026-11-10T19:02:22Z","by":"grenudi","id":"1e0c661","project":"linux-phone-oco/docs","says":"feat(data): the project's own data in Russian - a translations table, by machine (#43)"}
 {"at":"2026-11-11T10:15:20Z","by":"grenudi","id":"1e61618","project":"linux-phone-oco/docs","says":"feat(data): the microphone's route is set; the stream does not start yet (#56)"}
+{"at":"2026-11-17T08:33:09Z","by":"grenudi","id":"1f3337c","project":"linux-phone-oco/docs","says":"docs: The earpiece works: it is the top speaker, proven by the top mic (#143)"}
 {"at":"2026-11-09T23:21:22Z","by":"grenudi","id":"24c64c3","project":"linux-phone-oco/docs","says":"feat(data): phosh-usb - the PC loses the phone over USB under Phosh (#14)"}
 {"at":"2026-11-14T00:46:11Z","by":"grenudi","id":"2590f09","project":"linux-phone-oco/docs","says":"docs: feature and component are other names for features and components (#76)"}
 {"at":"2026-11-11T15:49:40Z","by":"grenudi","id":"25d2aee","project":"linux-phone-oco/docs","says":"feat(data): the ADSP crash item settled (#59)"}
@@ -844,6 +845,7 @@
 {"at":"2026-11-17T08:26:25Z","by":"grenudi","id":"e9c9686","project":"linux-phone-oco/surya-lab","says":"fix: telegram-desktop held: Alpine v3.24 cannot install it (needs libada.so.3) (#109)"}
 {"at":"2026-11-10T04:10:44Z","by":"grenudi","id":"ef3e8ff","project":"linux-phone-oco/surya-lab","says":"feat(tests): the ADSP check says how many crashes came right after a resume (#17)"}
 {"at":"2026-11-11T12:59:38Z","by":"grenudi","id":"efbac1e","project":"linux-phone-oco/surya-lab","says":"data: hand-work is manual work, with its events (#57)"}
+{"at":"2026-11-17T08:32:07Z","by":"grenudi","id":"f313456","project":"linux-phone-oco/surya-lab","says":"docs: The earpiece is the top speaker: a UCM Earpiece device, proven by the top mic (#110)"}
 {"at":"2026-11-17T04:19:06Z","by":"grenudi","id":"f3ecc63","project":"linux-phone-oco/surya-lab","says":"docs: Manifest: test sounds at 20% volume and -20 dBFS, as the author asked (#96)"}
 {"at":"2026-11-10T20:35:23Z","by":"grenudi","id":"f8c1406","project":"linux-phone-oco/surya-lab","says":"fix: the suspend crash - hexagonrpcd's RootPD helper masked in the manifest; the resume counter counts (#39)"}
 {"at":"2026-11-16T15:59:46Z","by":"grenudi","id":"fdf4df9","project":"linux-phone-oco/surya-lab","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#69)"}
@@ -2771,6 +2773,7 @@
 {"at":"2026-11-11T13:45:33Z","by":"oco harvest","id":"cd11f3e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T04:47:31Z","by":"oco harvest","id":"cd1e93d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T20:50:26Z","by":"oco harvest","id":"cd8a260","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T08:32:06Z","by":"oco harvest","id":"cd8d0aa","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T08:26:56Z","by":"oco harvest","id":"cebcb6f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T21:05:03Z","by":"oco harvest","id":"cf4999c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T17:24:27Z","by":"oco harvest","id":"cf89846","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
