@@ -658,6 +658,7 @@
 {"at":"2026-11-17T05:34:39Z","by":"grenudi","id":"5f8d56b","project":"linux-phone-oco/docs","says":"docs: backlog: modules no entry boots with, taken away (#141)"}
 {"at":"2026-11-17T13:05:12Z","by":"grenudi","id":"60e16bf","project":"linux-phone-oco/docs","says":"docs: first s2idle with Bluetooth blocked hangs; IRQ 157 is the Bluetooth UART (#194)"}
 {"at":"2026-11-09T19:07:37Z","by":"grenudi","id":"6219abb","project":"linux-phone-oco/docs","says":"feat(data): the surya speaker works (#11)"}
+{"at":"2026-11-17T14:15:35Z","by":"grenudi","id":"625f390","project":"linux-phone-oco/docs","says":"docs: runs gathered after lpoco-health v0.1.7 was put (#213)"}
 {"at":"2026-11-17T12:12:11Z","by":"grenudi","id":"62a7b60","project":"linux-phone-oco/docs","says":"feat: docs follows ideal-knowledge-base 0.4.0: briefs first (#190)"}
 {"at":"2026-11-10T03:11:28Z","by":"grenudi","id":"634c464","project":"linux-phone-oco/docs","says":"feat(data): test runs - one line per run with its counts, and the latest runs filed (#28)"}
 {"at":"2026-11-17T08:50:44Z","by":"grenudi","id":"63d2ff1","project":"linux-phone-oco/docs","says":"docs: health-data-check narrowed: surya's mobile-data check already carries traffic (#146)"}
@@ -967,6 +968,7 @@
 {"at":"2026-11-17T01:35:29Z","by":"grenudi","id":"ae09d6e","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#77)"}
 {"at":"2026-11-10T19:44:00Z","by":"grenudi","id":"ae41bb3","project":"linux-phone-oco/surya-lab","says":"chore: gathered data lives on the oco-data branch - main is the history of the work (#37)"}
 {"at":"2026-11-17T09:38:54Z","by":"grenudi","id":"afadb91","project":"linux-phone-oco/surya-lab","says":"docs: Calls work both ways: the voice topology at boot, and a daily echo call the phone judges (#118)"}
+{"at":"2026-11-17T14:15:37Z","by":"grenudi","id":"b50f6f3","project":"linux-phone-oco/surya-lab","says":"chore(tests): report gathered after lpoco-health v0.1.7 (#128)"}
 {"at":"2026-11-17T09:51:34Z","by":"grenudi","id":"b52ce76","project":"linux-phone-oco/surya-lab","says":"docs: SMS and echo-call checks skip on later runs of a day, as the derivation reads (#121)"}
 {"at":"2026-11-09T14:15:45Z","by":"grenudi","id":"b57101f","project":"linux-phone-oco/surya-lab","says":"feat: dt/disable-node.py"}
 {"at":"2026-11-10T02:22:55Z","by":"grenudi","id":"b64213f","project":"linux-phone-oco/surya-lab","says":"fix(tests): find the vibration motor by reading each input device as a whole block (#10)"}
@@ -2388,6 +2390,7 @@
 {"at":"2026-11-17T13:13:34Z","by":"oco harvest","id":"13cc0ff","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T01:36:21Z","by":"oco harvest","id":"141c18f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T17:23:11Z","by":"oco harvest","id":"145704d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T14:15:25Z","by":"oco harvest","id":"14b5200","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T21:32:38Z","by":"grenudi","id":"14bd5fa","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261112-213222","says":"feat: the observatory's page shows the fulldome, beside the engine's views (#76)"}
 {"at":"2026-11-17T13:48:59Z","by":"oco harvest","id":"14c17fb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T19:40:30Z","by":"grenudi","id":"14e48a3","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261114-194013","says":"docs: four practices say how work is done now (#79)"}
