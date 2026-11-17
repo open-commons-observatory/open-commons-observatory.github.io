@@ -591,6 +591,7 @@
 {"at":"2026-11-05T07:46:02Z","by":"grenudi","id":"4f4ba71","project":"linux-phone-oco/docs","says":"fix: _config.yml is actually valid YAML (#3)"}
 {"at":"2026-11-10T20:44:39Z","by":"grenudi","id":"4ff014b","project":"linux-phone-oco/docs","says":"feat(data): the USB flapping fixed; a shell-free base and the TTY-first shell recorded (#47)"}
 {"at":"2026-11-05T08:12:55Z","by":"grenudi","id":"52819aa","project":"linux-phone-oco/docs","says":"feat(data): Nura boots and is reachable; no shell access without credentials (#6)"}
+{"at":"2026-11-17T11:10:48Z","by":"grenudi","id":"53eb9b1","project":"linux-phone-oco/docs","says":"docs: Patrol: three signs - unsigned landings, hand restarts of the watch, stale board rows (#179)"}
 {"at":"2026-11-17T05:13:29Z","by":"grenudi","id":"53ee7ee","project":"linux-phone-oco/docs","says":"docs: kernel remove keeps modules another kernel boots with (#134)"}
 {"at":"2026-11-10T22:21:29Z","by":"grenudi","id":"55e0319","project":"linux-phone-oco/docs","says":"feat(data): Linux Phones tells its essence - its idea for anyone, and its workings (#48)"}
 {"at":"2026-11-10T20:36:08Z","by":"grenudi","id":"55ee6ae","project":"linux-phone-oco/docs","says":"feat(data): the suspend crash's trigger found and fixed in the lab; the check corrected (#46)"}
@@ -665,6 +666,7 @@
 {"at":"2026-11-05T07:43:11Z","by":"grenudi","id":"c7800d4","project":"linux-phone-oco/docs","says":"ci: deploy Pages via Actions instead of the legacy pipeline (#2)"}
 {"at":"2026-11-17T05:29:32Z","by":"grenudi","id":"c90431e","project":"linux-phone-oco/docs","says":"docs: The microphones hold across boots; the boot race is fixed in every flash (#137)"}
 {"at":"2026-11-17T03:40:31Z","by":"grenudi","id":"ccc6e74","project":"linux-phone-oco/docs","says":"feat: one database for linux-phone: every place's records, through named records (#118)"}
+{"at":"2026-11-17T11:08:23Z","by":"grenudi","id":"ce464d6","project":"linux-phone-oco/docs","says":"feat: feat: the Pixel 2 and 2 XL tracked beside surya, from published sources (all unknown) (#177)"}
 {"at":"2026-11-11T15:47:43Z","by":"grenudi","id":"d0d0182","project":"linux-phone-oco/docs","says":"feat(data): the wrap-up pass - settled with reasons (#58)"}
 {"at":"2026-11-16T15:06:42Z","by":"grenudi","id":"d313274","project":"linux-phone-oco/docs","says":"docs: a lens: test runs, and 8 more (#78)"}
 {"at":"2026-11-17T10:50:01Z","by":"grenudi","id":"d31efa0","project":"linux-phone-oco/docs","says":"docs: idealkb design accepted by the author; its build waits on no one (#175)"}
@@ -730,6 +732,7 @@
 {"at":"2026-11-17T02:12:28Z","by":"grenudi","id":"35afe6f","project":"linux-phone-oco/lab-tools","says":"feat: watch: gathered once the phone is quiet, and landed again when main moved (#41)"}
 {"at":"2026-11-10T16:40:31Z","by":"grenudi","id":"41cc1ab","project":"linux-phone-oco/lab-tools","says":"chore(mark): a short title - devlab (#11)"}
 {"at":"2026-11-16T23:46:28Z","by":"grenudi","id":"41fa86c","project":"linux-phone-oco/lab-tools","says":"feat: Every change ends with the phone's health: reboot, kernel try, provision (#31)"}
+{"at":"2026-11-17T11:07:47Z","by":"github-actions[bot]","id":"433e6a5","project":"linux-phone-oco/lab-tools","says":"chore(devlab-health): release v0.1.5 (#69)"}
 {"at":"2026-11-17T09:17:55Z","by":"grenudi","id":"4370c33","project":"linux-phone-oco/lab-tools","says":"feat: mobile-data in the generic suite, its bytes counted against a monthly budget (#60)"}
 {"at":"2026-11-10T13:32:41Z","by":"grenudi","id":"473d87c","project":"linux-phone-oco/lab-tools","says":"feat: devlab provision - a freshly flashed phone gets its packages, files and Wi-Fi (#7)"}
 {"at":"2026-11-17T09:15:27Z","by":"grenudi","id":"4bf083d","project":"linux-phone-oco/lab-tools","says":"fix: suite put puts the lab as its main has it, never a clone that has fallen behind (#59)"}
@@ -2500,6 +2503,7 @@
 {"at":"2026-11-16T15:10:19Z","by":"oco harvest","id":"55f4c3d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T04:26:52Z","by":"oco harvest","id":"5606ee5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T05:23:53Z","by":"oco harvest","id":"561533d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T11:08:00Z","by":"oco harvest","id":"561acf0","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T08:49:00Z","by":"oco harvest","id":"562717b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T20:19:19Z","by":"oco harvest","id":"564a30f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T20:55:54Z","by":"oco harvest","id":"565268e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
