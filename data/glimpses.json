@@ -175,6 +175,9 @@
 {"at":"2026-11-17T00:59:50Z","by":"devlab","id":"g-20261117-005950","kind":"docs","project":"linux-phone-oco/docs","summary":"1 runs of xiaomi-surya filed by devlab, from the phone's own reports"}
 {"at":"2026-11-17T01:04:19Z","by":"claude","id":"g-20261117-010419","kind":"docs","project":"linux-phone-oco/docs","summary":"A prompt for the bring-up session: each part of a phone, made to work","touches":"decisions:2026-11-17-two-sessions-one-lab"}
 {"at":"2026-11-17T01:08:28Z","by":"claude","id":"g-20261117-010828","kind":"docs","project":"linux-phone-oco/docs","summary":"The bring-up prompt: devlab holds the phone itself"}
+{"at":"2026-11-17T01:12:38Z","by":"claude","id":"g-20261117-011238","kind":"docs","project":"linux-phone-oco/docs","summary":"Microphone taken up by bring-up: the weakest link, where it stands, the next step"}
+{"at":"2026-11-17T01:15:08Z","by":"claude","id":"g-20261117-011508","kind":"docs","project":"linux-phone-oco/docs","summary":"Tests: mic-records says the main microphone's samples come back"}
+{"at":"2026-11-17T01:21:53Z","by":"devlab","id":"g-20261117-012153","kind":"docs","project":"linux-phone-oco/docs","summary":"3 runs of xiaomi-surya filed by devlab, from the phone's own reports"}
 {"at":"2026-11-11T21:36:39Z","by":"lab-agent-session","id":"g-20261111-213639","kind":"chore","project":"linux-phone-oco/lab-tools","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-16T14:50:06Z","by":"claude","id":"g-20261116-145006","kind":"chore","project":"linux-phone-oco/lab-tools","summary":"a mark: the latest runs are observed, as runs - no longer gathered here"}
 {"at":"2026-11-16T15:58:10Z","by":"claude","id":"g-20261116-155810","kind":"chore","project":"linux-phone-oco/lab-tools","summary":"a mark: what the gatherer writes is said where it writes it - no longer named here"}
@@ -196,6 +199,8 @@
 {"at":"2026-11-16T23:38:02Z","by":"claude","id":"g-20261116-233802","kind":"docs","project":"linux-phone-oco/surya-lab","summary":"The phone's own health reports, gathered: 4 runs of 2026-11-16"}
 {"at":"2026-11-17T00:30:41Z","by":"devlab","id":"g-20261117-003041","kind":"docs","project":"linux-phone-oco/surya-lab","summary":"xiaomi-surya's own health reports, gathered"}
 {"at":"2026-11-17T00:59:15Z","by":"devlab","id":"g-20261117-005915","kind":"docs","project":"linux-phone-oco/surya-lab","summary":"xiaomi-surya's own health reports, gathered"}
+{"at":"2026-11-17T01:14:37Z","by":"claude","id":"g-20261117-011437","kind":"docs","project":"linux-phone-oco/surya-lab","summary":"The main microphone's own check: records a second, fails until samples come back"}
+{"at":"2026-11-17T01:21:28Z","by":"devlab","id":"g-20261117-012128","kind":"docs","project":"linux-phone-oco/surya-lab","summary":"xiaomi-surya's own health reports, gathered"}
 {"at":"2026-11-11T21:38:26Z","by":"lab-agent-session","id":"g-20261111-213826","kind":"chore","project":"linux-phone-oco/sxmo-deviceprofiles","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-16T14:53:15Z","by":"claude","id":"g-20261116-145315","kind":"chore","project":"linux-phone-oco/sxmo-deviceprofiles","summary":"a mark: the latest runs are observed, as runs - no longer gathered here"}
 {"at":"2026-11-16T16:00:03Z","by":"claude","id":"g-20261116-160003","kind":"chore","project":"linux-phone-oco/sxmo-deviceprofiles","summary":"a mark: what the gatherer writes is said where it writes it - no longer named here"}
