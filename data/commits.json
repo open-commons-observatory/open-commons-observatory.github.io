@@ -678,6 +678,7 @@
 {"at":"2026-11-10T11:56:05Z","by":"grenudi","id":"0788383","project":"linux-phone-oco/lab-tools","says":"fix: devlab phone reboot waits for a new boot, by its boot id (#3)"}
 {"at":"2026-11-11T00:20:14Z","by":"grenudi","id":"07e678b","project":"linux-phone-oco/lab-tools","says":"feat(devlab): a listening test needs the word that the microphone is placed (#20)"}
 {"at":"2026-11-10T14:21:54Z","by":"grenudi","id":"10bc1be","project":"linux-phone-oco/lab-tools","says":"chore: the observatory's mark (oco.toml) (#9)"}
+{"at":"2026-11-17T09:24:00Z","by":"github-actions[bot]","id":"1656de6","project":"linux-phone-oco/lab-tools","says":"chore(devlab-health): release v0.1.3 (#61)"}
 {"at":"2026-11-17T02:06:56Z","by":"grenudi","id":"17912e6","project":"linux-phone-oco/lab-tools","says":"docs: Backlog: what devlab-health as an Alpine package waits on, and its path (#40)"}
 {"at":"2026-11-17T00:33:15Z","by":"grenudi","id":"192d4e1","project":"linux-phone-oco/lab-tools","says":"feat: Filed through tad, landed by itself: devlab gather --land, and watch after every boot (#33)"}
 {"at":"2026-11-11T09:36:58Z","by":"grenudi","id":"19ada91","project":"linux-phone-oco/lab-tools","says":"docs: this morning's findings, with concepts and decisions (#23)"}
@@ -812,8 +813,10 @@
 {"at":"2026-11-17T01:56:58Z","by":"grenudi","id":"855454d","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#84)"}
 {"at":"2026-11-10T04:51:27Z","by":"grenudi","id":"8809feb","project":"linux-phone-oco/surya-lab","says":"fix(tests): read the kernel log from the journal, not the dmesg ring (#21)"}
 {"at":"2026-11-11T09:58:49Z","by":"grenudi","id":"88e3225","project":"linux-phone-oco/surya-lab","says":"docs: the map to a first recording; the pin fix to be ported to the branch (#50)"}
+{"at":"2026-11-17T09:27:54Z","by":"grenudi","id":"89f0734","project":"linux-phone-oco/surya-lab","says":"docs: Calls: a Voice Call verb, q6voiced on PCM 0,6, and the uplink capture service (#117)"}
 {"at":"2026-11-10T04:08:17Z","by":"grenudi","id":"8a96a88","project":"linux-phone-oco/surya-lab","says":"feat(tests): boot warnings - the known ones pass with their reasons, a new one fails by name (#16)"}
 {"at":"2026-11-10T00:03:16Z","by":"grenudi","id":"8c5ec1f","project":"linux-phone-oco/surya-lab","says":"fix: the stereo profile sets the amplifiers' digital volume to 0 dB (#8)"}
+{"at":"2026-11-17T09:25:36Z","by":"grenudi","id":"8d65c33","project":"linux-phone-oco/surya-lab","says":"test: mobile-data is the generic suite's now, under a monthly budget (#116)"}
 {"at":"2026-11-17T02:07:01Z","by":"grenudi","id":"91e5e6d","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#87)"}
 {"at":"2026-11-10T12:32:09Z","by":"grenudi","id":"95c84eb","project":"linux-phone-oco/surya-lab","says":"fix(ucm): the speaker is the default output even with Sxmo's loopback card (#30)"}
 {"at":"2026-11-10T02:46:35Z","by":"grenudi","id":"971f981","project":"linux-phone-oco/surya-lab","says":"fix(tests): run ids per second, so two runs in one minute keep both results (#13)"}
@@ -2545,6 +2548,7 @@
 {"at":"2026-11-16T22:02:59Z","by":"oco harvest","id":"799ec25","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T00:32:39Z","by":"oco harvest","id":"79ca6fd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T23:35:59Z","by":"oco harvest","id":"7a07f75","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T09:22:15Z","by":"oco harvest","id":"7a12782","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T14:27:51Z","by":"grenudi","id":"7b451fe","project":"open-commons-observatory/open-commons-observatory.github.io","says":"ci: the harvest coalesces bursts; land will start it after merging a marked project (#60)"}
 {"at":"2026-11-11T12:04:39Z","by":"grenudi","id":"7b8d032","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data/handwork practice (#52)"}
 {"at":"2026-11-15T18:37:55Z","by":"grenudi","id":"7bb66ec","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-183738","says":"feat: the pages said in the language are this observatory's to say: the whole, and each place (#96)"}
