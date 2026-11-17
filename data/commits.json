@@ -654,6 +654,7 @@
 {"at":"2026-11-17T17:47:46Z","by":"grenudi","id":"16d6fc5","project":"linux-phone-oco/device-template","says":"feat: device base: ships idealkb and the template as upstreams, and lists what it gives (#5)"}
 {"at":"2026-11-17T15:27:32Z","by":"grenudi","id":"1fb0db3","project":"linux-phone-oco/device-template","says":"feat: [fastboot] serial and writes in the manifest (#3)"}
 {"at":"2026-11-17T17:24:29Z","by":"grenudi","id":"6d71593","project":"linux-phone-oco/device-template","says":"feat: device base: each device has its own tad base, following idealkb, with parts (#4)"}
+{"at":"2026-11-17T19:58:18Z","by":"grenudi","id":"735c4c1","project":"linux-phone-oco/device-template","says":"chore: tad 0.7.1 (#8)"}
 {"at":"2026-11-17T02:05:19Z","by":"grenudi","id":"84cb9ca","project":"linux-phone-oco/device-template","says":"feat: The device template: a new phone's lab is a new device.toml (#1)"}
 {"at":"2026-11-16T23:55:39Z","by":"lab-agent-session","id":"8642359","project":"linux-phone-oco/device-template","says":"feat: The device template: a new phone's lab is a new device.toml"}
 {"at":"2026-11-17T19:37:14Z","by":"grenudi","id":"ae5b510","project":"linux-phone-oco/device-template","says":"feat: lane-next, a lane's next item by what it needs (phone, research, build) (#6)"}
@@ -759,6 +760,7 @@
 {"at":"2026-11-17T16:34:16Z","by":"grenudi","id":"4c84451","project":"linux-phone-oco/docs","says":"feat: the first walleye kernel, initramfs and boot images are built (records) (#243)"}
 {"at":"2026-11-05T07:59:36Z","by":"grenudi","id":"4c8c97d","project":"linux-phone-oco/docs","says":"feat(data): the phone, confirmed for real (#4)"}
 {"at":"2026-11-17T01:22:21Z","by":"grenudi","id":"4dbff89","project":"linux-phone-oco/docs","says":"docs: 3 runs of xiaomi-surya filed by devlab, from the phone's own reports (#92)"}
+{"at":"2026-11-17T19:57:35Z","by":"grenudi","id":"4e4ada1","project":"linux-phone-oco/docs","says":"docs: one roof: an lpoco dispatcher over lpoco-* programs, lpoco-bringup born under it (#359)"}
 {"at":"2026-11-17T13:08:19Z","by":"grenudi","id":"4e55d25","project":"linux-phone-oco/docs","says":"docs: deep-sleep stands: the SIM is out for now (#201)"}
 {"at":"2026-11-10T04:27:13Z","by":"grenudi","id":"4ec2109","project":"linux-phone-oco/docs","says":"feat(data): the device template - the conveyor for any phone, designed (#32)"}
 {"at":"2026-11-09T21:33:54Z","by":"grenudi","id":"4eca37d","project":"linux-phone-oco/docs","says":"feat(data): stereo speakers on surya, and the two upstream items they need (#12)"}
@@ -1005,13 +1007,16 @@
 {"at":"2026-11-17T19:25:55Z","by":"grenudi","id":"ff03afa","project":"linux-phone-oco/docs","says":"docs: walleye: vendor-gadget3 item carries what to queue when done (#344)"}
 {"at":"2026-11-17T14:13:58Z","by":"grenudi","id":"ffb3d84","project":"linux-phone-oco/docs","says":"docs: lpoco-health put on the phone; gathered runs filed; hand-over of surya-keeper-4 (#212)"}
 {"at":"2026-11-17T18:34:17Z","by":"grenudi","id":"01f9138","project":"linux-phone-oco/google-walleye-lab","says":"feat: bisect images s0 s0n s1 s2 s3 from the stock control, one swap each, checked (#10)"}
+{"at":"2026-11-17T19:59:32Z","by":"grenudi","id":"0333021","project":"linux-phone-oco/google-walleye-lab","says":"chore: tad 0.7.1 (#24)"}
 {"at":"2026-11-17T19:27:08Z","by":"grenudi","id":"0f14a92","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget3.img, vendor-gadget2 plus a self-reboot timer and a kmsg marker (#13)"}
 {"at":"2026-11-17T18:43:18Z","by":"grenudi","id":"13c1a61","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget.img (the control with our gadget initramfs) and the host check walleye-gadget-up (#11)"}
 {"at":"2026-11-17T19:46:10Z","by":"grenudi","id":"2e46a6b","project":"linux-phone-oco/google-walleye-lab","says":"feat: walleye's rows, moved here from docs; lane-next for the launchers (#15)"}
 {"at":"2026-11-17T18:27:57Z","by":"grenudi","id":"4eb1a74","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants g, h, i answer on 172.16.43.1 (e, b, f); a-f byte for byte (#9)"}
 {"at":"2026-11-17T18:23:44Z","by":"grenudi","id":"4fa476d","project":"linux-phone-oco/google-walleye-lab","says":"address 43 (#7)"}
+{"at":"2026-11-17T19:56:52Z","by":"grenudi","id":"585debd","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the keeper's try of vendor-gadget4 placed (#21)"}
 {"at":"2026-11-17T15:18:27Z","by":"grenudi","id":"6497db7","project":"linux-phone-oco/google-walleye-lab","says":"feat: the walleye lab's manifest and mark from the template (#1)"}
 {"at":"2026-11-17T18:26:59Z","by":"grenudi","id":"66e330d","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants g and h answer on 172.16.43.1 (walleye's own address); a-f byte for byte (#8)"}
+{"at":"2026-11-17T19:57:53Z","by":"grenudi","id":"67f8e76","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the 60 s panic researched - read order decided, three phone reads queued (#22)"}
 {"at":"2026-11-17T19:30:44Z","by":"grenudi","id":"6b3fdd7","project":"linux-phone-oco/google-walleye-lab","says":"feat: walleye's own device base, from device-template (#4, #5) (#14)"}
 {"at":"2026-11-17T19:48:29Z","by":"grenudi","id":"83984c0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the third try of vendor-gadget3, with the watcher kept alive (#16)"}
 {"at":"2026-11-17T17:46:28Z","by":"grenudi","id":"9e24777","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants e and f (stock header read; command line cut; board-id), check counts both (#6)"}
@@ -1023,6 +1028,7 @@
 {"at":"2026-11-17T19:55:45Z","by":"grenudi","id":"e00c523","project":"linux-phone-oco/google-walleye-lab","says":"feat: phone-stands, the keeper's last hand-over (#20)"}
 {"at":"2026-11-17T19:53:56Z","by":"grenudi","id":"e2beef8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the idle-init bisect and the panic research queued (#18)"}
 {"at":"2026-11-17T19:55:47Z","by":"grenudi","id":"e74e497","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget4.img, an idle init without a gadget (the panic bisect) (#walleye) (#19)"}
+{"at":"2026-11-17T19:58:48Z","by":"grenudi","id":"ea0ffc0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: cmdline read first, the gadget4 try after it (#23)"}
 {"at":"2026-11-17T15:17:39Z","by":"grenudi","id":"fb58702","project":"linux-phone-oco/google-walleye-lab","says":"Initial commit"}
 {"at":"2026-11-17T04:43:10Z","by":"grenudi","id":"02582e5","project":"linux-phone-oco/lab-tools","says":"feat: devlab kernel keep: a proven test kernel becomes the default, stock still the fallback (#52)"}
 {"at":"2026-11-10T20:05:16Z","by":"grenudi","id":"05e3552","project":"linux-phone-oco/lab-tools","says":"feat(devlab): provision sets a fresh phone's clock and grows its system first; flashing proven (#14)"}
@@ -1257,6 +1263,7 @@
 {"at":"2026-11-17T08:26:25Z","by":"grenudi","id":"e9c9686","project":"linux-phone-oco/surya-lab","says":"fix: telegram-desktop held: Alpine v3.24 cannot install it (needs libada.so.3) (#109)"}
 {"at":"2026-11-17T09:18:52Z","by":"grenudi","id":"ed75606","project":"linux-phone-oco/surya-lab","says":"test: microphone-hears and earpiece ask devlab-health tone, not awk (#115)"}
 {"at":"2026-11-17T09:00:42Z","by":"grenudi","id":"edc05e8","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#113)"}
+{"at":"2026-11-17T19:58:55Z","by":"grenudi","id":"ef0dcf5","project":"linux-phone-oco/surya-lab","says":"chore: tad 0.7.1 (#135)"}
 {"at":"2026-11-10T04:10:44Z","by":"grenudi","id":"ef3e8ff","project":"linux-phone-oco/surya-lab","says":"feat(tests): the ADSP check says how many crashes came right after a resume (#17)"}
 {"at":"2026-11-11T12:59:38Z","by":"grenudi","id":"efbac1e","project":"linux-phone-oco/surya-lab","says":"data: hand-work is manual work, with its events (#57)"}
 {"at":"2026-11-17T08:32:07Z","by":"grenudi","id":"f313456","project":"linux-phone-oco/surya-lab","says":"docs: The earpiece is the top speaker: a UCM Earpiece device, proven by the top mic (#110)"}
@@ -3250,6 +3257,7 @@
 {"at":"2026-11-12T13:11:37Z","by":"oco harvest","id":"b483fcf","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T11:58:07Z","by":"oco harvest","id":"b4a3c57","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T10:34:06Z","by":"oco harvest","id":"b4f4563","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T19:57:15Z","by":"oco harvest","id":"b50d705","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T03:33:36Z","by":"oco harvest","id":"b522b16","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T20:10:54Z","by":"oco harvest","id":"b56aec0","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T23:57:58Z","by":"oco harvest","id":"b57a96c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
