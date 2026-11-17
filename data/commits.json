@@ -1061,6 +1061,7 @@
 {"at":"2026-11-17T16:20:31Z","by":"grenudi","id":"9faa48b","project":"linux-phone-oco/google-walleye-lab","says":"feat: the first walleye kernel dts, initramfs and boot image, built by script (#3)"}
 {"at":"2026-11-17T20:11:39Z","by":"grenudi","id":"a21b1b0","project":"linux-phone-oco/google-walleye-lab","says":"feat: device base: a wait names its item (blocked_by) and clears itself when done (#29)"}
 {"at":"2026-11-17T19:09:15Z","by":"grenudi","id":"a41a721","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget2.img, an xz ramdisk the vendor 4.4 kernel can unpack, checked (#12)"}
+{"at":"2026-11-17T21:07:48Z","by":"grenudi","id":"abbe728","project":"linux-phone-oco/google-walleye-lab","says":"walleye: n3 try - gadget enumerates, host lacks cdc_acm for its kernel (#49)"}
 {"at":"2026-11-17T19:52:33Z","by":"grenudi","id":"b4b077b","project":"linux-phone-oco/google-walleye-lab","says":"walleye: vendor-gadget3's third try (panic before the gadget), next build named (#17)"}
 {"at":"2026-11-17T20:53:39Z","by":"grenudi","id":"b5aca68","project":"linux-phone-oco/google-walleye-lab","says":"walleye: vendor-gadget-m1, the mass-storage log window, and its host reader (#42)"}
 {"at":"2026-11-17T15:29:58Z","by":"grenudi","id":"cbe406f","project":"linux-phone-oco/google-walleye-lab","says":"feat: walleye's fastboot serial, writes off (#2)"}
@@ -3267,6 +3268,7 @@
 {"at":"2026-11-14T08:28:25Z","by":"oco harvest","id":"a66d70d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T22:12:47Z","by":"grenudi","id":"a6ae8dd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: Essence live - a method (its own project) and the signature view; the decision and the log (#33)"}
 {"at":"2026-11-14T19:46:21Z","by":"oco harvest","id":"a6b6d6a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T21:05:24Z","by":"oco harvest","id":"a6dd3b3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T19:56:01Z","by":"grenudi","id":"a77c3a5","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261112-195544","says":"fix: a harvest collision on its own data: the later observation wins (#75)"}
 {"at":"2026-11-14T23:22:07Z","by":"oco harvest","id":"a82b3eb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T22:17:21Z","by":"oco harvest","id":"a86a39c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
