@@ -553,6 +553,7 @@
 {"at":"2026-11-17T15:33:07Z","by":"grenudi","id":"e654280","project":"grenudi/ideal-agent","says":"feat: a neutral start - agent-env instead of . oco-work (plugin 0.3.1) (#29)"}
 {"at":"2026-11-17T15:37:48Z","by":"grenudi","id":"f27a5f1","project":"grenudi/ideal-agent","says":"feat: skills: how to find, choose and record an upstream (plugin 0.3.2) (#32)"}
 {"at":"2026-11-17T16:26:38Z","by":"grenudi","id":"f45ab77","project":"grenudi/ideal-agent","says":"fix: the guard's Python refusal is one line (plugin 0.3.10) (#41)"}
+{"at":"2026-11-17T16:58:27Z","by":"grenudi","id":"f81859b","project":"grenudi/ideal-agent","says":"feat: decisions go to the lane coordinator; the author's bounds named (plugin 0.3.13) (#48)"}
 {"at":"2026-11-17T16:42:19Z","by":"grenudi","id":"f9667bb","project":"grenudi/ideal-agent","says":"research: what lab-agent is used for, its dependents, and the decision to retire it by parts (#44)"}
 {"at":"2026-11-17T12:09:55Z","by":"grenudi","id":"faf6656","project":"grenudi/ideal-agent","says":"feat: briefs first: ideal-agent follows idealkb 0.4.0, its records briefed (#16)"}
 {"at":"2026-11-17T14:40:26Z","by":"github-actions[bot]","id":"062d589","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#21)"}
@@ -789,6 +790,7 @@
 {"at":"2026-11-11T14:44:34Z","by":"grenudi","id":"b640902","project":"linux-phone-oco/docs","says":"feat(data): export the community's claims, to be drawn beside our checks (#57)"}
 {"at":"2026-11-17T01:38:21Z","by":"grenudi","id":"b6f5db4","project":"linux-phone-oco/docs","says":"feat: Tests: a known gap counted apart from a failure, in every run (#98)"}
 {"at":"2026-11-17T16:43:25Z","by":"grenudi","id":"b7c01a1","project":"linux-phone-oco/docs","says":"walleye first boot tries (#247)"}
+{"at":"2026-11-17T16:56:45Z","by":"grenudi","id":"b86c046","project":"linux-phone-oco/docs","says":"docs: sensors probe - the DSP still writes the registry with the configs current (keeper-8) (#249)"}
 {"at":"2026-11-17T00:58:18Z","by":"grenudi","id":"ba01aae","project":"linux-phone-oco/docs","says":"feat: Support status read off the suite's results, beside what was judged (#86)"}
 {"at":"2026-11-17T13:26:01Z","by":"github-actions[bot]","id":"bbe525b","project":"linux-phone-oco/docs","says":"chore(main): release 0.6.0 (#203)"}
 {"at":"2026-11-05T07:33:49Z","by":"grenudi","id":"bbe722e","project":"linux-phone-oco/docs","says":"feat: schema for device/component/status tracking, RFC-style docs (#1)"}
@@ -857,6 +859,7 @@
 {"at":"2026-11-17T12:57:42Z","by":"grenudi","id":"f837482","project":"linux-phone-oco/docs","says":"docs: the coordinator's hand-over, and its brief: a fresh coordinator starts from them (#195)"}
 {"at":"2026-11-10T04:13:10Z","by":"grenudi","id":"f92337c","project":"linux-phone-oco/docs","says":"feat(data): the ADSP crashes after resume, and a kernel component (#30)"}
 {"at":"2026-11-10T13:34:55Z","by":"grenudi","id":"f97e75d","project":"linux-phone-oco/docs","says":"feat(data): the session log - the conveyor in Rust, self-watching health, the microphone narrowed (#37)"}
+{"at":"2026-11-17T16:57:47Z","by":"grenudi","id":"fa10cd1","project":"linux-phone-oco/docs","says":"docs: how the phone stands (keeper-8) (#251)"}
 {"at":"2026-11-17T01:34:49Z","by":"grenudi","id":"fa56de6","project":"linux-phone-oco/docs","says":"docs: Two needs of the author: an Android reference, a second phone (#96)"}
 {"at":"2026-11-17T10:34:35Z","by":"grenudi","id":"fb831b2","project":"linux-phone-oco/docs","says":"fix: the phone's queue reads in the author's order, waiting items in their place (#169)"}
 {"at":"2026-11-17T15:34:28Z","by":"grenudi","id":"fbf6b2d","project":"linux-phone-oco/docs","says":"feat: docs follows idealkb 0.8.1: upstream records seeded from the queue (#221)"}
@@ -1207,6 +1210,7 @@
 {"at":"2026-11-14T16:48:09Z","by":"oco observe","id":"256f117","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T18:52:32Z","by":"oco observe","id":"259745e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T07:33:31Z","by":"oco observe","id":"2604419","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T16:56:54Z","by":"oco observe","id":"2613eec","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:34:24Z","by":"oco observe","id":"2618a3a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T18:03:18Z","by":"oco observe","id":"267cdcd","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T05:06:40Z","by":"oco observe","id":"26933e9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -3219,6 +3223,7 @@
 {"at":"2026-11-16T22:10:52Z","by":"oco harvest","id":"e380277","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:49:42Z","by":"oco harvest","id":"e3da4bd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T19:32:14Z","by":"oco harvest","id":"e432dee","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T16:57:35Z","by":"oco harvest","id":"e48cb73","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T02:11:21Z","by":"oco harvest","id":"e4ac591","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T16:33:51Z","by":"oco harvest","id":"e4d7ce1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T14:51:02Z","by":"grenudi","id":"e520a77","project":"open-commons-observatory/open-commons-observatory.github.io","says":"ci: the harvest rebases onto what landed meanwhile, and retries its push (#61)"}
