@@ -588,6 +588,7 @@
 {"at":"2026-11-17T04:40:08Z","by":"grenudi","id":"78455d1","project":"linux-phone-oco/docs","says":"docs: lab-tools: asked - make a proven test kernel the phone's default (#125)"}
 {"at":"2026-11-10T00:33:46Z","by":"grenudi","id":"7a10c36","project":"linux-phone-oco/docs","says":"feat(data): plasma-silent - sound works after writing the chips' volume; not yet persistent (#17)"}
 {"at":"2026-11-17T04:54:11Z","by":"grenudi","id":"7ddbe05","project":"linux-phone-oco/docs","says":"docs: Microphones researched: analog on the WCD; UCM capture next, upstream with PR 60 (#129)"}
+{"at":"2026-11-17T05:30:25Z","by":"grenudi","id":"8175520","project":"linux-phone-oco/docs","says":"docs: The DMIC experiment stays out (#138)"}
 {"at":"2026-11-10T03:58:52Z","by":"grenudi","id":"81e7a43","project":"linux-phone-oco/docs","says":"feat(data): the tas2562 volume bug is fixed - Plasma's silence explained; both patches queued (#29)"}
 {"at":"2026-11-12T01:05:33Z","by":"grenudi","id":"82ca47b","project":"linux-phone-oco/docs","says":"build: tad 0.5.0: the pin moved, the data and documents re-rendered (#70)"}
 {"at":"2026-11-16T23:40:26Z","by":"grenudi","id":"8377c4a","project":"linux-phone-oco/docs","says":"docs: 9 runs of surya filed by devlab gather: the phone's own health reports (#80)"}
@@ -622,6 +623,7 @@
 {"at":"2026-11-17T03:28:12Z","by":"grenudi","id":"c254333","project":"linux-phone-oco/docs","says":"docs: Boot race: the audio PD's up notification never arrives; PD mapper order suspected (#117)"}
 {"at":"2026-11-11T22:44:55Z","by":"grenudi","id":"c5a117f","project":"linux-phone-oco/docs","says":"build: tad 0.4.0: the pin moved, the data and documents re-rendered (#68)"}
 {"at":"2026-11-05T07:43:11Z","by":"grenudi","id":"c7800d4","project":"linux-phone-oco/docs","says":"ci: deploy Pages via Actions instead of the legacy pipeline (#2)"}
+{"at":"2026-11-17T05:29:32Z","by":"grenudi","id":"c90431e","project":"linux-phone-oco/docs","says":"docs: The microphones hold across boots; the boot race is fixed in every flash (#137)"}
 {"at":"2026-11-17T03:40:31Z","by":"grenudi","id":"ccc6e74","project":"linux-phone-oco/docs","says":"feat: one database for linux-phone: every place's records, through named records (#118)"}
 {"at":"2026-11-11T15:47:43Z","by":"grenudi","id":"d0d0182","project":"linux-phone-oco/docs","says":"feat(data): the wrap-up pass - settled with reasons (#58)"}
 {"at":"2026-11-16T15:06:42Z","by":"grenudi","id":"d313274","project":"linux-phone-oco/docs","says":"docs: a lens: test runs, and 8 more (#78)"}
@@ -757,6 +759,7 @@
 {"at":"2026-11-17T04:21:09Z","by":"grenudi","id":"4c54945","project":"linux-phone-oco/surya-lab","says":"docs: Microphone research: which reset question each note answered (#97)"}
 {"at":"2026-11-16T14:53:02Z","by":"grenudi","id":"4d0335f","project":"linux-phone-oco/surya-lab","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#68)"}
 {"at":"2026-11-11T14:33:58Z","by":"grenudi","id":"5040455","project":"linux-phone-oco/surya-lab","says":"data: waiting for the phone to settle is automated (#59)"}
+{"at":"2026-11-17T05:28:34Z","by":"grenudi","id":"5606ccf","project":"linux-phone-oco/surya-lab","says":"docs: Every flash loads the PD mapper before the ADSP: the sound card no longer goes missing (#106)"}
 {"at":"2026-11-17T01:14:54Z","by":"grenudi","id":"57748d4","project":"linux-phone-oco/surya-lab","says":"docs: The main microphone's own check: records a second, fails until samples come back (#74)"}
 {"at":"2026-11-10T02:59:54Z","by":"grenudi","id":"57dfa81","project":"linux-phone-oco/surya-lab","says":"feat(provision): install this phone's Sxmo device profile until sxmo-utils ships it (#14)"}
 {"at":"2026-11-17T02:04:34Z","by":"grenudi","id":"580c436","project":"linux-phone-oco/surya-lab","says":"refactor: surya-lab gives up its own conveyor: devlab reaches, tests and files for it (#81)"}
@@ -2380,6 +2383,7 @@
 {"at":"2026-11-12T21:39:26Z","by":"oco harvest","id":"55e92bd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T15:10:19Z","by":"oco harvest","id":"55f4c3d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T04:26:52Z","by":"oco harvest","id":"5606ee5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T05:23:53Z","by":"oco harvest","id":"561533d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T08:49:00Z","by":"oco harvest","id":"562717b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T20:19:19Z","by":"oco harvest","id":"564a30f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T20:55:54Z","by":"oco harvest","id":"565268e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
