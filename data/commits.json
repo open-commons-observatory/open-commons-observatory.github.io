@@ -805,6 +805,7 @@
 {"at":"2026-11-17T04:54:11Z","by":"grenudi","id":"7ddbe05","project":"linux-phone-oco/docs","says":"docs: Microphones researched: analog on the WCD; UCM capture next, upstream with PR 60 (#129)"}
 {"at":"2026-11-17T16:01:17Z","by":"grenudi","id":"8044b50","project":"linux-phone-oco/docs","says":"docs: 9 runs of xiaomi-surya filed by devlab, from the phone's own reports (#237)"}
 {"at":"2026-11-17T15:39:16Z","by":"grenudi","id":"80ad527","project":"linux-phone-oco/docs","says":"docs: walleye research - vendor kernel hardware, how others booted it, Android reference (#226)"}
+{"at":"2026-11-17T19:15:45Z","by":"grenudi","id":"80e378e","project":"linux-phone-oco/docs","says":"docs: sleep-standby-current waits on nothing (null, not empty) (#340)"}
 {"at":"2026-11-17T05:30:25Z","by":"grenudi","id":"8175520","project":"linux-phone-oco/docs","says":"docs: The DMIC experiment stays out (#138)"}
 {"at":"2026-11-10T03:58:52Z","by":"grenudi","id":"81e7a43","project":"linux-phone-oco/docs","says":"feat(data): the tas2562 volume bug is fixed - Plasma's silence explained; both patches queued (#29)"}
 {"at":"2026-11-12T01:05:33Z","by":"grenudi","id":"82ca47b","project":"linux-phone-oco/docs","says":"build: tad 0.5.0: the pin moved, the data and documents re-rendered (#70)"}
@@ -966,6 +967,7 @@
 {"at":"2026-11-10T13:34:55Z","by":"grenudi","id":"f97e75d","project":"linux-phone-oco/docs","says":"feat(data): the session log - the conveyor in Rust, self-watching health, the microphone narrowed (#37)"}
 {"at":"2026-11-17T16:57:47Z","by":"grenudi","id":"fa10cd1","project":"linux-phone-oco/docs","says":"docs: how the phone stands (keeper-8) (#251)"}
 {"at":"2026-11-17T01:34:49Z","by":"grenudi","id":"fa56de6","project":"linux-phone-oco/docs","says":"docs: Two needs of the author: an Android reference, a second phone (#96)"}
+{"at":"2026-11-17T19:14:44Z","by":"grenudi","id":"fb55952","project":"linux-phone-oco/docs","says":"docs: sensors-registry-writes proven - patched hexagonrpcd keeps sensorspd up (#339)"}
 {"at":"2026-11-17T10:34:35Z","by":"grenudi","id":"fb831b2","project":"linux-phone-oco/docs","says":"fix: the phone's queue reads in the author's order, waiting items in their place (#169)"}
 {"at":"2026-11-17T15:34:28Z","by":"grenudi","id":"fbf6b2d","project":"linux-phone-oco/docs","says":"feat: docs follows idealkb 0.8.1: upstream records seeded from the queue (#221)"}
 {"at":"2026-11-17T17:22:59Z","by":"grenudi","id":"fc27170","project":"linux-phone-oco/docs","says":"docs: floor-wlan-off - WLAN is not the holder (keeper-9) (#267)"}
@@ -3091,6 +3093,7 @@
 {"at":"2026-11-17T02:39:28Z","by":"oco harvest","id":"94d115d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T14:03:04Z","by":"oco harvest","id":"9523215","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T12:51:19Z","by":"oco harvest","id":"961b514","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T19:14:48Z","by":"oco harvest","id":"971ea12","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T11:00:59Z","by":"oco harvest","id":"9741ef4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T12:49:40Z","by":"grenudi","id":"9752daa","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-124925","says":"docs: where the practices are shown: eleven more say what shows them (#88)"}
 {"at":"2026-11-15T20:30:38Z","by":"oco harvest","id":"97a3137","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
