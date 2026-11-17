@@ -576,12 +576,14 @@
 {"at":"2026-11-17T20:17:48Z","by":"github-actions[bot]","id":"0ae6dbe","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#61)"}
 {"at":"2026-11-17T16:15:15Z","by":"github-actions[bot]","id":"0b45170","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#42)"}
 {"at":"2026-11-17T15:46:46Z","by":"github-actions[bot]","id":"0d675ca","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#33)"}
+{"at":"2026-11-17T20:21:49Z","by":"grenudi","id":"0ec1a08","project":"grenudi/ideal-knowledge-base","says":"feat: ikb: blocked_by in the generic backlog; waits not empty; next shows blocked_on (#62)"}
 {"at":"2026-11-17T17:34:50Z","by":"github-actions[bot]","id":"0fee4f1","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#47)"}
 {"at":"2026-11-17T11:36:40Z","by":"grenudi","id":"12334d7","project":"grenudi/ideal-knowledge-base","says":"feat: a summary over many records, and research kept aside in dated folders (#5)"}
 {"at":"2026-11-17T15:18:26Z","by":"github-actions[bot]","id":"12ca79f","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#31)"}
 {"at":"2026-11-17T17:41:46Z","by":"github-actions[bot]","id":"1cafef6","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#51)"}
 {"at":"2026-11-17T17:18:48Z","by":"grenudi","id":"2700beb","project":"grenudi/ideal-knowledge-base","says":"docs: ikb: research and decision - a commons base plus one open base per unit (#43)"}
 {"at":"2026-11-17T15:46:29Z","by":"grenudi","id":"2ba3592","project":"grenudi/ideal-knowledge-base","says":"feat: ikb: completions for four shells, asked as you type; the agent starts with ikb --help (#34)"}
+{"at":"2026-11-17T20:22:19Z","by":"github-actions[bot]","id":"344c035","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#63)"}
 {"at":"2026-11-17T17:37:52Z","by":"github-actions[bot]","id":"3591d4c","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#49)"}
 {"at":"2026-11-17T11:37:15Z","by":"github-actions[bot]","id":"36a5b62","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.2.0 (#6)"}
 {"at":"2026-11-17T14:51:08Z","by":"github-actions[bot]","id":"3dc496f","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#23)"}
@@ -715,6 +717,7 @@
 {"at":"2026-11-11T15:49:40Z","by":"grenudi","id":"25d2aee","project":"linux-phone-oco/docs","says":"feat(data): the ADSP crash item settled (#59)"}
 {"at":"2026-11-10T01:26:37Z","by":"grenudi","id":"26ec543","project":"linux-phone-oco/docs","says":"docs: the Open Handset Commons research behind the grand picture, kept as written (#20)"}
 {"at":"2026-11-17T18:28:50Z","by":"grenudi","id":"270db5d","project":"linux-phone-oco/docs","says":"docs: ideal-agent is an upstream; a brief is a starting point (look-around-first) (#303)"}
+{"at":"2026-11-17T20:19:49Z","by":"grenudi","id":"2742783","project":"linux-phone-oco/docs","says":"feat: docs: backlog takes blocked_by (a wait that clears itself); waits not empty (#365)"}
 {"at":"2026-11-16T13:37:56Z","by":"feeds","id":"279ca53","project":"linux-phone-oco/docs","says":"chore(feed): data from the scheduled feeds"}
 {"at":"2026-11-17T15:50:23Z","by":"grenudi","id":"2940743","project":"linux-phone-oco/docs","says":"walleye android reference (#233)"}
 {"at":"2026-11-17T12:25:20Z","by":"grenudi","id":"2975287","project":"linux-phone-oco/docs","says":"docs: first measured s2idle cycles: the suspend ends at once on the serial's IRQ 157; hand-over (#192)"}
@@ -1022,12 +1025,14 @@
 {"at":"2026-11-17T19:27:08Z","by":"grenudi","id":"0f14a92","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget3.img, vendor-gadget2 plus a self-reboot timer and a kmsg marker (#13)"}
 {"at":"2026-11-17T20:14:47Z","by":"grenudi","id":"1122559","project":"linux-phone-oco/google-walleye-lab","says":"walleye: split the ncm step; why ncm panics (research) (#31)"}
 {"at":"2026-11-17T18:43:18Z","by":"grenudi","id":"13c1a61","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget.img (the control with our gadget initramfs) and the host check walleye-gadget-up (#11)"}
+{"at":"2026-11-17T20:22:02Z","by":"grenudi","id":"14a4a4c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the noattr try waits on nothing (rank 2, after the ncm split) (#36)"}
 {"at":"2026-11-17T20:05:19Z","by":"grenudi","id":"1eee99d","project":"linux-phone-oco/google-walleye-lab","says":"walleye builder gadget5 (#27)"}
 {"at":"2026-11-17T19:46:10Z","by":"grenudi","id":"2e46a6b","project":"linux-phone-oco/google-walleye-lab","says":"feat: walleye's rows, moved here from docs; lane-next for the launchers (#15)"}
 {"at":"2026-11-17T20:07:03Z","by":"grenudi","id":"2f2ee42","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the gadget bisect try waits on nothing (#28)"}
 {"at":"2026-11-17T20:01:33Z","by":"grenudi","id":"49a4712","project":"linux-phone-oco/google-walleye-lab","says":"walleye: vendor-gadget4 tried - idle init returns, bootreason reboot (#25)"}
 {"at":"2026-11-17T18:27:57Z","by":"grenudi","id":"4eb1a74","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants g, h, i answer on 172.16.43.1 (e, b, f); a-f byte for byte (#9)"}
 {"at":"2026-11-17T18:23:44Z","by":"grenudi","id":"4fa476d","project":"linux-phone-oco/google-walleye-lab","says":"address 43 (#7)"}
+{"at":"2026-11-17T20:21:07Z","by":"grenudi","id":"5315bf5","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget-n1, n2, the ncm step without settings writes (walleye-ncm-noattr-images) (#35)"}
 {"at":"2026-11-17T20:02:36Z","by":"grenudi","id":"53a8965","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the gadget bring-up bisect (build item); cmdline-read and panic-time closed (#26)"}
 {"at":"2026-11-17T20:13:44Z","by":"grenudi","id":"54419ea","project":"linux-phone-oco/google-walleye-lab","says":"walleye: gadget bisect - 5a returns, 5b panics (ncm step) (#30)"}
 {"at":"2026-11-17T19:56:52Z","by":"grenudi","id":"585debd","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the keeper's try of vendor-gadget4 placed (#21)"}
@@ -1130,6 +1135,7 @@
 {"at":"2026-11-17T14:06:46Z","by":"grenudi","id":"e3b9e1a","project":"linux-phone-oco/lab-tools","says":"feat(lpoco-health): one health suite with switches, reasons and run-time conditions (#75)"}
 {"at":"2026-11-16T23:37:27Z","by":"grenudi","id":"e5329bb","project":"linux-phone-oco/lab-tools","says":"feat: Gathering is one command: devlab gather now (#30)"}
 {"at":"2026-11-17T13:13:08Z","by":"grenudi","id":"e8c20e3","project":"linux-phone-oco/lab-tools","says":"feat(devlab): suite put --runner builds the runner by itself (#72)"}
+{"at":"2026-11-17T20:22:58Z","by":"grenudi","id":"eef94b8","project":"linux-phone-oco/lab-tools","says":"bringup image v0 (#85)"}
 {"at":"2026-11-17T09:09:41Z","by":"github-actions[bot]","id":"f21fb4b","project":"linux-phone-oco/lab-tools","says":"chore(devlab-health): release v0.1.1 (#50)"}
 {"at":"2026-11-10T22:03:37Z","by":"grenudi","id":"f5c1d4f","project":"linux-phone-oco/lab-tools","says":"feat(devlab): hear - a tone on each speaker, heard through the lab's microphone (#15)"}
 {"at":"2026-11-10T17:39:07Z","by":"grenudi","id":"f7897df","project":"linux-phone-oco/lab-tools","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#12)"}
@@ -1556,6 +1562,7 @@
 {"at":"2026-11-13T07:31:45Z","by":"oco observe","id":"64e54d6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T05:49:14Z","by":"oco observe","id":"65a0c0f","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T01:32:29Z","by":"oco observe","id":"6653554","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T20:23:49Z","by":"oco observe","id":"667717f","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T19:18:14Z","by":"oco observe","id":"66e7215","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T18:19:27Z","by":"grenudi","id":"6775ef6","project":"marshall-oco/marshall-oco.github.io","record":"g-20261115-181911","says":"docs: a record of work touches what is still kept: the sheet, not a part taken back from it (#20)"}
 {"at":"2026-11-13T22:17:04Z","by":"oco observe","id":"67a884f","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -2793,6 +2800,7 @@
 {"at":"2026-11-13T08:00:34Z","by":"oco harvest","id":"3342d0b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T07:23:35Z","by":"oco harvest","id":"33f888a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T16:16:53Z","by":"oco harvest","id":"3415e3a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T20:20:40Z","by":"oco harvest","id":"3472563","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T10:17:31Z","by":"oco harvest","id":"3485d70","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T13:59:13Z","by":"oco harvest","id":"34a0d34","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T00:41:08Z","by":"grenudi","id":"34c0edb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: essence measured at home and on the front page; ideas in Russian; what is still owed (#39)"}
