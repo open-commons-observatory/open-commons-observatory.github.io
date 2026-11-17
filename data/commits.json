@@ -684,6 +684,7 @@
 {"at":"2026-11-11T09:36:58Z","by":"grenudi","id":"19ada91","project":"linux-phone-oco/lab-tools","says":"docs: this morning's findings, with concepts and decisions (#23)"}
 {"at":"2026-11-16T23:29:04Z","by":"grenudi","id":"1ab2ce7","project":"linux-phone-oco/lab-tools","says":"feat: The phone checks its own health after every boot: devlab-health and devlab suite (#29)"}
 {"at":"2026-11-10T12:38:33Z","by":"grenudi","id":"25e5fe4","project":"linux-phone-oco/lab-tools","says":"feat: devlab test, health and watch - regressions caught, silence when all is well (#5)"}
+{"at":"2026-11-17T09:29:21Z","by":"grenudi","id":"26ef2ed","project":"linux-phone-oco/lab-tools","says":"fix: mobile-data measures the data bearer, never the IMS one beside it (#62)"}
 {"at":"2026-11-10T11:43:09Z","by":"grenudi","id":"2b14996","project":"linux-phone-oco/lab-tools","says":"feat: devlab - the device lab for any phone, from its manifest; step 1, reaching the phone (#1)"}
 {"at":"2026-11-11T21:37:29Z","by":"grenudi","id":"2b36565","project":"linux-phone-oco/lab-tools","says":"chore: glimpses are recorded here from now on (#26)"}
 {"at":"2026-11-17T01:33:23Z","by":"grenudi","id":"3029dfd","project":"linux-phone-oco/lab-tools","says":"feat: The ways, held for agents: devlab guard, for the lab's Claude Code hooks (#36)"}
@@ -714,6 +715,7 @@
 {"at":"2026-11-10T04:25:54Z","by":"lab-agent-session","id":"952c3a2","project":"linux-phone-oco/lab-tools","says":"feat: tone - make a test tone, and find it in a recording"}
 {"at":"2026-11-11T14:27:03Z","by":"grenudi","id":"97759a9","project":"linux-phone-oco/lab-tools","says":"feat(devlab): kernel try reports its own outcome (#24)"}
 {"at":"2026-11-16T15:59:02Z","by":"grenudi","id":"9bb36b7","project":"linux-phone-oco/lab-tools","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#28)"}
+{"at":"2026-11-17T09:30:26Z","by":"github-actions[bot]","id":"9edd329","project":"linux-phone-oco/lab-tools","says":"chore(devlab-health): release v0.1.4 (#63)"}
 {"at":"2026-11-17T09:11:31Z","by":"grenudi","id":"a298768","project":"linux-phone-oco/lab-tools","says":"feat: devlab-health tone make|find: the tone crate on the phone, for checks that listen (#57)"}
 {"at":"2026-11-11T00:13:44Z","by":"grenudi","id":"acfc451","project":"linux-phone-oco/lab-tools","says":"docs: the ear on notice - the procedure, a guard to build, and a proper rig on the backlog (#19)"}
 {"at":"2026-11-17T01:02:02Z","by":"grenudi","id":"af660dc","project":"linux-phone-oco/lab-tools","says":"feat: After filing, the picture's derivations follow: support status from results (#34)"}
@@ -2831,6 +2833,7 @@
 {"at":"2026-11-15T10:35:39Z","by":"oco harvest","id":"d449141","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T00:42:02Z","by":"oco harvest","id":"d46a400","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T01:06:47Z","by":"oco harvest","id":"d46eebb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T09:28:54Z","by":"oco harvest","id":"d4b1714","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T11:41:19Z","by":"oco harvest","id":"d6a9fc8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:52:16Z","by":"oco harvest","id":"d6d3be8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T09:06:07Z","by":"oco harvest","id":"d6d8dd6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
