@@ -103,7 +103,7 @@
 {"bytes":11,"id":"CLAUDE.md","lines":1,"path":"CLAUDE.md","project":"linux-phone-oco/docs"}
 {"bytes":9021,"id":"CONTRIBUTING.md","lines":121,"path":"CONTRIBUTING.md","project":"linux-phone-oco/docs"}
 {"bytes":1463,"id":"README.md","lines":23,"path":"README.md","project":"linux-phone-oco/docs"}
-{"bytes":100633,"id":"docs/backlog.md","lines":3385,"path":"docs/backlog.md","project":"linux-phone-oco/docs"}
+{"bytes":101614,"id":"docs/backlog.md","lines":3435,"path":"docs/backlog.md","project":"linux-phone-oco/docs"}
 {"bytes":1493,"id":"docs/components.md","lines":149,"path":"docs/components.md","project":"linux-phone-oco/docs"}
 {"bytes":1786,"id":"docs/concepts.md","lines":73,"path":"docs/concepts.md","project":"linux-phone-oco/docs"}
 {"bytes":65403,"id":"docs/decisions.md","lines":1017,"path":"docs/decisions.md","project":"linux-phone-oco/docs"}
@@ -121,8 +121,8 @@
 {"bytes":3979,"id":"docs/picture.md","lines":63,"path":"docs/picture.md","project":"linux-phone-oco/docs"}
 {"bytes":770,"id":"docs/platforms.md","lines":69,"path":"docs/platforms.md","project":"linux-phone-oco/docs"}
 {"bytes":4322,"id":"docs/problems.md","lines":179,"path":"docs/problems.md","project":"linux-phone-oco/docs"}
-{"bytes":52817,"id":"docs/research.md","lines":804,"path":"docs/research.md","project":"linux-phone-oco/docs"}
-{"bytes":51968,"id":"docs/session_log.md","lines":1527,"path":"docs/session_log.md","project":"linux-phone-oco/docs"}
+{"bytes":54556,"id":"docs/research.md","lines":835,"path":"docs/research.md","project":"linux-phone-oco/docs"}
+{"bytes":53396,"id":"docs/session_log.md","lines":1548,"path":"docs/session_log.md","project":"linux-phone-oco/docs"}
 {"bytes":373,"id":"docs/shell_releases.md","lines":28,"path":"docs/shell_releases.md","project":"linux-phone-oco/docs"}
 {"bytes":37957,"id":"docs/sources.md","lines":1650,"path":"docs/sources.md","project":"linux-phone-oco/docs"}
 {"bytes":1845,"id":"docs/summaries.md","lines":17,"path":"docs/summaries.md","project":"linux-phone-oco/docs"}
@@ -139,6 +139,7 @@
 {"bytes":6248,"id":"ideal-agent-linux-phone-oco/orchestration.md","lines":86,"path":"ideal-agent-linux-phone-oco/orchestration.md","project":"linux-phone-oco/docs"}
 {"bytes":4559,"id":"ideal-agent-linux-phone-oco/phone-keeper.md","lines":72,"path":"ideal-agent-linux-phone-oco/phone-keeper.md","project":"linux-phone-oco/docs"}
 {"bytes":1192,"id":"research/README.md","lines":19,"path":"research/README.md","project":"linux-phone-oco/docs"}
+{"bytes":1285,"id":"research/deep-sleep/2026-11-17/README.md","lines":15,"path":"research/deep-sleep/2026-11-17/README.md","project":"linux-phone-oco/docs"}
 {"bytes":22355,"id":"research/open-handset-commons/2026-11-10/README.md","lines":307,"path":"research/open-handset-commons/2026-11-10/README.md","project":"linux-phone-oco/docs"}
 {"bytes":8223,"id":"README.md","lines":129,"path":"README.md","project":"linux-phone-oco/lab-tools"}
 {"bytes":2287,"id":"health/CHANGELOG.md","lines":53,"path":"health/CHANGELOG.md","project":"linux-phone-oco/lab-tools"}
