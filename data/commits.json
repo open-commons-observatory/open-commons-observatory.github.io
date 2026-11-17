@@ -535,6 +535,7 @@
 {"at":"2026-11-17T09:51:25Z","by":"grenudi","id":"5905800","project":"grenudi/ideal-agent","says":"feat: the ideal agent: its mark, its tad database, and one Claude Code plugin (#1)"}
 {"at":"2026-11-17T10:24:33Z","by":"grenudi","id":"5967ea8","project":"grenudi/ideal-agent","says":"docs: the move into ideal-agent recorded: done, proven live, every old place pointing here (#3)"}
 {"at":"2026-11-17T15:38:41Z","by":"grenudi","id":"60c4245","project":"grenudi/ideal-agent","says":"fix: plugin 0.3.3: carries the upstream paragraph of record-the-work (#33)"}
+{"at":"2026-11-17T20:42:43Z","by":"grenudi","id":"6492fc9","project":"grenudi/ideal-agent","says":"fix: a lane retries a run still closing, bounded, instead of waiting on a wake (plugin 0.3.23) (#58)"}
 {"at":"2026-11-17T11:45:00Z","by":"grenudi","id":"689bf46","project":"grenudi/ideal-agent","says":"fix: the practices that name ocoeco, counted (#10)"}
 {"at":"2026-11-17T10:17:19Z","by":"grenudi","id":"6a54fd7","project":"grenudi/ideal-agent","says":"feat: one keeper per shared resource: a role skill, a practice and its research (#2)"}
 {"at":"2026-11-17T16:54:06Z","by":"grenudi","id":"6e4eaba","project":"grenudi/ideal-agent","says":"docs: the unused skills are name-only in the author's settings; the after waits on a fresh session (#47)"}
@@ -2737,6 +2738,7 @@
 {"at":"2026-11-13T10:30:53Z","by":"oco harvest","id":"17ff9bb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T15:51:26Z","by":"oco harvest","id":"184fecf","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T18:57:49Z","by":"oco harvest","id":"185f700","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T20:40:25Z","by":"oco harvest","id":"18ab37f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T11:12:41Z","by":"oco harvest","id":"18dd8c2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T16:22:20Z","by":"oco harvest","id":"190b017","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T16:29:09Z","by":"oco harvest","id":"1936f22","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
