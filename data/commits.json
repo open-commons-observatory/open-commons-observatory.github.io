@@ -619,6 +619,7 @@
 {"at":"2026-11-11T14:27:03Z","by":"grenudi","id":"97759a9","project":"linux-phone-oco/lab-tools","says":"feat(devlab): kernel try reports its own outcome (#24)"}
 {"at":"2026-11-16T15:59:02Z","by":"grenudi","id":"9bb36b7","project":"linux-phone-oco/lab-tools","record":"g-20261116-155810","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#28)"}
 {"at":"2026-11-11T00:13:44Z","by":"grenudi","id":"acfc451","project":"linux-phone-oco/lab-tools","says":"docs: the ear on notice - the procedure, a guard to build, and a proper rig on the backlog (#19)"}
+{"at":"2026-11-17T01:02:02Z","by":"grenudi","id":"af660dc","project":"linux-phone-oco/lab-tools","record":"g-20261117-010042","says":"feat: After filing, the picture's derivations follow: support status from results (#34)"}
 {"at":"2026-11-11T09:21:37Z","by":"grenudi","id":"b810574","project":"linux-phone-oco/lab-tools","says":"fix(devlab): only an EFI program is offered to the bootloader - a gzip kernel was lost silently (#22)"}
 {"at":"2026-11-10T17:46:42Z","by":"ocoeco gather","id":"b92e424","project":"linux-phone-oco/lab-tools","says":"data: gathered by ocoeco"}
 {"at":"2026-11-10T22:57:14Z","by":"grenudi","id":"b958458","project":"linux-phone-oco/lab-tools","says":"docs: the ear's first results withdrawn; it counts only with a microphone fixed in place (#18)"}
@@ -2019,6 +2020,7 @@
 {"at":"2026-11-10T21:51:18Z","by":"oco harvest","id":"0c78d5d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T14:41:44Z","by":"oco harvest","id":"0c97c15","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T21:02:25Z","by":"grenudi","id":"0ce18b1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: joining in one command, Rhizoid joins, discovered lenses - logged; the tiers done (#27)"}
+{"at":"2026-11-17T01:01:21Z","by":"oco harvest","id":"0cf5da1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T09:27:19Z","by":"oco harvest","id":"0cff802","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T14:34:32Z","by":"oco harvest","id":"0d487e1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T14:34:08Z","by":"oco harvest","id":"0dc54b5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
