@@ -145,7 +145,7 @@
 {"bytes":11,"id":"CLAUDE.md","lines":1,"path":"CLAUDE.md","project":"linux-phone-oco/docs"}
 {"bytes":9048,"id":"CONTRIBUTING.md","lines":121,"path":"CONTRIBUTING.md","project":"linux-phone-oco/docs"}
 {"bytes":1463,"id":"README.md","lines":23,"path":"README.md","project":"linux-phone-oco/docs"}
-{"bytes":109445,"id":"docs/backlog.md","lines":3253,"path":"docs/backlog.md","project":"linux-phone-oco/docs"}
+{"bytes":109452,"id":"docs/backlog.md","lines":3253,"path":"docs/backlog.md","project":"linux-phone-oco/docs"}
 {"bytes":1493,"id":"docs/components.md","lines":149,"path":"docs/components.md","project":"linux-phone-oco/docs"}
 {"bytes":3844,"id":"docs/concepts.md","lines":165,"path":"docs/concepts.md","project":"linux-phone-oco/docs"}
 {"bytes":107910,"id":"docs/decisions.md","lines":1349,"path":"docs/decisions.md","project":"linux-phone-oco/docs"}
@@ -164,7 +164,7 @@
 {"bytes":770,"id":"docs/platforms.md","lines":69,"path":"docs/platforms.md","project":"linux-phone-oco/docs"}
 {"bytes":6631,"id":"docs/problems.md","lines":274,"path":"docs/problems.md","project":"linux-phone-oco/docs"}
 {"bytes":98306,"id":"docs/research.md","lines":1157,"path":"docs/research.md","project":"linux-phone-oco/docs"}
-{"bytes":51349,"id":"docs/session_log.md","lines":1455,"path":"docs/session_log.md","project":"linux-phone-oco/docs"}
+{"bytes":53077,"id":"docs/session_log.md","lines":1479,"path":"docs/session_log.md","project":"linux-phone-oco/docs"}
 {"bytes":373,"id":"docs/shell_releases.md","lines":28,"path":"docs/shell_releases.md","project":"linux-phone-oco/docs"}
 {"bytes":77265,"id":"docs/sources.md","lines":3402,"path":"docs/sources.md","project":"linux-phone-oco/docs"}
 {"bytes":7986,"id":"docs/summaries.md","lines":77,"path":"docs/summaries.md","project":"linux-phone-oco/docs"}
@@ -239,11 +239,12 @@
 {"bytes":3519,"id":"research/walleye-first-fastboot-boot/2026-11-17/README.md","lines":27,"path":"research/walleye-first-fastboot-boot/2026-11-17/README.md","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":1448,"id":"research/walleye-first-fastboot-boot/2026-11-17/dtbo-measurements.md","lines":9,"path":"research/walleye-first-fastboot-boot/2026-11-17/dtbo-measurements.md","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":990,"id":"tests/health/README.md","lines":19,"path":"tests/health/README.md","project":"linux-phone-oco/google-walleye-lab"}
-{"bytes":14288,"id":"README.md","lines":211,"path":"README.md","project":"linux-phone-oco/lab-tools"}
-{"bytes":541,"id":"bringup/CHANGELOG.md","lines":14,"path":"bringup/CHANGELOG.md","project":"linux-phone-oco/lab-tools"}
+{"bytes":16163,"id":"README.md","lines":233,"path":"README.md","project":"linux-phone-oco/lab-tools"}
+{"bytes":814,"id":"bringup/CHANGELOG.md","lines":20,"path":"bringup/CHANGELOG.md","project":"linux-phone-oco/lab-tools"}
 {"bytes":522,"id":"devlab/CHANGELOG.md","lines":14,"path":"devlab/CHANGELOG.md","project":"linux-phone-oco/lab-tools"}
 {"bytes":3212,"id":"health/CHANGELOG.md","lines":75,"path":"health/CHANGELOG.md","project":"linux-phone-oco/lab-tools"}
-{"bytes":514,"id":"lpoco/CHANGELOG.md","lines":14,"path":"lpoco/CHANGELOG.md","project":"linux-phone-oco/lab-tools"}
+{"bytes":544,"id":"host/CHANGELOG.md","lines":14,"path":"host/CHANGELOG.md","project":"linux-phone-oco/lab-tools"}
+{"bytes":771,"id":"lpoco/CHANGELOG.md","lines":20,"path":"lpoco/CHANGELOG.md","project":"linux-phone-oco/lab-tools"}
 {"bytes":269,"id":"tone/CHANGELOG.md","lines":8,"path":"tone/CHANGELOG.md","project":"linux-phone-oco/lab-tools"}
 {"bytes":972,"id":"README.md","lines":10,"path":"README.md","project":"linux-phone-oco/lens"}
 {"bytes":6189,"id":"AGENTS.md","lines":63,"path":"AGENTS.md","project":"linux-phone-oco/surya-lab"}

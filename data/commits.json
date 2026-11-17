@@ -872,6 +872,7 @@
 {"at":"2026-11-17T18:45:40Z","by":"grenudi","id":"8d3365a","project":"linux-phone-oco/docs","says":"docs: floor research validity - read the suspend entry first (research, decision, 3 items) (#317)"}
 {"at":"2026-11-17T15:19:27Z","by":"grenudi","id":"8d7db9c","project":"linux-phone-oco/docs","says":"docs: the walleye coordinator's brief, first decisions and backlog (#219)"}
 {"at":"2026-11-17T09:42:01Z","by":"grenudi","id":"8deb2ef","project":"linux-phone-oco/docs","says":"docs: 7 runs of xiaomi-surya filed by devlab, from the phone's own reports (#156)"}
+{"at":"2026-11-17T22:00:28Z","by":"grenudi","id":"90dfaf8","project":"linux-phone-oco/docs","says":"docs(lab-tools): lpoco-host built and landed (#91), acceptance still to run (#380)"}
 {"at":"2026-11-10T00:05:14Z","by":"grenudi","id":"919f1ec","project":"linux-phone-oco/docs","says":"docs: the grand picture - why, what, where, the evidence conveyor, the orgs, the phases (#15)"}
 {"at":"2026-11-17T15:40:29Z","by":"grenudi","id":"92999d5","project":"linux-phone-oco/docs","says":"docs: orchestration hand-over, 2026-11-17 evening (#231)"}
 {"at":"2026-11-17T17:58:58Z","by":"grenudi","id":"937a549","project":"linux-phone-oco/docs","says":"docs: floor-sh0-owner first on surya's phone queue (#289)"}
@@ -1169,7 +1170,9 @@
 {"at":"2026-11-10T17:46:42Z","by":"ocoeco gather","id":"b92e424","project":"linux-phone-oco/lab-tools","says":"data: gathered by ocoeco"}
 {"at":"2026-11-10T22:57:14Z","by":"grenudi","id":"b958458","project":"linux-phone-oco/lab-tools","says":"docs: the ear's first results withdrawn; it counts only with a microphone fixed in place (#18)"}
 {"at":"2026-11-17T14:10:45Z","by":"grenudi","id":"badfc81","project":"linux-phone-oco/lab-tools","says":"fix(lpoco-health): keep no_sim and the old library path for the phone's own checks (#76)"}
+{"at":"2026-11-17T21:59:02Z","by":"grenudi","id":"bcb4e9d","project":"linux-phone-oco/lab-tools","says":"feat(host): lpoco host, the lab host prepared from lab.toml and each device's [host] (#91)"}
 {"at":"2026-11-17T02:59:51Z","by":"grenudi","id":"c2dabac","project":"linux-phone-oco/lab-tools","says":"fix: Test sounds are quiet: a level and volume per phone, -40 dBFS at 25% by default (#45)"}
+{"at":"2026-11-17T22:01:35Z","by":"github-actions[bot]","id":"c738ff3","project":"linux-phone-oco/lab-tools","says":"chore: release v0.2.1 (#89)"}
 {"at":"2026-11-17T04:09:15Z","by":"grenudi","id":"caba4f3","project":"linux-phone-oco/lab-tools","says":"feat: devlab-health as an Alpine package: released by release-plz, published by the package conveyor (#48)"}
 {"at":"2026-11-17T13:08:06Z","by":"grenudi","id":"cb68328","project":"linux-phone-oco/lab-tools","says":"fix(devlab): kernel try reads the booted entry off the running initramfs (#71)"}
 {"at":"2026-11-17T21:12:43Z","by":"grenudi","id":"cbfaf6f","project":"linux-phone-oco/lab-tools","says":"feat: lpoco mcp, one MCP server for the family, old tool names kept (#87)"}
@@ -3518,6 +3521,7 @@
 {"at":"2026-11-11T11:10:21Z","by":"grenudi","id":"dc59548","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: Rust for what ships; tools for what repeats (#48)"}
 {"at":"2026-11-12T19:02:51Z","by":"oco harvest","id":"dc8f2be","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T23:04:03Z","by":"oco harvest","id":"dca96b3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T21:59:13Z","by":"oco harvest","id":"dd09c88","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T11:53:06Z","by":"oco harvest","id":"dd3774c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T18:05:32Z","by":"oco harvest","id":"dd4277d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T21:54:19Z","by":"oco harvest","id":"dd4aa63","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}

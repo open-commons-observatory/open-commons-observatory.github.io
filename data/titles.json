@@ -121,6 +121,7 @@
 {"id":"bringup/CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"bringup/CHANGELOG.md","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"devlab/CHANGELOG.md","project":"linux-phone-oco/lab-tools"}
 {"id":"health/CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"health/CHANGELOG.md","project":"linux-phone-oco/lab-tools"}
+{"id":"host/CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"host/CHANGELOG.md","project":"linux-phone-oco/lab-tools"}
 {"id":"lpoco/CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"lpoco/CHANGELOG.md","project":"linux-phone-oco/lab-tools"}
 {"id":"tone/CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"tone/CHANGELOG.md","project":"linux-phone-oco/lab-tools"}
 {"id":"AGENTS.md:surya-lab - notes for agents","line":1,"name":"surya-lab - notes for agents","path":"AGENTS.md","project":"linux-phone-oco/surya-lab"}

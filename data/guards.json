@@ -492,6 +492,16 @@
 {"id":"health/src/tone.rs:a_tone_made_raw_is_found_in_its_window_and_silence_is_not","line":189,"name":"a_tone_made_raw_is_found_in_its_window_and_silence_is_not","path":"health/src/tone.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"health/src/tone.rs:a_wrong_ask_is_said_not_guessed","line":181,"name":"a_wrong_ask_is_said_not_guessed","path":"health/src/tone.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"health/src/tone.rs:options_and_the_file_are_read_in_any_order","line":167,"name":"options_and_the_file_are_read_in_any_order","path":"health/src/tone.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"host/src/cli.rs:prepare_now_and_the_lab_from_the_environment","line":140,"name":"prepare_now_and_the_lab_from_the_environment","path":"host/src/cli.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"host/src/cli.rs:the_declaration_holds","line":131,"name":"the_declaration_holds","path":"host/src/cli.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"host/src/lib.rs:a_clone_without_host_gives_way_and_a_conflict_is_named","line":485,"name":"a_clone_without_host_gives_way_and_a_conflict_is_named","path":"host/src/lib.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"host/src/lib.rs:a_file_that_is_the_same_has_no_diff","line":424,"name":"a_file_that_is_the_same_has_no_diff","path":"host/src/lib.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"host/src/lib.rs:a_pin_names_a_prefix","line":418,"name":"a_pin_names_a_prefix","path":"host/src/lib.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"host/tests/plan.rs:a_manifest_that_would_inject_into_root_commands_is_refused","line":203,"name":"a_manifest_that_would_inject_into_root_commands_is_refused","path":"host/tests/plan.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"host/tests/plan.rs:plan_grants_gadget_serial_and_changes_nothing","line":84,"name":"plan_grants_gadget_serial_and_changes_nothing","path":"host/tests/plan.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"host/tests/plan.rs:plan_lists_host_tools_at_pins_and_installs_nothing","line":124,"name":"plan_lists_host_tools_at_pins_and_installs_nothing","path":"host/tests/plan.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"host/tests/plan.rs:prepare_now_runs_the_printed_root_commands_and_only_them","line":178,"name":"prepare_now_runs_the_printed_root_commands_and_only_them","path":"host/tests/plan.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"host/tests/plan.rs:the_wide_rule_is_named_and_never_touched_and_an_old_devlab_is_off_the_pin","line":221,"name":"the_wide_rule_is_named_and_never_touched_and_an_old_devlab_is_off_the_pin","path":"host/tests/plan.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"lpoco/src/cli.rs:the_declaration_holds","line":73,"name":"the_declaration_holds","path":"lpoco/src/cli.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"lpoco/tests/dispatch.rs:a_missing_name_stops_with_one_line_naming_what_was_searched","line":52,"name":"a_missing_name_stops_with_one_line_naming_what_was_searched","path":"lpoco/tests/dispatch.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"lpoco/tests/dispatch.rs:lpoco_refuses_mixed_versions","line":63,"name":"lpoco_refuses_mixed_versions","path":"lpoco/tests/dispatch.rs","project":"linux-phone-oco/lab-tools"}
