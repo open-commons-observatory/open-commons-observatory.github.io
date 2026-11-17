@@ -581,9 +581,11 @@
 {"at":"2026-11-17T12:08:07Z","by":"github-actions[bot]","id":"4571b0c","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.4.0 (#12)"}
 {"at":"2026-11-17T14:58:48Z","by":"grenudi","id":"52d8d49","project":"grenudi/ideal-knowledge-base","says":"feat: ikb: a leaner page (no type or optional on every option) and the first release measured (#24)"}
 {"at":"2026-11-17T11:00:42Z","by":"grenudi","id":"58ba247","project":"grenudi/ideal-knowledge-base","says":"Initial commit"}
+{"at":"2026-11-17T17:53:01Z","by":"grenudi","id":"599de84","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: --help says every command, records and fixed ones alike (#54)"}
 {"at":"2026-11-17T15:14:19Z","by":"grenudi","id":"5d44fc0","project":"grenudi/ideal-knowledge-base","says":"feat: ikb: upstream records - where knowledge can flow, what is sent, one shape (#28)"}
 {"at":"2026-11-17T11:41:10Z","by":"github-actions[bot]","id":"626b14f","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.3.0 (#8)"}
 {"at":"2026-11-17T11:05:31Z","by":"github-actions[bot]","id":"62a6a64","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.1.0 (#2)"}
+{"at":"2026-11-17T17:50:51Z","by":"grenudi","id":"66aa575","project":"grenudi/ideal-knowledge-base","says":"docs: ikb: tad-sql-guard done - the guard is in ideal-agent 0.3.18 (#53)"}
 {"at":"2026-11-17T11:19:15Z","by":"grenudi","id":"6becc2a","project":"grenudi/ideal-knowledge-base","says":"docs: navigation is ideal-agent's skill ask-a-knowledge-base (#4)"}
 {"at":"2026-11-17T15:56:49Z","by":"github-actions[bot]","id":"6d2f5c5","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#36)"}
 {"at":"2026-11-17T12:15:19Z","by":"grenudi","id":"734d789","project":"grenudi/ideal-knowledge-base","says":"docs: docs takes briefs: both followers answer 0.4.0 (#17)"}
@@ -1259,6 +1261,7 @@
 {"at":"2026-11-14T14:33:10Z","by":"oco observe","id":"2312f0c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T08:24:53Z","by":"oco observe","id":"2325f95","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-17T01:30:01Z","by":"oco observe","id":"24dd0db","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T17:51:49Z","by":"oco observe","id":"24e3ea5","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T04:19:38Z","by":"oco observe","id":"2543dbe","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T16:48:09Z","by":"oco observe","id":"256f117","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T18:52:32Z","by":"oco observe","id":"259745e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -2580,6 +2583,7 @@
 {"at":"2026-11-16T11:18:41Z","by":"oco harvest","id":"1b7f4c5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T22:13:57Z","by":"oco harvest","id":"1b9929d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T19:53:52Z","by":"oco harvest","id":"1bfdb5f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T17:49:50Z","by":"oco harvest","id":"1c88c44","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T16:41:00Z","by":"oco harvest","id":"1dbfd88","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T23:03:17Z","by":"oco harvest","id":"1de3480","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T09:56:36Z","by":"oco harvest","id":"1e73aca","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
