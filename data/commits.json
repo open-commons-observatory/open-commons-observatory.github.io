@@ -662,6 +662,7 @@
 {"at":"2026-11-16T23:40:58Z","by":"github-actions[bot]","id":"652ae0b","project":"linux-phone-oco/docs","says":"chore(main): release 0.1.0 (#72)"}
 {"at":"2026-11-11T09:37:56Z","by":"grenudi","id":"6c24d21","project":"linux-phone-oco/docs","says":"feat(data): the microphone's chain nearly whole; which speaker is the bottom one (#54)"}
 {"at":"2026-11-17T10:37:21Z","by":"grenudi","id":"6d85dd7","project":"linux-phone-oco/docs","says":"docs: The agent specifics in their own folder: ideal-agent-linux-phone-oco/ (#171)"}
+{"at":"2026-11-17T13:43:46Z","by":"grenudi","id":"6d9f67d","project":"linux-phone-oco/docs","says":"docs: the way back measured: idle, through a suspend entry, in the hanging cycle (#207)"}
 {"at":"2026-11-17T13:00:58Z","by":"grenudi","id":"6e06160","project":"linux-phone-oco/docs","says":"docs: orchestration's hand-over, for a fresh orchestration session (#196)"}
 {"at":"2026-11-17T05:09:50Z","by":"grenudi","id":"6e92d71","project":"linux-phone-oco/docs","says":"docs: Earpiece taken up: the path powers on, nothing heard yet (#131)"}
 {"at":"2026-11-17T01:58:21Z","by":"grenudi","id":"6f14388","project":"linux-phone-oco/docs","says":"docs: Deep sleep's first step names the suspend cycle lab-tools already plans (#109)"}
@@ -912,6 +913,7 @@
 {"at":"2026-11-09T14:16:59Z","by":"grenudi","id":"5ed017a","project":"linux-phone-oco/surya-lab","says":"fix: resolve the revision before checking it out"}
 {"at":"2026-11-17T05:31:25Z","by":"grenudi","id":"5fcb245","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#107)"}
 {"at":"2026-11-17T09:10:08Z","by":"grenudi","id":"6137064","project":"linux-phone-oco/surya-lab","says":"docs: SMS: the phone texts itself once a day and finds it, from ModemManager or Sxmo (#114)"}
+{"at":"2026-11-17T13:42:48Z","by":"grenudi","id":"61e5a8c","project":"linux-phone-oco/surya-lab","says":"feat(sleep): way-back.sh, build-wdt.sh: the watchdog kept armed through sleep (#124)"}
 {"at":"2026-11-10T11:14:04Z","by":"grenudi","id":"620c5da","project":"linux-phone-oco/surya-lab","says":"feat/test entry boot counting (#26)"}
 {"at":"2026-11-09T14:15:39Z","by":"grenudi","id":"6730419","project":"linux-phone-oco/surya-lab","says":"Initial commit"}
 {"at":"2026-11-10T13:38:40Z","by":"grenudi","id":"67bffc2","project":"linux-phone-oco/surya-lab","says":"feat(manifest): how surya is flashed - layout, device tree, the fixes baked in (#34)"}
@@ -1133,6 +1135,7 @@
 {"at":"2026-11-13T15:42:52Z","by":"oco observe","id":"35e2ad9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T09:33:19Z","by":"oco observe","id":"362b9af","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T10:33:14Z","by":"oco observe","id":"362f6ef","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T13:44:22Z","by":"oco observe","id":"3645634","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T23:19:18Z","by":"oco observe","id":"364ed19","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T10:35:23Z","by":"oco observe","id":"3698eaf","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-17T07:48:16Z","by":"oco observe","id":"36a0f6f","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -2959,6 +2962,7 @@
 {"at":"2026-11-17T10:20:57Z","by":"oco harvest","id":"c36b655","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T07:09:45Z","by":"oco harvest","id":"c42f426","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T11:22:26Z","by":"grenudi","id":"c45e21e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: no new Python, even for one-offs - practice 21 and the decision (#50)"}
+{"at":"2026-11-17T13:33:30Z","by":"oco harvest","id":"c4da7ec","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T17:07:46Z","by":"grenudi","id":"c4faf42","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the session log - every project its view, the family, ocoeco founded (#14)"}
 {"at":"2026-11-16T15:07:12Z","by":"grenudi","id":"c508b30","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261116-150655","says":"docs: a lens: curated, and 4 more (#104)"}
 {"at":"2026-11-11T01:10:24Z","by":"grenudi","id":"c53b1da","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: a Russian page that is Russian; the cameras understood (#43)"}
