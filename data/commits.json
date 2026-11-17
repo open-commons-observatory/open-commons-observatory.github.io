@@ -552,6 +552,7 @@
 {"at":"2026-11-17T16:25:25Z","by":"grenudi","id":"e4f3146","project":"grenudi/ideal-agent","says":"feat: role health is the patrol's: read-weight's struggled with (plugin 0.3.9) (#40)"}
 {"at":"2026-11-17T15:33:07Z","by":"grenudi","id":"e654280","project":"grenudi/ideal-agent","says":"feat: a neutral start - agent-env instead of . oco-work (plugin 0.3.1) (#29)"}
 {"at":"2026-11-17T17:04:45Z","by":"grenudi","id":"ea65029","project":"grenudi/ideal-agent","says":"feat: a lane starts its own sessions through launchers (plugin 0.3.14) (#49)"}
+{"at":"2026-11-17T17:15:05Z","by":"grenudi","id":"ed6700e","project":"grenudi/ideal-agent","says":"docs: keep-a-shared-resource names the lane's next-item query (plugin 0.3.15) (#50)"}
 {"at":"2026-11-17T15:37:48Z","by":"grenudi","id":"f27a5f1","project":"grenudi/ideal-agent","says":"feat: skills: how to find, choose and record an upstream (plugin 0.3.2) (#32)"}
 {"at":"2026-11-17T16:26:38Z","by":"grenudi","id":"f45ab77","project":"grenudi/ideal-agent","says":"fix: the guard's Python refusal is one line (plugin 0.3.10) (#41)"}
 {"at":"2026-11-17T16:58:27Z","by":"grenudi","id":"f81859b","project":"grenudi/ideal-agent","says":"feat: decisions go to the lane coordinator; the author's bounds named (plugin 0.3.13) (#48)"}
@@ -638,6 +639,7 @@
 {"at":"2026-11-17T13:25:29Z","by":"grenudi","id":"0cbb1dc","project":"linux-phone-oco/docs","says":"docs: the four SIM checks skip with the SIM out; item done (#205)"}
 {"at":"2026-11-17T13:05:45Z","by":"github-actions[bot]","id":"0edf8b3","project":"linux-phone-oco/docs","says":"chore(main): release 0.5.0 (#191)"}
 {"at":"2026-11-17T10:40:33Z","by":"grenudi","id":"0effea0","project":"linux-phone-oco/docs","says":"docs: The ideal knowledge base: what the author accepted, what still waits (#172)"}
+{"at":"2026-11-17T17:16:34Z","by":"grenudi","id":"12724f4","project":"linux-phone-oco/docs","says":"docs: devlab-fastboot-boot-reads-slots done (lab-tools PR 80) (#262)"}
 {"at":"2026-11-17T01:13:06Z","by":"grenudi","id":"127ebba","project":"linux-phone-oco/docs","says":"docs: Microphone taken up by bring-up: the weakest link, where it stands, the next step (#90)"}
 {"at":"2026-11-17T15:41:02Z","by":"github-actions[bot]","id":"14987e6","project":"linux-phone-oco/docs","says":"chore(main): release 0.8.0 (#228)"}
 {"at":"2026-11-17T01:52:58Z","by":"grenudi","id":"14cba00","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#107)"}
@@ -650,6 +652,7 @@
 {"at":"2026-11-16T23:56:31Z","by":"grenudi","id":"1ccec59","project":"linux-phone-oco/docs","says":"docs: The conveyor for any phone: health on the phone, gather, MCP, the device template (#81)"}
 {"at":"2026-11-10T19:02:22Z","by":"grenudi","id":"1e0c661","project":"linux-phone-oco/docs","says":"feat(data): the project's own data in Russian - a translations table, by machine (#43)"}
 {"at":"2026-11-11T10:15:20Z","by":"grenudi","id":"1e61618","project":"linux-phone-oco/docs","says":"feat(data): the microphone's route is set; the stream does not start yet (#56)"}
+{"at":"2026-11-17T17:17:06Z","by":"github-actions[bot]","id":"1e80ae5","project":"linux-phone-oco/docs","says":"chore(main): release 0.11.0 (#261)"}
 {"at":"2026-11-17T08:33:09Z","by":"grenudi","id":"1f3337c","project":"linux-phone-oco/docs","says":"docs: The earpiece works: it is the top speaker, proven by the top mic (#143)"}
 {"at":"2026-11-17T17:07:07Z","by":"grenudi","id":"233946f","project":"linux-phone-oco/docs","says":"docs: why a failed fastboot boot flipped walleye's slots, and what to do (decision) (#252)"}
 {"at":"2026-11-17T16:28:33Z","by":"grenudi","id":"24aca71","project":"linux-phone-oco/docs","says":"docs: sleep-cluster-params - not the floor; waits on a deeper decision (keeper-7) (#245)"}
@@ -740,6 +743,7 @@
 {"at":"2026-11-17T04:40:08Z","by":"grenudi","id":"78455d1","project":"linux-phone-oco/docs","says":"docs: lab-tools: asked - make a proven test kernel the phone's default (#125)"}
 {"at":"2026-11-17T08:57:21Z","by":"grenudi","id":"78f2bf4","project":"linux-phone-oco/docs","says":"docs: Backlog: SMS loopback waits on the SIM's number; tqftpserv 1.3 for Alpine stable (#148)"}
 {"at":"2026-11-10T00:33:46Z","by":"grenudi","id":"7a10c36","project":"linux-phone-oco/docs","says":"feat(data): plasma-silent - sound works after writing the chips' volume; not yet persistent (#17)"}
+{"at":"2026-11-17T17:14:48Z","by":"grenudi","id":"7c0f6ba","project":"linux-phone-oco/docs","says":"feat: walleye boot image variants c and d recorded, with what public sources say of the v0 header (#254)"}
 {"at":"2026-11-17T04:54:11Z","by":"grenudi","id":"7ddbe05","project":"linux-phone-oco/docs","says":"docs: Microphones researched: analog on the WCD; UCM capture next, upstream with PR 60 (#129)"}
 {"at":"2026-11-17T16:01:17Z","by":"grenudi","id":"8044b50","project":"linux-phone-oco/docs","says":"docs: 9 runs of xiaomi-surya filed by devlab, from the phone's own reports (#237)"}
 {"at":"2026-11-17T15:39:16Z","by":"grenudi","id":"80ad527","project":"linux-phone-oco/docs","says":"docs: walleye research - vendor kernel hardware, how others booted it, Android reference (#226)"}
@@ -826,6 +830,7 @@
 {"at":"2026-11-17T04:55:54Z","by":"grenudi","id":"d56b60c","project":"linux-phone-oco/docs","says":"docs: Backlog: mic-held is only the three boots now; the gap is gone (#130)"}
 {"at":"2026-11-17T15:19:59Z","by":"github-actions[bot]","id":"d627074","project":"linux-phone-oco/docs","says":"chore(main): release 0.7.0 (#216)"}
 {"at":"2026-11-17T05:32:57Z","by":"grenudi","id":"d69891b","project":"linux-phone-oco/docs","says":"docs: audio-mic judged works: both microphones, proven by the phone after every boot (#140)"}
+{"at":"2026-11-17T17:17:58Z","by":"grenudi","id":"d6e68a6","project":"linux-phone-oco/docs","says":"docs: walleye's first fastboot boot is the head of its queue, no longer waiting on built things (#263)"}
 {"at":"2026-11-17T00:25:35Z","by":"grenudi","id":"d72b13b","project":"linux-phone-oco/docs","says":"feat: linux-phone's face, drawn in CI from its open database (#82)"}
 {"at":"2026-11-17T09:37:14Z","by":"grenudi","id":"d75d79a","project":"linux-phone-oco/docs","says":"docs: Analysis in Rust on the phone, and mobile data under a monthly budget (#154)"}
 {"at":"2026-11-10T22:58:00Z","by":"grenudi","id":"d7680d2","project":"linux-phone-oco/docs","says":"fix(data): the claim that a machine heard the speakers is withdrawn (#49)"}
@@ -3309,6 +3314,7 @@
 {"at":"2026-11-16T08:37:49Z","by":"oco harvest","id":"f833e5a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T22:28:34Z","by":"oco harvest","id":"f842403","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T11:33:39Z","by":"oco harvest","id":"f91808f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T17:14:41Z","by":"oco harvest","id":"f970566","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T23:32:17Z","by":"oco harvest","id":"f97cbc9","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T08:59:26Z","by":"oco harvest","id":"f9b9437","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T21:08:08Z","by":"oco harvest","id":"f9ee73e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
