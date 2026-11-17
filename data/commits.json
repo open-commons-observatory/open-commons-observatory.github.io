@@ -67,6 +67,7 @@
 {"at":"2026-11-13T11:30:00Z","by":"grenudi","id":"b60f64c","project":"argenv-opencommons/argenv","record":"g-20261113-112839","says":"docs: a sign from use: what was meant misses a swapped pair (#49)"}
 {"at":"2026-11-16T15:50:45Z","by":"grenudi","id":"b9e0ead","project":"argenv-opencommons/argenv","record":"g-20261116-154710","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#53)"}
 {"at":"2026-11-10T19:24:58Z","by":"grenudi","id":"ba86055","project":"argenv-opencommons/argenv","says":"chore: join the Open Commons Observatory - the mark, the gatherer, its own path (#40)"}
+{"at":"2026-11-17T02:46:29Z","by":"github-actions[bot]","id":"bf0ff74","project":"argenv-opencommons/argenv","says":"chore: release v0.4.0 (#37)"}
 {"at":"2026-10-24T00:31:41Z","by":"github-actions[bot]","id":"c063ad3","project":"argenv-opencommons/argenv","says":"chore: release v0.3.2"}
 {"at":"2026-10-23T19:00:03Z","by":"grenudi","id":"c2002ac","project":"argenv-opencommons/argenv","says":"fix(lint): a required input is only required when its own subcommand runs (#22)"}
 {"at":"2026-09-24T15:58:31Z","by":"grenudi","id":"c8479d7","project":"argenv-opencommons/argenv","says":"feat: Input<T, C> - subcommands as a typed list, not a string"}
@@ -1649,6 +1650,7 @@
 {"at":"2026-11-13T18:03:49Z","by":"grenudi","id":"4c608df","project":"open-commons-observatory/ocoeco","record":"g-20261113-180218","says":"docs: the release waits on an owner's setting; left showing, not switched off (#111)"}
 {"at":"2026-11-16T20:45:24Z","by":"grenudi","id":"4dd6a7a","project":"open-commons-observatory/ocoeco","record":"g-20261116-204343","says":"docs: a translation: lens_parts:around/2:title:ru, and 11 more (#433)"}
 {"at":"2026-11-14T15:18:49Z","by":"grenudi","id":"4e0ac79","project":"open-commons-observatory/ocoeco","record":"g-20261114-151739","says":"feat: the board reads where the work is happening (#186)"}
+{"at":"2026-11-17T02:46:45Z","by":"grenudi","id":"4e32649","project":"open-commons-observatory/ocoeco","says":"feat/holds records (#452)"}
 {"at":"2026-11-14T19:53:21Z","by":"github-actions[bot]","id":"4fb160d","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.28.1 (#216)"}
 {"at":"2026-11-14T21:55:33Z","by":"grenudi","id":"5008e0f","project":"open-commons-observatory/ocoeco","record":"g-20261114-215413","says":"docs: a look is slower than is understood: said as a sign, with what was measured (#230)"}
 {"at":"2026-11-16T15:01:38Z","by":"github-actions[bot]","id":"5023136","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.72.0 (#409)"}
@@ -2692,6 +2694,7 @@
 {"at":"2026-11-11T01:03:49Z","by":"oco harvest","id":"e18c479","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T22:27:41Z","by":"oco harvest","id":"e1eb036","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T21:06:44Z","by":"oco harvest","id":"e20190f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T02:46:36Z","by":"oco harvest","id":"e261895","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T08:52:22Z","by":"oco harvest","id":"e28cf36","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T23:16:11Z","by":"oco harvest","id":"e2ed835","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T19:57:54Z","by":"oco harvest","id":"e33287d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}

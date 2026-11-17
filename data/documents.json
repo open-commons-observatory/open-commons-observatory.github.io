@@ -8,9 +8,9 @@
 {"bytes":3160,"id":"brainstorms/2026-09-11 — CI and Release Polish.md","lines":58,"path":"brainstorms/2026-09-11 — CI and Release Polish.md","project":"argenv-opencommons/argenv"}
 {"bytes":3635,"id":"brainstorms/2026-09-18 15-00 — GitHub Pages, Dependabot, and Badge Fixes.md","lines":73,"path":"brainstorms/2026-09-18 15-00 — GitHub Pages, Dependabot, and Badge Fixes.md","project":"argenv-opencommons/argenv"}
 {"bytes":523,"id":"brainstorms/README.md","lines":11,"path":"brainstorms/README.md","project":"argenv-opencommons/argenv"}
-{"bytes":1802,"id":"crates/argenv-resolve/CHANGELOG.md","lines":60,"path":"crates/argenv-resolve/CHANGELOG.md","project":"argenv-opencommons/argenv"}
+{"bytes":2147,"id":"crates/argenv-resolve/CHANGELOG.md","lines":72,"path":"crates/argenv-resolve/CHANGELOG.md","project":"argenv-opencommons/argenv"}
 {"bytes":1097,"id":"crates/argenv-resolve/README.md","lines":32,"path":"crates/argenv-resolve/README.md","project":"argenv-opencommons/argenv"}
-{"bytes":1434,"id":"crates/argenv/CHANGELOG.md","lines":55,"path":"crates/argenv/CHANGELOG.md","project":"argenv-opencommons/argenv"}
+{"bytes":1933,"id":"crates/argenv/CHANGELOG.md","lines":68,"path":"crates/argenv/CHANGELOG.md","project":"argenv-opencommons/argenv"}
 {"bytes":6386,"id":"dev/README.md","lines":147,"path":"dev/README.md","project":"argenv-opencommons/argenv"}
 {"bytes":5607,"id":"docs/terminology.md","lines":185,"path":"docs/terminology.md","project":"argenv-opencommons/argenv"}
 {"bytes":405,"id":"README.md","lines":5,"path":"README.md","project":"creation-guidelines/agent-access-oco"}
@@ -108,7 +108,7 @@
 {"bytes":600,"id":"README.md","lines":11,"path":"README.md","project":"open-commons-observatory/ecosystem"}
 {"bytes":61513,"id":"CHANGELOG.md","lines":896,"path":"CHANGELOG.md","project":"open-commons-observatory/ocoeco"}
 {"bytes":2015,"id":"README.md","lines":38,"path":"README.md","project":"open-commons-observatory/ocoeco"}
-{"bytes":17010,"id":"SPEC.md","lines":282,"path":"SPEC.md","project":"open-commons-observatory/ocoeco"}
+{"bytes":17312,"id":"SPEC.md","lines":286,"path":"SPEC.md","project":"open-commons-observatory/ocoeco"}
 {"bytes":750,"id":"README.md","lines":13,"path":"README.md","project":"open-commons-observatory/ocoeco-engine"}
 {"bytes":5775,"id":"ARCHITECTURE.md","lines":89,"path":"ARCHITECTURE.md","project":"open-commons-observatory/open-commons-observatory.github.io"}
 {"bytes":222,"id":"README.md","lines":4,"path":"README.md","project":"open-commons-observatory/open-commons-observatory.github.io"}
