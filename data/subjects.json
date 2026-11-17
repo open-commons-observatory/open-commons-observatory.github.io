@@ -1,3 +1,4 @@
+{"id":"claude-code","name":"Claude Code","project":"grenudi/ideal-agent","what":"How the general method is done in Claude Code, the harness the agents run today: only what our skills, roles and scripts use, each dated and sourced, superseded when Claude Code moves"}
 {"id":"hooks","name":"The hooks","project":"grenudi/ideal-agent","what":"The ways held when they are tried: the guard and the session start."}
 {"id":"housekeeping","name":"Housekeeping the start","project":"grenudi/ideal-agent","what":"What a fresh agent must read before acting: measured, held to a budget, simplified behind summaries."}
 {"id":"ideal-agent","name":"The ideal agent itself","project":"grenudi/ideal-agent","what":"This repository: one home of general agent know-how, its database and its plugin."}
