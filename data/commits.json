@@ -660,6 +660,7 @@
 {"at":"2026-11-10T13:34:55Z","by":"grenudi","id":"f97e75d","project":"linux-phone-oco/docs","says":"feat(data): the session log - the conveyor in Rust, self-watching health, the microphone narrowed (#37)"}
 {"at":"2026-11-17T01:34:49Z","by":"grenudi","id":"fa56de6","project":"linux-phone-oco/docs","says":"docs: Two needs of the author: an Android reference, a second phone (#96)"}
 {"at":"2026-11-17T01:09:07Z","by":"grenudi","id":"fd42fba","project":"linux-phone-oco/docs","says":"docs: The bring-up prompt: devlab holds the phone itself (#89)"}
+{"at":"2026-11-17T08:27:36Z","by":"grenudi","id":"fe6020f","project":"linux-phone-oco/docs","says":"docs: Telegram at provisioning: telegram-desktop held, Alpine v3.24 cannot install it (#142)"}
 {"at":"2026-11-10T11:15:13Z","by":"grenudi","id":"fe8fa18","project":"linux-phone-oco/docs","says":"feat(data): the Rust toolset for any phone; the WCD kernel boots (#34)"}
 {"at":"2026-11-11T17:34:21Z","by":"feeds","id":"fefc0e3","project":"linux-phone-oco/docs","says":"chore(feed): data from the scheduled feeds"}
 {"at":"2026-11-17T04:43:10Z","by":"grenudi","id":"02582e5","project":"linux-phone-oco/lab-tools","says":"feat: devlab kernel keep: a proven test kernel becomes the default, stock still the fallback (#52)"}
@@ -830,6 +831,7 @@
 {"at":"2026-11-11T00:46:05Z","by":"grenudi","id":"d3eddb5","project":"linux-phone-oco/surya-lab","says":"docs: what the measuring showed is needed - a SIM card, image sensors, sensors without the crash (#46)"}
 {"at":"2026-11-11T21:38:20Z","by":"grenudi","id":"d4b3c81","project":"linux-phone-oco/surya-lab","says":"chore: glimpses are recorded here from now on (#65)"}
 {"at":"2026-11-11T11:17:09Z","by":"grenudi","id":"d52f85d","project":"linux-phone-oco/surya-lab","says":"data: export the lab's backlog - it never reached the observatory; the SIM card waits on its author (#53)"}
+{"at":"2026-11-17T08:24:52Z","by":"grenudi","id":"d553225","project":"linux-phone-oco/surya-lab","says":"feat: Telegram at provisioning: telegram-desktop, as firefox is (#108)"}
 {"at":"2026-11-10T10:23:03Z","by":"grenudi","id":"d588318","project":"linux-phone-oco/surya-lab","says":"feat: kernel/test-entry.sh boot-once - the test kernel once, then stock again (#23)"}
 {"at":"2026-11-09T21:32:50Z","by":"grenudi","id":"d7b221e","project":"linux-phone-oco/surya-lab","says":"feat: a stereo speaker profile for surya (#3)"}
 {"at":"2026-11-10T11:57:49Z","by":"grenudi","id":"d8edfdb","project":"linux-phone-oco/surya-lab","says":"feat(provision): the Sxmo profile from linux-phone-oco/sxmo-deviceprofiles (#29)"}
@@ -839,6 +841,7 @@
 {"at":"2026-11-17T01:41:25Z","by":"grenudi","id":"e176708","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#79)"}
 {"at":"2026-11-09T14:20:29Z","by":"grenudi","id":"e4c336d","project":"linux-phone-oco/surya-lab","says":"feat: flash/flash-dtb.sh - flash a stock image with one device tree swapped in"}
 {"at":"2026-11-10T14:21:01Z","by":"grenudi","id":"e7b6154","project":"linux-phone-oco/surya-lab","says":"chore: the observatory's mark (oco.toml) (#35)"}
+{"at":"2026-11-17T08:26:25Z","by":"grenudi","id":"e9c9686","project":"linux-phone-oco/surya-lab","says":"fix: telegram-desktop held: Alpine v3.24 cannot install it (needs libada.so.3) (#109)"}
 {"at":"2026-11-10T04:10:44Z","by":"grenudi","id":"ef3e8ff","project":"linux-phone-oco/surya-lab","says":"feat(tests): the ADSP check says how many crashes came right after a resume (#17)"}
 {"at":"2026-11-11T12:59:38Z","by":"grenudi","id":"efbac1e","project":"linux-phone-oco/surya-lab","says":"data: hand-work is manual work, with its events (#57)"}
 {"at":"2026-11-17T04:19:06Z","by":"grenudi","id":"f3ecc63","project":"linux-phone-oco/surya-lab","says":"docs: Manifest: test sounds at 20% volume and -20 dBFS, as the author asked (#96)"}
@@ -1168,6 +1171,7 @@
 {"at":"2026-11-15T13:47:53Z","by":"oco observe","id":"8a9c2a8","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T08:30:29Z","by":"oco observe","id":"8abde28","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T16:22:17Z","by":"oco observe","id":"8b4b9e3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T08:11:23Z","by":"oco observe","id":"8b90546","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T12:48:10Z","by":"oco observe","id":"8bb3387","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T20:17:56Z","by":"oco observe","id":"8be4114","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T15:03:16Z","by":"oco observe","id":"8d256e4","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1336,6 +1340,7 @@
 {"at":"2026-11-13T01:36:18Z","by":"oco observe","id":"d40506e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T09:48:14Z","by":"oco observe","id":"d42b563","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T15:42:45Z","by":"oco observe","id":"d496caf","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T08:03:31Z","by":"oco observe","id":"d515fd8","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T18:48:18Z","by":"oco observe","id":"d57247d","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T18:23:13Z","by":"oco observe","id":"d5a342a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T16:03:22Z","by":"oco observe","id":"d601c90","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -2791,6 +2796,7 @@
 {"at":"2026-11-11T15:52:16Z","by":"oco harvest","id":"d6d3be8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T09:06:07Z","by":"oco harvest","id":"d6d8dd6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T09:28:06Z","by":"oco harvest","id":"d7686c0","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T07:57:25Z","by":"oco harvest","id":"d7b1fa8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T15:22:20Z","by":"oco harvest","id":"d81b03e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T16:52:02Z","by":"grenudi","id":"d857d2f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"docs(marks): the specification now lives in ocoeco (#12)"}
 {"at":"2026-11-10T21:14:18Z","by":"grenudi","id":"d85d7ba","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: Rhizome curated second; logged (#28)"}
