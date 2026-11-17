@@ -162,6 +162,7 @@
 {"at":"2026-11-17T04:11:41Z","by":"orchestration","id":"g-20261117-041141","kind":"fix","project":"linux-package-distribution-oco/conveyor","summary":"Alpine path: packaging gets abuild's whole toolset, and a step that fails stops the job"}
 {"at":"2026-11-17T04:14:00Z","by":"orchestration","id":"g-20261117-041400","kind":"fix","project":"linux-package-distribution-oco/conveyor","summary":"Alpine path: the install test runs the page's lines alone"}
 {"at":"2026-11-17T04:16:28Z","by":"orchestration","id":"g-20261117-041628","kind":"fix","project":"linux-package-distribution-oco/conveyor","summary":"Alpine path: the installed version read as apk 3 says it"}
+{"advances":"backlog:cv-apk milestones:lpd-alpine","at":"2026-11-17T04:19:31Z","by":"orchestration","id":"g-20261117-041931","kind":"docs","project":"linux-package-distribution-oco/conveyor","summary":"cv-apk proven by lab-tools: devlab-health installed from its Alpine repository","touches":"backlog:cv-apk"}
 {"at":"2026-11-11T21:35:43Z","by":"lab-agent-session","id":"g-20261111-213543","kind":"chore","project":"linux-package-distribution-oco/lens","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-13T00:34:22Z","by":"claude","id":"g-20261113-003422","kind":"docs","project":"linux-package-distribution-oco/lens","summary":"this is a constellation, and says what it gathers"}
 {"at":"2026-11-13T01:22:10Z","by":"claude","id":"g-20261113-012210","kind":"docs","project":"marshall-oco/marshall-oco.github.io","summary":"a landing starts this observatory; it can record its own work"}
