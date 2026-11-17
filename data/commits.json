@@ -516,6 +516,7 @@
 {"at":"2026-11-17T13:00:20Z","by":"grenudi","id":"3dab6ee","project":"grenudi/ideal-agent","says":"docs: ideal-agent's own hand-over: a fresh session starts from it (#21)"}
 {"at":"2026-11-17T15:36:40Z","by":"grenudi","id":"412518b","project":"grenudi/ideal-agent","says":"fix: a role is read only from a new session's first prompt, never from a message (plugin 0.3.2) (#31)"}
 {"at":"2026-11-17T15:42:54Z","by":"grenudi","id":"4290da4","project":"grenudi/ideal-agent","says":"feat: practices without ocoeco's tools: 16 reworded, 40 and 41 retired (plugin 0.3.4) (#34)"}
+{"at":"2026-11-17T16:06:17Z","by":"grenudi","id":"43db76e","project":"grenudi/ideal-agent","says":"feat: skills: ikb --help, then ikb help RECORD (plugin 0.3.5) (#36)"}
 {"at":"2026-11-17T11:55:46Z","by":"grenudi","id":"469559f","project":"grenudi/ideal-agent","says":"fix: the sources' by is back, now that idealkb 0.3.0 declares it (#14)"}
 {"at":"2026-11-17T15:27:24Z","by":"grenudi","id":"530d58d","project":"grenudi/ideal-agent","says":"feat: roles - a card per role, and a session reads only its role's (plugin 0.3.0) (#27)"}
 {"at":"2026-11-17T12:59:06Z","by":"grenudi","id":"54bf7a2","project":"grenudi/ideal-agent","says":"feat: hold little while working; a long-lived role hands over and restarts fresh (#20)"}
@@ -536,6 +537,7 @@
 {"at":"2026-11-17T15:18:13Z","by":"grenudi","id":"b5f0259","project":"grenudi/ideal-agent","says":"docs: ideal-agent's hand-over brought up to date for the fresh session (#26)"}
 {"at":"2026-11-17T11:18:19Z","by":"grenudi","id":"baf6ee3","project":"grenudi/ideal-agent","says":"feat: a skill: finding your way in a tad knowledge base (#6)"}
 {"at":"2026-11-17T15:28:49Z","by":"grenudi","id":"bdd0b2a","project":"grenudi/ideal-agent","says":"docs: ideal-agent's hand-over says where roles stand (plugin 0.3.0) (#28)"}
+{"at":"2026-11-17T16:07:56Z","by":"grenudi","id":"cda8005","project":"grenudi/ideal-agent","says":"fix: a started session's role is read past the app's reminders and the background (0.3.6) (#37)"}
 {"at":"2026-11-17T12:42:50Z","by":"grenudi","id":"d046c11","project":"grenudi/ideal-agent","says":"docs: follows idealkb 0.5.0: at a task's start, ask only about its subject (#18)"}
 {"at":"2026-11-17T13:03:37Z","by":"grenudi","id":"d0593fa","project":"grenudi/ideal-agent","says":"docs: the keeper's before number, and where the after comes from (#23)"}
 {"at":"2026-11-17T10:38:51Z","by":"grenudi","id":"d167984","project":"grenudi/ideal-agent","says":"docs: a project's briefs live in its agent folder; practice 42 points there (#5)"}
@@ -550,6 +552,7 @@
 {"at":"2026-11-17T15:46:29Z","by":"grenudi","id":"2ba3592","project":"grenudi/ideal-knowledge-base","says":"feat: ikb: completions for four shells, asked as you type; the agent starts with ikb --help (#34)"}
 {"at":"2026-11-17T11:37:15Z","by":"github-actions[bot]","id":"36a5b62","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.2.0 (#6)"}
 {"at":"2026-11-17T14:51:08Z","by":"github-actions[bot]","id":"3dc496f","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#23)"}
+{"at":"2026-11-17T16:03:07Z","by":"grenudi","id":"42438f3","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: the installer pins ikb 0.3.1 (0.4.0 was a wrong guess) (#37)"}
 {"at":"2026-11-17T11:49:27Z","by":"grenudi","id":"42b4fd0","project":"grenudi/ideal-knowledge-base","says":"docs: the weekly pin job moves grenudi/ideal-agent too, its second follower (#10)"}
 {"at":"2026-11-17T15:02:47Z","by":"grenudi","id":"42c52b9","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: the installer pins ikb 0.2.0 (#26)"}
 {"at":"2026-11-17T12:08:07Z","by":"github-actions[bot]","id":"4571b0c","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.4.0 (#12)"}
@@ -572,6 +575,7 @@
 {"at":"2026-11-17T12:12:51Z","by":"grenudi","id":"bdafc93","project":"grenudi/ideal-knowledge-base","says":"feat: a release waits until every follower answers the five queries with it laid (#15)"}
 {"at":"2026-11-17T15:35:54Z","by":"grenudi","id":"bef407c","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: an empty option value counts as not given (#32)"}
 {"at":"2026-11-17T11:15:04Z","by":"grenudi","id":"c6f39d0","project":"grenudi/ideal-knowledge-base","says":"docs: docs follows 0.1.0, and the lab moves every base's pin weekly (#3)"}
+{"at":"2026-11-17T16:03:50Z","by":"github-actions[bot]","id":"d08f20e","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#38)"}
 {"at":"2026-11-17T12:41:36Z","by":"github-actions[bot]","id":"d475f66","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.5.0 (#14)"}
 {"at":"2026-11-17T11:46:09Z","by":"grenudi","id":"d82eceb","project":"grenudi/ideal-knowledge-base","says":"docs: about's subject tables no longer stop a base: closed here, left to ocoeco (#9)"}
 {"at":"2026-11-17T11:40:29Z","by":"grenudi","id":"dc3cca0","project":"grenudi/ideal-knowledge-base","says":"feat: sources keep who made what they describe (by); second follower done (#7)"}
@@ -755,6 +759,7 @@
 {"at":"2026-11-17T15:33:48Z","by":"grenudi","id":"b0ef5d1","project":"linux-phone-oco/docs","says":"docs: how the phone stands, keeper 5 end (#227)"}
 {"at":"2026-11-10T01:31:00Z","by":"grenudi","id":"b19ddde","project":"linux-phone-oco/docs","says":"feat(feed): the postmarketOS wiki's status fields, beside our own evidence (#21)"}
 {"at":"2026-11-12T19:17:29Z","by":"grenudi","id":"b240472","project":"linux-phone-oco/docs","says":"fix: the first release is 0.1.0: release-please is told so (#75)"}
+{"at":"2026-11-17T16:08:05Z","by":"grenudi","id":"b2ad526","project":"linux-phone-oco/docs","says":"fix: docs: IKB.md is no longer kept; ikb --help and ikb help RECORD are the page (#240)"}
 {"at":"2026-11-10T11:34:52Z","by":"grenudi","id":"b2ae42e","project":"linux-phone-oco/docs","says":"feat(data): the WCD boot analysed - a bus clash, then clocks off mid-init (#35)"}
 {"at":"2026-11-17T04:48:28Z","by":"grenudi","id":"b31550f","project":"linux-phone-oco/docs","says":"docs: surya keeps the microphone kernel: devlab kernel keep, proven (#127)"}
 {"at":"2026-11-17T10:20:06Z","by":"grenudi","id":"b517df8","project":"linux-phone-oco/docs","says":"feat: the phone keeper: one owner of surya, its queue, its hand-over (#162)"}
@@ -807,6 +812,7 @@
 {"at":"2026-11-17T05:11:30Z","by":"grenudi","id":"e01bdb8","project":"linux-phone-oco/docs","says":"docs: Sxmo profile sent upstream; the microphones are analog, not digital (#132)"}
 {"at":"2026-11-16T14:49:52Z","by":"grenudi","id":"e1516d1","project":"linux-phone-oco/docs","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#77)"}
 {"at":"2026-11-11T00:15:22Z","by":"grenudi","id":"e4aedd8","project":"linux-phone-oco/docs","says":"feat(data): the idea of Linux Phones in Russian (#50)"}
+{"at":"2026-11-17T16:05:16Z","by":"grenudi","id":"e55ac2e","project":"linux-phone-oco/docs","says":"feat: docs follows idealkb 0.8.4: an agent starts with ikb --help and ikb help RECORD (#238)"}
 {"at":"2026-11-04T20:34:04Z","by":"grenudi","id":"e619d98","project":"linux-phone-oco/docs","says":"Initial commit"}
 {"at":"2026-11-09T22:06:35Z","by":"grenudi","id":"e67e79f","project":"linux-phone-oco/docs","says":"feat(data): shells, microphone and an org board in the backlog (#13)"}
 {"at":"2026-11-10T17:46:36Z","by":"ocoeco gather","id":"e751539","project":"linux-phone-oco/docs","says":"data: gathered by ocoeco"}
@@ -1490,6 +1496,7 @@
 {"at":"2026-11-17T15:33:44Z","by":"oco observe","id":"af25680","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T01:03:33Z","by":"oco observe","id":"af72fe5","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T18:09:58Z","by":"oco observe","id":"b07a714","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T16:02:46Z","by":"oco observe","id":"b0d4c8f","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T15:52:06Z","by":"oco observe","id":"b0f82a8","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T18:48:59Z","by":"oco observe","id":"b124ea9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T06:13:12Z","by":"oco observe","id":"b1651c4","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -2768,6 +2775,7 @@
 {"at":"2026-11-13T09:08:30Z","by":"oco harvest","id":"6d9fc9b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T23:22:59Z","by":"oco harvest","id":"6db821b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T17:46:09Z","by":"ocoeco gather","id":"6dbef37","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: gathered by ocoeco"}
+{"at":"2026-11-17T16:03:24Z","by":"oco harvest","id":"6e59b4d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T15:54:25Z","by":"grenudi","id":"6e805c4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"feat(data): oco-eco named; tad the heart, a rhizcut with its own path (#8)"}
 {"at":"2026-11-17T15:55:11Z","by":"oco harvest","id":"6ec197b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T09:32:50Z","by":"oco harvest","id":"6f217c6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
