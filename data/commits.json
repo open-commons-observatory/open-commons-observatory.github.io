@@ -744,6 +744,7 @@
 {"at":"2026-11-05T07:43:11Z","by":"grenudi","id":"c7800d4","project":"linux-phone-oco/docs","says":"ci: deploy Pages via Actions instead of the legacy pipeline (#2)"}
 {"at":"2026-11-17T05:29:32Z","by":"grenudi","id":"c90431e","project":"linux-phone-oco/docs","says":"docs: The microphones hold across boots; the boot race is fixed in every flash (#137)"}
 {"at":"2026-11-17T14:18:43Z","by":"grenudi","id":"cb2189a","project":"linux-phone-oco/docs","says":"docs(lab-tools): lpoco-health weighed against building on postmarketOS upstream (#214)"}
+{"at":"2026-11-17T15:12:53Z","by":"grenudi","id":"cbec011","project":"linux-phone-oco/docs","says":"feat: docs declares idealkb's upstream tables (empty): where knowledge can flow, what is sent (#217)"}
 {"at":"2026-11-17T03:40:31Z","by":"grenudi","id":"ccc6e74","project":"linux-phone-oco/docs","says":"feat: one database for linux-phone: every place's records, through named records (#118)"}
 {"at":"2026-11-17T11:08:23Z","by":"grenudi","id":"ce464d6","project":"linux-phone-oco/docs","says":"feat: feat: the Pixel 2 and 2 XL tracked beside surya, from published sources (all unknown) (#177)"}
 {"at":"2026-11-17T13:48:17Z","by":"grenudi","id":"cebd25b","project":"linux-phone-oco/docs","says":"docs: hand-over of surya-keeper-3, and the amp after a bite (#208)"}
@@ -1344,6 +1345,7 @@
 {"at":"2026-11-15T09:58:15Z","by":"oco observe","id":"8576ad9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T15:35:00Z","by":"oco observe","id":"86bf7c7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T00:28:03Z","by":"oco observe","id":"86c1df1","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T15:09:57Z","by":"oco observe","id":"86f33e1","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T21:53:29Z","by":"oco observe","id":"874696d","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T22:56:29Z","by":"oco observe","id":"87ccaf6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T13:18:09Z","by":"oco observe","id":"88ae050","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -2502,6 +2504,7 @@
 {"at":"2026-11-13T06:29:36Z","by":"oco harvest","id":"36d8c82","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T09:07:40Z","by":"oco harvest","id":"36fca93","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T13:08:20Z","by":"oco harvest","id":"37442c4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T15:10:31Z","by":"oco harvest","id":"3756715","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T17:32:43Z","by":"oco harvest","id":"3767809","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T20:27:16Z","by":"grenudi","id":"3802119","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261114-202700","says":"docs: the practice says how where a guideline is shown is entered (#82)"}
 {"at":"2026-11-11T10:53:21Z","by":"oco harvest","id":"38040dd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
