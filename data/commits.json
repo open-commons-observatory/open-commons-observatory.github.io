@@ -693,6 +693,7 @@
 {"at":"2026-11-10T03:11:28Z","by":"grenudi","id":"634c464","project":"linux-phone-oco/docs","says":"feat(data): test runs - one line per run with its counts, and the latest runs filed (#28)"}
 {"at":"2026-11-17T08:50:44Z","by":"grenudi","id":"63d2ff1","project":"linux-phone-oco/docs","says":"docs: health-data-check narrowed: surya's mobile-data check already carries traffic (#146)"}
 {"at":"2026-11-16T23:40:58Z","by":"github-actions[bot]","id":"652ae0b","project":"linux-phone-oco/docs","says":"chore(main): release 0.1.0 (#72)"}
+{"at":"2026-11-17T15:53:27Z","by":"grenudi","id":"65d937b","project":"linux-phone-oco/docs","says":"docs: research cleanroom-agents - input wall for agent clean-room RE, applied to walleye (#223)"}
 {"at":"2026-11-11T09:37:56Z","by":"grenudi","id":"6c24d21","project":"linux-phone-oco/docs","says":"feat(data): the microphone's chain nearly whole; which speaker is the bottom one (#54)"}
 {"at":"2026-11-17T10:37:21Z","by":"grenudi","id":"6d85dd7","project":"linux-phone-oco/docs","says":"docs: The agent specifics in their own folder: ideal-agent-linux-phone-oco/ (#171)"}
 {"at":"2026-11-17T13:43:46Z","by":"grenudi","id":"6d9f67d","project":"linux-phone-oco/docs","says":"docs: the way back measured: idle, through a suspend entry, in the hanging cycle (#207)"}
@@ -772,6 +773,7 @@
 {"at":"2026-11-17T14:18:43Z","by":"grenudi","id":"cb2189a","project":"linux-phone-oco/docs","says":"docs(lab-tools): lpoco-health weighed against building on postmarketOS upstream (#214)"}
 {"at":"2026-11-17T15:12:53Z","by":"grenudi","id":"cbec011","project":"linux-phone-oco/docs","says":"feat: docs declares idealkb's upstream tables (empty): where knowledge can flow, what is sent (#217)"}
 {"at":"2026-11-17T03:40:31Z","by":"grenudi","id":"ccc6e74","project":"linux-phone-oco/docs","says":"feat: one database for linux-phone: every place's records, through named records (#118)"}
+{"at":"2026-11-17T15:51:32Z","by":"grenudi","id":"cd8e9b1","project":"linux-phone-oco/docs","says":"docs(google-walleye): the shortest honest path to a mainline fastboot boot of the Pixel 2 (#229)"}
 {"at":"2026-11-17T11:08:23Z","by":"grenudi","id":"ce464d6","project":"linux-phone-oco/docs","says":"feat: feat: the Pixel 2 and 2 XL tracked beside surya, from published sources (all unknown) (#177)"}
 {"at":"2026-11-17T13:48:17Z","by":"grenudi","id":"cebd25b","project":"linux-phone-oco/docs","says":"docs: hand-over of surya-keeper-3, and the amp after a bite (#208)"}
 {"at":"2026-11-17T15:38:21Z","by":"grenudi","id":"cf47780","project":"linux-phone-oco/docs","says":"docs: the briefs name their role (ideal-agent cards) and drop . oco-work (#230)"}
@@ -808,6 +810,7 @@
 {"at":"2026-11-10T14:53:10Z","by":"grenudi","id":"f16b729","project":"linux-phone-oco/docs","says":"chore(mark): export the reference tables - features, platforms, components, devices (#39)"}
 {"at":"2026-11-11T18:21:06Z","by":"grenudi","id":"f1f51d3","project":"linux-phone-oco/docs","says":"build: tad 0.2.0 (#63)"}
 {"at":"2026-11-11T23:16:02Z","by":"grenudi","id":"f2d49fe","project":"linux-phone-oco/docs","says":"chore: parked: the lab-agent redesign comes first; each item keeps its resume point (#69)"}
+{"at":"2026-11-17T15:52:26Z","by":"grenudi","id":"f388948","project":"linux-phone-oco/docs","says":"docs(google-walleye): the mainline-path research material, whole (#234)"}
 {"at":"2026-11-17T04:42:43Z","by":"grenudi","id":"f389aaf","project":"linux-phone-oco/docs","says":"docs: Microphone works on the branch kernel; the boot race 13 of 13 with the PD mapper first (#126)"}
 {"at":"2026-11-17T10:45:45Z","by":"grenudi","id":"f3abf77","project":"linux-phone-oco/docs","says":"docs: idealkb corrected: a knowledge-base layer on tad, the template split and retired (#174)"}
 {"at":"2026-11-17T01:04:46Z","by":"grenudi","id":"f454dfa","project":"linux-phone-oco/docs","says":"docs: A prompt for the bring-up session: each part of a phone, made to work (#88)"}
@@ -2462,6 +2465,7 @@
 {"at":"2026-11-15T13:42:52Z","by":"oco harvest","id":"17dcbab","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T00:32:42Z","by":"oco harvest","id":"17e692d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T10:30:53Z","by":"oco harvest","id":"17ff9bb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T15:51:26Z","by":"oco harvest","id":"184fecf","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T18:57:49Z","by":"oco harvest","id":"185f700","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T11:12:41Z","by":"oco harvest","id":"18dd8c2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T16:22:20Z","by":"oco harvest","id":"190b017","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
