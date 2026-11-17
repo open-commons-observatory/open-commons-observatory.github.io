@@ -551,6 +551,7 @@
 {"at":"2026-11-17T15:45:11Z","by":"grenudi","id":"d703876","project":"grenudi/ideal-agent","says":"docs: the skill listing is the start's larger part; the clean after waits on keeper 7 (#35)"}
 {"at":"2026-11-17T16:25:25Z","by":"grenudi","id":"e4f3146","project":"grenudi/ideal-agent","says":"feat: role health is the patrol's: read-weight's struggled with (plugin 0.3.9) (#40)"}
 {"at":"2026-11-17T15:33:07Z","by":"grenudi","id":"e654280","project":"grenudi/ideal-agent","says":"feat: a neutral start - agent-env instead of . oco-work (plugin 0.3.1) (#29)"}
+{"at":"2026-11-17T17:04:45Z","by":"grenudi","id":"ea65029","project":"grenudi/ideal-agent","says":"feat: a lane starts its own sessions through launchers (plugin 0.3.14) (#49)"}
 {"at":"2026-11-17T15:37:48Z","by":"grenudi","id":"f27a5f1","project":"grenudi/ideal-agent","says":"feat: skills: how to find, choose and record an upstream (plugin 0.3.2) (#32)"}
 {"at":"2026-11-17T16:26:38Z","by":"grenudi","id":"f45ab77","project":"grenudi/ideal-agent","says":"fix: the guard's Python refusal is one line (plugin 0.3.10) (#41)"}
 {"at":"2026-11-17T16:58:27Z","by":"grenudi","id":"f81859b","project":"grenudi/ideal-agent","says":"feat: decisions go to the lane coordinator; the author's bounds named (plugin 0.3.13) (#48)"}
@@ -777,6 +778,7 @@
 {"at":"2026-11-17T10:02:22Z","by":"grenudi","id":"a6fff34","project":"linux-phone-oco/docs","says":"docs: briefs keep their domain and name the ideal-agent skills (#159)"}
 {"at":"2026-11-10T20:12:58Z","by":"grenudi","id":"abb2066","project":"linux-phone-oco/docs","says":"feat(data): the first devlab flash - the suspend crash now reproducible, a check to correct (#45)"}
 {"at":"2026-11-17T01:55:41Z","by":"grenudi","id":"ad2ca8e","project":"linux-phone-oco/docs","says":"docs: Deep sleep researched: measured s2idle to the SoC's floor, its steps and its check (#101)"}
+{"at":"2026-11-17T17:04:14Z","by":"grenudi","id":"ad9d2ab","project":"linux-phone-oco/docs","says":"docs: floor-read-holders - what is held before a sleep cycle (keeper-9) (#253)"}
 {"at":"2026-11-17T10:04:12Z","by":"grenudi","id":"adb05cd","project":"linux-phone-oco/docs","says":"docs: 3 runs of xiaomi-surya filed by devlab, from the phone's own reports (#160)"}
 {"at":"2026-11-17T15:33:48Z","by":"grenudi","id":"b0ef5d1","project":"linux-phone-oco/docs","says":"docs: how the phone stands, keeper 5 end (#227)"}
 {"at":"2026-11-10T01:31:00Z","by":"grenudi","id":"b19ddde","project":"linux-phone-oco/docs","says":"feat(feed): the postmarketOS wiki's status fields, beside our own evidence (#21)"}
@@ -3115,6 +3117,7 @@
 {"at":"2026-11-10T17:07:46Z","by":"grenudi","id":"c4faf42","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the session log - every project its view, the family, ocoeco founded (#14)"}
 {"at":"2026-11-16T15:07:12Z","by":"grenudi","id":"c508b30","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261116-150655","says":"docs: a lens: curated, and 4 more (#104)"}
 {"at":"2026-11-11T01:10:24Z","by":"grenudi","id":"c53b1da","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: a Russian page that is Russian; the cameras understood (#43)"}
+{"at":"2026-11-17T17:02:12Z","by":"oco harvest","id":"c572696","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T21:39:13Z","by":"oco harvest","id":"c5909ea","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T11:54:38Z","by":"grenudi","id":"c5a4171","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the observatory's hand-work ledger, from this session's jobs (#51)"}
 {"at":"2026-11-11T17:44:49Z","by":"oco harvest","id":"c60df3f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
