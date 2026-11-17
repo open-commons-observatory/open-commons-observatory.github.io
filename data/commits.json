@@ -628,6 +628,7 @@
 {"at":"2026-11-17T03:43:18Z","by":"grenudi","id":"e3dc336","project":"linux-phone-oco/device-template","says":"chore: the records are kept in docs; the mark points there (#2)"}
 {"at":"2026-11-17T11:53:44Z","by":"grenudi","id":"00afdde","project":"linux-phone-oco/docs","says":"feat: audio-mic's answer leads with its summary; research material in dated folders (#186)"}
 {"at":"2026-11-17T11:56:59Z","by":"github-actions[bot]","id":"0235881","project":"linux-phone-oco/docs","says":"chore(main): release 0.4.0 (#183)"}
+{"at":"2026-11-17T17:11:46Z","by":"grenudi","id":"0296fc9","project":"linux-phone-oco/docs","says":"docs: the surya Sxmo profile landed in sxmo-utils (1fd7822) (#258)"}
 {"at":"2026-11-17T11:05:01Z","by":"grenudi","id":"02edd49","project":"linux-phone-oco/docs","says":"feat: the sensor hub's way decided: the registry kept current, steps on the phone's queue (#176)"}
 {"at":"2026-11-17T05:18:05Z","by":"grenudi","id":"057dec0","project":"linux-phone-oco/docs","says":"docs: Both microphones record through the sound server (UCM); headset mic next (#135)"}
 {"at":"2026-11-17T16:52:55Z","by":"github-actions[bot]","id":"082b4a9","project":"linux-phone-oco/docs","says":"chore(main): release 0.10.0 (#246)"}
@@ -735,6 +736,7 @@
 {"at":"2026-11-17T15:32:46Z","by":"grenudi","id":"722c162","project":"linux-phone-oco/docs","says":"docs: sleep-adsp-awake first try - macro hw-vote release measured, adsp unchanged (#218)"}
 {"at":"2026-11-17T09:40:19Z","by":"grenudi","id":"727bd14","project":"linux-phone-oco/docs","says":"docs: Calls work both ways, proven by a daily echo call; the calls queue is done (#155)"}
 {"at":"2026-11-17T09:48:51Z","by":"grenudi","id":"72fc8ea","project":"linux-phone-oco/docs","says":"docs: a change's health report stays on the phone until the watch files it (#157)"}
+{"at":"2026-11-17T17:10:37Z","by":"grenudi","id":"75dd496","project":"linux-phone-oco/docs","says":"docs: two signs from the patrol - agent folder over 3 KB, first reads of whole records (#256)"}
 {"at":"2026-11-17T04:40:08Z","by":"grenudi","id":"78455d1","project":"linux-phone-oco/docs","says":"docs: lab-tools: asked - make a proven test kernel the phone's default (#125)"}
 {"at":"2026-11-17T08:57:21Z","by":"grenudi","id":"78f2bf4","project":"linux-phone-oco/docs","says":"docs: Backlog: SMS loopback waits on the SIM's number; tqftpserv 1.3 for Alpine stable (#148)"}
 {"at":"2026-11-10T00:33:46Z","by":"grenudi","id":"7a10c36","project":"linux-phone-oco/docs","says":"feat(data): plasma-silent - sound works after writing the chips' volume; not yet persistent (#17)"}
@@ -768,6 +770,7 @@
 {"at":"2026-11-17T15:05:49Z","by":"grenudi","id":"9c0fcc4","project":"linux-phone-oco/docs","says":"feat: docs follows idealkb 0.7.1 and records with ikb: IKB.md, machine records named (#215)"}
 {"at":"2026-11-10T03:00:36Z","by":"grenudi","id":"9ca3b14","project":"linux-phone-oco/docs","says":"feat(data): upstream-sxmo-profile - the Sxmo device profile for surya, ready to send (#26)"}
 {"at":"2026-11-17T05:11:46Z","by":"grenudi","id":"9e92c18","project":"linux-phone-oco/docs","says":"docs: Patrol: four signs - the watch files no run, unsigned landings, hand restarts, lens unchecked (#133)"}
+{"at":"2026-11-17T17:13:54Z","by":"grenudi","id":"9ec7b72","project":"linux-phone-oco/docs","says":"feat: a backlog item names its device; lane-next, and phone-next needs --device (#260)"}
 {"at":"2026-11-10T01:02:21Z","by":"grenudi","id":"9f876a6","project":"linux-phone-oco/docs","says":"feat: the engine's matrix rule - the support page becomes a device-by-component grid (#18)"}
 {"at":"2026-11-17T13:29:34Z","by":"grenudi","id":"9fc014b","project":"linux-phone-oco/docs","says":"docs: deep sleep's way back, decided and recorded before the next suspend (#206)"}
 {"at":"2026-11-11T17:32:51Z","by":"grenudi","id":"a028cc0","project":"linux-phone-oco/docs","says":"refactor: tad in Rust replaces the vendored Python engine (#61)"}
@@ -846,6 +849,8 @@
 {"at":"2026-11-10T17:46:36Z","by":"ocoeco gather","id":"e751539","project":"linux-phone-oco/docs","says":"data: gathered by ocoeco"}
 {"at":"2026-11-17T16:52:22Z","by":"grenudi","id":"e969b87","project":"linux-phone-oco/docs","says":"docs: fastboot boot says the slot flags; set-active gated (lab-tools PR 80) (#250)"}
 {"at":"2026-11-17T15:29:00Z","by":"grenudi","id":"e9ca400","project":"linux-phone-oco/docs","says":"docs: the walleye coordinator's start no longer sources oco-work (#225)"}
+{"at":"2026-11-17T17:10:03Z","by":"grenudi","id":"eb317a8","project":"linux-phone-oco/docs","says":"docs: walleye coordinator brief: the lane's launchers and decision routing (#255)"}
+{"at":"2026-11-17T17:11:37Z","by":"grenudi","id":"ee54b3e","project":"linux-phone-oco/docs","says":"docs: floor-dsps-never-started - the DSPs are not the holder (keeper-9) (#257)"}
 {"at":"2026-11-17T12:03:40Z","by":"grenudi","id":"ef8b4e0","project":"linux-phone-oco/docs","says":"docs: the first s2idle slept the full 60 s; the 2.4 s was the clocks not counting sleep (#189)"}
 {"at":"2026-11-17T01:48:42Z","by":"grenudi","id":"f05ecfd","project":"linux-phone-oco/docs","says":"docs: The conveyor session hands over: fewer, shorter, well-scoped sessions (#105)"}
 {"at":"2026-11-10T14:53:10Z","by":"grenudi","id":"f16b729","project":"linux-phone-oco/docs","says":"chore(mark): export the reference tables - features, platforms, components, devices (#39)"}
@@ -2994,6 +2999,7 @@
 {"at":"2026-11-13T19:07:20Z","by":"oco harvest","id":"a1f8764","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T23:48:42Z","by":"oco harvest","id":"a391259","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T23:41:28Z","by":"oco harvest","id":"a3ad15b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T17:10:57Z","by":"oco harvest","id":"a3c1f49","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T16:05:49Z","by":"oco harvest","id":"a3cbad9","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T22:36:20Z","by":"grenudi","id":"a41239d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the essence of eight more projects - what is written, what is to follow, and two kinds of gap to tell apart (#35)"}
 {"at":"2026-11-10T14:50:14Z","by":"grenudi","id":"a422ea2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"ci: the harvest - every 6 hours, every marked project's tables into data/ (#3)"}
