@@ -108,7 +108,7 @@
 {"bytes":72,"id":"docs/summaries.md","lines":3,"path":"docs/summaries.md","project":"grenudi/ideal-knowledge-base"}
 {"bytes":538,"id":"docs/upstream_items.md","lines":39,"path":"docs/upstream_items.md","project":"grenudi/ideal-knowledge-base"}
 {"bytes":279,"id":"docs/upstreams.md","lines":15,"path":"docs/upstreams.md","project":"grenudi/ideal-knowledge-base"}
-{"bytes":2866,"id":"ikb/CHANGELOG.md","lines":57,"path":"ikb/CHANGELOG.md","project":"grenudi/ideal-knowledge-base"}
+{"bytes":3228,"id":"ikb/CHANGELOG.md","lines":64,"path":"ikb/CHANGELOG.md","project":"grenudi/ideal-knowledge-base"}
 {"bytes":2800,"id":"research/chain-follow/2026-11-17/world.md","lines":7,"path":"research/chain-follow/2026-11-17/world.md","project":"grenudi/ideal-knowledge-base"}
 {"bytes":3059,"id":"research/commons-bases/2026-11-17/world.md","lines":9,"path":"research/commons-bases/2026-11-17/world.md","project":"grenudi/ideal-knowledge-base"}
 {"bytes":8592,"id":"research/ikb/2026-11-17/friction-in-transcripts.md","lines":64,"path":"research/ikb/2026-11-17/friction-in-transcripts.md","project":"grenudi/ideal-knowledge-base"}
@@ -141,7 +141,7 @@
 {"bytes":11,"id":"CLAUDE.md","lines":1,"path":"CLAUDE.md","project":"linux-phone-oco/docs"}
 {"bytes":9048,"id":"CONTRIBUTING.md","lines":121,"path":"CONTRIBUTING.md","project":"linux-phone-oco/docs"}
 {"bytes":1463,"id":"README.md","lines":23,"path":"README.md","project":"linux-phone-oco/docs"}
-{"bytes":129916,"id":"docs/backlog.md","lines":4672,"path":"docs/backlog.md","project":"linux-phone-oco/docs"}
+{"bytes":129301,"id":"docs/backlog.md","lines":4672,"path":"docs/backlog.md","project":"linux-phone-oco/docs"}
 {"bytes":1493,"id":"docs/components.md","lines":149,"path":"docs/components.md","project":"linux-phone-oco/docs"}
 {"bytes":1786,"id":"docs/concepts.md","lines":73,"path":"docs/concepts.md","project":"linux-phone-oco/docs"}
 {"bytes":101023,"id":"docs/decisions.md","lines":1578,"path":"docs/decisions.md","project":"linux-phone-oco/docs"}
@@ -159,8 +159,8 @@
 {"bytes":3979,"id":"docs/picture.md","lines":63,"path":"docs/picture.md","project":"linux-phone-oco/docs"}
 {"bytes":770,"id":"docs/platforms.md","lines":69,"path":"docs/platforms.md","project":"linux-phone-oco/docs"}
 {"bytes":6076,"id":"docs/problems.md","lines":255,"path":"docs/problems.md","project":"linux-phone-oco/docs"}
-{"bytes":127749,"id":"docs/research.md","lines":1753,"path":"docs/research.md","project":"linux-phone-oco/docs"}
-{"bytes":81613,"id":"docs/session_log.md","lines":2217,"path":"docs/session_log.md","project":"linux-phone-oco/docs"}
+{"bytes":128558,"id":"docs/research.md","lines":1775,"path":"docs/research.md","project":"linux-phone-oco/docs"}
+{"bytes":82106,"id":"docs/session_log.md","lines":2235,"path":"docs/session_log.md","project":"linux-phone-oco/docs"}
 {"bytes":373,"id":"docs/shell_releases.md","lines":28,"path":"docs/shell_releases.md","project":"linux-phone-oco/docs"}
 {"bytes":58508,"id":"docs/sources.md","lines":2585,"path":"docs/sources.md","project":"linux-phone-oco/docs"}
 {"bytes":6585,"id":"docs/summaries.md","lines":62,"path":"docs/summaries.md","project":"linux-phone-oco/docs"}
@@ -204,6 +204,7 @@
 {"bytes":8625,"id":"research/lpoco-health/2026-11-17/README.md","lines":107,"path":"research/lpoco-health/2026-11-17/README.md","project":"linux-phone-oco/docs"}
 {"bytes":22355,"id":"research/open-handset-commons/2026-11-10/README.md","lines":307,"path":"research/open-handset-commons/2026-11-10/README.md","project":"linux-phone-oco/docs"}
 {"bytes":2651,"id":"research/walleye-first-fastboot-boot/2026-11-17-c-d/README.md","lines":15,"path":"research/walleye-first-fastboot-boot/2026-11-17-c-d/README.md","project":"linux-phone-oco/docs"}
+{"bytes":1818,"id":"research/walleye-first-fastboot-boot/2026-11-17-control-e-f/README.md","lines":18,"path":"research/walleye-first-fastboot-boot/2026-11-17-control-e-f/README.md","project":"linux-phone-oco/docs"}
 {"bytes":2591,"id":"research/walleye-first-fastboot-boot/2026-11-17-on-b/README.md","lines":23,"path":"research/walleye-first-fastboot-boot/2026-11-17-on-b/README.md","project":"linux-phone-oco/docs"}
 {"bytes":3519,"id":"research/walleye-first-fastboot-boot/2026-11-17/README.md","lines":27,"path":"research/walleye-first-fastboot-boot/2026-11-17/README.md","project":"linux-phone-oco/docs"}
 {"bytes":638,"id":"upstream/alpine-aports/alpine-tqftpserv-request/message.md","lines":3,"path":"upstream/alpine-aports/alpine-tqftpserv-request/message.md","project":"linux-phone-oco/docs"}
