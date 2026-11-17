@@ -571,11 +571,13 @@
 {"at":"2026-11-17T12:40:46Z","by":"grenudi","id":"a066b6b","project":"grenudi/ideal-knowledge-base","says":"feat: at a task's start ask only about its subject; deeper only when a step needs it (#18)"}
 {"at":"2026-11-17T15:14:49Z","by":"github-actions[bot]","id":"a4b0093","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#29)"}
 {"at":"2026-11-17T12:14:07Z","by":"grenudi","id":"acc6558","project":"grenudi/ideal-knowledge-base","says":"fix: a release is tagged only once every follower answers with main laid over it (#16)"}
+{"at":"2026-11-17T16:10:29Z","by":"grenudi","id":"ad8bfdb","project":"grenudi/ideal-knowledge-base","says":"feat: ikb: IKB.md is not kept; ikb page only prints (#39)"}
 {"at":"2026-11-17T14:50:06Z","by":"grenudi","id":"b9e6a12","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: the release carries a .deb and an .rpm, as the conveyor needs (#22)"}
 {"at":"2026-11-17T12:12:51Z","by":"grenudi","id":"bdafc93","project":"grenudi/ideal-knowledge-base","says":"feat: a release waits until every follower answers the five queries with it laid (#15)"}
 {"at":"2026-11-17T15:35:54Z","by":"grenudi","id":"bef407c","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: an empty option value counts as not given (#32)"}
 {"at":"2026-11-17T11:15:04Z","by":"grenudi","id":"c6f39d0","project":"grenudi/ideal-knowledge-base","says":"docs: docs follows 0.1.0, and the lab moves every base's pin weekly (#3)"}
 {"at":"2026-11-17T16:03:50Z","by":"github-actions[bot]","id":"d08f20e","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#38)"}
+{"at":"2026-11-17T16:11:18Z","by":"github-actions[bot]","id":"d3375ab","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#40)"}
 {"at":"2026-11-17T12:41:36Z","by":"github-actions[bot]","id":"d475f66","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.5.0 (#14)"}
 {"at":"2026-11-17T11:46:09Z","by":"grenudi","id":"d82eceb","project":"grenudi/ideal-knowledge-base","says":"docs: about's subject tables no longer stop a base: closed here, left to ocoeco (#9)"}
 {"at":"2026-11-17T11:40:29Z","by":"grenudi","id":"dc3cca0","project":"grenudi/ideal-knowledge-base","says":"feat: sources keep who made what they describe (by); second follower done (#7)"}
@@ -2941,6 +2943,7 @@
 {"at":"2026-11-17T08:55:13Z","by":"oco harvest","id":"9f5b2b6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T19:21:05Z","by":"oco harvest","id":"9f7e7ce","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T13:18:23Z","by":"oco harvest","id":"9f9b58f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T16:09:36Z","by":"oco harvest","id":"9fc420c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T10:29:34Z","by":"oco harvest","id":"9fdde3e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:20:22Z","by":"oco harvest","id":"9ff977e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T11:58:28Z","by":"oco harvest","id":"a00be7c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
