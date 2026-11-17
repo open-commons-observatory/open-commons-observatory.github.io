@@ -516,6 +516,7 @@
 {"at":"2026-11-17T02:05:19Z","by":"grenudi","id":"84cb9ca","project":"linux-phone-oco/device-template","says":"feat: The device template: a new phone's lab is a new device.toml (#1)"}
 {"at":"2026-11-16T23:55:39Z","by":"lab-agent-session","id":"8642359","project":"linux-phone-oco/device-template","says":"feat: The device template: a new phone's lab is a new device.toml"}
 {"at":"2026-11-17T03:43:18Z","by":"grenudi","id":"e3dc336","project":"linux-phone-oco/device-template","says":"chore: the records are kept in docs; the mark points there (#2)"}
+{"at":"2026-11-17T03:55:46Z","by":"grenudi","id":"0956e27","project":"linux-phone-oco/docs","says":"fix: the one-database decision's about pointed nowhere (#119)"}
 {"at":"2026-11-05T08:22:47Z","by":"grenudi","id":"0bdbff5","project":"linux-phone-oco/docs","says":"feat(data): a fresh-install plan, prepared but not run (#7)"}
 {"at":"2026-11-17T01:13:06Z","by":"grenudi","id":"127ebba","project":"linux-phone-oco/docs","says":"docs: Microphone taken up by bring-up: the weakest link, where it stands, the next step (#90)"}
 {"at":"2026-11-17T01:52:58Z","by":"grenudi","id":"14cba00","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#107)"}
@@ -731,6 +732,7 @@
 {"at":"2026-11-17T01:26:44Z","by":"grenudi","id":"6858498","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#76)"}
 {"at":"2026-11-17T01:45:26Z","by":"grenudi","id":"68d5bda","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#80)"}
 {"at":"2026-11-10T04:15:45Z","by":"grenudi","id":"6cc4e16","project":"linux-phone-oco/surya-lab","says":"ci: check every script (syntax, shellcheck errors); provisioning only when asked by name (#19)"}
+{"at":"2026-11-17T03:53:39Z","by":"grenudi","id":"7250d4f","project":"linux-phone-oco/surya-lab","says":"docs: Microphone: the branch kernel with three fixes boots healthy with the codec (#93)"}
 {"at":"2026-11-11T14:27:25Z","by":"grenudi","id":"7256435","project":"linux-phone-oco/surya-lab","says":"data: booting a test kernel is automated - devlab kernel try reports its outcome (#58)"}
 {"at":"2026-11-11T01:09:19Z","by":"grenudi","id":"76ea0a4","project":"linux-phone-oco/surya-lab","says":"docs: why the cameras are dark, and the way in - measured, sourced, nothing guessed (#47)"}
 {"at":"2026-11-10T11:43:38Z","by":"grenudi","id":"78b7614","project":"linux-phone-oco/surya-lab","says":"feat: device.toml - this device's manifest, for linux-phone-oco/lab-tools (devlab) (#27)"}
@@ -2352,6 +2354,7 @@
 {"at":"2026-11-16T14:56:44Z","by":"oco harvest","id":"5d80429","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T14:00:19Z","by":"oco harvest","id":"5d88343","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T17:35:29Z","by":"oco harvest","id":"6026128","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T03:50:54Z","by":"oco harvest","id":"60bc989","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T19:38:58Z","by":"grenudi","id":"60f29de","project":"open-commons-observatory/open-commons-observatory.github.io","says":"chore/gathered on oco data (#24)"}
 {"at":"2026-11-15T10:16:39Z","by":"oco harvest","id":"614fa1a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T21:11:09Z","by":"oco harvest","id":"61ae851","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
