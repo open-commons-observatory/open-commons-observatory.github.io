@@ -94,8 +94,8 @@
 {"bytes":5202,"id":"src/main.rs","lines":160,"path":"src/main.rs","project":"grenudi/ideal-agent"}
 {"bytes":6528,"id":"src/practices.rs","lines":162,"path":"src/practices.rs","project":"grenudi/ideal-agent"}
 {"bytes":11402,"id":"src/shell.rs","lines":304,"path":"src/shell.rs","project":"grenudi/ideal-agent"}
-{"bytes":9594,"id":"ikb/src/main.rs","lines":264,"path":"ikb/src/main.rs","project":"grenudi/ideal-knowledge-base"}
-{"bytes":9023,"id":"ikb/src/model.rs","lines":257,"path":"ikb/src/model.rs","project":"grenudi/ideal-knowledge-base"}
+{"bytes":10465,"id":"ikb/src/main.rs","lines":279,"path":"ikb/src/main.rs","project":"grenudi/ideal-knowledge-base"}
+{"bytes":9074,"id":"ikb/src/model.rs","lines":257,"path":"ikb/src/model.rs","project":"grenudi/ideal-knowledge-base"}
 {"bytes":2343,"id":"ikb/src/text.rs","lines":76,"path":"ikb/src/text.rs","project":"grenudi/ideal-knowledge-base"}
 {"bytes":17301,"id":"devlab/src/device.rs","lines":527,"path":"devlab/src/device.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":7978,"id":"devlab/src/flash.rs","lines":232,"path":"devlab/src/flash.rs","project":"linux-phone-oco/lab-tools"}

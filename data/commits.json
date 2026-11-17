@@ -542,6 +542,7 @@
 {"at":"2026-11-17T12:08:07Z","by":"github-actions[bot]","id":"4571b0c","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.4.0 (#12)"}
 {"at":"2026-11-17T14:58:48Z","by":"grenudi","id":"52d8d49","project":"grenudi/ideal-knowledge-base","says":"feat: ikb: a leaner page (no type or optional on every option) and the first release measured (#24)"}
 {"at":"2026-11-17T11:00:42Z","by":"grenudi","id":"58ba247","project":"grenudi/ideal-knowledge-base","says":"Initial commit"}
+{"at":"2026-11-17T15:14:19Z","by":"grenudi","id":"5d44fc0","project":"grenudi/ideal-knowledge-base","says":"feat: ikb: upstream records - where knowledge can flow, what is sent, one shape (#28)"}
 {"at":"2026-11-17T11:41:10Z","by":"github-actions[bot]","id":"626b14f","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.3.0 (#8)"}
 {"at":"2026-11-17T11:05:31Z","by":"github-actions[bot]","id":"62a6a64","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.1.0 (#2)"}
 {"at":"2026-11-17T11:19:15Z","by":"grenudi","id":"6becc2a","project":"grenudi/ideal-knowledge-base","says":"docs: navigation is ideal-agent's skill ask-a-knowledge-base (#4)"}
@@ -550,6 +551,7 @@
 {"at":"2026-11-17T12:07:28Z","by":"grenudi","id":"8775b40","project":"grenudi/ideal-knowledge-base","says":"feat: briefs first: every record has a one-line brief, answers give briefs (#11)"}
 {"at":"2026-11-17T14:29:16Z","by":"grenudi","id":"898147a","project":"grenudi/ideal-knowledge-base","says":"docs: ikb: the research and the decision to build one record command per base (#19)"}
 {"at":"2026-11-17T12:40:46Z","by":"grenudi","id":"a066b6b","project":"grenudi/ideal-knowledge-base","says":"feat: at a task's start ask only about its subject; deeper only when a step needs it (#18)"}
+{"at":"2026-11-17T15:14:49Z","by":"github-actions[bot]","id":"a4b0093","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#29)"}
 {"at":"2026-11-17T12:14:07Z","by":"grenudi","id":"acc6558","project":"grenudi/ideal-knowledge-base","says":"fix: a release is tagged only once every follower answers with main laid over it (#16)"}
 {"at":"2026-11-17T14:50:06Z","by":"grenudi","id":"b9e6a12","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: the release carries a .deb and an .rpm, as the conveyor needs (#22)"}
 {"at":"2026-11-17T12:12:51Z","by":"grenudi","id":"bdafc93","project":"grenudi/ideal-knowledge-base","says":"feat: a release waits until every follower answers the five queries with it laid (#15)"}
@@ -2575,6 +2577,7 @@
 {"at":"2026-11-12T03:02:50Z","by":"oco harvest","id":"4748eb4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T02:07:49Z","by":"oco harvest","id":"47ca691","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T02:14:36Z","by":"oco harvest","id":"4817ade","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T15:14:40Z","by":"oco harvest","id":"482fc19","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T14:32:55Z","by":"oco harvest","id":"483ba39","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T00:19:35Z","by":"oco harvest","id":"484fb19","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T12:32:27Z","by":"oco harvest","id":"4855f23","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
