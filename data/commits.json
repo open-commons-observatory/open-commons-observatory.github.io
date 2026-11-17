@@ -645,6 +645,7 @@
 {"at":"2026-11-10T12:14:25Z","by":"grenudi","id":"7077724","project":"linux-phone-oco/lab-tools","says":"fix: devlab finds the phone quietly - an address that does not answer is no error to show (#4)"}
 {"at":"2026-11-16T23:51:54Z","by":"grenudi","id":"71cbf80","project":"linux-phone-oco/lab-tools","record":"g-20261116-235054","says":"feat: The phone for any agent: devlab mcp, nine tools over MCP (#32)"}
 {"at":"2026-11-10T13:38:10Z","by":"grenudi","id":"7edee0a","project":"linux-phone-oco/lab-tools","says":"feat: devlab flash - an image onto the phone with the manifest's fixes baked in (#8)"}
+{"at":"2026-11-17T02:34:54Z","by":"grenudi","id":"8672839","project":"linux-phone-oco/lab-tools","record":"g-20261117-023345","says":"docs: Asks from bring-up: try read as stock, suite put's runner, LPASS debugfs hangs (#42)"}
 {"at":"2026-11-10T04:25:54Z","by":"lab-agent-session","id":"952c3a2","project":"linux-phone-oco/lab-tools","says":"feat: tone - make a test tone, and find it in a recording"}
 {"at":"2026-11-11T14:27:03Z","by":"grenudi","id":"97759a9","project":"linux-phone-oco/lab-tools","says":"feat(devlab): kernel try reports its own outcome (#24)"}
 {"at":"2026-11-16T15:59:02Z","by":"grenudi","id":"9bb36b7","project":"linux-phone-oco/lab-tools","record":"g-20261116-155810","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#28)"}
@@ -2194,6 +2195,7 @@
 {"at":"2026-11-16T14:49:21Z","by":"oco harvest","id":"3c5c113","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:11:46Z","by":"oco harvest","id":"3c84937","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T15:50:43Z","by":"grenudi","id":"3d0cd94","project":"open-commons-observatory/open-commons-observatory.github.io","says":"feat(data): a practice - change only what you mean to, never by copying whole files from a stale copy (#7)"}
+{"at":"2026-11-17T02:34:44Z","by":"oco harvest","id":"3d29221","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T09:34:56Z","by":"oco harvest","id":"3d2cada","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T09:11:33Z","by":"oco harvest","id":"3d54da3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T14:52:36Z","by":"oco harvest","id":"3d597a3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
