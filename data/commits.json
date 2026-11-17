@@ -730,6 +730,7 @@
 {"at":"2026-11-17T05:29:32Z","by":"grenudi","id":"c90431e","project":"linux-phone-oco/docs","says":"docs: The microphones hold across boots; the boot race is fixed in every flash (#137)"}
 {"at":"2026-11-17T03:40:31Z","by":"grenudi","id":"ccc6e74","project":"linux-phone-oco/docs","says":"feat: one database for linux-phone: every place's records, through named records (#118)"}
 {"at":"2026-11-17T11:08:23Z","by":"grenudi","id":"ce464d6","project":"linux-phone-oco/docs","says":"feat: feat: the Pixel 2 and 2 XL tracked beside surya, from published sources (all unknown) (#177)"}
+{"at":"2026-11-17T13:48:17Z","by":"grenudi","id":"cebd25b","project":"linux-phone-oco/docs","says":"docs: hand-over of surya-keeper-3, and the amp after a bite (#208)"}
 {"at":"2026-11-11T15:47:43Z","by":"grenudi","id":"d0d0182","project":"linux-phone-oco/docs","says":"feat(data): the wrap-up pass - settled with reasons (#58)"}
 {"at":"2026-11-17T13:14:33Z","by":"grenudi","id":"d29ab2a","project":"linux-phone-oco/docs","says":"docs: suite-put-runner-default done (lab-tools PR 72) (#204)"}
 {"at":"2026-11-16T15:06:42Z","by":"grenudi","id":"d313274","project":"linux-phone-oco/docs","says":"docs: a lens: test runs, and 8 more (#78)"}
@@ -2376,6 +2377,7 @@
 {"at":"2026-11-13T01:36:21Z","by":"oco harvest","id":"141c18f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T17:23:11Z","by":"oco harvest","id":"145704d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T21:32:38Z","by":"grenudi","id":"14bd5fa","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261112-213222","says":"feat: the observatory's page shows the fulldome, beside the engine's views (#76)"}
+{"at":"2026-11-17T13:48:59Z","by":"oco harvest","id":"14c17fb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T19:40:30Z","by":"grenudi","id":"14e48a3","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261114-194013","says":"docs: four practices say how work is done now (#79)"}
 {"at":"2026-11-11T00:18:10Z","by":"grenudi","id":"1587b06","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: ideas in Russian, the ear on notice, what is written and what follows (#38)"}
 {"at":"2026-11-12T00:21:08Z","by":"oco harvest","id":"15cd8af","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
