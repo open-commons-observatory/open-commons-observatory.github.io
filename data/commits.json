@@ -591,6 +591,7 @@
 {"at":"2026-11-10T00:05:14Z","by":"grenudi","id":"919f1ec","project":"linux-phone-oco/docs","says":"docs: the grand picture - why, what, where, the evidence conveyor, the orgs, the phases (#15)"}
 {"at":"2026-11-10T14:20:29Z","by":"grenudi","id":"96cfe9e","project":"linux-phone-oco/docs","says":"chore: the observatory's mark (oco.toml) (#38)"}
 {"at":"2026-11-11T00:45:43Z","by":"grenudi","id":"98c8c5c","project":"linux-phone-oco/docs","says":"feat(data): four of surya's parts no longer unknown - each follows its evidence (#51)"}
+{"at":"2026-11-17T04:49:24Z","by":"grenudi","id":"99fd21e","project":"linux-phone-oco/docs","says":"docs: Tests: the top microphone hears the speaker too (#128)"}
 {"at":"2026-11-17T01:40:02Z","by":"grenudi","id":"9ba117a","project":"linux-phone-oco/docs","says":"docs: A second phone: not now, the author says (#102)"}
 {"at":"2026-11-10T03:00:36Z","by":"grenudi","id":"9ca3b14","project":"linux-phone-oco/docs","says":"feat(data): upstream-sxmo-profile - the Sxmo device profile for surya, ready to send (#26)"}
 {"at":"2026-11-10T01:02:21Z","by":"grenudi","id":"9f876a6","project":"linux-phone-oco/docs","says":"feat: the engine's matrix rule - the support page becomes a device-by-component grid (#18)"}
@@ -602,6 +603,7 @@
 {"at":"2026-11-10T01:31:00Z","by":"grenudi","id":"b19ddde","project":"linux-phone-oco/docs","says":"feat(feed): the postmarketOS wiki's status fields, beside our own evidence (#21)"}
 {"at":"2026-11-12T19:17:29Z","by":"grenudi","id":"b240472","project":"linux-phone-oco/docs","says":"fix: the first release is 0.1.0: release-please is told so (#75)"}
 {"at":"2026-11-10T11:34:52Z","by":"grenudi","id":"b2ae42e","project":"linux-phone-oco/docs","says":"feat(data): the WCD boot analysed - a bus clash, then clocks off mid-init (#35)"}
+{"at":"2026-11-17T04:48:28Z","by":"grenudi","id":"b31550f","project":"linux-phone-oco/docs","says":"docs: surya keeps the microphone kernel: devlab kernel keep, proven (#127)"}
 {"at":"2026-11-11T14:44:34Z","by":"grenudi","id":"b640902","project":"linux-phone-oco/docs","says":"feat(data): export the community's claims, to be drawn beside our checks (#57)"}
 {"at":"2026-11-17T01:38:21Z","by":"grenudi","id":"b6f5db4","project":"linux-phone-oco/docs","says":"feat: Tests: a known gap counted apart from a failure, in every run (#98)"}
 {"at":"2026-11-17T00:58:18Z","by":"grenudi","id":"ba01aae","project":"linux-phone-oco/docs","says":"feat: Support status read off the suite's results, beside what was judged (#86)"}
@@ -691,6 +693,7 @@
 {"at":"2026-11-17T02:38:36Z","by":"grenudi","id":"cc4d893","project":"linux-phone-oco/lab-tools","says":"feat: devlab refuses a command that touches what the phone's manifest names as a hazard (#43)"}
 {"at":"2026-11-10T22:31:19Z","by":"grenudi","id":"d43d5e4","project":"linux-phone-oco/lab-tools","says":"docs: it tells its essence - its idea for anyone and its workings (#16)"}
 {"at":"2026-11-17T01:07:49Z","by":"grenudi","id":"d53bb4e","project":"linux-phone-oco/lab-tools","says":"feat: The phone is held: one change at a time, whoever asks (#35)"}
+{"at":"2026-11-17T04:50:38Z","by":"grenudi","id":"d718f84","project":"linux-phone-oco/lab-tools","says":"fix: a kept kernel sorts after every try and before stock, so a try still comes first (#53)"}
 {"at":"2026-11-17T01:46:47Z","by":"grenudi","id":"d814970","project":"linux-phone-oco/lab-tools","says":"docs: Backlog: the checks surya-lab ran from the lab, to carry into the suite (#38)"}
 {"at":"2026-11-10T16:26:44Z","by":"grenudi","id":"e330899","project":"linux-phone-oco/lab-tools","says":"feat(oco): devlab's own backlog and path (#10)"}
 {"at":"2026-11-16T23:37:27Z","by":"grenudi","id":"e5329bb","project":"linux-phone-oco/lab-tools","says":"feat: Gathering is one command: devlab gather now (#30)"}
@@ -719,6 +722,7 @@
 {"at":"2026-11-17T01:50:08Z","by":"grenudi","id":"16bda51","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#82)"}
 {"at":"2026-11-10T22:22:01Z","by":"grenudi","id":"170f4ba","project":"linux-phone-oco/surya-lab","says":"docs: the lab's idea, told for anyone (#42)"}
 {"at":"2026-11-17T01:38:15Z","by":"grenudi","id":"1a4f47a","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#78)"}
+{"at":"2026-11-17T04:48:32Z","by":"grenudi","id":"1ad05e4","project":"linux-phone-oco/surya-lab","says":"docs: Both microphones hear the speaker: bottom and top in one quiet beep (#101)"}
 {"at":"2026-11-10T12:37:52Z","by":"grenudi","id":"1c31ceb","project":"linux-phone-oco/surya-lab","says":"feat(tests): the default output is a real sound card, not a loopback (#31)"}
 {"at":"2026-11-11T10:14:35Z","by":"grenudi","id":"1c8a5ac","project":"linux-phone-oco/surya-lab","says":"docs: two recording tries - the bus loses the codec when reshaped for the stream; not power management (#51)"}
 {"at":"2026-11-11T09:51:32Z","by":"grenudi","id":"1cec218","project":"linux-phone-oco/surya-lab","says":"docs: the microphone codec comes up - one pin muxed to the wrong function (#49)"}
@@ -2714,6 +2718,7 @@
 {"at":"2026-11-15T04:56:00Z","by":"oco harvest","id":"cccfafd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T18:37:19Z","by":"oco harvest","id":"cd00855","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T13:45:33Z","by":"oco harvest","id":"cd11f3e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T04:47:31Z","by":"oco harvest","id":"cd1e93d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T20:50:26Z","by":"oco harvest","id":"cd8a260","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T08:26:56Z","by":"oco harvest","id":"cebcb6f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T21:05:03Z","by":"oco harvest","id":"cf4999c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
