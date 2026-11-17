@@ -653,6 +653,7 @@
 {"at":"2026-11-11T10:27:16Z","by":"lab-agent-session","id":"d33034d","project":"linux-package-distribution-oco/lens","says":"feat: the package conveyor's lens"}
 {"at":"2026-11-17T17:47:46Z","by":"grenudi","id":"16d6fc5","project":"linux-phone-oco/device-template","says":"feat: device base: ships idealkb and the template as upstreams, and lists what it gives (#5)"}
 {"at":"2026-11-17T15:27:32Z","by":"grenudi","id":"1fb0db3","project":"linux-phone-oco/device-template","says":"feat: [fastboot] serial and writes in the manifest (#3)"}
+{"at":"2026-11-17T20:09:29Z","by":"grenudi","id":"6344ce8","project":"linux-phone-oco/device-template","says":"feat: device base: a wait names its item (blocked_by) and clears itself when it is done (#9)"}
 {"at":"2026-11-17T17:24:29Z","by":"grenudi","id":"6d71593","project":"linux-phone-oco/device-template","says":"feat: device base: each device has its own tad base, following idealkb, with parts (#4)"}
 {"at":"2026-11-17T19:58:18Z","by":"grenudi","id":"735c4c1","project":"linux-phone-oco/device-template","says":"chore: tad 0.7.1 (#8)"}
 {"at":"2026-11-17T02:05:19Z","by":"grenudi","id":"84cb9ca","project":"linux-phone-oco/device-template","says":"feat: The device template: a new phone's lab is a new device.toml (#1)"}
@@ -1029,6 +1030,7 @@
 {"at":"2026-11-17T19:48:29Z","by":"grenudi","id":"83984c0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the third try of vendor-gadget3, with the watcher kept alive (#16)"}
 {"at":"2026-11-17T17:46:28Z","by":"grenudi","id":"9e24777","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants e and f (stock header read; command line cut; board-id), check counts both (#6)"}
 {"at":"2026-11-17T16:20:31Z","by":"grenudi","id":"9faa48b","project":"linux-phone-oco/google-walleye-lab","says":"feat: the first walleye kernel dts, initramfs and boot image, built by script (#3)"}
+{"at":"2026-11-17T20:11:39Z","by":"grenudi","id":"a21b1b0","project":"linux-phone-oco/google-walleye-lab","says":"feat: device base: a wait names its item (blocked_by) and clears itself when done (#29)"}
 {"at":"2026-11-17T19:09:15Z","by":"grenudi","id":"a41a721","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget2.img, an xz ramdisk the vendor 4.4 kernel can unpack, checked (#12)"}
 {"at":"2026-11-17T19:52:33Z","by":"grenudi","id":"b4b077b","project":"linux-phone-oco/google-walleye-lab","says":"walleye: vendor-gadget3's third try (panic before the gadget), next build named (#17)"}
 {"at":"2026-11-17T15:29:58Z","by":"grenudi","id":"cbe406f","project":"linux-phone-oco/google-walleye-lab","says":"feat: walleye's fastboot serial, writes off (#2)"}
@@ -1158,6 +1160,7 @@
 {"at":"2026-11-10T20:43:54Z","by":"grenudi","id":"1ec8685","project":"linux-phone-oco/surya-lab","says":"fix: awake while on USB to a host - no suspend attempts that drop the link, under any shell (#40)"}
 {"at":"2026-11-09T23:23:37Z","by":"grenudi","id":"1f188ae","project":"linux-phone-oco/surya-lab","says":"feat: flash/flash.sh - flash any image with surya's fixes built in (#5)"}
 {"at":"2026-11-17T02:03:33Z","by":"grenudi","id":"286399c","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#86)"}
+{"at":"2026-11-17T20:11:00Z","by":"grenudi","id":"288bf57","project":"linux-phone-oco/surya-lab","says":"feat: device base: a wait names its item (blocked_by) and clears itself when done (#139)"}
 {"at":"2026-11-17T01:52:23Z","by":"grenudi","id":"28976ee","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#83)"}
 {"at":"2026-11-17T10:03:24Z","by":"grenudi","id":"29c1fe4","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#122)"}
 {"at":"2026-11-09T14:15:42Z","by":"grenudi","id":"2adcbed","project":"linux-phone-oco/surya-lab","says":"docs: README.md"}
@@ -1246,6 +1249,7 @@
 {"at":"2026-11-11T09:36:05Z","by":"grenudi","id":"c58696a","project":"linux-phone-oco/surya-lab","says":"docs: this morning's findings, with concepts and decisions (#48)"}
 {"at":"2026-11-11T00:31:17Z","by":"grenudi","id":"c6101ec","project":"linux-phone-oco/surya-lab","says":"docs: its idea in Russian (by machine, for a person to correct) (#44)"}
 {"at":"2026-11-10T13:33:13Z","by":"grenudi","id":"c67e64c","project":"linux-phone-oco/surya-lab","says":"refactor: provisioning and test kernels through devlab; surya-lab keeps the data (#32)"}
+{"at":"2026-11-17T20:09:37Z","by":"grenudi","id":"c7dff0a","project":"linux-phone-oco/surya-lab","says":"sleep: standby-run.sh refuses to score while USB power is present; r2 armed (#138)"}
 {"at":"2026-11-10T10:24:42Z","by":"grenudi","id":"caa3d9a","project":"linux-phone-oco/surya-lab","says":"fix(test-entry): the way back first, then the switch; refuse a second pending test boot (#24)"}
 {"at":"2026-11-17T20:05:46Z","by":"grenudi","id":"cc32389","project":"linux-phone-oco/surya-lab","says":"surya: standby run r1 invalid (USB connected), r2 queued; standby test to lpoco-health (#137)"}
 {"at":"2026-11-11T11:55:09Z","by":"grenudi","id":"cdb1965","project":"linux-phone-oco/surya-lab","says":"data: the lab's hand-work ledger, from this session's jobs (#54)"}
@@ -2847,6 +2851,7 @@
 {"at":"2026-11-17T15:46:52Z","by":"oco harvest","id":"450869d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T18:49:10Z","by":"oco harvest","id":"45132a1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T09:45:22Z","by":"oco harvest","id":"45539e8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T20:08:42Z","by":"oco harvest","id":"4579b46","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T23:35:57Z","by":"oco harvest","id":"458c7eb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T01:53:30Z","by":"oco harvest","id":"45a484c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T22:49:29Z","by":"oco harvest","id":"45f073c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}

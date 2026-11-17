@@ -208,7 +208,7 @@
 {"bytes":4286,"id":"AGENTS.md","lines":47,"path":"AGENTS.md","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":3384,"id":"README.md","lines":51,"path":"README.md","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":9945,"id":"build/README.md","lines":109,"path":"build/README.md","project":"linux-phone-oco/google-walleye-lab"}
-{"bytes":31591,"id":"docs/backlog.md","lines":1065,"path":"docs/backlog.md","project":"linux-phone-oco/google-walleye-lab"}
+{"bytes":31631,"id":"docs/backlog.md","lines":1065,"path":"docs/backlog.md","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":13931,"id":"docs/decisions.md","lines":187,"path":"docs/decisions.md","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":70,"id":"docs/devices.md","lines":3,"path":"docs/devices.md","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":443,"id":"docs/index.md","lines":16,"path":"docs/index.md","project":"linux-phone-oco/google-walleye-lab"}
@@ -237,13 +237,13 @@
 {"bytes":972,"id":"README.md","lines":10,"path":"README.md","project":"linux-phone-oco/lens"}
 {"bytes":5528,"id":"AGENTS.md","lines":61,"path":"AGENTS.md","project":"linux-phone-oco/surya-lab"}
 {"bytes":4153,"id":"README.md","lines":70,"path":"README.md","project":"linux-phone-oco/surya-lab"}
-{"bytes":30936,"id":"docs/backlog.md","lines":1410,"path":"docs/backlog.md","project":"linux-phone-oco/surya-lab"}
+{"bytes":29211,"id":"docs/backlog.md","lines":1406,"path":"docs/backlog.md","project":"linux-phone-oco/surya-lab"}
 {"bytes":34281,"id":"docs/decisions.md","lines":526,"path":"docs/decisions.md","project":"linux-phone-oco/surya-lab"}
 {"bytes":70,"id":"docs/devices.md","lines":3,"path":"docs/devices.md","project":"linux-phone-oco/surya-lab"}
 {"bytes":449,"id":"docs/index.md","lines":16,"path":"docs/index.md","project":"linux-phone-oco/surya-lab"}
 {"bytes":9909,"id":"docs/parts.md","lines":533,"path":"docs/parts.md","project":"linux-phone-oco/surya-lab"}
 {"bytes":55784,"id":"docs/research.md","lines":772,"path":"docs/research.md","project":"linux-phone-oco/surya-lab"}
-{"bytes":43769,"id":"docs/session_log.md","lines":996,"path":"docs/session_log.md","project":"linux-phone-oco/surya-lab"}
+{"bytes":44417,"id":"docs/session_log.md","lines":1014,"path":"docs/session_log.md","project":"linux-phone-oco/surya-lab"}
 {"bytes":70,"id":"docs/sources.md","lines":3,"path":"docs/sources.md","project":"linux-phone-oco/surya-lab"}
 {"bytes":72,"id":"docs/summaries.md","lines":3,"path":"docs/summaries.md","project":"linux-phone-oco/surya-lab"}
 {"bytes":1838468,"id":"docs/test_results.md","lines":169138,"path":"docs/test_results.md","project":"linux-phone-oco/surya-lab"}
