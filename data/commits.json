@@ -562,6 +562,7 @@
 {"at":"2026-11-17T04:20:06Z","by":"grenudi","id":"39af2c0","project":"linux-phone-oco/docs","says":"docs: lab-tools: the LPASS debugfs hazard is held by devlab and surya's manifest (#121)"}
 {"at":"2026-11-17T01:25:21Z","by":"grenudi","id":"3a88fc0","project":"linux-phone-oco/docs","says":"docs: How linux-phone's agents are organised: roles, briefs, the data as shared state (#93)"}
 {"at":"2026-11-11T16:44:33Z","by":"grenudi","id":"3d67245","project":"linux-phone-oco/docs","says":"docs: the tables declared as data, for tad in Rust (#60)"}
+{"at":"2026-11-17T10:05:15Z","by":"grenudi","id":"3e5e6c8","project":"linux-phone-oco/docs","says":"docs: An ideal knowledge base proposed: about link, one entry, idealkb from the template (#161)"}
 {"at":"2026-11-10T17:37:49Z","by":"grenudi","id":"41ca2e8","project":"linux-phone-oco/docs","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#42)"}
 {"at":"2026-11-11T09:52:07Z","by":"grenudi","id":"426141a","project":"linux-phone-oco/docs","says":"feat(data): the microphone codec comes up (#55)"}
 {"at":"2026-11-12T19:14:52Z","by":"grenudi","id":"43f79d8","project":"linux-phone-oco/docs","says":"fix: the docs begin their own history at 0.1.0; the template's is cleared (#74)"}
@@ -626,6 +627,7 @@
 {"at":"2026-11-17T10:02:22Z","by":"grenudi","id":"a6fff34","project":"linux-phone-oco/docs","says":"docs: briefs keep their domain and name the ideal-agent skills (#159)"}
 {"at":"2026-11-10T20:12:58Z","by":"grenudi","id":"abb2066","project":"linux-phone-oco/docs","says":"feat(data): the first devlab flash - the suspend crash now reproducible, a check to correct (#45)"}
 {"at":"2026-11-17T01:55:41Z","by":"grenudi","id":"ad2ca8e","project":"linux-phone-oco/docs","says":"docs: Deep sleep researched: measured s2idle to the SoC's floor, its steps and its check (#101)"}
+{"at":"2026-11-17T10:04:12Z","by":"grenudi","id":"adb05cd","project":"linux-phone-oco/docs","says":"docs: 3 runs of xiaomi-surya filed by devlab, from the phone's own reports (#160)"}
 {"at":"2026-11-10T01:31:00Z","by":"grenudi","id":"b19ddde","project":"linux-phone-oco/docs","says":"feat(feed): the postmarketOS wiki's status fields, beside our own evidence (#21)"}
 {"at":"2026-11-12T19:17:29Z","by":"grenudi","id":"b240472","project":"linux-phone-oco/docs","says":"fix: the first release is 0.1.0: release-please is told so (#75)"}
 {"at":"2026-11-10T11:34:52Z","by":"grenudi","id":"b2ae42e","project":"linux-phone-oco/docs","says":"feat(data): the WCD boot analysed - a bus clash, then clocks off mid-init (#35)"}
@@ -2221,6 +2223,7 @@
 {"at":"2026-11-15T16:19:11Z","by":"grenudi","id":"09de9e7","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-161856","says":"ci: the harvest observes by holding: what a route reads is in what it observed (#94)"}
 {"at":"2026-11-16T08:45:05Z","by":"oco harvest","id":"0a15ecd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T15:51:55Z","by":"oco harvest","id":"0a73567","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T10:04:19Z","by":"oco harvest","id":"0b27317","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T07:25:09Z","by":"grenudi","id":"0b53aba","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261113-072453","says":"docs: practice 26: refining first, and recorded through ocoeco (#77)"}
 {"at":"2026-11-10T17:33:57Z","by":"grenudi","id":"0c2fdec","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: lenses - the concept, the decision with what was rejected, the steps (#16)"}
 {"at":"2026-11-17T02:43:10Z","by":"oco harvest","id":"0c39105","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
