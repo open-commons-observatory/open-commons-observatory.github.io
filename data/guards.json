@@ -496,6 +496,7 @@
 {"id":"lpoco/tests/dispatch.rs:lpoco_refuses_mixed_versions","line":63,"name":"lpoco_refuses_mixed_versions","path":"lpoco/tests/dispatch.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"lpoco/tests/dispatch.rs:lpoco_runs_subcommand_by_path","line":43,"name":"lpoco_runs_subcommand_by_path","path":"lpoco/tests/dispatch.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"lpoco/tests/dispatch.rs:version_list_completions_and_man_come_from_the_declaration","line":74,"name":"version_list_completions_and_man_come_from_the_declaration","path":"lpoco/tests/dispatch.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"lpoco/tests/install_from_tag.rs:bringup_installs_from_tag","line":58,"name":"bringup_installs_from_tag","path":"lpoco/tests/install_from_tag.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"lpoco/tests/mcp.rs:lpoco_mcp_lists_every_family_tool","line":92,"name":"lpoco_mcp_lists_every_family_tool","path":"lpoco/tests/mcp.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"tone/src/lib.rs:a_quiet_tone_is_found_in_noise","line":233,"name":"a_quiet_tone_is_found_in_noise","path":"tone/src/lib.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"tone/src/lib.rs:a_tone_measures_at_its_own_level","line":216,"name":"a_tone_measures_at_its_own_level","path":"tone/src/lib.rs","project":"linux-phone-oco/lab-tools"}
