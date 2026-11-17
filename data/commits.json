@@ -530,6 +530,7 @@
 {"at":"2026-11-17T03:43:18Z","by":"grenudi","id":"e3dc336","project":"linux-phone-oco/device-template","says":"chore: the records are kept in docs; the mark points there (#2)"}
 {"at":"2026-11-17T05:18:05Z","by":"grenudi","id":"057dec0","project":"linux-phone-oco/docs","says":"docs: Both microphones record through the sound server (UCM); headset mic next (#135)"}
 {"at":"2026-11-17T03:55:46Z","by":"grenudi","id":"0956e27","project":"linux-phone-oco/docs","says":"fix: the one-database decision's about pointed nowhere (#119)"}
+{"at":"2026-11-17T10:22:44Z","by":"grenudi","id":"0b9178b","project":"linux-phone-oco/docs","says":"docs: The phone's queue: six proven items closed (#166)"}
 {"at":"2026-11-05T08:22:47Z","by":"grenudi","id":"0bdbff5","project":"linux-phone-oco/docs","says":"feat(data): a fresh-install plan, prepared but not run (#7)"}
 {"at":"2026-11-17T01:13:06Z","by":"grenudi","id":"127ebba","project":"linux-phone-oco/docs","says":"docs: Microphone taken up by bring-up: the weakest link, where it stands, the next step (#90)"}
 {"at":"2026-11-17T01:52:58Z","by":"grenudi","id":"14cba00","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#107)"}
@@ -583,6 +584,7 @@
 {"at":"2026-11-10T22:21:29Z","by":"grenudi","id":"55e0319","project":"linux-phone-oco/docs","says":"feat(data): Linux Phones tells its essence - its idea for anyone, and its workings (#48)"}
 {"at":"2026-11-10T20:36:08Z","by":"grenudi","id":"55ee6ae","project":"linux-phone-oco/docs","says":"feat(data): the suspend crash's trigger found and fixed in the lab; the check corrected (#46)"}
 {"at":"2026-11-17T02:58:03Z","by":"grenudi","id":"5789774","project":"linux-phone-oco/docs","says":"feat: feeds and the status derivation as named records; devlab's filing as a record; tad 0.6.0 (#115)"}
+{"at":"2026-11-17T10:21:50Z","by":"grenudi","id":"57de208","project":"linux-phone-oco/docs","says":"docs: How the phone stands, for the phone keeper; proven items closed (#164)"}
 {"at":"2026-11-17T04:20:39Z","by":"grenudi","id":"5822f4e","project":"linux-phone-oco/docs","says":"docs: devlab-health is an Alpine package, published by the package conveyor (#122)"}
 {"at":"2026-11-17T01:15:37Z","by":"grenudi","id":"5c8e70c","project":"linux-phone-oco/docs","says":"docs: Tests: mic-records says the main microphone's samples come back (#91)"}
 {"at":"2026-11-11T00:57:49Z","by":"grenudi","id":"5e48058","project":"linux-phone-oco/docs","says":"feat(data): the workings of Linux Phones in Russian (#52)"}
@@ -1531,6 +1533,7 @@
 {"at":"2026-11-13T20:47:13Z","by":"grenudi","id":"20568ca","project":"open-commons-observatory/ecosystem","record":"g-20261113-204657","says":"docs: a sheet is a word: the author's words, and what came of them (#27)"}
 {"at":"2026-11-13T07:49:36Z","by":"grenudi","id":"20a3dd4","project":"open-commons-observatory/ecosystem","record":"g-20261113-074920","says":"docs: what does not fit is a sign: the author's words, and what the week's records show (#7)"}
 {"at":"2026-11-15T10:32:59Z","by":"grenudi","id":"24c493b","project":"open-commons-observatory/ecosystem","record":"g-20261115-103244","says":"docs: the way in for the conversation is kept where the conversation is (#102)"}
+{"at":"2026-11-17T10:21:02Z","by":"grenudi","id":"24d5ea3","project":"open-commons-observatory/ecosystem","record":"g-20261117-102046","says":"fix: links to the practices point to ideal-agent, where they are kept (#160)"}
 {"at":"2026-11-14T22:33:09Z","by":"grenudi","id":"2562a1f","project":"open-commons-observatory/ecosystem","record":"g-20261114-223253","says":"docs: three waits drawn, not said in words; what the three repositories with no mark are (#84)"}
 {"at":"2026-11-14T17:36:08Z","by":"grenudi","id":"256424a","project":"open-commons-observatory/ecosystem","record":"g-20261114-173552","says":"docs: where everything lives: the surfaces, read and not yet read (#63)"}
 {"at":"2026-11-13T23:53:50Z","by":"grenudi","id":"274730b","project":"open-commons-observatory/ecosystem","record":"g-20261113-235332","says":"docs: shapes across lenses: what the trial showed, and what is next (#35)"}
@@ -2112,6 +2115,7 @@
 {"at":"2026-11-14T00:10:54Z","by":"grenudi","id":"f2355b9","project":"open-commons-observatory/ocoeco","record":"g-20261114-000923","says":"feat: repeats is a group: one nature, many faces (#143)"}
 {"at":"2026-11-15T21:49:35Z","by":"github-actions[bot]","id":"f350434","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.54.0 (#318)"}
 {"at":"2026-11-15T00:12:00Z","by":"grenudi","id":"f372ae3","project":"open-commons-observatory/ocoeco","record":"g-20261115-001019","says":"feat: the page is said by a lens, equal to the program's byte for byte (#251)"}
+{"at":"2026-11-17T10:22:50Z","by":"grenudi","id":"f3aed95","project":"open-commons-observatory/ocoeco","record":"g-20261117-102113","says":"fix: links to the practices point to ideal-agent, where they are kept (#456)"}
 {"at":"2026-11-10T16:55:18Z","by":"grenudi","id":"f498231","project":"open-commons-observatory/ocoeco","says":"feat: the core - the mark, discovery and the harvest, moved in from the observatory's engine (#1)"}
 {"at":"2026-11-15T23:36:46Z","by":"grenudi","id":"f5165bb","project":"open-commons-observatory/ocoeco","record":"g-20261115-233516","says":"docs: a sign: a lens of one kind is asked from every thing (#335)"}
 {"at":"2026-11-14T18:42:58Z","by":"grenudi","id":"f57fc04","project":"open-commons-observatory/ocoeco","record":"g-20261114-184138","says":"feat: what a place keeps out: a lens, seen like any other (#203)"}
@@ -2251,6 +2255,7 @@
 {"at":"2026-11-17T05:03:43Z","by":"grenudi","id":"114c2bc","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261117-050327","says":"docs: A practice for everyone: declare every program's surface once with argenv (#109)"}
 {"at":"2026-11-14T09:43:38Z","by":"oco harvest","id":"11b626b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T00:36:04Z","by":"oco harvest","id":"123263d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T10:23:27Z","by":"grenudi","id":"12881c7","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261117-102310","says":"docs: the practices are kept in grenudi/ideal-agent; this copy retires (#110)"}
 {"at":"2026-11-16T15:54:05Z","by":"oco harvest","id":"12c380c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T12:08:20Z","by":"oco harvest","id":"13bb494","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T01:36:21Z","by":"oco harvest","id":"141c18f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -2812,6 +2817,7 @@
 {"at":"2026-11-14T19:51:58Z","by":"grenudi","id":"c1d1e35","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261114-195143","says":"docs: a practice: say where a guideline is shown (#80)"}
 {"at":"2026-11-14T17:28:01Z","by":"oco harvest","id":"c25f3e2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T09:52:02Z","by":"oco harvest","id":"c2d0c38","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T10:20:57Z","by":"oco harvest","id":"c36b655","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T07:09:45Z","by":"oco harvest","id":"c42f426","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T11:22:26Z","by":"grenudi","id":"c45e21e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: no new Python, even for one-offs - practice 21 and the decision (#50)"}
 {"at":"2026-11-10T17:07:46Z","by":"grenudi","id":"c4faf42","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the session log - every project its view, the family, ocoeco founded (#14)"}

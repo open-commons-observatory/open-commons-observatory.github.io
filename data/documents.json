@@ -83,7 +83,7 @@
 {"bytes":12557,"id":"CHANGELOG.md","lines":70,"path":"CHANGELOG.md","project":"linux-phone-oco/docs"}
 {"bytes":2060,"id":"CONTRIBUTING.md","lines":39,"path":"CONTRIBUTING.md","project":"linux-phone-oco/docs"}
 {"bytes":1463,"id":"README.md","lines":23,"path":"README.md","project":"linux-phone-oco/docs"}
-{"bytes":87088,"id":"docs/backlog.md","lines":2393,"path":"docs/backlog.md","project":"linux-phone-oco/docs"}
+{"bytes":88643,"id":"docs/backlog.md","lines":2796,"path":"docs/backlog.md","project":"linux-phone-oco/docs"}
 {"bytes":1493,"id":"docs/components.md","lines":149,"path":"docs/components.md","project":"linux-phone-oco/docs"}
 {"bytes":1745,"id":"docs/concepts.md","lines":67,"path":"docs/concepts.md","project":"linux-phone-oco/docs"}
 {"bytes":57110,"id":"docs/decisions.md","lines":908,"path":"docs/decisions.md","project":"linux-phone-oco/docs"}
@@ -102,7 +102,7 @@
 {"bytes":770,"id":"docs/platforms.md","lines":69,"path":"docs/platforms.md","project":"linux-phone-oco/docs"}
 {"bytes":2715,"id":"docs/problems.md","lines":122,"path":"docs/problems.md","project":"linux-phone-oco/docs"}
 {"bytes":34356,"id":"docs/research.md","lines":452,"path":"docs/research.md","project":"linux-phone-oco/docs"}
-{"bytes":42104,"id":"docs/session_log.md","lines":1215,"path":"docs/session_log.md","project":"linux-phone-oco/docs"}
+{"bytes":45194,"id":"docs/session_log.md","lines":1233,"path":"docs/session_log.md","project":"linux-phone-oco/docs"}
 {"bytes":373,"id":"docs/shell_releases.md","lines":28,"path":"docs/shell_releases.md","project":"linux-phone-oco/docs"}
 {"bytes":27749,"id":"docs/sources.md","lines":1214,"path":"docs/sources.md","project":"linux-phone-oco/docs"}
 {"bytes":13068,"id":"docs/support_status.md","lines":143,"path":"docs/support_status.md","project":"linux-phone-oco/docs"}
@@ -136,7 +136,7 @@
 {"bytes":750,"id":"README.md","lines":13,"path":"README.md","project":"open-commons-observatory/ocoeco-engine"}
 {"bytes":5775,"id":"ARCHITECTURE.md","lines":89,"path":"ARCHITECTURE.md","project":"open-commons-observatory/open-commons-observatory.github.io"}
 {"bytes":222,"id":"README.md","lines":4,"path":"README.md","project":"open-commons-observatory/open-commons-observatory.github.io"}
-{"bytes":342,"id":"design/README.md","lines":5,"path":"design/README.md","project":"open-commons-observatory/open-commons-observatory.github.io"}
+{"bytes":684,"id":"design/README.md","lines":10,"path":"design/README.md","project":"open-commons-observatory/open-commons-observatory.github.io"}
 {"bytes":2034,"id":"marks/README.md","lines":42,"path":"marks/README.md","project":"open-commons-observatory/open-commons-observatory.github.io"}
 {"bytes":266,"id":"README.md","lines":5,"path":"README.md","project":"rhizome-oco/lens"}
 {"bytes":80461,"id":"MANIFESTO.md","lines":1010,"path":"MANIFESTO.md","project":"rhizome-oco/rhizome"}
