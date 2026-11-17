@@ -57,7 +57,7 @@
 {"bytes":3543,"id":"AGENTS.md","lines":47,"path":"AGENTS.md","project":"grenudi/ideal-agent"}
 {"bytes":5129,"id":"README.md","lines":74,"path":"README.md","project":"grenudi/ideal-agent"}
 {"bytes":925,"id":"agents/builder.md","lines":19,"path":"agents/builder.md","project":"grenudi/ideal-agent"}
-{"bytes":1853,"id":"agents/coordinator.md","lines":29,"path":"agents/coordinator.md","project":"grenudi/ideal-agent"}
+{"bytes":1993,"id":"agents/coordinator.md","lines":30,"path":"agents/coordinator.md","project":"grenudi/ideal-agent"}
 {"bytes":1411,"id":"agents/keeper.md","lines":24,"path":"agents/keeper.md","project":"grenudi/ideal-agent"}
 {"bytes":1610,"id":"agents/lane-coordinator.md","lines":27,"path":"agents/lane-coordinator.md","project":"grenudi/ideal-agent"}
 {"bytes":1297,"id":"agents/orchestrator.md","lines":23,"path":"agents/orchestrator.md","project":"grenudi/ideal-agent"}
@@ -65,13 +65,13 @@
 {"bytes":1147,"id":"agents/research-lead.md","lines":21,"path":"agents/research-lead.md","project":"grenudi/ideal-agent"}
 {"bytes":1361,"id":"agents/researcher.md","lines":17,"path":"agents/researcher.md","project":"grenudi/ideal-agent"}
 {"bytes":9162,"id":"docs/backlog.md","lines":340,"path":"docs/backlog.md","project":"grenudi/ideal-agent"}
-{"bytes":52874,"id":"docs/decisions.md","lines":637,"path":"docs/decisions.md","project":"grenudi/ideal-agent"}
+{"bytes":54848,"id":"docs/decisions.md","lines":662,"path":"docs/decisions.md","project":"grenudi/ideal-agent"}
 {"bytes":743,"id":"docs/index.md","lines":15,"path":"docs/index.md","project":"grenudi/ideal-agent"}
 {"bytes":4373,"id":"docs/landscape.md","lines":78,"path":"docs/landscape.md","project":"grenudi/ideal-agent"}
 {"bytes":28499,"id":"docs/practices.md","lines":644,"path":"docs/practices.md","project":"grenudi/ideal-agent"}
-{"bytes":32215,"id":"docs/research.md","lines":443,"path":"docs/research.md","project":"grenudi/ideal-agent"}
+{"bytes":33262,"id":"docs/research.md","lines":468,"path":"docs/research.md","project":"grenudi/ideal-agent"}
 {"bytes":13006,"id":"docs/session_log.md","lines":417,"path":"docs/session_log.md","project":"grenudi/ideal-agent"}
-{"bytes":16912,"id":"docs/sources.md","lines":829,"path":"docs/sources.md","project":"grenudi/ideal-agent"}
+{"bytes":17537,"id":"docs/sources.md","lines":867,"path":"docs/sources.md","project":"grenudi/ideal-agent"}
 {"bytes":1507,"id":"docs/subjects.md","lines":72,"path":"docs/subjects.md","project":"grenudi/ideal-agent"}
 {"bytes":561,"id":"docs/summaries.md","lines":17,"path":"docs/summaries.md","project":"grenudi/ideal-agent"}
 {"bytes":2101,"id":"research/22-look-around-first/2026-11-17/README.md","lines":24,"path":"research/22-look-around-first/2026-11-17/README.md","project":"grenudi/ideal-agent"}
@@ -81,11 +81,12 @@
 {"bytes":2240,"id":"research/organising-agents/2026-11-17/decision-routing.md","lines":30,"path":"research/organising-agents/2026-11-17/decision-routing.md","project":"grenudi/ideal-agent"}
 {"bytes":6016,"id":"research/organising-agents/2026-11-17/lab-agent-what-it-is-used-for.md","lines":63,"path":"research/organising-agents/2026-11-17/lab-agent-what-it-is-used-for.md","project":"grenudi/ideal-agent"}
 {"bytes":2794,"id":"research/organising-agents/2026-11-17/lane-starts.md","lines":38,"path":"research/organising-agents/2026-11-17/lane-starts.md","project":"grenudi/ideal-agent"}
+{"bytes":1808,"id":"research/organising-agents/2026-11-17/reading-is-not-acting.md","lines":24,"path":"research/organising-agents/2026-11-17/reading-is-not-acting.md","project":"grenudi/ideal-agent"}
 {"bytes":3361,"id":"research/organising-agents/2026-11-17/roles.md","lines":41,"path":"research/organising-agents/2026-11-17/roles.md","project":"grenudi/ideal-agent"}
 {"bytes":2511,"id":"skills/ask-a-knowledge-base/SKILL.md","lines":38,"path":"skills/ask-a-knowledge-base/SKILL.md","project":"grenudi/ideal-agent"}
 {"bytes":2616,"id":"skills/bring-up-a-part/SKILL.md","lines":35,"path":"skills/bring-up-a-part/SKILL.md","project":"grenudi/ideal-agent"}
 {"bytes":2275,"id":"skills/change-a-device/SKILL.md","lines":29,"path":"skills/change-a-device/SKILL.md","project":"grenudi/ideal-agent"}
-{"bytes":6237,"id":"skills/keep-a-shared-resource/SKILL.md","lines":87,"path":"skills/keep-a-shared-resource/SKILL.md","project":"grenudi/ideal-agent"}
+{"bytes":7062,"id":"skills/keep-a-shared-resource/SKILL.md","lines":96,"path":"skills/keep-a-shared-resource/SKILL.md","project":"grenudi/ideal-agent"}
 {"bytes":7629,"id":"skills/keep-the-start-light/SKILL.md","lines":110,"path":"skills/keep-the-start-light/SKILL.md","project":"grenudi/ideal-agent"}
 {"bytes":3055,"id":"skills/lab-session-start/SKILL.md","lines":47,"path":"skills/lab-session-start/SKILL.md","project":"grenudi/ideal-agent"}
 {"bytes":2404,"id":"skills/land-a-change/SKILL.md","lines":30,"path":"skills/land-a-change/SKILL.md","project":"grenudi/ideal-agent"}
@@ -94,7 +95,7 @@
 {"bytes":4650,"id":"skills/record-the-work/SKILL.md","lines":62,"path":"skills/record-the-work/SKILL.md","project":"grenudi/ideal-agent"}
 {"bytes":2290,"id":"skills/research-a-feature/SKILL.md","lines":30,"path":"skills/research-a-feature/SKILL.md","project":"grenudi/ideal-agent"}
 {"bytes":3046,"id":"AGENTS.md","lines":31,"path":"AGENTS.md","project":"grenudi/ideal-knowledge-base"}
-{"bytes":7027,"id":"CHANGELOG.md","lines":134,"path":"CHANGELOG.md","project":"grenudi/ideal-knowledge-base"}
+{"bytes":7357,"id":"CHANGELOG.md","lines":141,"path":"CHANGELOG.md","project":"grenudi/ideal-knowledge-base"}
 {"bytes":11,"id":"CLAUDE.md","lines":1,"path":"CLAUDE.md","project":"grenudi/ideal-knowledge-base"}
 {"bytes":3496,"id":"README.md","lines":53,"path":"README.md","project":"grenudi/ideal-knowledge-base"}
 {"bytes":7065,"id":"docs/backlog.md","lines":245,"path":"docs/backlog.md","project":"grenudi/ideal-knowledge-base"}
@@ -142,7 +143,7 @@
 {"bytes":128726,"id":"docs/backlog.md","lines":4638,"path":"docs/backlog.md","project":"linux-phone-oco/docs"}
 {"bytes":1493,"id":"docs/components.md","lines":149,"path":"docs/components.md","project":"linux-phone-oco/docs"}
 {"bytes":1786,"id":"docs/concepts.md","lines":73,"path":"docs/concepts.md","project":"linux-phone-oco/docs"}
-{"bytes":98385,"id":"docs/decisions.md","lines":1550,"path":"docs/decisions.md","project":"linux-phone-oco/docs"}
+{"bytes":98828,"id":"docs/decisions.md","lines":1550,"path":"docs/decisions.md","project":"linux-phone-oco/docs"}
 {"bytes":4097,"id":"docs/devices.md","lines":50,"path":"docs/devices.md","project":"linux-phone-oco/docs"}
 {"bytes":33016,"id":"docs/feature_support.md","lines":517,"path":"docs/feature_support.md","project":"linux-phone-oco/docs"}
 {"bytes":5630,"id":"docs/features.md","lines":462,"path":"docs/features.md","project":"linux-phone-oco/docs"}

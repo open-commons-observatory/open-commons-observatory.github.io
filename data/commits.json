@@ -513,6 +513,7 @@
 {"at":"2026-11-17T16:29:35Z","by":"grenudi","id":"28b3b44","project":"grenudi/ideal-agent","says":"docs: land-a-change reads its diff against main before landing (plugin 0.3.11) (#43)"}
 {"at":"2026-11-17T11:39:20Z","by":"grenudi","id":"3289502","project":"grenudi/ideal-agent","says":"feat: ideal-agent follows ideal-knowledge-base: every record names its subject (#7)"}
 {"at":"2026-11-17T11:46:18Z","by":"grenudi","id":"346a768","project":"grenudi/ideal-agent","says":"docs: the sources' by goes back once idealkb 0.3.0 is pinned (#11)"}
+{"at":"2026-11-17T17:43:20Z","by":"grenudi","id":"36dd97e","project":"grenudi/ideal-agent","says":"feat: reading the world is not acting on it: checked downloads are the lane's (plugin 0.3.17) (#52)"}
 {"at":"2026-11-17T17:20:34Z","by":"grenudi","id":"3ae559e","project":"grenudi/ideal-agent","says":"docs: land-a-change: plain land, and land refuses a revert of main (plugin 0.3.16) (#51)"}
 {"at":"2026-11-17T09:42:13Z","by":"grenudi","id":"3cbec09","project":"grenudi/ideal-agent","says":"Initial commit"}
 {"at":"2026-11-17T12:01:02Z","by":"grenudi","id":"3d853d7","project":"grenudi/ideal-agent","says":"feat: the session start reads each practice's first sentence, numbered by its id (#15)"}
@@ -566,6 +567,7 @@
 {"at":"2026-11-17T17:34:50Z","by":"github-actions[bot]","id":"0fee4f1","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#47)"}
 {"at":"2026-11-17T11:36:40Z","by":"grenudi","id":"12334d7","project":"grenudi/ideal-knowledge-base","says":"feat: a summary over many records, and research kept aside in dated folders (#5)"}
 {"at":"2026-11-17T15:18:26Z","by":"github-actions[bot]","id":"12ca79f","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#31)"}
+{"at":"2026-11-17T17:41:46Z","by":"github-actions[bot]","id":"1cafef6","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#51)"}
 {"at":"2026-11-17T17:18:48Z","by":"grenudi","id":"2700beb","project":"grenudi/ideal-knowledge-base","says":"docs: ikb: research and decision - a commons base plus one open base per unit (#43)"}
 {"at":"2026-11-17T15:46:29Z","by":"grenudi","id":"2ba3592","project":"grenudi/ideal-knowledge-base","says":"feat: ikb: completions for four shells, asked as you type; the agent starts with ikb --help (#34)"}
 {"at":"2026-11-17T17:37:52Z","by":"github-actions[bot]","id":"3591d4c","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#49)"}
@@ -865,6 +867,7 @@
 {"at":"2026-11-17T16:20:20Z","by":"github-actions[bot]","id":"db52082","project":"linux-phone-oco/docs","says":"chore(main): release 0.9.0 (#239)"}
 {"at":"2026-11-17T13:07:32Z","by":"grenudi","id":"dbb228d","project":"linux-phone-oco/docs","says":"docs: the SIM is out of surya: device note, skip-checks backlog item (#200)"}
 {"at":"2026-11-17T04:14:19Z","by":"grenudi","id":"dcfec84","project":"linux-phone-oco/docs","says":"docs: Decision (surya-lab): test kernels that prove a part are built from pushed branches (#120)"}
+{"at":"2026-11-17T17:41:30Z","by":"grenudi","id":"ddb9948","project":"linux-phone-oco/docs","says":"docs: walleye control image is LineageOS's boot.img; downloads are the lane's call (#281)"}
 {"at":"2026-11-17T15:24:49Z","by":"grenudi","id":"ddd6f4f","project":"linux-phone-oco/docs","says":"walleye keeper first look (#222)"}
 {"at":"2026-11-17T15:58:05Z","by":"grenudi","id":"de49dc7","project":"linux-phone-oco/docs","says":"keeper6 adsp floor (#232)"}
 {"at":"2026-11-17T00:35:26Z","by":"grenudi","id":"de97bb8","project":"linux-phone-oco/docs","says":"docs: The face's next: support read off results, gaps shown as gaps (#85)"}
@@ -3154,6 +3157,7 @@
 {"at":"2026-11-10T22:34:44Z","by":"oco harvest","id":"c17fd27","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T19:17:06Z","by":"oco harvest","id":"c1d0129","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T19:51:58Z","by":"grenudi","id":"c1d1e35","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261114-195143","says":"docs: a practice: say where a guideline is shown (#80)"}
+{"at":"2026-11-17T17:42:17Z","by":"oco harvest","id":"c24c93f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T17:28:01Z","by":"oco harvest","id":"c25f3e2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T09:52:02Z","by":"oco harvest","id":"c2d0c38","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T10:20:57Z","by":"oco harvest","id":"c36b655","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
