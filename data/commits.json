@@ -813,6 +813,7 @@
 {"at":"2026-11-17T02:55:50Z","by":"grenudi","id":"7921fd7","project":"linux-phone-oco/lab-tools","says":"docs: The author asks: test sounds quiet, at a level the manifest sets (#44)"}
 {"at":"2026-11-10T13:38:10Z","by":"grenudi","id":"7edee0a","project":"linux-phone-oco/lab-tools","says":"feat: devlab flash - an image onto the phone with the manifest's fixes baked in (#8)"}
 {"at":"2026-11-17T04:34:20Z","by":"grenudi","id":"802e6e3","project":"linux-phone-oco/lab-tools","says":"feat: suite put takes devlab-health from its Alpine package (#51)"}
+{"at":"2026-11-17T13:17:32Z","by":"github-actions[bot]","id":"80b51d2","project":"linux-phone-oco/lab-tools","says":"chore(devlab-health): release v0.1.6 (#74)"}
 {"at":"2026-11-17T04:19:16Z","by":"github-actions[bot]","id":"820bce8","project":"linux-phone-oco/lab-tools","says":"chore(devlab-health): release v0.1.0 (#49)"}
 {"at":"2026-11-17T10:17:46Z","by":"grenudi","id":"85dbfbb","project":"linux-phone-oco/lab-tools","says":"feat: devlab keeper: one keeper of the phone at a time, by a lease that lapses (#66)"}
 {"at":"2026-11-17T02:34:54Z","by":"grenudi","id":"8672839","project":"linux-phone-oco/lab-tools","says":"docs: Asks from bring-up: try read as stock, suite put's runner, LPASS debugfs hangs (#42)"}
@@ -975,6 +976,7 @@
 {"at":"2026-11-10T10:23:03Z","by":"grenudi","id":"d588318","project":"linux-phone-oco/surya-lab","says":"feat: kernel/test-entry.sh boot-once - the test kernel once, then stock again (#23)"}
 {"at":"2026-11-09T21:32:50Z","by":"grenudi","id":"d7b221e","project":"linux-phone-oco/surya-lab","says":"feat: a stereo speaker profile for surya (#3)"}
 {"at":"2026-11-10T11:57:49Z","by":"grenudi","id":"d8edfdb","project":"linux-phone-oco/surya-lab","says":"feat(provision): the Sxmo profile from linux-phone-oco/sxmo-deviceprofiles (#29)"}
+{"at":"2026-11-17T13:18:06Z","by":"grenudi","id":"dd13a05","project":"linux-phone-oco/surya-lab","says":"feat(health): call-echo and SMS self-test skip 'no SIM card' (before the day is marked) (#123)"}
 {"at":"2026-11-10T02:30:13Z","by":"grenudi","id":"de63990","project":"linux-phone-oco/surya-lab","says":"feat: provision a freshly flashed phone - Firefox and the standard packages over the PC's connection (#11)"}
 {"at":"2026-11-11T00:44:09Z","by":"grenudi","id":"dee5ff6","project":"linux-phone-oco/surya-lab","says":"feat(checks): more of the phone measured - Wi-Fi joined, Bluetooth hearing, the SIM, what the kernel exposes (#45)"}
 {"at":"2026-11-17T00:31:09Z","by":"grenudi","id":"e0e623d","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#72)"}
@@ -3000,6 +3002,7 @@
 {"at":"2026-11-17T11:12:00Z","by":"oco harvest","id":"d0693e4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T03:56:23Z","by":"oco harvest","id":"d16a8f8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T15:46:17Z","by":"oco harvest","id":"d1960e5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T13:17:48Z","by":"oco harvest","id":"d230be7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T01:03:24Z","by":"oco harvest","id":"d2530d1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T20:09:31Z","by":"oco harvest","id":"d26426d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T16:55:37Z","by":"oco harvest","id":"d27e19e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
