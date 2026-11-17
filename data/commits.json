@@ -751,6 +751,7 @@
 {"at":"2026-11-17T18:58:57Z","by":"grenudi","id":"3ab31d5","project":"linux-phone-oco/docs","says":"docs: sleep-standby-current waits for the author's hands; how the phone stands (#326)"}
 {"at":"2026-11-17T17:20:46Z","by":"grenudi","id":"3afb527","project":"linux-phone-oco/docs","says":"docs: docs: the research the commons-and-device-bases decision rests on (#266)"}
 {"at":"2026-11-17T16:26:59Z","by":"grenudi","id":"3bafba0","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#244)"}
+{"at":"2026-11-17T21:23:30Z","by":"grenudi","id":"3d185e7","project":"linux-phone-oco/docs","says":"docs(lab-tools): bringup-pin-and-hooks done, decision and log (#373)"}
 {"at":"2026-11-11T16:44:33Z","by":"grenudi","id":"3d67245","project":"linux-phone-oco/docs","says":"docs: the tables declared as data, for tad in Rust (#60)"}
 {"at":"2026-11-17T10:05:15Z","by":"grenudi","id":"3e5e6c8","project":"linux-phone-oco/docs","says":"docs: An ideal knowledge base proposed: about link, one entry, idealkb from the template (#161)"}
 {"at":"2026-11-17T17:34:00Z","by":"grenudi","id":"40a8dc0","project":"linux-phone-oco/docs","says":"docs: floor-udc-unbound - USB is not the holder (keeper-9) (#274)"}
@@ -1035,10 +1036,12 @@
 {"at":"2026-11-17T20:22:02Z","by":"grenudi","id":"14a4a4c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the noattr try waits on nothing (rank 2, after the ncm split) (#36)"}
 {"at":"2026-11-17T20:05:19Z","by":"grenudi","id":"1eee99d","project":"linux-phone-oco/google-walleye-lab","says":"walleye builder gadget5 (#27)"}
 {"at":"2026-11-17T21:00:15Z","by":"grenudi","id":"23ce088","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the C helper is a probe; its Rust rewrite queued; the builder's wrong belief corrected (#46)"}
+{"at":"2026-11-17T21:20:40Z","by":"grenudi","id":"2983098","project":"linux-phone-oco/google-walleye-lab","says":"walleye: both host-bound tries re-queued after the lab reboot (#50)"}
 {"at":"2026-11-17T20:25:53Z","by":"grenudi","id":"2e16ba9","project":"linux-phone-oco/google-walleye-lab","says":"walleye: how the phone stands (#38)"}
 {"at":"2026-11-17T19:46:10Z","by":"grenudi","id":"2e46a6b","project":"linux-phone-oco/google-walleye-lab","says":"feat: walleye's rows, moved here from docs; lane-next for the launchers (#15)"}
 {"at":"2026-11-17T20:07:03Z","by":"grenudi","id":"2f2ee42","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the gadget bisect try waits on nothing (#28)"}
 {"at":"2026-11-17T20:58:02Z","by":"grenudi","id":"3034bbb","project":"linux-phone-oco/google-walleye-lab","says":"walleye: vendor-gadget-n3 image, the FunctionFS ACM console helper and its init (#44)"}
+{"at":"2026-11-17T21:21:24Z","by":"grenudi","id":"424931e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: both host-bound tries re-queued after the lab reboot (#51)"}
 {"at":"2026-11-17T20:01:33Z","by":"grenudi","id":"49a4712","project":"linux-phone-oco/google-walleye-lab","says":"walleye: vendor-gadget4 tried - idle init returns, bootreason reboot (#25)"}
 {"at":"2026-11-17T21:01:50Z","by":"grenudi","id":"4af8d9b","project":"linux-phone-oco/google-walleye-lab","says":"walleye: how the phone stands (#48)"}
 {"at":"2026-11-17T18:27:57Z","by":"grenudi","id":"4eb1a74","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants g, h, i answer on 172.16.43.1 (e, b, f); a-f byte for byte (#9)"}
@@ -1088,6 +1091,7 @@
 {"at":"2026-11-11T09:36:58Z","by":"grenudi","id":"19ada91","project":"linux-phone-oco/lab-tools","says":"docs: this morning's findings, with concepts and decisions (#23)"}
 {"at":"2026-11-16T23:29:04Z","by":"grenudi","id":"1ab2ce7","project":"linux-phone-oco/lab-tools","says":"feat: The phone checks its own health after every boot: devlab-health and devlab suite (#29)"}
 {"at":"2026-11-17T15:26:13Z","by":"grenudi","id":"1b35fc6","project":"linux-phone-oco/lab-tools","says":"feat(devlab): a phone over fastboot, by its serial; flash only where the manifest allows (#79)"}
+{"at":"2026-11-17T21:22:22Z","by":"grenudi","id":"1c28f4a","project":"linux-phone-oco/lab-tools","says":"feat(bringup): follow the family pin, extend by step hooks, library example (#88)"}
 {"at":"2026-11-17T19:38:11Z","by":"grenudi","id":"1f2b422","project":"linux-phone-oco/lab-tools","says":"feat: devlab gather files runs into the device's own base when the lab has a devicebase.toml (#82)"}
 {"at":"2026-11-10T12:38:33Z","by":"grenudi","id":"25e5fe4","project":"linux-phone-oco/lab-tools","says":"feat: devlab test, health and watch - regressions caught, silence when all is well (#5)"}
 {"at":"2026-11-17T09:29:21Z","by":"grenudi","id":"26ef2ed","project":"linux-phone-oco/lab-tools","says":"fix: mobile-data measures the data bearer, never the IMS one beside it (#62)"}
@@ -3475,6 +3479,7 @@
 {"at":"2026-11-15T18:35:05Z","by":"oco harvest","id":"da18b67","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T13:22:25Z","by":"oco harvest","id":"db3b880","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T23:33:21Z","by":"oco harvest","id":"dbdc9e1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T21:20:17Z","by":"oco harvest","id":"dc4ddcf","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T22:53:44Z","by":"oco harvest","id":"dc56b8a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T11:10:21Z","by":"grenudi","id":"dc59548","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: Rust for what ships; tools for what repeats (#48)"}
 {"at":"2026-11-12T19:02:51Z","by":"oco harvest","id":"dc8f2be","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
