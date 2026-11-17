@@ -1507,6 +1507,7 @@
 {"at":"2026-11-15T12:22:04Z","by":"grenudi","id":"fe9f3c8","project":"marshall-oco/marshall-oco.github.io","record":"g-20261115-122148","says":"feat: this observatory says what it shows first; each page says what it is (#17)"}
 {"at":"2026-11-13T08:48:36Z","by":"oco observe","id":"fef1b39","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T08:26:56Z","by":"oco observe","id":"ff07e50","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T10:10:09Z","by":"oco observe","id":"ff6c0d5","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T14:18:24Z","by":"oco observe","id":"ff9f9af","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:56:30Z","by":"grenudi","id":"022fc95","project":"open-commons-observatory/ecosystem","record":"g-20261114-235613","says":"docs: the oscillation of discovery: the author's words, and what the thing showed of itself (#92)"}
 {"at":"2026-11-14T08:44:08Z","by":"grenudi","id":"058d740","project":"open-commons-observatory/ecosystem","record":"g-20261114-084352","says":"docs: who takes part: a lens made through entries, and halts drawn from a person (#49)"}
@@ -2314,6 +2315,7 @@
 {"at":"2026-11-12T18:33:36Z","by":"oco harvest","id":"2ecd540","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T18:04:51Z","by":"oco harvest","id":"2edbf72","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T08:51:28Z","by":"oco harvest","id":"2f141c9","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T10:08:02Z","by":"oco harvest","id":"2f90858","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T20:45:21Z","by":"oco harvest","id":"2f92316","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T15:20:46Z","by":"oco harvest","id":"2fbfa22","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T21:42:40Z","by":"oco harvest","id":"2fe9628","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
