@@ -554,6 +554,7 @@
 {"at":"2026-11-10T01:36:01Z","by":"grenudi","id":"325abe7","project":"linux-phone-oco/docs","says":"feat(feed): kernel work on surya's device tree, from sm7150-mainline (#23)"}
 {"at":"2026-11-17T02:04:12Z","by":"grenudi","id":"3288b61","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#111)"}
 {"at":"2026-11-17T03:24:33Z","by":"grenudi","id":"3799499","project":"linux-phone-oco/docs","says":"docs: Microphone: the reset fault found and queued; capture prepares, still silent (#116)"}
+{"at":"2026-11-17T09:10:58Z","by":"grenudi","id":"3858805","project":"linux-phone-oco/docs","says":"docs: SMS works: the phone texts itself and receives it, once a day (#152)"}
 {"at":"2026-11-17T09:01:19Z","by":"grenudi","id":"3891906","project":"linux-phone-oco/docs","says":"docs: 4 runs of xiaomi-surya filed by devlab, from the phone's own reports (#150)"}
 {"at":"2026-11-17T04:20:06Z","by":"grenudi","id":"39af2c0","project":"linux-phone-oco/docs","says":"docs: lab-tools: the LPASS debugfs hazard is held by devlab and surya's manifest (#121)"}
 {"at":"2026-11-17T01:25:21Z","by":"grenudi","id":"3a88fc0","project":"linux-phone-oco/docs","says":"docs: How linux-phone's agents are organised: roles, briefs, the data as shared state (#93)"}
@@ -685,6 +686,7 @@
 {"at":"2026-11-11T21:37:29Z","by":"grenudi","id":"2b36565","project":"linux-phone-oco/lab-tools","says":"chore: glimpses are recorded here from now on (#26)"}
 {"at":"2026-11-17T01:33:23Z","by":"grenudi","id":"3029dfd","project":"linux-phone-oco/lab-tools","says":"feat: The ways, held for agents: devlab guard, for the lab's Claude Code hooks (#36)"}
 {"at":"2026-11-10T11:46:34Z","by":"grenudi","id":"33f7424","project":"linux-phone-oco/lab-tools","says":"feat: devlab kernel - the safe test-kernel boot, for any phone (#2)"}
+{"at":"2026-11-17T09:08:37Z","by":"grenudi","id":"347e3dd","project":"linux-phone-oco/lab-tools","says":"feat: the telephony layer: checks that cost something, at most once a day (#56)"}
 {"at":"2026-11-17T02:12:28Z","by":"grenudi","id":"35afe6f","project":"linux-phone-oco/lab-tools","says":"feat: watch: gathered once the phone is quiet, and landed again when main moved (#41)"}
 {"at":"2026-11-10T16:40:31Z","by":"grenudi","id":"41cc1ab","project":"linux-phone-oco/lab-tools","says":"chore(mark): a short title - devlab (#11)"}
 {"at":"2026-11-16T23:46:28Z","by":"grenudi","id":"41fa86c","project":"linux-phone-oco/lab-tools","says":"feat: Every change ends with the phone's health: reboot, kernel try, provision (#31)"}
@@ -723,6 +725,7 @@
 {"at":"2026-11-10T16:26:44Z","by":"grenudi","id":"e330899","project":"linux-phone-oco/lab-tools","says":"feat(oco): devlab's own backlog and path (#10)"}
 {"at":"2026-11-17T05:11:58Z","by":"grenudi","id":"e383108","project":"linux-phone-oco/lab-tools","says":"fix: kernel remove never takes modules another kernel boots with (#54)"}
 {"at":"2026-11-16T23:37:27Z","by":"grenudi","id":"e5329bb","project":"linux-phone-oco/lab-tools","says":"feat: Gathering is one command: devlab gather now (#30)"}
+{"at":"2026-11-17T09:09:41Z","by":"github-actions[bot]","id":"f21fb4b","project":"linux-phone-oco/lab-tools","says":"chore(devlab-health): release v0.1.1 (#50)"}
 {"at":"2026-11-10T22:03:37Z","by":"grenudi","id":"f5c1d4f","project":"linux-phone-oco/lab-tools","says":"feat(devlab): hear - a tone on each speaker, heard through the lab's microphone (#15)"}
 {"at":"2026-11-10T17:39:07Z","by":"grenudi","id":"f7897df","project":"linux-phone-oco/lab-tools","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#12)"}
 {"at":"2026-11-11T00:32:42Z","by":"grenudi","id":"f8bc01a","project":"linux-phone-oco/lab-tools","says":"docs: its idea in Russian (by machine, for a person to correct) (#21)"}
@@ -783,6 +786,7 @@
 {"at":"2026-11-16T23:30:19Z","by":"grenudi","id":"5dd7806","project":"linux-phone-oco/surya-lab","says":"feat: surya checks its own health after every boot: [health] and its amplifier checks (#70)"}
 {"at":"2026-11-09T14:16:59Z","by":"grenudi","id":"5ed017a","project":"linux-phone-oco/surya-lab","says":"fix: resolve the revision before checking it out"}
 {"at":"2026-11-17T05:31:25Z","by":"grenudi","id":"5fcb245","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#107)"}
+{"at":"2026-11-17T09:10:08Z","by":"grenudi","id":"6137064","project":"linux-phone-oco/surya-lab","says":"docs: SMS: the phone texts itself once a day and finds it, from ModemManager or Sxmo (#114)"}
 {"at":"2026-11-10T11:14:04Z","by":"grenudi","id":"620c5da","project":"linux-phone-oco/surya-lab","says":"feat/test entry boot counting (#26)"}
 {"at":"2026-11-09T14:15:39Z","by":"grenudi","id":"6730419","project":"linux-phone-oco/surya-lab","says":"Initial commit"}
 {"at":"2026-11-10T13:38:40Z","by":"grenudi","id":"67bffc2","project":"linux-phone-oco/surya-lab","says":"feat(manifest): how surya is flashed - layout, device tree, the fixes baked in (#34)"}
@@ -1064,6 +1068,7 @@
 {"at":"2026-11-14T22:46:19Z","by":"oco observe","id":"5367f29","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T20:09:16Z","by":"oco observe","id":"536eccd","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T20:59:39Z","by":"oco observe","id":"540d1cd","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T09:10:46Z","by":"oco observe","id":"54118d4","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T11:18:18Z","by":"oco observe","id":"544700a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T17:25:34Z","by":"oco observe","id":"54c3861","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-17T07:33:25Z","by":"oco observe","id":"55447b8","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -2422,6 +2427,7 @@
 {"at":"2026-11-14T20:19:19Z","by":"oco harvest","id":"564a30f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T20:55:54Z","by":"oco harvest","id":"565268e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T14:08:23Z","by":"oco harvest","id":"571259d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T09:07:30Z","by":"oco harvest","id":"5713965","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T19:11:07Z","by":"oco harvest","id":"57b8734","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T10:06:13Z","by":"oco harvest","id":"57cd13f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T13:47:33Z","by":"grenudi","id":"57de89f","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-134715","says":"fix: the first observatory's whole begins with why each star exists (#91)"}
