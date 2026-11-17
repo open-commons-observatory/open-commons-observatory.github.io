@@ -1033,11 +1033,13 @@
 {"at":"2026-11-17T18:43:18Z","by":"grenudi","id":"13c1a61","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget.img (the control with our gadget initramfs) and the host check walleye-gadget-up (#11)"}
 {"at":"2026-11-17T20:22:02Z","by":"grenudi","id":"14a4a4c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the noattr try waits on nothing (rank 2, after the ncm split) (#36)"}
 {"at":"2026-11-17T20:05:19Z","by":"grenudi","id":"1eee99d","project":"linux-phone-oco/google-walleye-lab","says":"walleye builder gadget5 (#27)"}
+{"at":"2026-11-17T21:00:15Z","by":"grenudi","id":"23ce088","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the C helper is a probe; its Rust rewrite queued; the builder's wrong belief corrected (#46)"}
 {"at":"2026-11-17T20:25:53Z","by":"grenudi","id":"2e16ba9","project":"linux-phone-oco/google-walleye-lab","says":"walleye: how the phone stands (#38)"}
 {"at":"2026-11-17T19:46:10Z","by":"grenudi","id":"2e46a6b","project":"linux-phone-oco/google-walleye-lab","says":"feat: walleye's rows, moved here from docs; lane-next for the launchers (#15)"}
 {"at":"2026-11-17T20:07:03Z","by":"grenudi","id":"2f2ee42","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the gadget bisect try waits on nothing (#28)"}
 {"at":"2026-11-17T20:58:02Z","by":"grenudi","id":"3034bbb","project":"linux-phone-oco/google-walleye-lab","says":"walleye: vendor-gadget-n3 image, the FunctionFS ACM console helper and its init (#44)"}
 {"at":"2026-11-17T20:01:33Z","by":"grenudi","id":"49a4712","project":"linux-phone-oco/google-walleye-lab","says":"walleye: vendor-gadget4 tried - idle init returns, bootreason reboot (#25)"}
+{"at":"2026-11-17T21:01:50Z","by":"grenudi","id":"4af8d9b","project":"linux-phone-oco/google-walleye-lab","says":"walleye: how the phone stands (#48)"}
 {"at":"2026-11-17T18:27:57Z","by":"grenudi","id":"4eb1a74","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants g, h, i answer on 172.16.43.1 (e, b, f); a-f byte for byte (#9)"}
 {"at":"2026-11-17T18:23:44Z","by":"grenudi","id":"4fa476d","project":"linux-phone-oco/google-walleye-lab","says":"address 43 (#7)"}
 {"at":"2026-11-17T20:21:07Z","by":"grenudi","id":"5315bf5","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget-n1, n2, the ncm step without settings writes (walleye-ncm-noattr-images) (#35)"}
@@ -1051,6 +1053,7 @@
 {"at":"2026-11-17T18:26:59Z","by":"grenudi","id":"66e330d","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants g and h answer on 172.16.43.1 (walleye's own address); a-f byte for byte (#8)"}
 {"at":"2026-11-17T19:57:53Z","by":"grenudi","id":"67f8e76","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the 60 s panic researched - read order decided, three phone reads queued (#22)"}
 {"at":"2026-11-17T19:30:44Z","by":"grenudi","id":"6b3fdd7","project":"linux-phone-oco/google-walleye-lab","says":"feat: walleye's own device base, from device-template (#4, #5) (#14)"}
+{"at":"2026-11-17T21:01:09Z","by":"grenudi","id":"78795ca","project":"linux-phone-oco/google-walleye-lab","says":"walleye: m1 tried - enumerates as mass storage, host lacks usb_storage (#47)"}
 {"at":"2026-11-17T20:50:49Z","by":"grenudi","id":"7f32736","project":"linux-phone-oco/google-walleye-lab","says":"walleye: decision on the host channel order (#41)"}
 {"at":"2026-11-17T19:48:29Z","by":"grenudi","id":"83984c0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the third try of vendor-gadget3, with the watcher kept alive (#16)"}
 {"at":"2026-11-17T20:18:44Z","by":"grenudi","id":"981c2f6","project":"linux-phone-oco/google-walleye-lab","says":"walleye: why ncm panics the vendor kernel (attribute writes on a NULL net), decision and backlog (#33)"}
@@ -3462,6 +3465,7 @@
 {"at":"2026-11-10T21:14:18Z","by":"grenudi","id":"d85d7ba","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: Rhizome curated second; logged (#28)"}
 {"at":"2026-11-15T12:50:11Z","by":"oco harvest","id":"d89b80e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T21:40:56Z","by":"grenudi","id":"d8c4fa0","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261111-214040","says":"chore: glimpses are recorded here from now on (#67)"}
+{"at":"2026-11-17T21:01:12Z","by":"oco harvest","id":"d91a6e9","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T18:35:05Z","by":"oco harvest","id":"da18b67","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T13:22:25Z","by":"oco harvest","id":"db3b880","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T23:33:21Z","by":"oco harvest","id":"dbdc9e1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
