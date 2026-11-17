@@ -413,9 +413,10 @@
 {"id":"devlab/src/kernel.rs:the_entry_sorts_first_carries_both_initramfs_and_masks_bless","line":566,"name":"the_entry_sorts_first_carries_both_initramfs_and_masks_bless","path":"devlab/src/kernel.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/kernel.rs:the_release_comes_from_the_archive_listing","line":547,"name":"the_release_comes_from_the_archive_listing","path":"devlab/src/kernel.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/kernel.rs:the_timeout_hook_decides_with_builtins_only","line":586,"name":"the_timeout_hook_decides_with_builtins_only","path":"devlab/src/kernel.rs","project":"linux-phone-oco/lab-tools"}
-{"id":"devlab/src/outcome.rs:a_try_is_judged_by_what_the_phone_says","line":119,"name":"a_try_is_judged_by_what_the_phone_says","path":"devlab/src/outcome.rs","project":"linux-phone-oco/lab-tools"}
-{"id":"devlab/src/outcome.rs:each_outcome_says_what_to_do","line":181,"name":"each_outcome_says_what_to_do","path":"devlab/src/outcome.rs","project":"linux-phone-oco/lab-tools"}
-{"id":"devlab/src/outcome.rs:the_bootloaders_word_decides_where_entries_share_a_release","line":162,"name":"the_bootloaders_word_decides_where_entries_share_a_release","path":"devlab/src/outcome.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/outcome.rs:a_try_is_judged_by_what_the_phone_says","line":146,"name":"a_try_is_judged_by_what_the_phone_says","path":"devlab/src/outcome.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/outcome.rs:each_outcome_says_what_to_do","line":235,"name":"each_outcome_says_what_to_do","path":"devlab/src/outcome.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/outcome.rs:the_bootloaders_word_decides_where_entries_share_a_release","line":216,"name":"the_bootloaders_word_decides_where_entries_share_a_release","path":"devlab/src/outcome.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/src/outcome.rs:the_running_initramfs_decides_where_the_bootloader_says_none","line":192,"name":"the_running_initramfs_decides_where_the_bootloader_says_none","path":"devlab/src/outcome.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/phone.rs:only_a_different_boot_id_is_a_new_boot","line":223,"name":"only_a_different_boot_id_is_a_new_boot","path":"devlab/src/phone.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/phone.rs:the_script_never_rides_on_the_command_line","line":233,"name":"the_script_never_rides_on_the_command_line","path":"devlab/src/phone.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/provision.rs:a_fresh_phone_gets_its_clock_and_its_storage_first","line":317,"name":"a_fresh_phone_gets_its_clock_and_its_storage_first","path":"devlab/src/provision.rs","project":"linux-phone-oco/lab-tools"}

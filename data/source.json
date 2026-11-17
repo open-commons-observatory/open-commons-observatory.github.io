@@ -105,7 +105,7 @@
 {"bytes":26384,"id":"devlab/src/kernel.rs","lines":600,"path":"devlab/src/kernel.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":16533,"id":"devlab/src/main.rs","lines":420,"path":"devlab/src/main.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":8142,"id":"devlab/src/mcp.rs","lines":233,"path":"devlab/src/mcp.rs","project":"linux-phone-oco/lab-tools"}
-{"bytes":7337,"id":"devlab/src/outcome.rs","lines":194,"path":"devlab/src/outcome.rs","project":"linux-phone-oco/lab-tools"}
+{"bytes":9411,"id":"devlab/src/outcome.rs","lines":248,"path":"devlab/src/outcome.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":8341,"id":"devlab/src/phone.rs","lines":243,"path":"devlab/src/phone.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":12037,"id":"devlab/src/provision.rs","lines":333,"path":"devlab/src/provision.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":16999,"id":"devlab/src/suite.rs","lines":481,"path":"devlab/src/suite.rs","project":"linux-phone-oco/lab-tools"}
