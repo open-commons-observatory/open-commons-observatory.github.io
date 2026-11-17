@@ -109,6 +109,7 @@
 {"at":"2026-11-12T01:12:10Z","by":"grenudi","id":"1a813b2","project":"creation-guidelines/ideal-project-playbook","record":"g-20261112-011132","says":"feat: SQL is back: make sql, tad engine in setup, the recipe (#27)"}
 {"at":"2026-11-10T16:00:33Z","by":"grenudi","id":"2b97eaf","project":"creation-guidelines/ideal-project-playbook","says":"chore: the observatory's mark (oco.toml) - the canon in the picture (#11)"}
 {"at":"2026-11-04T07:24:02Z","by":"grenudi","id":"39b3707","project":"creation-guidelines/ideal-project-playbook","says":"feat: the playbook, the agent instructions and a tested kit (#4)"}
+{"at":"2026-11-17T05:01:15Z","by":"grenudi","id":"49df52d","project":"creation-guidelines/ideal-project-playbook","record":"g-20261117-050046","says":"docs: The command line, declared once: argenv, in the tools chapter (#30)"}
 {"at":"2026-11-03T23:13:17Z","by":"grenudi","id":"4c88d98","project":"creation-guidelines/ideal-project-playbook","says":"feat(data): the playbook as data, rendered as reStructuredText (#2)"}
 {"at":"2026-11-04T07:33:30Z","by":"grenudi","id":"4e33ca8","project":"creation-guidelines/ideal-project-playbook","says":"feat(site): a GitHub Pages site built from the reStructuredText (#6)"}
 {"at":"2026-11-11T20:03:39Z","by":"grenudi","id":"519a5e7","project":"creation-guidelines/ideal-project-playbook","says":"refactor: a concept's text is its summary, the shared word (#23)"}
@@ -361,6 +362,7 @@
 {"at":"2026-11-11T17:50:52Z","by":"grenudi","id":"69d0d46","project":"creation-guidelines/software-engineering-canon","says":"ci: dependabot watches the renderer's package in tools/, not the retired .tad (#18)"}
 {"at":"2026-11-11T18:21:42Z","by":"grenudi","id":"753f7bb","project":"creation-guidelines/software-engineering-canon","says":"build: tad 0.2.0 (#20)"}
 {"at":"2026-11-15T12:49:12Z","by":"grenudi","id":"81c1652","project":"creation-guidelines/software-engineering-canon","record":"g-20261115-124843","says":"docs: where the canon is shown: seventeen guidelines say the decisions that show them (#30)"}
+{"at":"2026-11-17T05:02:59Z","by":"grenudi","id":"8604ba6","project":"creation-guidelines/software-engineering-canon","record":"g-20261117-050140","says":"docs: A practice: declare the invocation surface once (argenv) (#34)"}
 {"at":"2026-10-27T20:57:44Z","by":"grenudi","id":"8a5c6e4","project":"creation-guidelines/software-engineering-canon","says":"Merge pull request #7 from creation-guidelines/release-please--branches--main"}
 {"at":"2026-10-27T20:48:39Z","by":"github-actions[bot]","id":"8a7662f","project":"creation-guidelines/software-engineering-canon","says":"chore(main): release 1.2.0"}
 {"at":"2026-09-22T08:24:15Z","by":"grenudi","id":"8ab8c34","project":"creation-guidelines/software-engineering-canon","says":"feat(data): rebuild real content on the fresh template generation"}
@@ -2530,6 +2532,7 @@
 {"at":"2026-11-16T15:18:34Z","by":"oco harvest","id":"8b23ced","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T09:03:49Z","by":"oco harvest","id":"8b40fc3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T19:14:02Z","by":"oco harvest","id":"8bdb79c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T04:58:49Z","by":"oco harvest","id":"8be8134","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T01:08:32Z","by":"oco harvest","id":"8cbe4d1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T22:47:38Z","by":"oco harvest","id":"8d314cb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T22:14:30Z","by":"oco harvest","id":"8e39b8a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
