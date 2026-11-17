@@ -571,6 +571,7 @@
 {"at":"2026-11-12T19:17:29Z","by":"grenudi","id":"b240472","project":"linux-phone-oco/docs","record":"g-20261112-191701","says":"fix: the first release is 0.1.0: release-please is told so (#75)"}
 {"at":"2026-11-10T11:34:52Z","by":"grenudi","id":"b2ae42e","project":"linux-phone-oco/docs","says":"feat(data): the WCD boot analysed - a bus clash, then clocks off mid-init (#35)"}
 {"at":"2026-11-11T14:44:34Z","by":"grenudi","id":"b640902","project":"linux-phone-oco/docs","says":"feat(data): export the community's claims, to be drawn beside our checks (#57)"}
+{"at":"2026-11-17T01:38:21Z","by":"grenudi","id":"b6f5db4","project":"linux-phone-oco/docs","record":"g-20261117-013753","says":"feat: Tests: a known gap counted apart from a failure, in every run (#98)"}
 {"at":"2026-11-17T00:58:18Z","by":"grenudi","id":"ba01aae","project":"linux-phone-oco/docs","record":"g-20261117-005711","says":"feat: Support status read off the suite's results, beside what was judged (#86)"}
 {"at":"2026-11-05T07:33:49Z","by":"grenudi","id":"bbe722e","project":"linux-phone-oco/docs","says":"feat: schema for device/component/status tracking, RFC-style docs (#1)"}
 {"at":"2026-11-12T19:13:00Z","by":"grenudi","id":"bfe5aa4","project":"linux-phone-oco/docs","record":"g-20261112-191221","says":"docs: two problems raised: a release that failed unheard, and a version from nothing (#73)"}
@@ -641,6 +642,7 @@
 {"at":"2026-11-10T22:03:37Z","by":"grenudi","id":"f5c1d4f","project":"linux-phone-oco/lab-tools","says":"feat(devlab): hear - a tone on each speaker, heard through the lab's microphone (#15)"}
 {"at":"2026-11-10T17:39:07Z","by":"grenudi","id":"f7897df","project":"linux-phone-oco/lab-tools","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#12)"}
 {"at":"2026-11-11T00:32:42Z","by":"grenudi","id":"f8bc01a","project":"linux-phone-oco/lab-tools","says":"docs: its idea in Russian (by machine, for a person to correct) (#21)"}
+{"at":"2026-11-17T01:39:49Z","by":"grenudi","id":"fe7cbb7","project":"linux-phone-oco/lab-tools","record":"g-20261117-013840","says":"feat: gather: a known gap counted apart from a failure, as the phone's verdict counts it (#37)"}
 {"at":"2026-11-13T00:33:23Z","by":"grenudi","id":"4142565","project":"linux-phone-oco/lens","record":"g-20261113-003306","says":"docs: this is a constellation, and says what it gathers (#6)"}
 {"at":"2026-11-10T22:22:22Z","by":"grenudi","id":"4ebf6ee","project":"linux-phone-oco/lens","says":"feat: the lens opens with the essence; the idea; the phone in the lab (#3)"}
 {"at":"2026-11-11T14:44:58Z","by":"grenudi","id":"54bdcf0","project":"linux-phone-oco/lens","says":"feat: the Devices view shows what the community reports, beside our checks (#4)"}
@@ -656,6 +658,7 @@
 {"at":"2026-11-09T23:38:24Z","by":"grenudi","id":"0c91049","project":"linux-phone-oco/surya-lab","says":"feat: FIXES=0 flashes the image as it is (sshd only), to tell an image fault from ours (#6)"}
 {"at":"2026-11-10T04:12:08Z","by":"grenudi","id":"0ea8dfa","project":"linux-phone-oco/surya-lab","says":"fix(tests): the ADSP check's crash count, and resume timestamps read inside the kernel's padding (#18)"}
 {"at":"2026-11-10T22:22:01Z","by":"grenudi","id":"170f4ba","project":"linux-phone-oco/surya-lab","says":"docs: the lab's idea, told for anyone (#42)"}
+{"at":"2026-11-17T01:38:15Z","by":"grenudi","id":"1a4f47a","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#78)"}
 {"at":"2026-11-10T12:37:52Z","by":"grenudi","id":"1c31ceb","project":"linux-phone-oco/surya-lab","says":"feat(tests): the default output is a real sound card, not a loopback (#31)"}
 {"at":"2026-11-11T10:14:35Z","by":"grenudi","id":"1c8a5ac","project":"linux-phone-oco/surya-lab","says":"docs: two recording tries - the bus loses the codec when reshaped for the stream; not power management (#51)"}
 {"at":"2026-11-11T09:51:32Z","by":"grenudi","id":"1cec218","project":"linux-phone-oco/surya-lab","says":"docs: the microphone codec comes up - one pin muxed to the wrong function (#49)"}
@@ -1988,6 +1991,7 @@
 {"at":"2026-11-10T19:38:34Z","by":"grenudi","id":"d54d1a5","project":"open-commons-observatory/ocoeco-engine","says":"feat(site): lenses of ideas - the ideas and log views drawn; no empty comparisons (#26)"}
 {"at":"2026-11-11T11:14:42Z","by":"grenudi","id":"d86c018","project":"open-commons-observatory/ocoeco-engine","says":"fix(site): attention above the grand projects; unknown is not quiet; parked projects wait by choice (#42)"}
 {"at":"2026-11-10T16:19:59Z","by":"grenudi","id":"dc36661","project":"open-commons-observatory/ocoeco-engine","says":"feat(oco): the engine's own backlog and path (#10)"}
+{"at":"2026-11-17T01:36:21Z","by":"grenudi","id":"dea6ad7","project":"open-commons-observatory/ocoeco-engine","record":"g-20261117-013534","says":"feat: Tests: a known gap drawn apart from a failure, so red on the face is ill health only (#60)"}
 {"at":"2026-11-11T00:32:00Z","by":"grenudi","id":"e028759","project":"open-commons-observatory/ocoeco-engine","says":"docs: its idea in Russian (by machine, for a person to correct) (#37)"}
 {"at":"2026-11-11T13:43:25Z","by":"grenudi","id":"e0aa5ef","project":"open-commons-observatory/ocoeco-engine","says":"data: patching source by text is automated by structural edits (#50)"}
 {"at":"2026-11-10T22:08:56Z","by":"grenudi","id":"e179fb0","project":"open-commons-observatory/ocoeco-engine","says":"feat(site): Essence - the signature view: why, what, how, now on one page (#32)"}
@@ -2504,6 +2508,7 @@
 {"at":"2026-11-16T10:28:25Z","by":"oco harvest","id":"b0bdb9e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T22:46:08Z","by":"oco harvest","id":"b1396ec","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T20:00:18Z","by":"oco harvest","id":"b1698d2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T01:36:53Z","by":"oco harvest","id":"b247877","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T09:48:14Z","by":"oco harvest","id":"b259c6f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T03:13:00Z","by":"oco harvest","id":"b29f6ae","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T10:34:57Z","by":"oco harvest","id":"b2b23e5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
