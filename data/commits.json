@@ -272,6 +272,7 @@
 {"at":"2026-11-09T20:40:48Z","by":"github-actions[bot]","id":"b78d218","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.18 (#49)"}
 {"at":"2026-11-09T10:18:27Z","by":"github-actions[bot]","id":"b78d56e","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.4 (#18)"}
 {"at":"2026-11-10T04:48:02Z","by":"grenudi","id":"b88bc62","project":"creation-guidelines/lab-agent","says":"fix: a paste into the board chat arrives whole (#82)"}
+{"at":"2026-11-17T02:14:34Z","by":"grenudi","id":"b88f9a4","project":"creation-guidelines/lab-agent","record":"g-20261117-021335","says":"fix: landit returns to main in a worktree too, as land does (#215)"}
 {"at":"2026-11-12T08:42:37Z","by":"grenudi","id":"b89f284","project":"creation-guidelines/lab-agent","record":"g-20261112-084148","says":"fix: lab-agent reads listings whole: the stall and both replays had one cause (#155)"}
 {"at":"2026-11-10T17:46:22Z","by":"ocoeco gather","id":"b8b377b","project":"creation-guidelines/lab-agent","says":"data: gathered by ocoeco"}
 {"at":"2026-11-04T19:55:27Z","by":"grenudi","id":"b8e4642","project":"creation-guidelines/lab-agent","says":"fix: README does not imply a system pip (#4)"}
@@ -1993,6 +1994,7 @@
 {"at":"2026-11-11T13:37:13Z","by":"grenudi","id":"6b3b17b","project":"open-commons-observatory/ocoeco-engine","says":"fix(site): the family bar marks only the project whose page it is (#49)"}
 {"at":"2026-11-10T18:37:33Z","by":"grenudi","id":"723d0c6","project":"open-commons-observatory/ocoeco-engine","says":"chore: ocoeco-engine - the name says what it is: ocoeco's rendering engine (#21)"}
 {"at":"2026-11-10T22:26:45Z","by":"grenudi","id":"74c62e1","project":"open-commons-observatory/ocoeco-engine","says":"fix(site): an essence page inside a lens carries its own view's name (#33)"}
+{"at":"2026-11-17T02:17:08Z","by":"grenudi","id":"76a2134","project":"open-commons-observatory/ocoeco-engine","record":"g-20261117-021620","says":"feat: Made by work: where each hand stands, and what it last landed (#61)"}
 {"at":"2026-11-11T14:43:48Z","by":"grenudi","id":"78635b1","project":"open-commons-observatory/ocoeco-engine","says":"feat(site): what others report, beside what we measure (#53)"}
 {"at":"2026-11-10T20:59:25Z","by":"grenudi","id":"79e08e7","project":"open-commons-observatory/ocoeco-engine","says":"feat(site): criteria read in their own project first; discovered lenses shown as such (#29)"}
 {"at":"2026-11-10T16:59:33Z","by":"grenudi","id":"7c0ebab","project":"open-commons-observatory/ocoeco-engine","says":"refactor: only the face - the mark, discovery and the harvest now live in ocoeco (#15)"}
@@ -2231,6 +2233,7 @@
 {"at":"2026-11-12T10:06:49Z","by":"oco harvest","id":"4746f07","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T03:02:50Z","by":"oco harvest","id":"4748eb4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T02:07:49Z","by":"oco harvest","id":"47ca691","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T02:14:36Z","by":"oco harvest","id":"4817ade","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T00:19:35Z","by":"oco harvest","id":"484fb19","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T12:32:27Z","by":"oco harvest","id":"4855f23","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T09:36:12Z","by":"oco harvest","id":"487857c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
