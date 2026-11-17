@@ -544,6 +544,7 @@
 {"at":"2026-11-16T23:40:58Z","by":"github-actions[bot]","id":"652ae0b","project":"linux-phone-oco/docs","says":"chore(main): release 0.1.0 (#72)"}
 {"at":"2026-11-11T09:37:56Z","by":"grenudi","id":"6c24d21","project":"linux-phone-oco/docs","says":"feat(data): the microphone's chain nearly whole; which speaker is the bottom one (#54)"}
 {"at":"2026-11-05T08:03:38Z","by":"grenudi","id":"6f79a41","project":"linux-phone-oco/docs","says":"fix(data): the distro is Nura now (#5)"}
+{"at":"2026-11-17T01:00:18Z","by":"grenudi","id":"722b44a","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#87)"}
 {"at":"2026-11-10T00:33:46Z","by":"grenudi","id":"7a10c36","project":"linux-phone-oco/docs","says":"feat(data): plasma-silent - sound works after writing the chips' volume; not yet persistent (#17)"}
 {"at":"2026-11-10T03:58:52Z","by":"grenudi","id":"81e7a43","project":"linux-phone-oco/docs","says":"feat(data): the tas2562 volume bug is fixed - Plasma's silence explained; both patches queued (#29)"}
 {"at":"2026-11-12T01:05:33Z","by":"grenudi","id":"82ca47b","project":"linux-phone-oco/docs","record":"g-20261112-010505","says":"build: tad 0.5.0: the pin moved, the data and documents re-rendered (#70)"}
@@ -563,6 +564,7 @@
 {"at":"2026-11-12T19:17:29Z","by":"grenudi","id":"b240472","project":"linux-phone-oco/docs","record":"g-20261112-191701","says":"fix: the first release is 0.1.0: release-please is told so (#75)"}
 {"at":"2026-11-10T11:34:52Z","by":"grenudi","id":"b2ae42e","project":"linux-phone-oco/docs","says":"feat(data): the WCD boot analysed - a bus clash, then clocks off mid-init (#35)"}
 {"at":"2026-11-11T14:44:34Z","by":"grenudi","id":"b640902","project":"linux-phone-oco/docs","says":"feat(data): export the community's claims, to be drawn beside our checks (#57)"}
+{"at":"2026-11-17T00:58:18Z","by":"grenudi","id":"ba01aae","project":"linux-phone-oco/docs","record":"g-20261117-005711","says":"feat: Support status read off the suite's results, beside what was judged (#86)"}
 {"at":"2026-11-05T07:33:49Z","by":"grenudi","id":"bbe722e","project":"linux-phone-oco/docs","says":"feat: schema for device/component/status tracking, RFC-style docs (#1)"}
 {"at":"2026-11-12T19:13:00Z","by":"grenudi","id":"bfe5aa4","project":"linux-phone-oco/docs","record":"g-20261112-191221","says":"docs: two problems raised: a release that failed unheard, and a version from nothing (#73)"}
 {"at":"2026-11-11T22:44:55Z","by":"grenudi","id":"c5a117f","project":"linux-phone-oco/docs","record":"g-20261111-223513","says":"build: tad 0.4.0: the pin moved, the data and documents re-rendered (#68)"}
@@ -575,7 +577,7 @@
 {"at":"2026-11-10T22:58:00Z","by":"grenudi","id":"d7680d2","project":"linux-phone-oco/docs","says":"fix(data): the claim that a machine heard the speakers is withdrawn (#49)"}
 {"at":"2026-11-09T18:46:01Z","by":"grenudi","id":"d816352","project":"linux-phone-oco/docs","says":"feat(data): the ADSP crash loop is understood and stopped on the phone (#10)"}
 {"at":"2026-11-09T16:52:15Z","by":"grenudi","id":"d971a63","project":"linux-phone-oco/docs","says":"docs: state the project's goal, not only what this repo holds (#9)"}
-{"at":"2026-11-17T00:31:45Z","by":"grenudi","id":"daee663","project":"linux-phone-oco/docs","record":"g-20261117-003117","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#84)"}
+{"at":"2026-11-17T00:31:45Z","by":"grenudi","id":"daee663","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#84)"}
 {"at":"2026-11-10T19:43:26Z","by":"grenudi","id":"daf3c67","project":"linux-phone-oco/docs","says":"chore: gathered data lives on the oco-data branch - main is the history of the work (#44)"}
 {"at":"2026-11-17T00:35:26Z","by":"grenudi","id":"de97bb8","project":"linux-phone-oco/docs","record":"g-20261117-003458","says":"docs: The face's next: support read off results, gaps shown as gaps (#85)"}
 {"at":"2026-11-16T14:49:52Z","by":"grenudi","id":"e1516d1","project":"linux-phone-oco/docs","record":"g-20261116-144924","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#77)"}
@@ -690,6 +692,7 @@
 {"at":"2026-11-09T14:15:45Z","by":"grenudi","id":"b57101f","project":"linux-phone-oco/surya-lab","says":"feat: dt/disable-node.py"}
 {"at":"2026-11-10T02:22:55Z","by":"grenudi","id":"b64213f","project":"linux-phone-oco/surya-lab","says":"fix(tests): find the vibration motor by reading each input device as a whole block (#10)"}
 {"at":"2026-11-09T14:15:47Z","by":"grenudi","id":"b949467","project":"linux-phone-oco/surya-lab","says":"feat: dt/reg-audit.py"}
+{"at":"2026-11-17T00:59:43Z","by":"grenudi","id":"bef4d2f","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#73)"}
 {"at":"2026-11-10T03:10:44Z","by":"grenudi","id":"bfca5f7","project":"linux-phone-oco/surya-lab","says":"feat(tests): a run summary in the docs - one line per run, computed from its checks (#15)"}
 {"at":"2026-11-09T22:01:23Z","by":"grenudi","id":"c1a66ec","project":"linux-phone-oco/surya-lab","says":"feat: ui/switch.sh - switch the phone's shell in place (#4)"}
 {"at":"2026-11-11T09:36:05Z","by":"grenudi","id":"c58696a","project":"linux-phone-oco/surya-lab","says":"docs: this morning's findings, with concepts and decisions (#48)"}
@@ -709,7 +712,7 @@
 {"at":"2026-11-10T11:57:49Z","by":"grenudi","id":"d8edfdb","project":"linux-phone-oco/surya-lab","says":"feat(provision): the Sxmo profile from linux-phone-oco/sxmo-deviceprofiles (#29)"}
 {"at":"2026-11-10T02:30:13Z","by":"grenudi","id":"de63990","project":"linux-phone-oco/surya-lab","says":"feat: provision a freshly flashed phone - Firefox and the standard packages over the PC's connection (#11)"}
 {"at":"2026-11-11T00:44:09Z","by":"grenudi","id":"dee5ff6","project":"linux-phone-oco/surya-lab","says":"feat(checks): more of the phone measured - Wi-Fi joined, Bluetooth hearing, the SIM, what the kernel exposes (#45)"}
-{"at":"2026-11-17T00:31:09Z","by":"grenudi","id":"e0e623d","project":"linux-phone-oco/surya-lab","record":"g-20261117-003041","says":"docs: xiaomi-surya's own health reports, gathered (#72)"}
+{"at":"2026-11-17T00:31:09Z","by":"grenudi","id":"e0e623d","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#72)"}
 {"at":"2026-11-09T14:20:29Z","by":"grenudi","id":"e4c336d","project":"linux-phone-oco/surya-lab","says":"feat: flash/flash-dtb.sh - flash a stock image with one device tree swapped in"}
 {"at":"2026-11-10T14:21:01Z","by":"grenudi","id":"e7b6154","project":"linux-phone-oco/surya-lab","says":"chore: the observatory's mark (oco.toml) (#35)"}
 {"at":"2026-11-10T04:10:44Z","by":"grenudi","id":"ef3e8ff","project":"linux-phone-oco/surya-lab","says":"feat(tests): the ADSP check says how many crashes came right after a resume (#17)"}
@@ -927,6 +930,7 @@
 {"at":"2026-11-14T13:47:43Z","by":"oco observe","id":"599717b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T15:03:13Z","by":"oco observe","id":"59b19a2","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T21:50:50Z","by":"oco observe","id":"5a78e7c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T00:59:22Z","by":"oco observe","id":"5a93d86","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:19:20Z","by":"grenudi","id":"5b88fce","project":"marshall-oco/marshall-oco.github.io","record":"g-20261114-231904","says":"docs: a surface said here: the steps one can take from what is shown (#11)"}
 {"at":"2026-11-14T18:45:26Z","by":"oco observe","id":"5bada81","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T07:27:48Z","by":"oco observe","id":"5c6f37e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1046,6 +1050,7 @@
 {"at":"2026-11-15T04:53:06Z","by":"oco observe","id":"962de52","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T12:20:57Z","by":"oco observe","id":"96dadf9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T09:03:41Z","by":"oco observe","id":"9736196","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T00:55:39Z","by":"oco observe","id":"988aea8","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T04:18:19Z","by":"oco observe","id":"98a1c6c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T01:22:01Z","by":"oco observe","id":"98dbe32","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T06:03:15Z","by":"oco observe","id":"99208fd","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -2575,6 +2580,7 @@
 {"at":"2026-11-15T12:46:47Z","by":"oco harvest","id":"d35c827","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T13:45:35Z","by":"oco harvest","id":"d3ae004","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T10:35:39Z","by":"oco harvest","id":"d449141","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T00:42:02Z","by":"oco harvest","id":"d46a400","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T01:06:47Z","by":"oco harvest","id":"d46eebb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T11:41:19Z","by":"oco harvest","id":"d6a9fc8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:52:16Z","by":"oco harvest","id":"d6d3be8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
