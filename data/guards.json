@@ -464,6 +464,8 @@
 {"id":"devlab/src/suite.rs:failures_are_said_first","line":517,"name":"failures_are_said_first","path":"devlab/src/suite.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/suite.rs:the_suite_comes_from_its_signed_repository","line":531,"name":"the_suite_comes_from_its_signed_repository","path":"devlab/src/suite.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"devlab/src/watch.rs:silence_when_well_and_the_phones_own_words_when_not","line":103,"name":"silence_when_well_and_the_phones_own_words_when_not","path":"devlab/src/watch.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/tests/one_program.rs:lpoco_lab_and_devlab_print_the_same","line":14,"name":"lpoco_lab_and_devlab_print_the_same","path":"devlab/tests/one_program.rs","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/tests/one_program.rs:lpoco_list_shows_the_family_under_one_version","line":26,"name":"lpoco_list_shows_the_family_under_one_version","path":"devlab/tests/one_program.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"health/src/cli.rs:off_takes_a_test_a_reason_and_a_hand_from_the_environment","line":129,"name":"off_takes_a_test_a_reason_and_a_hand_from_the_environment","path":"health/src/cli.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"health/src/cli.rs:the_declaration_holds","line":120,"name":"the_declaration_holds","path":"health/src/cli.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"health/src/data.rs:a_month_is_utc","line":163,"name":"a_month_is_utc","path":"health/src/data.rs","project":"linux-phone-oco/lab-tools"}

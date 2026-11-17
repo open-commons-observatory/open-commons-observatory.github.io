@@ -1130,6 +1130,7 @@
 {"at":"2026-11-17T04:09:15Z","by":"grenudi","id":"caba4f3","project":"linux-phone-oco/lab-tools","says":"feat: devlab-health as an Alpine package: released by release-plz, published by the package conveyor (#48)"}
 {"at":"2026-11-17T13:08:06Z","by":"grenudi","id":"cb68328","project":"linux-phone-oco/lab-tools","says":"fix(devlab): kernel try reads the booted entry off the running initramfs (#71)"}
 {"at":"2026-11-17T02:38:36Z","by":"grenudi","id":"cc4d893","project":"linux-phone-oco/lab-tools","says":"feat: devlab refuses a command that touches what the phone's manifest names as a hazard (#43)"}
+{"at":"2026-11-17T20:33:56Z","by":"grenudi","id":"d40cc56","project":"linux-phone-oco/lab-tools","says":"feat: devlab becomes lpoco-lab and tone lpoco-tone, old names kept as second binaries (#86)"}
 {"at":"2026-11-10T22:31:19Z","by":"grenudi","id":"d43d5e4","project":"linux-phone-oco/lab-tools","says":"docs: it tells its essence - its idea for anyone and its workings (#16)"}
 {"at":"2026-11-17T16:47:52Z","by":"grenudi","id":"d510232","project":"linux-phone-oco/lab-tools","says":"feat(devlab): fastboot boot says where the phone went and the slot flags; gated set-active (#80)"}
 {"at":"2026-11-17T01:07:49Z","by":"grenudi","id":"d53bb4e","project":"linux-phone-oco/lab-tools","says":"feat: The phone is held: one change at a time, whoever asks (#35)"}
@@ -1207,6 +1208,7 @@
 {"at":"2026-11-10T02:59:54Z","by":"grenudi","id":"57dfa81","project":"linux-phone-oco/surya-lab","says":"feat(provision): install this phone's Sxmo device profile until sxmo-utils ships it (#14)"}
 {"at":"2026-11-17T02:04:34Z","by":"grenudi","id":"580c436","project":"linux-phone-oco/surya-lab","says":"refactor: surya-lab gives up its own conveyor: devlab reaches, tests and files for it (#81)"}
 {"at":"2026-11-11T10:25:16Z","by":"grenudi","id":"581e671","project":"linux-phone-oco/surya-lab","says":"docs: the port table cleared; the next step is tracing the bus (#52)"}
+{"at":"2026-11-17T20:34:08Z","by":"grenudi","id":"58710eb","project":"linux-phone-oco/surya-lab","says":"sleep: standby-run.sh ends itself on a Bluetooth failure or 4 non-sleeping cycles (r3 safe) (#143)"}
 {"at":"2026-11-17T16:26:21Z","by":"grenudi","id":"5960d13","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#130)"}
 {"at":"2026-11-10T02:45:07Z","by":"grenudi","id":"59873b0","project":"linux-phone-oco/surya-lab","says":"refactor: one phone library for every script - no nested quoting, USB or Wi-Fi (#12)"}
 {"at":"2026-11-10T17:38:22Z","by":"grenudi","id":"5c716e4","project":"linux-phone-oco/surya-lab","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#36)"}
@@ -1283,6 +1285,7 @@
 {"at":"2026-11-17T04:18:10Z","by":"grenudi","id":"d135a7e","project":"linux-phone-oco/surya-lab","says":"docs: Manifest: the LPASS debugfs paths that hang the phone, as hazards (#95)"}
 {"at":"2026-11-11T15:04:51Z","by":"grenudi","id":"d1ad150","project":"linux-phone-oco/surya-lab","says":"data/the modem with a sim (#61)"}
 {"at":"2026-11-17T02:10:40Z","by":"grenudi","id":"d1cab3d","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#88)"}
+{"at":"2026-11-17T20:32:14Z","by":"grenudi","id":"d1fcf36","project":"linux-phone-oco/surya-lab","says":"surya: why r2 rebooted (its own fuse, Bluetooth stall); r3 waits on the Bluetooth choice (#142)"}
 {"at":"2026-11-11T12:19:00Z","by":"grenudi","id":"d341d67","project":"linux-phone-oco/surya-lab","says":"data: hand-work in effort - totals, load, effort (#55)"}
 {"at":"2026-11-11T00:46:05Z","by":"grenudi","id":"d3eddb5","project":"linux-phone-oco/surya-lab","says":"docs: what the measuring showed is needed - a SIM card, image sensors, sensors without the crash (#46)"}
 {"at":"2026-11-11T21:38:20Z","by":"grenudi","id":"d4b3c81","project":"linux-phone-oco/surya-lab","says":"chore: glimpses are recorded here from now on (#65)"}
@@ -2703,6 +2706,7 @@
 {"at":"2026-11-17T05:03:43Z","by":"grenudi","id":"114c2bc","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261117-050327","says":"docs: A practice for everyone: declare every program's surface once with argenv (#109)"}
 {"at":"2026-11-17T18:25:06Z","by":"oco harvest","id":"1159e93","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T09:43:38Z","by":"oco harvest","id":"11b626b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T20:32:00Z","by":"oco harvest","id":"122eba7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T00:36:04Z","by":"oco harvest","id":"123263d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T10:23:27Z","by":"grenudi","id":"12881c7","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261117-102310","says":"docs: the practices are kept in grenudi/ideal-agent; this copy retires (#110)"}
 {"at":"2026-11-16T15:54:05Z","by":"oco harvest","id":"12c380c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
