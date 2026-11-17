@@ -523,13 +523,16 @@
 {"at":"2026-11-17T11:51:06Z","by":"grenudi","id":"b31fefd","project":"grenudi/ideal-agent","says":"feat: keep the start light: housekeeping measured per role, reasons a command away (#13)"}
 {"at":"2026-11-17T11:18:19Z","by":"grenudi","id":"baf6ee3","project":"grenudi/ideal-agent","says":"feat: a skill: finding your way in a tad knowledge base (#6)"}
 {"at":"2026-11-17T10:38:51Z","by":"grenudi","id":"d167984","project":"grenudi/ideal-agent","says":"docs: a project's briefs live in its agent folder; practice 42 points there (#5)"}
+{"at":"2026-11-17T12:09:55Z","by":"grenudi","id":"faf6656","project":"grenudi/ideal-agent","says":"feat: briefs first: ideal-agent follows idealkb 0.4.0, its records briefed (#16)"}
 {"at":"2026-11-17T11:36:40Z","by":"grenudi","id":"12334d7","project":"grenudi/ideal-knowledge-base","says":"feat: a summary over many records, and research kept aside in dated folders (#5)"}
 {"at":"2026-11-17T11:37:15Z","by":"github-actions[bot]","id":"36a5b62","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.2.0 (#6)"}
 {"at":"2026-11-17T11:49:27Z","by":"grenudi","id":"42b4fd0","project":"grenudi/ideal-knowledge-base","says":"docs: the weekly pin job moves grenudi/ideal-agent too, its second follower (#10)"}
+{"at":"2026-11-17T12:08:07Z","by":"github-actions[bot]","id":"4571b0c","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.4.0 (#12)"}
 {"at":"2026-11-17T11:00:42Z","by":"grenudi","id":"58ba247","project":"grenudi/ideal-knowledge-base","says":"Initial commit"}
 {"at":"2026-11-17T11:41:10Z","by":"github-actions[bot]","id":"626b14f","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.3.0 (#8)"}
 {"at":"2026-11-17T11:05:31Z","by":"github-actions[bot]","id":"62a6a64","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.1.0 (#2)"}
 {"at":"2026-11-17T11:19:15Z","by":"grenudi","id":"6becc2a","project":"grenudi/ideal-knowledge-base","says":"docs: navigation is ideal-agent's skill ask-a-knowledge-base (#4)"}
+{"at":"2026-11-17T12:07:28Z","by":"grenudi","id":"8775b40","project":"grenudi/ideal-knowledge-base","says":"feat: briefs first: every record has a one-line brief, answers give briefs (#11)"}
 {"at":"2026-11-17T11:15:04Z","by":"grenudi","id":"c6f39d0","project":"grenudi/ideal-knowledge-base","says":"docs: docs follows 0.1.0, and the lab moves every base's pin weekly (#3)"}
 {"at":"2026-11-17T11:46:09Z","by":"grenudi","id":"d82eceb","project":"grenudi/ideal-knowledge-base","says":"docs: about's subject tables no longer stop a base: closed here, left to ocoeco (#9)"}
 {"at":"2026-11-17T11:40:29Z","by":"grenudi","id":"dc3cca0","project":"grenudi/ideal-knowledge-base","says":"feat: sources keep who made what they describe (by); second follower done (#7)"}
@@ -2611,6 +2614,7 @@
 {"at":"2026-11-10T16:57:30Z","by":"oco harvest","id":"6a6bb0c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T20:48:37Z","by":"oco harvest","id":"6ac0f8e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T23:24:21Z","by":"oco harvest","id":"6acd637","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T12:06:42Z","by":"oco harvest","id":"6adc569","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T01:40:51Z","by":"oco harvest","id":"6b58484","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T10:27:37Z","by":"grenudi","id":"6bcfe69","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the package conveyor's lens, curated (#45)"}
 {"at":"2026-11-11T21:15:36Z","by":"oco harvest","id":"6bd6f77","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
