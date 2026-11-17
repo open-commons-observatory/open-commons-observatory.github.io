@@ -41,3 +41,4 @@
 {"id":"g-20261116-204540","at":"2026-11-16T20:45:40Z","by":"claude","kind":"docs","summary":"a translation: lens_parts:site/1:title:ru","touches":"translations:lens_parts:site/1:title:ru"}
 {"id":"g-20261117-034702","at":"2026-11-17T03:47:02Z","by":"conveyor-tad","kind":"docs","summary":"a practice for linux-phone-oco: data through tad, landing through land","touches":"practices:42-linux-phone-through-tad"}
 {"id":"g-20261117-050327","at":"2026-11-17T05:03:27Z","by":"conveyor","kind":"docs","summary":"A practice for everyone: declare every program's surface once with argenv"}
+{"id":"g-20261117-102310","at":"2026-11-17T10:23:10Z","by":"ideal-agent","kind":"docs","summary":"the practices are kept in grenudi/ideal-agent; this copy retires","touches":"decisions:2026-11-17-practices-kept-in-ideal-agent"}
