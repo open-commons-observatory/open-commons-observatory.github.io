@@ -1049,6 +1049,7 @@
 {"at":"2026-11-17T20:21:07Z","by":"grenudi","id":"5315bf5","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget-n1, n2, the ncm step without settings writes (walleye-ncm-noattr-images) (#35)"}
 {"at":"2026-11-17T20:02:36Z","by":"grenudi","id":"53a8965","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the gadget bring-up bisect (build item); cmdline-read and panic-time closed (#26)"}
 {"at":"2026-11-17T20:13:44Z","by":"grenudi","id":"54419ea","project":"linux-phone-oco/google-walleye-lab","says":"walleye: gadget bisect - 5a returns, 5b panics (ncm step) (#30)"}
+{"at":"2026-11-17T21:25:37Z","by":"grenudi","id":"55bb612","project":"linux-phone-oco/google-walleye-lab","says":"walleye: vendor-gadget-n3r, the FunctionFS ACM helper in Rust (walleye-ffs-helper-rust) (#52)"}
 {"at":"2026-11-17T20:54:51Z","by":"grenudi","id":"57fe926","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ffs ACM helper researched, build and phone items queued (#43)"}
 {"at":"2026-11-17T19:56:52Z","by":"grenudi","id":"585debd","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the keeper's try of vendor-gadget4 placed (#21)"}
 {"at":"2026-11-17T20:48:31Z","by":"grenudi","id":"5f6a665","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ncm-noattr tried - n2 enumerates, host cdc_ncm lacks the MAC string (#39)"}
@@ -1078,6 +1079,7 @@
 {"at":"2026-11-17T20:50:01Z","by":"grenudi","id":"eb48031","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the host channel order (mass-storage window, FunctionFS ACM helper); ecm/rndis dropped (#40)"}
 {"at":"2026-11-17T20:58:55Z","by":"grenudi","id":"f64566d","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the ffs-acm try ranked second, unblocked (#45)"}
 {"at":"2026-11-17T20:25:11Z","by":"grenudi","id":"fa3a54d","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ncm split - b1 returns, b2 (attribute writes) panics (#37)"}
+{"at":"2026-11-17T21:27:05Z","by":"grenudi","id":"fb1708c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: m1 retry enumerates but the host cannot read /dev/sda (disk group needed) (#53)"}
 {"at":"2026-11-17T15:17:39Z","by":"grenudi","id":"fb58702","project":"linux-phone-oco/google-walleye-lab","says":"Initial commit"}
 {"at":"2026-11-17T04:43:10Z","by":"grenudi","id":"02582e5","project":"linux-phone-oco/lab-tools","says":"feat: devlab kernel keep: a proven test kernel becomes the default, stock still the fallback (#52)"}
 {"at":"2026-11-10T20:05:16Z","by":"grenudi","id":"05e3552","project":"linux-phone-oco/lab-tools","says":"feat(devlab): provision sets a fresh phone's clock and grows its system first; flashing proven (#14)"}
@@ -1085,6 +1087,7 @@
 {"at":"2026-11-10T11:56:05Z","by":"grenudi","id":"0788383","project":"linux-phone-oco/lab-tools","says":"fix: devlab phone reboot waits for a new boot, by its boot id (#3)"}
 {"at":"2026-11-11T00:20:14Z","by":"grenudi","id":"07e678b","project":"linux-phone-oco/lab-tools","says":"feat(devlab): a listening test needs the word that the microphone is placed (#20)"}
 {"at":"2026-11-10T14:21:54Z","by":"grenudi","id":"10bc1be","project":"linux-phone-oco/lab-tools","says":"chore: the observatory's mark (oco.toml) (#9)"}
+{"at":"2026-11-17T21:27:13Z","by":"github-actions[bot]","id":"11fef21","project":"linux-phone-oco/lab-tools","says":"chore: release v0.2.0 (#84)"}
 {"at":"2026-11-17T09:24:00Z","by":"github-actions[bot]","id":"1656de6","project":"linux-phone-oco/lab-tools","says":"chore(devlab-health): release v0.1.3 (#61)"}
 {"at":"2026-11-17T02:06:56Z","by":"grenudi","id":"17912e6","project":"linux-phone-oco/lab-tools","says":"docs: Backlog: what devlab-health as an Alpine package waits on, and its path (#40)"}
 {"at":"2026-11-17T00:33:15Z","by":"grenudi","id":"192d4e1","project":"linux-phone-oco/lab-tools","says":"feat: Filed through tad, landed by itself: devlab gather --land, and watch after every boot (#33)"}
@@ -2996,6 +2999,7 @@
 {"at":"2026-11-15T13:47:33Z","by":"grenudi","id":"57de89f","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-134715","says":"fix: the first observatory's whole begins with why each star exists (#91)"}
 {"at":"2026-11-16T05:08:25Z","by":"oco harvest","id":"5867ea7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T19:18:46Z","by":"oco harvest","id":"58e2bcd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T21:24:27Z","by":"oco harvest","id":"58ef65e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T09:03:21Z","by":"oco harvest","id":"59972b7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T20:45:06Z","by":"oco harvest","id":"599dc5b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T10:46:53Z","by":"oco harvest","id":"59b2b07","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}

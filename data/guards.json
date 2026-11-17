@@ -394,6 +394,7 @@
 {"id":"ikb/src/model.rs:a_record_is_a_command_with_its_options","line":233,"name":"a_record_is_a_command_with_its_options","path":"ikb/src/model.rs","project":"grenudi/ideal-knowledge-base"}
 {"id":"ikb/src/text.rs:at_expands","line":68,"name":"at_expands","path":"ikb/src/text.rs","project":"grenudi/ideal-knowledge-base"}
 {"id":"ikb/src/text.rs:slugs_cut_between_words","line":55,"name":"slugs_cut_between_words","path":"ikb/src/text.rs","project":"grenudi/ideal-knowledge-base"}
+{"id":"build/ffs-acm-rs/src/main.rs:blobs_are_the_c_probes","line":378,"name":"blobs_are_the_c_probes","path":"build/ffs-acm-rs/src/main.rs","project":"linux-phone-oco/google-walleye-lab"}
 {"id":"bringup/src/boot.rs:a_manifest_without_boot_is_refused_in_words","line":120,"name":"a_manifest_without_boot_is_refused_in_words","path":"bringup/src/boot.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"bringup/src/boot.rs:an_unknown_boot_field_is_refused","line":128,"name":"an_unknown_boot_field_is_refused","path":"bringup/src/boot.rs","project":"linux-phone-oco/lab-tools"}
 {"id":"bringup/src/boot.rs:os_words_round_trip","line":110,"name":"os_words_round_trip","path":"bringup/src/boot.rs","project":"linux-phone-oco/lab-tools"}

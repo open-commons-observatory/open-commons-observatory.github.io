@@ -115,7 +115,11 @@
 {"id":"research/walleye-first-fastboot-boot/2026-11-17/README.md:The first two `fastboot boot` tries on the Pixel 2 (walleye), 2026-11-17","line":1,"name":"The first two `fastboot boot` tries on the Pixel 2 (walleye), 2026-11-17","path":"research/walleye-first-fastboot-boot/2026-11-17/README.md","project":"linux-phone-oco/google-walleye-lab"}
 {"id":"tests/health/README.md:This phone's own health checks","line":1,"name":"This phone's own health checks","path":"tests/health/README.md","project":"linux-phone-oco/google-walleye-lab"}
 {"id":"README.md:lab-tools","line":1,"name":"lab-tools","path":"README.md","project":"linux-phone-oco/lab-tools"}
+{"id":"bringup/CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"bringup/CHANGELOG.md","project":"linux-phone-oco/lab-tools"}
+{"id":"devlab/CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"devlab/CHANGELOG.md","project":"linux-phone-oco/lab-tools"}
 {"id":"health/CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"health/CHANGELOG.md","project":"linux-phone-oco/lab-tools"}
+{"id":"lpoco/CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"lpoco/CHANGELOG.md","project":"linux-phone-oco/lab-tools"}
+{"id":"tone/CHANGELOG.md:Changelog","line":1,"name":"Changelog","path":"tone/CHANGELOG.md","project":"linux-phone-oco/lab-tools"}
 {"id":"AGENTS.md:surya-lab - notes for agents","line":1,"name":"surya-lab - notes for agents","path":"AGENTS.md","project":"linux-phone-oco/surya-lab"}
 {"id":"README.md:surya-lab","line":1,"name":"surya-lab","path":"README.md","project":"linux-phone-oco/surya-lab"}
 {"id":"research/cameras.md:The cameras: what is known, what is not, and the way in","line":1,"name":"The cameras: what is known, what is not, and the way in","path":"research/cameras.md","project":"linux-phone-oco/surya-lab"}
