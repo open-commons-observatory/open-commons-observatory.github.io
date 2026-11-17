@@ -509,6 +509,7 @@
 {"at":"2026-11-16T23:55:39Z","by":"lab-agent-session","id":"8642359","project":"linux-phone-oco/device-template","record":"g-20261116-235539","says":"feat: The device template: a new phone's lab is a new device.toml"}
 {"at":"2026-11-05T08:22:47Z","by":"grenudi","id":"0bdbff5","project":"linux-phone-oco/docs","says":"feat(data): a fresh-install plan, prepared but not run (#7)"}
 {"at":"2026-11-17T01:13:06Z","by":"grenudi","id":"127ebba","project":"linux-phone-oco/docs","record":"g-20261117-011238","says":"docs: Microphone taken up by bring-up: the weakest link, where it stands, the next step (#90)"}
+{"at":"2026-11-17T01:52:58Z","by":"grenudi","id":"14cba00","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#107)"}
 {"at":"2026-11-10T12:16:20Z","by":"grenudi","id":"18ea436","project":"linux-phone-oco/docs","says":"feat(data): the landscape - what postmarketOS and Mobian offer the conveyor (#36)"}
 {"at":"2026-11-10T01:59:07Z","by":"grenudi","id":"1a72431","project":"linux-phone-oco/docs","says":"feat(data): the microphone test kernel is built; a safe second-boot-entry plan for the test (#24)"}
 {"at":"2026-11-16T23:56:31Z","by":"grenudi","id":"1ccec59","project":"linux-phone-oco/docs","record":"g-20261116-235603","says":"docs: The conveyor for any phone: health on the phone, gather, MCP, the device template (#81)"}
@@ -671,6 +672,7 @@
 {"at":"2026-11-11T09:51:32Z","by":"grenudi","id":"1cec218","project":"linux-phone-oco/surya-lab","says":"docs: the microphone codec comes up - one pin muxed to the wrong function (#49)"}
 {"at":"2026-11-10T20:43:54Z","by":"grenudi","id":"1ec8685","project":"linux-phone-oco/surya-lab","says":"fix: awake while on USB to a host - no suspend attempts that drop the link, under any shell (#40)"}
 {"at":"2026-11-09T23:23:37Z","by":"grenudi","id":"1f188ae","project":"linux-phone-oco/surya-lab","says":"feat: flash/flash.sh - flash any image with surya's fixes built in (#5)"}
+{"at":"2026-11-17T01:52:23Z","by":"grenudi","id":"28976ee","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#83)"}
 {"at":"2026-11-09T14:15:42Z","by":"grenudi","id":"2adcbed","project":"linux-phone-oco/surya-lab","says":"docs: README.md"}
 {"at":"2026-11-10T22:56:20Z","by":"grenudi","id":"30d4a21","project":"linux-phone-oco/surya-lab","says":"fix: what the ear heard is withdrawn - the microphone moved (#43)"}
 {"at":"2026-11-09T16:52:27Z","by":"grenudi","id":"30f139d","project":"linux-phone-oco/surya-lab","says":"docs: the lab is for the whole phone; audio is the current front (#1)"}
@@ -2644,6 +2646,7 @@
 {"at":"2026-11-13T07:27:09Z","by":"oco harvest","id":"de3b8e3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T15:21:39Z","by":"oco harvest","id":"debd218","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T15:35:05Z","by":"grenudi","id":"df899b8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"feat(data): the working practices, for agents and people - read live by every agent (#6)"}
+{"at":"2026-11-17T01:52:24Z","by":"oco harvest","id":"df8cb72","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T00:38:32Z","by":"oco harvest","id":"df91d4d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T06:22:18Z","by":"oco harvest","id":"df94445","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T17:28:28Z","by":"grenudi","id":"e092dfe","project":"open-commons-observatory/open-commons-observatory.github.io","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#15)"}
