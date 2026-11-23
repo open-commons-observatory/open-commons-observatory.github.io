@@ -497,11 +497,17 @@
 {"at":"2026-09-23T06:52:13Z","by":"grenudi","id":"002e22b","project":"git-rhizoid/git-rhizoid.github.io","says":"feat(data): decide the manifest format (TOML) and auth (gh, for now)"}
 {"at":"2026-09-22T21:46:48Z","by":"grenudi","id":"03c292d","project":"git-rhizoid/git-rhizoid.github.io","says":"feat(docs): adopt the RFC-like minimal Pages style"}
 {"at":"2026-11-11T21:35:13Z","by":"grenudi","id":"0f65ac0","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261111-213425","says":"chore: glimpses are recorded here from now on (#16)"}
+{"at":"2026-11-23T04:51:25Z","by":"grenudi","id":"17863eb","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261123-045056","says":"docs: rhizoid v0.2.2: send-back drafts, status asks origin and the releases source (#39)"}
+{"at":"2026-11-23T05:32:56Z","by":"grenudi","id":"1bf2bce","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261123-053227","says":"docs: slice-consumption done (v0.2.6); rhizcut designed; pins stay with their readers (#42)"}
 {"at":"2026-11-16T16:10:05Z","by":"grenudi","id":"1c2f245","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261116-160937","says":"chore: a caller: what the gatherer writes is said where it writes it, not here (#26)"}
+{"at":"2026-11-23T06:11:50Z","by":"grenudi","id":"1c9df85","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261123-061110","says":"docs: cutting-as-cargo-dependency done: cut tags in v0.3.2; the ranked backlog done (#45)"}
 {"at":"2026-11-19T00:44:30Z","by":"grenudi","id":"2089852","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261119-004358","says":"chore: licences: CC-BY-SA-4.0 site and data, MIT OR Apache-2.0 scripts, CI check (#33)"}
+{"at":"2026-11-23T03:38:39Z","by":"grenudi","id":"21df5ba","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261123-033800","says":"docs: rhizoid carries the structure's git flows: assemble and kernel status ranked first (#35)"}
 {"at":"2026-11-10T20:52:33Z","by":"grenudi","id":"22249ae","project":"git-rhizoid/git-rhizoid.github.io","says":"chore: join the Open Commons Observatory - the mark, the gatherer, its path (#5)"}
 {"at":"2026-11-18T17:40:03Z","by":"grenudi","id":"254cab4","project":"git-rhizoid/git-rhizoid.github.io","says":"docs: status-over-every-edge is done: rhizoid v0.1.0 released (#32)"}
+{"at":"2026-11-23T04:21:23Z","by":"grenudi","id":"2e91403","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261123-042054","says":"docs: rhizoid v0.2.0: integration status, assemble refinements, rhizoid stays general (#37)"}
 {"at":"2026-11-12T13:17:53Z","by":"grenudi","id":"381f3ca","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261112-131723","says":"docs: rhizcut recorded: a milestone depended on an item never written down (#21)"}
+{"at":"2026-11-23T04:35:00Z","by":"grenudi","id":"3824e66","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261123-043431","says":"docs: send-back-writes-the-upstream-item done: rhizoid send-back released in v0.2.1 (#38)"}
 {"at":"2026-11-12T01:07:15Z","by":"grenudi","id":"39da0c3","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261112-010648","says":"build: tad 0.5.0: the pin moved, the data and documents re-rendered (#18)"}
 {"at":"2026-09-22T16:48:19Z","by":"github-actions[bot]","id":"3a540f7","project":"git-rhizoid/git-rhizoid.github.io","says":"chore(main): release 1.0.0"}
 {"at":"2026-09-23T06:38:02Z","by":"grenudi","id":"3d0c1ad","project":"git-rhizoid/git-rhizoid.github.io","says":"chore(tad): pull engine update (horizontal rule between log entries)"}
@@ -511,6 +517,7 @@
 {"at":"2026-09-22T16:47:43Z","by":"grenudi","id":"53edb26","project":"git-rhizoid/git-rhizoid.github.io","says":"feat(data): seed the real Rhizoid design log"}
 {"at":"2026-09-22T16:53:30Z","by":"grenudi","id":"5766cf6","project":"git-rhizoid/git-rhizoid.github.io","says":"Merge pull request #1 from git-rhizoid/release-please--branches--main"}
 {"at":"2026-11-11T17:30:35Z","by":"grenudi","id":"59719dc","project":"git-rhizoid/git-rhizoid.github.io","says":"refactor: tad in Rust replaces the vendored Python engine (#11)"}
+{"at":"2026-11-23T05:51:49Z","by":"grenudi","id":"729a750","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261123-055121","says":"docs: rhizcut done: v0.3.0, cuttings recorded in the graph (#43)"}
 {"at":"2026-11-18T14:57:45Z","by":"grenudi","id":"73c6766","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261118-145705","says":"build: tad 0.7.1: the pin moved, the data and documents re-rendered (#30)"}
 {"at":"2026-09-23T06:40:58Z","by":"grenudi","id":"74a6b27","project":"git-rhizoid/git-rhizoid.github.io","says":"feat(data): plan the v1 command surface (add/import/update/status/refresh)"}
 {"at":"2026-11-10T22:48:06Z","by":"grenudi","id":"8281b3d","project":"git-rhizoid/git-rhizoid.github.io","says":"docs: Rhizoid's workings, under the steps they serve (#7)"}
@@ -522,18 +529,23 @@
 {"at":"2026-11-11T17:32:07Z","by":"grenudi","id":"9dfce5d","project":"git-rhizoid/git-rhizoid.github.io","says":"docs: after the switch to tad - heading restored, obsolete item closed (#12)"}
 {"at":"2026-09-22T16:47:59Z","by":"grenudi","id":"9f1d9d1","project":"git-rhizoid/git-rhizoid.github.io","says":"fix(data): actually add the dc.py backlog item the previous commit claimed"}
 {"at":"2026-11-11T16:46:28Z","by":"grenudi","id":"a17dea1","project":"git-rhizoid/git-rhizoid.github.io","says":"docs: the tables declared as data, for tad in Rust (#10)"}
+{"at":"2026-11-23T05:23:47Z","by":"grenudi","id":"a660508","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261123-052305","says":"docs: follow-by-conformance done: rhizoid follow agrees with follow.sh byte for byte (v0.2.5) (#41)"}
 {"at":"2026-09-22T17:28:28Z","by":"grenudi","id":"aa49211","project":"git-rhizoid/git-rhizoid.github.io","says":"chore(tad): pull engine update (definition-list field rendering)"}
 {"at":"2026-11-11T20:04:24Z","by":"grenudi","id":"ae64e5e","project":"git-rhizoid/git-rhizoid.github.io","says":"refactor: a concept's text is its summary, the shared word (#15)"}
 {"at":"2026-11-13T07:24:43Z","by":"grenudi","id":"b779983","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261113-072415","says":"docs: a problem withdrawn: the record was right, the reading was wrong (#23)"}
 {"at":"2026-09-22T12:42:29Z","by":"grenudi","id":"b8daa9c","project":"git-rhizoid/git-rhizoid.github.io","says":"chore(tad): vendor engine via git subrepo"}
 {"at":"2026-11-11T00:33:14Z","by":"grenudi","id":"bcc6180","project":"git-rhizoid/git-rhizoid.github.io","says":"docs: its idea in Russian (by machine, for a person to correct) (#8)"}
 {"at":"2026-11-11T18:23:03Z","by":"grenudi","id":"bd46a9b","project":"git-rhizoid/git-rhizoid.github.io","says":"build: tad 0.2.0 (#14)"}
+{"at":"2026-11-23T03:55:23Z","by":"grenudi","id":"bfdad0b","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261123-035454","says":"docs: assemble-from-list done: rhizoid assemble released in v0.1.1 (#36)"}
 {"at":"2026-11-16T15:57:06Z","by":"grenudi","id":"c5e3c55","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261116-155626","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#25)"}
 {"at":"2026-09-22T12:42:22Z","by":"grenudi","id":"c6b4157","project":"git-rhizoid/git-rhizoid.github.io","says":"Initial commit"}
 {"at":"2026-11-16T14:49:08Z","by":"grenudi","id":"d1deba7","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261116-144830","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#24)"}
+{"at":"2026-11-23T06:01:24Z","by":"grenudi","id":"d3653f1","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261123-060054","says":"docs: rank 9: what is left of cutting-as-cargo-dependency, and the choice it needs (#44)"}
 {"at":"2026-11-10T21:43:44Z","by":"grenudi","id":"da26169","project":"git-rhizoid/git-rhizoid.github.io","says":"docs: Rhizoid's idea, told for anyone - in its own data (#6)"}
+{"at":"2026-11-23T05:03:07Z","by":"grenudi","id":"de2d313","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261123-050228","says":"docs: followers-one-pin-bump done: rhizoid bump released in v0.2.3, with release binaries (#40)"}
 {"at":"2026-11-11T15:50:38Z","by":"grenudi","id":"e5e0957","project":"git-rhizoid/git-rhizoid.github.io","says":"docs: the wrap-up pass - parked with a reason (#9)"}
 {"at":"2026-09-23T07:09:56Z","by":"grenudi","id":"ea6d4ae","project":"git-rhizoid/git-rhizoid.github.io","says":"feat(data): design the boundary layer, having read argenv's real API"}
+{"at":"2026-11-23T03:35:35Z","by":"grenudi","id":"ea6fa7f","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261123-033506","says":"docs: decisions table; the standard tools: drive git for worktree and rerere, not b4 (#34)"}
 {"at":"2026-09-23T12:43:32Z","by":"grenudi","id":"ed86798","project":"git-rhizoid/git-rhizoid.github.io","says":"feat(data): log the boundary layer implementation and its real bugs"}
 {"at":"2026-11-17T19:34:21Z","by":"grenudi","id":"edd4220","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261117-193335","says":"docs: Backlog: what a tools home needs of rhizoid (cargo pin, one pin bump, send back) (#28)"}
 {"at":"2026-11-13T06:56:35Z","by":"grenudi","id":"fafad80","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261113-065606","says":"docs: a milestone ahead of its evidence, raised (#22)"}
@@ -550,6 +562,7 @@
 {"at":"2026-11-17T18:27:24Z","by":"grenudi","id":"21914bf","project":"grenudi/ideal-agent","says":"feat: coordinators research on their own; general findings flow back (plugin 0.3.19) (#54)"}
 {"at":"2026-11-18T13:31:11Z","by":"grenudi","id":"22c7292","project":"grenudi/ideal-agent","says":"docs: the lab's root grant built, proof the author's; start summary current (plugin 0.3.39) (#78)"}
 {"at":"2026-11-19T01:07:36Z","by":"grenudi","id":"24ba2b0","project":"grenudi/ideal-agent","says":"docs: existing shell stays as is; practice 21 binds new work (plugin 0.3.57) (#103)"}
+{"at":"2026-11-23T03:37:12Z","by":"grenudi","id":"27ef042","project":"grenudi/ideal-agent","says":"feat(guard): worktree home, no loose files under Projects, layout-check, steward (plugin 0.3.65) (#118)"}
 {"at":"2026-11-17T16:29:35Z","by":"grenudi","id":"28b3b44","project":"grenudi/ideal-agent","says":"docs: land-a-change reads its diff against main before landing (plugin 0.3.11) (#43)"}
 {"at":"2026-11-19T19:51:10Z","by":"grenudi","id":"2a352ce","project":"grenudi/ideal-agent","says":"feat(prune): worktrees and build runs left 3 days are pruned daily, in Rust (plugin 0.3.64) (#114)"}
 {"at":"2026-11-18T12:58:58Z","by":"grenudi","id":"2b35240","project":"grenudi/ideal-agent","says":"feat: instructions name intents; retired routes as data and route-check (plugin 0.3.34) (#72)"}
@@ -671,6 +684,7 @@
 {"at":"2026-11-17T17:18:48Z","by":"grenudi","id":"2700beb","project":"grenudi/ideal-knowledge-base","says":"docs: ikb: research and decision - a commons base plus one open base per unit (#43)"}
 {"at":"2026-11-18T08:52:41Z","by":"grenudi","id":"2925183","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: updates that match no row or change nothing are refused (#66)"}
 {"at":"2026-11-17T15:46:29Z","by":"grenudi","id":"2ba3592","project":"grenudi/ideal-knowledge-base","says":"feat: ikb: completions for four shells, asked as you type; the agent starts with ikb --help (#34)"}
+{"at":"2026-11-23T05:25:39Z","by":"grenudi","id":"2dc238e","project":"grenudi/ideal-knowledge-base","says":"docs: backlog follow-by-rhizoid (#107)"}
 {"at":"2026-11-17T20:22:19Z","by":"github-actions[bot]","id":"344c035","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#63)"}
 {"at":"2026-11-17T17:37:52Z","by":"github-actions[bot]","id":"3591d4c","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#49)"}
 {"at":"2026-11-17T11:37:15Z","by":"github-actions[bot]","id":"36a5b62","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.2.0 (#6)"}
@@ -683,6 +697,7 @@
 {"at":"2026-11-17T15:02:47Z","by":"grenudi","id":"42c52b9","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: the installer pins ikb 0.2.0 (#26)"}
 {"at":"2026-11-17T12:08:07Z","by":"github-actions[bot]","id":"4571b0c","project":"grenudi/ideal-knowledge-base","says":"chore(main): release 0.4.0 (#12)"}
 {"at":"2026-11-17T14:58:48Z","by":"grenudi","id":"52d8d49","project":"grenudi/ideal-knowledge-base","says":"feat: ikb: a leaner page (no type or optional on every option) and the first release measured (#24)"}
+{"at":"2026-11-23T03:31:36Z","by":"grenudi","id":"562ed85","project":"grenudi/ideal-knowledge-base","says":"docs: backlog for the amendments and gaps from the structure review (#106)"}
 {"at":"2026-11-17T11:00:42Z","by":"grenudi","id":"58ba247","project":"grenudi/ideal-knowledge-base","says":"Initial commit"}
 {"at":"2026-11-18T12:40:31Z","by":"grenudi","id":"598acb6","project":"grenudi/ideal-knowledge-base","says":"feat: feat: update-pins hourly, per-base worktrees, device bases follow (#75)"}
 {"at":"2026-11-17T17:53:01Z","by":"grenudi","id":"599de84","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: --help says every command, records and fixed ones alike (#54)"}
@@ -708,6 +723,7 @@
 {"at":"2026-11-17T17:37:20Z","by":"grenudi","id":"8572af4","project":"grenudi/ideal-knowledge-base","says":"fix: ikb: set and remove are listed in the help, the man page and the completions (#48)"}
 {"at":"2026-11-17T12:07:28Z","by":"grenudi","id":"8775b40","project":"grenudi/ideal-knowledge-base","says":"feat: briefs first: every record has a one-line brief, answers give briefs (#11)"}
 {"at":"2026-11-17T14:29:16Z","by":"grenudi","id":"898147a","project":"grenudi/ideal-knowledge-base","says":"docs: ikb: the research and the decision to build one record command per base (#19)"}
+{"at":"2026-11-23T02:59:15Z","by":"grenudi","id":"8a37416","project":"grenudi/ideal-knowledge-base","says":"docs: backlog for the structure review's asks of idealkb (#105)"}
 {"at":"2026-11-18T14:20:11Z","by":"github-actions[bot]","id":"8be549e","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#80)"}
 {"at":"2026-11-18T15:10:36Z","by":"grenudi","id":"8ceab96","project":"grenudi/ideal-knowledge-base","says":"feat: feat: a base's change to a followed file goes up to its source as a PR (#87)"}
 {"at":"2026-11-18T13:48:17Z","by":"github-actions[bot]","id":"8f11661","project":"grenudi/ideal-knowledge-base","says":"chore: release main (#76)"}
@@ -816,6 +832,7 @@
 {"at":"2026-11-17T19:37:14Z","by":"grenudi","id":"ae5b510","project":"linux-phone-oco/device-template","says":"feat: lane-next, a lane's next item by what it needs (phone, research, build) (#6)"}
 {"at":"2026-11-18T20:01:39Z","by":"grenudi","id":"b903808","project":"linux-phone-oco/device-template","says":"build: docs 0.18.0 (#28)"}
 {"at":"2026-11-19T01:26:43Z","by":"grenudi","id":"cc020b0","project":"linux-phone-oco/device-template","says":"chore: licence-check from ideal-agent 0.3.58 (headers, header licences, REUSE globs) (#35)"}
+{"at":"2026-11-23T03:08:50Z","by":"grenudi","id":"d6d3ff2","project":"linux-phone-oco/device-template","says":"docs: the standard map of a phone lab, and a README for every top-level folder (#40)"}
 {"at":"2026-11-18T14:22:37Z","by":"grenudi","id":"d6eae9e","project":"linux-phone-oco/device-template","says":"build: ideal-knowledge-base 0.16.0 (#24)"}
 {"at":"2026-11-18T08:49:38Z","by":"grenudi","id":"da2b3b2","project":"linux-phone-oco/device-template","says":"fix: device base: re-ranking keeps what an item needs; no-op updates are refused (#13)"}
 {"at":"2026-11-19T20:13:16Z","by":"grenudi","id":"e0a33eb","project":"linux-phone-oco/device-template","says":"build: ideal-knowledge-base 0.24.0 (#37)"}
@@ -825,6 +842,8 @@
 {"at":"2026-11-18T13:06:42Z","by":"grenudi","id":"f90c677","project":"linux-phone-oco/device-template","says":"docs(agents): a lab made from the template names its own owner (#19)"}
 {"at":"2026-11-17T19:56:21Z","by":"grenudi","id":"fbd884b","project":"linux-phone-oco/device-template","says":"feat: phone-stands, the keeper's last hand-over (#7)"}
 {"at":"2026-11-18T20:18:34Z","by":"feeds","id":"00248c1","project":"linux-phone-oco/docs","says":"chore(feed): data from the scheduled feeds"}
+{"at":"2026-11-23T03:03:33Z","by":"grenudi","id":"00567e9","project":"linux-phone-oco/docs","says":"docs: the structure review - research, decisions and MAP.md (#748)"}
+{"at":"2026-11-23T03:29:23Z","by":"grenudi","id":"0061805","project":"linux-phone-oco/docs","says":"docs: branches and the lab machine's root cleared; the branch count corrected (#752)"}
 {"at":"2026-11-17T11:53:44Z","by":"grenudi","id":"00afdde","project":"linux-phone-oco/docs","says":"feat: audio-mic's answer leads with its summary; research material in dated folders (#186)"}
 {"at":"2026-11-19T00:38:43Z","by":"grenudi","id":"012a5c8","project":"linux-phone-oco/docs","says":"docs: giving back by base distro; SourceHut's terms close sxmo's list to our patches (#580)"}
 {"at":"2026-11-18T00:10:01Z","by":"grenudi","id":"013bc71","project":"linux-phone-oco/docs","says":"docs: lpoco-host-script-tools done (lost from #393); reads-origin-main gets its own proof (#394)"}
@@ -878,6 +897,7 @@
 {"at":"2026-11-17T20:07:36Z","by":"grenudi","id":"1685d4b","project":"linux-phone-oco/docs","says":"chore: orchestration hand-over: both lanes in their own bases; launchers-per-device done (#362)"}
 {"at":"2026-11-17T09:00:53Z","by":"grenudi","id":"169cb55","project":"linux-phone-oco/docs","says":"docs: Research: an expert is a domain written down in docs, not a standing session (#149)"}
 {"at":"2026-11-17T22:13:21Z","by":"grenudi","id":"16fe3e1","project":"linux-phone-oco/docs","says":"docs: lab-devlab-to-pin done - the lab's devlab and tone at 0.2.1 (#386)"}
+{"at":"2026-11-23T04:53:03Z","by":"grenudi","id":"17627dd","project":"linux-phone-oco/docs","says":"chore(backlog): host installs rhizoid's release binary at its pin; no cargo form (#764)"}
 {"at":"2026-11-18T02:59:57Z","by":"grenudi","id":"17f427d","project":"linux-phone-oco/docs","says":"docs: session log for the suspend-irq-quiet build (#413)"}
 {"at":"2026-11-17T18:05:41Z","by":"grenudi","id":"181f99d","project":"linux-phone-oco/docs","says":"docs: walleye-load-error-first-state heads the walleye phone queue (#293)"}
 {"at":"2026-11-17T22:56:54Z","by":"grenudi","id":"18354c9","project":"linux-phone-oco/docs","says":"feat: docs: the hardware catalogue (one shape for every base), the cable's general rows (#388)"}
@@ -896,6 +916,7 @@
 {"at":"2026-11-19T19:28:58Z","by":"grenudi","id":"1b99d4f","project":"linux-phone-oco/docs","says":"docs: lab-tools-builder session log, host-clones-fresh parked (#679)"}
 {"at":"2026-11-17T02:33:12Z","by":"grenudi","id":"1bece03","project":"linux-phone-oco/docs","says":"docs: Microphone: the codec drops off both buses at card registration; the boot race recurs (#114)"}
 {"at":"2026-11-17T19:02:25Z","by":"grenudi","id":"1bf3da3","project":"linux-phone-oco/docs","says":"docs: sleep-standby-current go - the keeper prepares the off-USB run (#329)"}
+{"at":"2026-11-23T04:49:42Z","by":"grenudi","id":"1c14b87","project":"linux-phone-oco/docs","says":"docs(lab-tools): kernel-assemble-from-topics done; the cargo-tool pin item; session log (#763)"}
 {"at":"2026-11-17T19:06:57Z","by":"grenudi","id":"1c45265","project":"linux-phone-oco/docs","says":"docs: walleye: a gadget initramfs the vendor kernel can run (build item) (#332)"}
 {"at":"2026-11-18T20:04:15Z","by":"grenudi","id":"1c64905","project":"linux-phone-oco/docs","says":"docs(bringup-steps): the contract reached the bases; what the lanes do to claim (#545)"}
 {"at":"2026-11-17T18:16:11Z","by":"grenudi","id":"1c7042e","project":"linux-phone-oco/docs","says":"docs(surya): uart8 is not the SH0 sleep-vote owner; how the phone stands (#295)"}
@@ -913,6 +934,7 @@
 {"at":"2026-11-18T23:36:34Z","by":"grenudi","id":"21282bb","project":"linux-phone-oco/docs","says":"docs(lab-tools): bringup-generic-init fifth slice - ShellWord newtype (#562)"}
 {"at":"2026-11-17T17:47:55Z","by":"grenudi","id":"2252d43","project":"linux-phone-oco/docs","says":"docs: walleye stock boot.img read (research), e/f built, control image ready, tries noted (#283)"}
 {"at":"2026-11-17T17:07:07Z","by":"grenudi","id":"233946f","project":"linux-phone-oco/docs","says":"docs: why a failed fastboot boot flipped walleye's slots, and what to do (decision) (#252)"}
+{"at":"2026-11-22T20:13:06Z","by":"github-actions[bot]","id":"242dd2b","project":"linux-phone-oco/docs","says":"chore(main): release 0.20.0 (#736)"}
 {"at":"2026-11-17T22:15:14Z","by":"grenudi","id":"24355b6","project":"linux-phone-oco/docs","says":"docs: lpoco-host-script-tools - the off-the-pin advice points at the wrong bin dir (#387)"}
 {"at":"2026-11-17T17:19:49Z","by":"grenudi","id":"24834f2","project":"linux-phone-oco/docs","says":"docs: docs: the commons and the device bases - decision and the work for each owner (#265)"}
 {"at":"2026-11-17T16:28:33Z","by":"grenudi","id":"24aca71","project":"linux-phone-oco/docs","says":"docs: sleep-cluster-params - not the floor; waits on a deeper decision (keeper-7) (#245)"}
@@ -929,6 +951,7 @@
 {"at":"2026-11-17T20:19:49Z","by":"grenudi","id":"2742783","project":"linux-phone-oco/docs","says":"feat: docs: backlog takes blocked_by (a wait that clears itself); waits not empty (#365)"}
 {"at":"2026-11-16T13:37:56Z","by":"feeds","id":"279ca53","project":"linux-phone-oco/docs","says":"chore(feed): data from the scheduled feeds"}
 {"at":"2026-11-18T09:01:24Z","by":"dependabot[bot]","id":"27dd39f","project":"linux-phone-oco/docs","says":"build(deps): bump actions/upload-pages-artifact from 4 to 5 (#65)"}
+{"at":"2026-11-23T03:16:45Z","by":"grenudi","id":"27e9894","project":"linux-phone-oco/docs","says":"docs: the structure decisions amended by the roles' objections (#751)"}
 {"at":"2026-11-18T05:09:42Z","by":"grenudi","id":"289a291","project":"linux-phone-oco/docs","says":"docs: patrol round 2026-11-18 05:08, nothing changed (#425)"}
 {"at":"2026-11-19T05:41:32Z","by":"grenudi","id":"28b10d5","project":"linux-phone-oco/docs","says":"chore(backlog): lpoco-health's suspend trace hook is lab-tools' (rank 8), taken from surya's queue (#615)"}
 {"at":"2026-11-20T00:17:21Z","by":"grenudi","id":"28fe442","project":"linux-phone-oco/docs","says":"docs: phone-declared-transport slice 2 (lab-tools #308) (#731)"}
@@ -955,6 +978,7 @@
 {"at":"2026-11-18T11:50:21Z","by":"grenudi","id":"2f3191e","project":"linux-phone-oco/docs","says":"docs: lpoco host cross targets done (lab-tools #140), NCM next (#449)"}
 {"at":"2026-11-18T14:42:14Z","by":"grenudi","id":"2fa2e7f","project":"linux-phone-oco/docs","says":"chore(backlog): restore the per-device share that lab-tools #165 reverted (rank 1) (#508)"}
 {"at":"2026-11-10T03:04:00Z","by":"grenudi","id":"2ff823c","project":"linux-phone-oco/docs","says":"feat(data): the session log for 2026-11-10 - what was done, considered and rejected (#27)"}
+{"at":"2026-11-23T04:35:22Z","by":"grenudi","id":"3017d04","project":"linux-phone-oco/docs","says":"chore(backlog): kernel-assemble-from-topics and tone-recording-out-of-the-tree need a builder (#761)"}
 {"at":"2026-11-11T01:10:04Z","by":"grenudi","id":"309d3ea","project":"linux-phone-oco/docs","says":"feat(data): the cameras' fault, understood - no sensor described; the wiring known (#53)"}
 {"at":"2026-11-21T00:33:50Z","by":"grenudi","id":"3177545","project":"linux-phone-oco/docs","says":"feat(backlog): keeper-release-hardening from the review of #323 (#744)"}
 {"at":"2026-11-17T19:50:40Z","by":"grenudi","id":"317c9b1","project":"linux-phone-oco/docs","says":"feat(feeds): docs pulls each device base's parts; unread, stale or unclaimed shows as not known yet (#355)"}
@@ -1086,12 +1110,15 @@
 {"at":"2026-11-19T21:10:27Z","by":"grenudi","id":"5a17a98","project":"linux-phone-oco/docs","says":"docs(lab-tools): follow journal landed (lab-tools #298) (#699)"}
 {"at":"2026-11-18T13:14:38Z","by":"grenudi","id":"5a41a64","project":"linux-phone-oco/docs","says":"chore(backlog): upstreams lane starts - lab tag, apk asked, proofs queued, profile branch retired (#474)"}
 {"at":"2026-11-19T01:01:07Z","by":"grenudi","id":"5b3bb17","project":"linux-phone-oco/docs","says":"fix(data): Nura's AI policy date in the source and research rows too (#584)"}
+{"at":"2026-11-23T04:54:37Z","by":"grenudi","id":"5b8adfe","project":"linux-phone-oco/docs","says":"chore(backlog): host-installs-cargo-tool-at-pin builds now on stand-ins; lab.toml line waits (#765)"}
+{"at":"2026-11-23T06:22:21Z","by":"grenudi","id":"5c5085d","project":"linux-phone-oco/docs","says":"feat(graph): the kernel fork's integration edge and import, sxmo-utils' and the kernel's clones (#772)"}
 {"at":"2026-11-18T00:28:02Z","by":"grenudi","id":"5c6f4dd","project":"linux-phone-oco/docs","says":"docs: log the names sweep, lab-tools README slice (#399)"}
 {"at":"2026-11-17T01:15:37Z","by":"grenudi","id":"5c8e70c","project":"linux-phone-oco/docs","says":"docs: Tests: mic-records says the main microphone's samples come back (#91)"}
 {"at":"2026-11-17T18:47:29Z","by":"grenudi","id":"5d1324d","project":"linux-phone-oco/docs","says":"docs: SH0 owner hunt paused, floor-entry-trace is next (#319)"}
 {"at":"2026-11-17T19:30:24Z","by":"github-actions[bot]","id":"5d58717","project":"linux-phone-oco/docs","says":"chore(main): release 0.12.0 (#347)"}
 {"at":"2026-11-18T15:02:07Z","by":"grenudi","id":"5db693a","project":"linux-phone-oco/docs","says":"docs: the author's yes on the device layer from docs and git-rhizoid (#512)"}
 {"at":"2026-11-17T19:55:42Z","by":"grenudi","id":"5dbcad2","project":"linux-phone-oco/docs","says":"docs: the bring-up tool is lpoco-bringup: a family prefix for what others install (#358)"}
+{"at":"2026-11-23T04:33:32Z","by":"grenudi","id":"5dbde93","project":"linux-phone-oco/docs","says":"chore(backlog): proofs for kernel-assemble-from-topics and tone-recording-out-of-the-tree (#760)"}
 {"at":"2026-11-19T23:06:19Z","by":"grenudi","id":"5dd993f","project":"linux-phone-oco/docs","says":"feat(pages): the bring-up graph is the Graph tab of the steps page, with full screen and details (#717)"}
 {"at":"2026-11-17T22:07:43Z","by":"grenudi","id":"5e18255","project":"linux-phone-oco/docs","says":"docs: lpoco-host-script-tools also reads device.toml from main, not a drifting clone (#383)"}
 {"at":"2026-11-11T00:57:49Z","by":"grenudi","id":"5e48058","project":"linux-phone-oco/docs","says":"feat(data): the workings of Linux Phones in Russian (#52)"}
@@ -1100,6 +1127,7 @@
 {"at":"2026-11-18T13:02:21Z","by":"grenudi","id":"5f15581","project":"linux-phone-oco/docs","says":"docs: the briefs and items name intents, not retired routes (ideal-agent #72) (#471)"}
 {"at":"2026-11-18T11:52:43Z","by":"grenudi","id":"5f7fc96","project":"linux-phone-oco/docs","says":"docs: where else, for the class question after a fix (ideal-agent #66) (#450)"}
 {"at":"2026-11-17T05:34:39Z","by":"grenudi","id":"5f8d56b","project":"linux-phone-oco/docs","says":"docs: backlog: modules no entry boots with, taken away (#141)"}
+{"at":"2026-11-23T03:11:36Z","by":"grenudi","id":"5f9ddcc","project":"linux-phone-oco/docs","says":"docs: a map at the top of the README and a README per top-level folder (#749)"}
 {"at":"2026-11-17T18:55:31Z","by":"grenudi","id":"606ae13","project":"linux-phone-oco/docs","says":"docs: floor-entry-trace read, flush in order, cluster-sleep-2, one wake IRQ (#322)"}
 {"at":"2026-11-18T14:55:27Z","by":"grenudi","id":"607f52d","project":"linux-phone-oco/docs","says":"build: tad 0.7.1 (#511)"}
 {"at":"2026-11-18T14:29:42Z","by":"grenudi","id":"608b61f","project":"linux-phone-oco/docs","says":"docs(lab-tools): host-record-from-check done (#175) (#507)"}
@@ -1232,6 +1260,7 @@
 {"at":"2026-11-19T22:42:53Z","by":"grenudi","id":"8c2712f","project":"linux-phone-oco/docs","says":"feat(backlog): step groups' two open ends - way back settled, lift sees groups (#712)"}
 {"at":"2026-11-18T02:14:38Z","by":"grenudi","id":"8c2d646","project":"linux-phone-oco/docs","says":"docs: names sweep, lab-tools messages slice recorded (#408)"}
 {"at":"2026-11-19T18:02:53Z","by":"grenudi","id":"8cae19c","project":"linux-phone-oco/docs","says":"feat(backlog): attended prompt and answer files, run --from, skip steps already done (#672)"}
+{"at":"2026-11-23T03:32:53Z","by":"grenudi","id":"8d15de2","project":"linux-phone-oco/docs","says":"docs: the structure's git flows run on git-rhizoid; MAP.md follows (#753)"}
 {"at":"2026-11-17T18:45:40Z","by":"grenudi","id":"8d3365a","project":"linux-phone-oco/docs","says":"docs: floor research validity - read the suspend entry first (research, decision, 3 items) (#317)"}
 {"at":"2026-11-17T15:19:27Z","by":"grenudi","id":"8d7db9c","project":"linux-phone-oco/docs","says":"docs: the walleye coordinator's brief, first decisions and backlog (#219)"}
 {"at":"2026-11-17T09:42:01Z","by":"grenudi","id":"8deb2ef","project":"linux-phone-oco/docs","says":"docs: 7 runs of xiaomi-surya filed by devlab, from the phone's own reports (#156)"}
@@ -1248,9 +1277,11 @@
 {"at":"2026-11-17T16:16:38Z","by":"grenudi","id":"93b230d","project":"linux-phone-oco/docs","says":"fix: docs follows idealkb 0.9.1: no IKB.md, ikb page prints (#241)"}
 {"at":"2026-11-18T14:09:11Z","by":"grenudi","id":"93b4245","project":"linux-phone-oco/docs","says":"chore(backlog): lpoco host records the root files it installs (rank 5) (#494)"}
 {"at":"2026-11-19T15:19:31Z","by":"grenudi","id":"947732c","project":"linux-phone-oco/docs","says":"feat(backlog): kernel-try-usb-timeline from surya, host-clones-fresh for stale shared clones (#659)"}
+{"at":"2026-11-23T03:12:58Z","by":"grenudi","id":"94d3906","project":"linux-phone-oco/docs","says":"docs: the structure review's backlog - kernel assemble tool, briefs, old branches, lab root (#750)"}
 {"at":"2026-11-19T23:57:11Z","by":"grenudi","id":"9506079","project":"linux-phone-oco/docs","says":"docs(lab-tools): attended-eof-is-no-answer done (lab-tools #306) (#725)"}
 {"at":"2026-11-18T21:09:08Z","by":"grenudi","id":"954fe6f","project":"linux-phone-oco/docs","says":"fix(pages): install tad's DuckDB before the face's data is made (#552)"}
 {"at":"2026-11-20T00:35:20Z","by":"grenudi","id":"95de898","project":"linux-phone-oco/docs","says":"docs: phone-declared-transport slice 3 (lab-tools #310) (#732)"}
+{"at":"2026-11-23T04:30:05Z","by":"grenudi","id":"962bef5","project":"linux-phone-oco/docs","says":"docs(briefs): worktrees in the agent-worktrees home, MAP.md, ROLE/WHAT branches, topic branches (#757)"}
 {"at":"2026-11-19T11:17:28Z","by":"grenudi","id":"9631c31","project":"linux-phone-oco/docs","says":"feat(backlog): lpoco-attended, the shared runner for attended sequences, at rank 1 (#634)"}
 {"at":"2026-11-17T11:05:34Z","by":"github-actions[bot]","id":"96c1274","project":"linux-phone-oco/docs","says":"chore(main): release 0.2.0 (#83)"}
 {"at":"2026-11-10T14:20:29Z","by":"grenudi","id":"96cfe9e","project":"linux-phone-oco/docs","says":"chore: the observatory's mark (oco.toml) (#38)"}
@@ -1270,6 +1301,7 @@
 {"at":"2026-11-17T15:05:49Z","by":"grenudi","id":"9c0fcc4","project":"linux-phone-oco/docs","says":"feat: docs follows idealkb 0.7.1 and records with ikb: IKB.md, machine records named (#215)"}
 {"at":"2026-11-19T20:01:09Z","by":"grenudi","id":"9c89883","project":"linux-phone-oco/docs","says":"docs: device.toml check done in device-template, newest release, no token (#688)"}
 {"at":"2026-11-10T03:00:36Z","by":"grenudi","id":"9ca3b14","project":"linux-phone-oco/docs","says":"feat(data): upstream-sxmo-profile - the Sxmo device profile for surya, ready to send (#26)"}
+{"at":"2026-11-23T05:50:57Z","by":"grenudi","id":"9cc02dd","project":"linux-phone-oco/docs","says":"docs(lab-tools): follow holds every phone's lease while it installs (backlog note, session log) (#769)"}
 {"at":"2026-11-17T20:35:05Z","by":"grenudi","id":"9ccdcc8","project":"linux-phone-oco/docs","says":"docs: lpoco-rename-lab-tone done, session log (#370)"}
 {"at":"2026-11-18T19:15:05Z","by":"grenudi","id":"9d12b02","project":"linux-phone-oco/docs","says":"feat(queries): prior-art gives a subject's research and each cited source with what we take (#534)"}
 {"at":"2026-11-18T12:06:27Z","by":"grenudi","id":"9d301a7","project":"linux-phone-oco/docs","says":"docs(lab-tools): lpoco-host-rest part 6b done, session log (#455)"}
@@ -1308,6 +1340,7 @@
 {"at":"2026-11-18T11:57:50Z","by":"grenudi","id":"a6e9996","project":"linux-phone-oco/docs","says":"docs(lab-tools): lpoco-host-rest part 6 net_name done, session log (#453)"}
 {"at":"2026-11-17T18:35:38Z","by":"grenudi","id":"a6f0c61","project":"linux-phone-oco/docs","says":"docs: upstream item for ideal-agent: bring-up order (feedback channel, vendor kernel, mainline) (#309)"}
 {"at":"2026-11-17T10:02:22Z","by":"grenudi","id":"a6fff34","project":"linux-phone-oco/docs","says":"docs: briefs keep their domain and name the ideal-agent skills (#159)"}
+{"at":"2026-11-23T04:41:47Z","by":"grenudi","id":"a7069d4","project":"linux-phone-oco/docs","says":"docs: the structure review is done - all six roles confirmed the map (#762)"}
 {"at":"2026-11-18T03:18:16Z","by":"grenudi","id":"a80c989","project":"linux-phone-oco/docs","says":"docs: backlog release-plz-one-version (changelog-only releases under an existing version) (#418)"}
 {"at":"2026-11-18T03:17:03Z","by":"grenudi","id":"a82654a","project":"linux-phone-oco/docs","says":"docs: bringup image swap done, bisect series opened (#417)"}
 {"at":"2026-11-18T19:16:39Z","by":"grenudi","id":"a840b77","project":"linux-phone-oco/docs","says":"chore(backlog): upstreams lane - surya's PMIC bite restarts; patch 6 stops S2 on reboot (#536)"}
@@ -1316,6 +1349,7 @@
 {"at":"2026-11-18T15:04:20Z","by":"grenudi","id":"a97dca4","project":"linux-phone-oco/docs","says":"feat: feat: the pin says why each own file is kept (#513)"}
 {"at":"2026-11-19T10:52:40Z","by":"grenudi","id":"a9a35d6","project":"linux-phone-oco/docs","says":"docs: record hold-flake proof run and the bisect flake seen once (#632)"}
 {"at":"2026-11-18T19:54:08Z","by":"grenudi","id":"aa61c2d","project":"linux-phone-oco/docs","says":"docs: the workarounds umbrella is done (#544)"}
+{"at":"2026-11-23T04:28:25Z","by":"grenudi","id":"aaf24a8","project":"linux-phone-oco/docs","says":"docs: the kernel flow walked for walleye and surya - walleye may resume (#756)"}
 {"at":"2026-11-19T11:58:03Z","by":"grenudi","id":"ab2d9f9","project":"linux-phone-oco/docs","says":"feat(decisions): procedures chain small device-agnostic steps, one step type for both runners (#638)"}
 {"at":"2026-11-18T11:37:28Z","by":"grenudi","id":"ab9993b","project":"linux-phone-oco/docs","says":"docs(patrol): measure the keeper hand-off gap as a sign (#448)"}
 {"at":"2026-11-10T20:12:58Z","by":"grenudi","id":"abb2066","project":"linux-phone-oco/docs","says":"feat(data): the first devlab flash - the suspend crash now reproducible, a check to correct (#45)"}
@@ -1365,6 +1399,8 @@
 {"at":"2026-11-17T00:58:18Z","by":"grenudi","id":"ba01aae","project":"linux-phone-oco/docs","says":"feat: Support status read off the suite's results, beside what was judged (#86)"}
 {"at":"2026-11-19T23:31:54Z","by":"grenudi","id":"ba0e9df","project":"linux-phone-oco/docs","says":"docs(lab-tools): phone-declared-transport slice 1 landed (lab-tools #304) (#722)"}
 {"at":"2026-11-21T00:48:31Z","by":"grenudi","id":"ba1988c","project":"linux-phone-oco/docs","says":"docs(lab-tools): keeper release hardening done, follow drift parked (#745)"}
+{"at":"2026-11-23T06:08:48Z","by":"grenudi","id":"ba4154b","project":"linux-phone-oco/docs","says":"docs: bootimg-trigger-per-base landed in lab-tools (#335) (#771)"}
+{"at":"2026-11-23T05:10:17Z","by":"grenudi","id":"bb814d1","project":"linux-phone-oco/docs","says":"docs(lab-tools): host-installs-cargo-tool-at-pin done, with its log and decision (#766)"}
 {"at":"2026-11-19T11:41:37Z","by":"grenudi","id":"bbc6790","project":"linux-phone-oco/docs","says":"feat(backlog): the bisect and hold test flakes are done (lab-tools #241) (#636)"}
 {"at":"2026-11-17T13:26:01Z","by":"github-actions[bot]","id":"bbe525b","project":"linux-phone-oco/docs","says":"chore(main): release 0.6.0 (#203)"}
 {"at":"2026-11-05T07:33:49Z","by":"grenudi","id":"bbe722e","project":"linux-phone-oco/docs","says":"feat: schema for device/component/status tracking, RFC-style docs (#1)"}
@@ -1383,6 +1419,7 @@
 {"at":"2026-11-17T18:38:34Z","by":"grenudi","id":"c16bb01","project":"linux-phone-oco/docs","says":"docs: the bring-up-order item landed in ideal-agent PR 56 (#312)"}
 {"at":"2026-11-18T14:21:44Z","by":"grenudi","id":"c19032d","project":"linux-phone-oco/docs","says":"docs: sxmo-utils lab apk delivered by the conveyor: both packages on one Pages repository (#499)"}
 {"at":"2026-11-17T01:50:53Z","by":"grenudi","id":"c1e4e95","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#106)"}
+{"at":"2026-11-23T03:59:43Z","by":"grenudi","id":"c21ba3f","project":"linux-phone-oco/docs","says":"docs: test kernels are rhizoid's int/ tags only; rhizoid assemble tried (#754)"}
 {"at":"2026-11-17T03:28:12Z","by":"grenudi","id":"c254333","project":"linux-phone-oco/docs","says":"docs: Boot race: the audio PD's up notification never arrives; PD mapper order suspected (#117)"}
 {"at":"2026-11-18T14:13:43Z","by":"grenudi","id":"c315bbb","project":"linux-phone-oco/docs","says":"chore(backlog): lab names stale phone pieces, done (lab-tools #170) (#496)"}
 {"at":"2026-11-17T17:58:46Z","by":"grenudi","id":"c50743e","project":"linux-phone-oco/docs","says":"docs: walleye: the control was refused too; research and one slot-a control queued (#287)"}
@@ -1392,22 +1429,26 @@
 {"at":"2026-11-19T00:33:05Z","by":"grenudi","id":"c5c7c35","project":"linux-phone-oco/docs","says":"chore(backlog): rank the sxmo-utils licence notice on the apk page (5) and Nura names (10) (#577)"}
 {"at":"2026-11-17T22:09:28Z","by":"grenudi","id":"c5fed37","project":"linux-phone-oco/docs","says":"docs: backlog lab-devlab-to-pin (between surya keeper runs) (#384)"}
 {"at":"2026-11-19T15:14:38Z","by":"grenudi","id":"c610fa9","project":"linux-phone-oco/docs","says":"docs: attended physical steps and device kernels done (#658)"}
+{"at":"2026-11-23T07:23:02Z","by":"grenudi","id":"c70a46f","project":"linux-phone-oco/docs","says":"chore(backlog): bootimg-trigger-per-base waits on nfpm on the lab host (#774)"}
 {"at":"2026-11-05T07:43:11Z","by":"grenudi","id":"c7800d4","project":"linux-phone-oco/docs","says":"ci: deploy Pages via Actions instead of the legacy pipeline (#2)"}
 {"at":"2026-11-20T12:50:44Z","by":"feeds","id":"c799cc5","project":"linux-phone-oco/docs","says":"chore(feed): data from the scheduled feeds"}
 {"at":"2026-11-19T17:04:36Z","by":"grenudi","id":"c85a7b8","project":"linux-phone-oco/docs","says":"feat(backlog): attended-ready-on-host - ready means the installed tools read the device (#666)"}
 {"at":"2026-11-17T05:29:32Z","by":"grenudi","id":"c90431e","project":"linux-phone-oco/docs","says":"docs: The microphones hold across boots; the boot race is fixed in every flash (#137)"}
+{"at":"2026-11-23T04:24:49Z","by":"grenudi","id":"c9b145d","project":"linux-phone-oco/docs","says":"docs: rhizoid v0.2.0 checked - the kernel flow is ready for the lanes' builders (#755)"}
 {"at":"2026-11-18T15:13:53Z","by":"github-actions[bot]","id":"c9d0b02","project":"linux-phone-oco/docs","says":"chore(main): release 0.17.0 (#504)"}
 {"at":"2026-11-18T12:14:04Z","by":"grenudi","id":"c9fba0e","project":"linux-phone-oco/docs","says":"chore(backlog): lpoco-host-rest after the phone-side pieces (#457)"}
 {"at":"2026-11-19T23:41:14Z","by":"grenudi","id":"ca00f5c","project":"linux-phone-oco/docs","says":"docs: PMIC watchdog v1: Pixel 2 test evidence, rebased onto next-20261119 (#723)"}
 {"at":"2026-11-18T15:21:18Z","by":"grenudi","id":"cacfe09","project":"linux-phone-oco/docs","says":"docs: the four idealkb upstream items are landed (v0.17.0-v0.19.0) (#516)"}
 {"at":"2026-11-17T14:18:43Z","by":"grenudi","id":"cb2189a","project":"linux-phone-oco/docs","says":"docs(lab-tools): lpoco-health weighed against building on postmarketOS upstream (#214)"}
 {"at":"2026-11-17T18:38:08Z","by":"grenudi","id":"cb27861","project":"linux-phone-oco/docs","says":"docs: surya: BT-blocked cycle resets the phone; SH0 looks by-design (floor-sh0-owner) (#311)"}
+{"at":"2026-11-23T05:13:19Z","by":"grenudi","id":"cb42fce","project":"linux-phone-oco/docs","says":"feat: rhizoid.graph.toml, the project's repository graph, with the attended pins and their gate (#767)"}
 {"at":"2026-11-19T00:40:44Z","by":"grenudi","id":"cb686f3","project":"linux-phone-oco/docs","says":"docs: the licences for our repositories, on the author's word (#581)"}
 {"at":"2026-11-19T00:09:45Z","by":"grenudi","id":"cb7b6e4","project":"linux-phone-oco/docs","says":"build: ideal-knowledge-base 0.22.0 (#569)"}
 {"at":"2026-11-17T18:34:27Z","by":"grenudi","id":"cbb9e12","project":"linux-phone-oco/docs","says":"docs: walleye: the bisect's s1 is the vendor-kernel gadget image (#308)"}
 {"at":"2026-11-17T15:12:53Z","by":"grenudi","id":"cbec011","project":"linux-phone-oco/docs","says":"feat: docs declares idealkb's upstream tables (empty): where knowledge can flow, what is sent (#217)"}
 {"at":"2026-11-19T00:35:20Z","by":"grenudi","id":"cc14951","project":"linux-phone-oco/docs","says":"chore(backlog): dt-check must not read a violation as clean (rank 1) (#578)"}
 {"at":"2026-11-17T18:39:06Z","by":"grenudi","id":"cc37f3f","project":"linux-phone-oco/docs","says":"docs: research question - is SH0 the blocker, counter validity (needs research) (#313)"}
+{"at":"2026-11-23T07:20:32Z","by":"grenudi","id":"cc69244","project":"linux-phone-oco/docs","says":"docs: bootimg-trigger-per-base - Debian proved through a real dpkg -i (#773)"}
 {"at":"2026-11-17T03:40:31Z","by":"grenudi","id":"ccc6e74","project":"linux-phone-oco/docs","says":"feat: one database for linux-phone: every place's records, through named records (#118)"}
 {"at":"2026-11-18T19:20:43Z","by":"grenudi","id":"cd76ff7","project":"linux-phone-oco/docs","says":"feat(queries): milestone-steps reads a milestone's step terms from the bases' claims (#539)"}
 {"at":"2026-11-17T15:51:32Z","by":"grenudi","id":"cd8e9b1","project":"linux-phone-oco/docs","says":"docs(google-walleye): the shortest honest path to a mainline fastboot boot of the Pixel 2 (#229)"}
@@ -1441,12 +1482,14 @@
 {"at":"2026-11-18T23:46:29Z","by":"grenudi","id":"d5bad73","project":"linux-phone-oco/docs","says":"docs(lab-tools): bringup-generic-init sixth slice - ffs-acm joins lab-tools (#564)"}
 {"at":"2026-11-19T21:00:58Z","by":"grenudi","id":"d5e8c67","project":"linux-phone-oco/docs","says":"docs(lab-tools): host-follows-releases slice 3 landed, session log (#698)"}
 {"at":"2026-11-17T15:19:59Z","by":"github-actions[bot]","id":"d627074","project":"linux-phone-oco/docs","says":"chore(main): release 0.7.0 (#216)"}
+{"at":"2026-11-22T20:14:28Z","by":"grenudi","id":"d6485fc","project":"linux-phone-oco/docs","says":"docs: orchestration paused for the structure review - session log and how it stands (#747)"}
 {"at":"2026-11-17T05:32:57Z","by":"grenudi","id":"d69891b","project":"linux-phone-oco/docs","says":"docs: audio-mic judged works: both microphones, proven by the phone after every boot (#140)"}
 {"at":"2026-11-17T17:17:58Z","by":"grenudi","id":"d6e68a6","project":"linux-phone-oco/docs","says":"docs: walleye's first fastboot boot is the head of its queue, no longer waiting on built things (#263)"}
 {"at":"2026-11-17T00:25:35Z","by":"grenudi","id":"d72b13b","project":"linux-phone-oco/docs","says":"feat: linux-phone's face, drawn in CI from its open database (#82)"}
 {"at":"2026-11-17T09:37:14Z","by":"grenudi","id":"d75d79a","project":"linux-phone-oco/docs","says":"docs: Analysis in Rust on the phone, and mobile data under a monthly budget (#154)"}
 {"at":"2026-11-10T22:58:00Z","by":"grenudi","id":"d7680d2","project":"linux-phone-oco/docs","says":"fix(data): the claim that a machine heard the speakers is withdrawn (#49)"}
 {"at":"2026-11-17T18:04:41Z","by":"grenudi","id":"d7aef03","project":"linux-phone-oco/docs","says":"docs: walleye-boot-refused-why done (#292)"}
+{"at":"2026-11-23T04:31:52Z","by":"grenudi","id":"d7b70e2","project":"linux-phone-oco/docs","says":"chore(backlog): kernel-assemble-from-topics, the wrapper on rhizoid v0.2.0, first in lab-tools (#759)"}
 {"at":"2026-11-18T23:13:36Z","by":"grenudi","id":"d80a81f","project":"linux-phone-oco/docs","says":"docs: patrol round 2026-11-19 00:10 UTC, nothing filed (#561)"}
 {"at":"2026-11-09T18:46:01Z","by":"grenudi","id":"d816352","project":"linux-phone-oco/docs","says":"feat(data): the ADSP crash loop is understood and stopped on the phone (#10)"}
 {"at":"2026-11-17T17:48:43Z","by":"grenudi","id":"d8a7578","project":"linux-phone-oco/docs","says":"docs: docs: idealkb and device-template are upstreams; the chain follows by slice (#284)"}
@@ -1457,6 +1500,7 @@
 {"at":"2026-11-19T13:48:51Z","by":"grenudi","id":"db29468","project":"linux-phone-oco/docs","says":"attended lift loop (#654)"}
 {"at":"2026-11-17T16:20:20Z","by":"github-actions[bot]","id":"db52082","project":"linux-phone-oco/docs","says":"chore(main): release 0.9.0 (#239)"}
 {"at":"2026-11-17T13:07:32Z","by":"grenudi","id":"dbb228d","project":"linux-phone-oco/docs","says":"docs: the SIM is out of surya: device note, skip-checks backlog item (#200)"}
+{"at":"2026-11-23T07:34:03Z","by":"grenudi","id":"dc3e8c2","project":"linux-phone-oco/docs","says":"chore(backlog): sxmo-fork-retired removes the sxmo-utils graph edge; its rhizoid import dropped (#775)"}
 {"at":"2026-11-17T04:14:19Z","by":"grenudi","id":"dcfec84","project":"linux-phone-oco/docs","says":"docs: Decision (surya-lab): test kernels that prove a part are built from pushed branches (#120)"}
 {"at":"2026-11-18T14:14:52Z","by":"grenudi","id":"dd5a900","project":"linux-phone-oco/docs","says":"docs(device-template): research, decision and queue for following the template by release (#493)"}
 {"at":"2026-11-19T17:46:38Z","by":"grenudi","id":"dd6c53a","project":"linux-phone-oco/docs","says":"docs(lab-tools): host-follows-releases slice 1 landed, session log (#671)"}
@@ -1480,6 +1524,7 @@
 {"at":"2026-11-19T12:13:46Z","by":"grenudi","id":"e3519d5","project":"linux-phone-oco/docs","says":"feat(backlog): lpoco-attended first slice released as lpoco-attended-v0.29.0 (#640)"}
 {"at":"2026-11-18T15:19:22Z","by":"grenudi","id":"e399e72","project":"linux-phone-oco/docs","says":"docs(device-layer): the template follows docs; its drift check reads both sources, the records (#515)"}
 {"at":"2026-11-17T19:08:46Z","by":"grenudi","id":"e3f64a7","project":"linux-phone-oco/docs","says":"docs: 21 runs of xiaomi-surya filed by devlab, from the phone's own reports (#333)"}
+{"at":"2026-11-23T04:31:10Z","by":"grenudi","id":"e46c1c8","project":"linux-phone-oco/docs","says":"docs: upstream-item rows for six walleye series and three surya commits (#758)"}
 {"at":"2026-11-11T00:15:22Z","by":"grenudi","id":"e4aedd8","project":"linux-phone-oco/docs","says":"feat(data): the idea of Linux Phones in Russian (#50)"}
 {"at":"2026-11-17T17:36:55Z","by":"grenudi","id":"e4ceeeb","project":"linux-phone-oco/docs","says":"docs: floor-aoss-knobs - the channel opens, the sends are not acked (keeper-9) (#276)"}
 {"at":"2026-11-19T01:08:46Z","by":"grenudi","id":"e527c24","project":"linux-phone-oco/docs","says":"docs: the author keeps existing shell as it is; shell-past-glue-into-rust closed (#587)"}
@@ -1499,6 +1544,7 @@
 {"at":"2026-11-18T09:32:35Z","by":"grenudi","id":"ea66705","project":"linux-phone-oco/docs","says":"chore(backlog): lpoco host accepted, its tty half passed on walleye (#439)"}
 {"at":"2026-11-17T21:50:45Z","by":"grenudi","id":"eaf29fa","project":"linux-phone-oco/docs","says":"docs(lab-tools): lpoco-host research and decision; backlog lpoco-host rank 1 (#378)"}
 {"at":"2026-11-17T17:10:03Z","by":"grenudi","id":"eb317a8","project":"linux-phone-oco/docs","says":"docs: walleye coordinator brief: the lane's launchers and decision routing (#255)"}
+{"at":"2026-11-23T05:55:25Z","by":"grenudi","id":"eb393e6","project":"linux-phone-oco/docs","says":"chore(backlog): graph-records-the-forks, with rhizoid v0.3.1 on the host (#770)"}
 {"at":"2026-11-20T23:47:43Z","by":"grenudi","id":"ebb3c4f","project":"linux-phone-oco/docs","says":"docs(lab-tools): boot-once-pre-boot-gates done (lab-tools #317, v0.41.0), with its record (#738)"}
 {"at":"2026-11-18T14:28:52Z","by":"grenudi","id":"ec371ae","project":"linux-phone-oco/docs","says":"docs(bringup-steps): the summary says the tables, records and seed are in docs (#506)"}
 {"at":"2026-11-19T18:40:43Z","by":"grenudi","id":"ecf154c","project":"linux-phone-oco/docs","says":"docs(lab-tools): attended-skip-when-in-state done, session log (#676)"}
@@ -1590,6 +1636,7 @@
 {"at":"2026-11-17T22:23:57Z","by":"grenudi","id":"0999efe","project":"linux-phone-oco/google-walleye-lab","says":"walleye: m1 window read on host 7.3.4 (lpoco-host acceptance passes) (#70)"}
 {"at":"2026-11-19T18:40:43Z","by":"grenudi","id":"09b0348","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the display-at-boot try lists /sys/class/drm by a glob, not the phone's coloured ls (#558)"}
 {"at":"2026-11-20T22:08:16Z","by":"grenudi","id":"09e9993","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the wahoo device configuration is recorded as sources and a research item (#655)"}
+{"at":"2026-11-23T07:10:09Z","by":"grenudi","id":"0a1bc4f","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the stage 2 boot image, built and declared, item done (#770)"}
 {"at":"2026-11-18T05:50:59Z","by":"grenudi","id":"0a40f31","project":"linux-phone-oco/google-walleye-lab","says":"keeper/walleye vfx tried (#143)"}
 {"at":"2026-11-19T17:23:08Z","by":"grenudi","id":"0af76c6","project":"linux-phone-oco/google-walleye-lab","says":"walleye: PMIC program run 3, steps 1-7 pass on the sysfsless pair; how the phone stands (#534)"}
 {"at":"2026-11-18T09:13:29Z","by":"grenudi","id":"0bb7a56","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the readers fall back to root-exec for the one tty node (item) (#177)"}
@@ -1613,6 +1660,7 @@
 {"at":"2026-11-17T20:14:47Z","by":"grenudi","id":"1122559","project":"linux-phone-oco/google-walleye-lab","says":"walleye: split the ncm step; why ncm panics (research) (#31)"}
 {"at":"2026-11-19T17:44:06Z","by":"grenudi","id":"11a1fe6","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the display try is one command away; plain words and keeper orders are in the item (#541)"}
 {"at":"2026-11-18T20:16:34Z","by":"grenudi","id":"1254e87","project":"linux-phone-oco/google-walleye-lab","says":"walleye: watchdog-way-back is unknown, not failing (the recovery is unproven) (#296)"}
+{"at":"2026-11-22T20:22:31Z","by":"grenudi","id":"12c0533","project":"linux-phone-oco/google-walleye-lab","says":"walleye: paused for the structure review, with the resume order and what is not known yet (#733)"}
 {"at":"2026-11-19T21:35:30Z","by":"grenudi","id":"1311eb0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: bring-up steps and parts recorded from the landed evidence (#596)"}
 {"at":"2026-11-19T15:40:13Z","by":"grenudi","id":"1330ace","project":"linux-phone-oco/google-walleye-lab","says":"walleye: L6 stripes try read, script-detach item, how the phone stands (#509)"}
 {"at":"2026-11-18T15:08:29Z","by":"grenudi","id":"13510bd","project":"linux-phone-oco/google-walleye-lab","says":"walleye: wire the phone-state check into the restart gate and the recipes (build item) (#256)"}
@@ -1626,14 +1674,19 @@
 {"at":"2026-11-19T19:51:56Z","by":"grenudi","id":"1604081","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the author's Go for the UFS read-only try is recorded; the go window follows (#576)"}
 {"at":"2026-11-19T17:41:20Z","by":"grenudi","id":"1686aca","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): the display procedure's unattended real run, how the phone stands (#539)"}
 {"at":"2026-11-20T22:04:45Z","by":"grenudi","id":"174acc8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: install stage researched: stages, proposed decision, steps, slot read-back check (#653)"}
+{"at":"2026-11-23T05:18:30Z","by":"grenudi","id":"1762b05","project":"linux-phone-oco/google-walleye-lab","says":"walleye: check 17 proves the hand-over from the live state (PID 1, the overlay) (#749)"}
 {"at":"2026-11-18T07:35:36Z","by":"grenudi","id":"17ab08e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: PMIC nodes from mainline, z1 built, the try queued (#159)"}
 {"at":"2026-11-20T22:20:35Z","by":"grenudi","id":"17e5ae1","project":"linux-phone-oco/google-walleye-lab","says":"walleye: B-r5 is clean at 5 s; any-order images lead the builds, the driver and registers wait (#658)"}
+{"at":"2026-11-23T04:39:25Z","by":"grenudi","id":"17f4457","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the topics item notes the ufs-match split, the hynix drop and the clone's one-branch fetch (#739)"}
 {"at":"2026-11-19T01:28:01Z","by":"grenudi","id":"18206fb","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the generic init offers console acm; the ffs helpers can retire (#350)"}
+{"at":"2026-11-23T07:04:28Z","by":"grenudi","id":"1833298","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): stage 2 rehearsal stops at check 2, the stage 2 image is missing (#769)"}
 {"at":"2026-11-19T18:11:19Z","by":"grenudi","id":"1853b91","project":"linux-phone-oco/google-walleye-lab","says":"walleye: B1, the display at boot: init-display, its test, the build and the record (#551)"}
+{"at":"2026-11-22T20:11:54Z","by":"grenudi","id":"18a240f","project":"linux-phone-oco/google-walleye-lab","says":"walleye: root boot run 2 stopped at check 17, how the phone stands (#730)"}
 {"at":"2026-11-19T13:35:21Z","by":"grenudi","id":"18db44b","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): touch program's unattended run done, enter-fastboot gap recorded (#460)"}
 {"at":"2026-11-20T23:00:37Z","by":"grenudi","id":"19ec877","project":"linux-phone-oco/google-walleye-lab","says":"walleye: current slot read (adb _b = fastboot b; other slot a), hand-over (#669)"}
 {"at":"2026-11-18T12:17:07Z","by":"grenudi","id":"19f2c50","project":"linux-phone-oco/google-walleye-lab","says":"walleye: z5 tried once - shell alive, tty full of prompts and errors; phone back as Android on b (#204)"}
 {"at":"2026-11-18T02:56:15Z","by":"grenudi","id":"1a2123d","project":"linux-phone-oco/google-walleye-lab","says":"walleye: T1 pstore try done, marker absent (cause B) (#119)"}
+{"at":"2026-11-23T04:35:24Z","by":"grenudi","id":"1a452ad","project":"linux-phone-oco/google-walleye-lab","says":"walleye: three kernel commits held only by detached worktrees, noted on the topics item (#738)"}
 {"at":"2026-11-17T22:33:50Z","by":"grenudi","id":"1a4ffb9","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ml4 built (timing-channel init), try queued (#75)"}
 {"at":"2026-11-18T14:40:57Z","by":"grenudi","id":"1a5db40","project":"linux-phone-oco/google-walleye-lab","says":"walleye: c3 hangs the phone for 27+ minutes - the why queued; the c4 try waits (#249)"}
 {"at":"2026-11-18T14:19:06Z","by":"grenudi","id":"1aaa698","project":"linux-phone-oco/google-walleye-lab","says":"walleye: dtbo overlay id answered (0x1bc rev 3), minimal dtbo try queued (#244)"}
@@ -1646,11 +1699,13 @@
 {"at":"2026-11-19T18:30:33Z","by":"grenudi","id":"1d3686e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the display-at-boot try reads card0 through the phone's coloured ls (#556)"}
 {"at":"2026-11-18T22:46:42Z","by":"grenudi","id":"1d65413","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): z17 tried once, pmi8998@3 lacks reg (#312)"}
 {"at":"2026-11-19T14:50:03Z","by":"grenudi","id":"1d7ade7","project":"linux-phone-oco/google-walleye-lab","says":"walleye: TAS2557 series starts from Boiano's v3 (research and decision) (#491)"}
+{"at":"2026-11-23T06:18:02Z","by":"grenudi","id":"1de97d0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: root boot run 5 passed all 26 steps, rootfs-boots done (#759)"}
 {"at":"2026-11-18T15:14:11Z","by":"grenudi","id":"1e01dda","project":"linux-phone-oco/google-walleye-lab","says":"feat(walleye): wire phone-state.sh into restart-check and the gadget readers (#259)"}
 {"at":"2026-11-19T21:49:24Z","by":"grenudi","id":"1e48d8b","project":"linux-phone-oco/google-walleye-lab","says":"walleye: L7 unanswered run proven, the phone back by its own way back (#602)"}
 {"at":"2026-11-19T12:03:53Z","by":"grenudi","id":"1ebab1e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: UFS gap research: lane 1 under the 3.0.0 PHY table, a down lane costs speed only (#423)"}
 {"at":"2026-11-17T20:05:19Z","by":"grenudi","id":"1eee99d","project":"linux-phone-oco/google-walleye-lab","says":"walleye builder gadget5 (#27)"}
 {"at":"2026-11-19T22:46:06Z","by":"grenudi","id":"1f239c6","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the procedures move to lpoco-attended step groups; queued (#613)"}
+{"at":"2026-11-23T05:50:53Z","by":"grenudi","id":"1fa1f50","project":"linux-phone-oco/google-walleye-lab","says":"walleye: image U-d5, the UFS root with the display in one kernel (ufs-root-display-image) (#755)"}
 {"at":"2026-11-19T17:22:44Z","by":"grenudi","id":"201af25","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the script's poll proof waits for an idle phone slot; the display procedure goes first (#533)"}
 {"at":"2026-11-18T18:17:21Z","by":"grenudi","id":"202297a","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the PMIC register reads parked behind storage, networking, touch and display (#272)"}
 {"at":"2026-11-22T17:09:05Z","by":"grenudi","id":"209257c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the author's go for the stage 1 write is recorded and open until three hours from now (#694)"}
@@ -1685,6 +1740,7 @@
 {"at":"2026-11-19T12:41:24Z","by":"grenudi","id":"29b323e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the late-probe try waits for the f3 split result (#436)"}
 {"at":"2026-11-19T12:20:49Z","by":"grenudi","id":"2a858b8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: research the public record of Sony's yoshino UFS erase (mechanism unpublished) (#425)"}
 {"at":"2026-11-18T04:02:10Z","by":"grenudi","id":"2accbee","project":"linux-phone-oco/google-walleye-lab","says":"walleye: vf2 tried twice, init alive; how the phone stands (#129)"}
+{"at":"2026-11-23T07:26:08Z","by":"grenudi","id":"2af70ec","project":"linux-phone-oco/google-walleye-lab","says":"walleye: UFS try 2 run 1 GPT read again from Android: EQUAL, item done (#776)"}
 {"at":"2026-11-18T05:50:19Z","by":"grenudi","id":"2afaa34","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the lpoco bisect command replaces our scripts (build item, waits on the host release) (#141)"}
 {"at":"2026-11-18T00:08:30Z","by":"grenudi","id":"2bc9e0b","project":"linux-phone-oco/google-walleye-lab","says":"feat(walleye): build pk5l2 (ramoops in the phone's own region); queue walleye-try-pk5l2 (#97)"}
 {"at":"2026-11-18T22:56:14Z","by":"grenudi","id":"2bd4d0d","project":"linux-phone-oco/google-walleye-lab","says":"walleye: z17 spmi/gpio facts read; pmi8998 gpio chip exists (#316)"}
@@ -1710,12 +1766,14 @@
 {"at":"2026-11-18T08:44:57Z","by":"grenudi","id":"3178cf8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: z3 puts the overlay's clock_gcc on the real gcc, try queued (build item) (#168)"}
 {"at":"2026-11-18T03:07:52Z","by":"grenudi","id":"3194801","project":"linux-phone-oco/google-walleye-lab","says":"walleye: pause the pstore chase; the vendor kernel as the instrument (decision, build item) (#123)"}
 {"at":"2026-11-19T18:04:28Z","by":"grenudi","id":"321e331","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the author's look is recorded: the glass lights, fbcon shows, the stripes flashed (#550)"}
+{"at":"2026-11-23T05:14:29Z","by":"grenudi","id":"3282471","project":"linux-phone-oco/google-walleye-lab","says":"test(display): B-r2 and B-rp2 clean at 2 s, any-order item done (#748)"}
 {"at":"2026-11-19T12:48:56Z","by":"grenudi","id":"3356a2c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: display f3 split tried once each: g1 and g2 shell up, g3 no gadget (#440)"}
 {"at":"2026-11-18T02:38:41Z","by":"grenudi","id":"33836ac","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the phone is off USB - phone work parked; battery watch; warm-reset research queued (#111)"}
 {"at":"2026-11-19T18:28:31Z","by":"grenudi","id":"3430cf4","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the matched UFS image prints host and PHY registers read-only (walleye-ufs-match-prints) (#555)"}
 {"at":"2026-11-19T14:10:16Z","by":"grenudi","id":"3430fd9","project":"linux-phone-oco/google-walleye-lab","says":"docs: walleye radios research, decision, backlog and failing checks (#474)"}
 {"at":"2026-11-19T19:09:10Z","by":"grenudi","id":"34ac836","project":"linux-phone-oco/google-walleye-lab","says":"docs: walleye keeper's how the phone stands (banner shell) (#565)"}
 {"at":"2026-11-20T23:58:52Z","by":"grenudi","id":"358c43f","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the boot command carries the slot guard itself (the init's fails open) (#678)"}
+{"at":"2026-11-23T03:26:16Z","by":"grenudi","id":"35dc188","project":"linux-phone-oco/google-walleye-lab","says":"research: run-2's logs are the material of its research row; the move logged (#736)"}
 {"at":"2026-11-22T18:10:36Z","by":"grenudi","id":"363371e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the root boot's rehearsal as its own command, disk letters from luns, one root_for (#699)"}
 {"at":"2026-11-18T07:07:26Z","by":"grenudi","id":"36c870c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the first shell of our own mainline kernel (phone item) (#153)"}
 {"at":"2026-11-18T10:53:29Z","by":"grenudi","id":"36ea3ae","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the shell reader drops the root-exec fallback; a denied tty fails with what it saw (#192)"}
@@ -1737,9 +1795,12 @@
 {"at":"2026-11-19T14:11:55Z","by":"grenudi","id":"3d3acd7","project":"linux-phone-oco/google-walleye-lab","says":"walleye: radios items ranked after the display and the attended tries (#475)"}
 {"at":"2026-11-18T07:31:58Z","by":"grenudi","id":"3d52db6","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the phone is back; the parked item closed (#158)"}
 {"at":"2026-11-18T14:08:19Z","by":"grenudi","id":"3e0e32d","project":"linux-phone-oco/google-walleye-lab","says":"walleye: how the phone stands after the PMIC bite (#237)"}
+{"at":"2026-11-22T19:47:06Z","by":"grenudi","id":"3e401ac","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the go for the stage 1 boot rerun is open on the new image (#724)"}
 {"at":"2026-11-19T16:59:02Z","by":"grenudi","id":"3e8d560","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the display program is ready to be written after the stripes poll fix (#529)"}
 {"at":"2026-11-17T22:30:41Z","by":"grenudi","id":"3fc61fd","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ml4, a timing channel from our mainline init (build item) (#73)"}
+{"at":"2026-11-23T06:01:23Z","by":"grenudi","id":"4075309","project":"linux-phone-oco/google-walleye-lab","says":"walleye: rerun 5 of the stage 1 boot, the fixes landed, the run sheet on the item (#757)"}
 {"at":"2026-11-18T11:10:03Z","by":"grenudi","id":"415114a","project":"linux-phone-oco/google-walleye-lab","says":"walleye: patrol sign, stale waits on done items (#193)"}
+{"at":"2026-11-23T05:00:00Z","by":"grenudi","id":"416ba67","project":"linux-phone-oco/google-walleye-lab","says":"walleye: any-order display images B-r2 and B-rp2, the mdss reset in the kernel's dts (#742)"}
 {"at":"2026-11-19T16:50:48Z","by":"grenudi","id":"41f2512","project":"linux-phone-oco/google-walleye-lab","says":"feat(walleye): the battery floor and the tools come from device.toml (#525)"}
 {"at":"2026-11-19T13:33:22Z","by":"grenudi","id":"421eb6c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the try settings move into device.toml with the procedures move (#458)"}
 {"at":"2026-11-17T21:21:24Z","by":"grenudi","id":"424931e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: both host-bound tries re-queued after the lab reboot (#51)"}
@@ -1754,6 +1815,7 @@
 {"at":"2026-11-19T06:46:01Z","by":"grenudi","id":"44d7d40","project":"linux-phone-oco/google-walleye-lab","says":"walleye: claim-test-layer-boots waits on a keeper read, after the dts polish in the build order (#375)"}
 {"at":"2026-11-19T17:07:24Z","by":"grenudi","id":"4502f75","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the host's lpoco 0.32.1 accepts main's device.toml; keepers can run again (#530)"}
 {"at":"2026-11-17T21:43:15Z","by":"grenudi","id":"45284b3","project":"linux-phone-oco/google-walleye-lab","says":"feat: our dtb carries -@ symbols and 130 overlay stubs; image s3o queued (#58)"}
+{"at":"2026-11-22T20:15:34Z","by":"grenudi","id":"45413e6","project":"linux-phone-oco/google-walleye-lab","says":"walleye: a stable pause for the structure review; the run 2 diagnosis is queued first (#731)"}
 {"at":"2026-11-22T19:39:02Z","by":"grenudi","id":"4584384","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the boot rerun names the new image sha; the merged image needs rootfs v3 written first (#721)"}
 {"at":"2026-11-19T11:58:59Z","by":"grenudi","id":"4597fcb","project":"linux-phone-oco/google-walleye-lab","says":"research: walleye UFS abl handover - host reset, card unpulsed in the four accidental probes (#420)"}
 {"at":"2026-11-19T23:12:10Z","by":"grenudi","id":"4619717","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the author's Go for the PMIC watchdog try is recorded; the go window follows (#622)"}
@@ -1767,6 +1829,7 @@
 {"at":"2026-11-19T14:52:44Z","by":"grenudi","id":"48331ea","project":"linux-phone-oco/google-walleye-lab","says":"walleye builder l5 gpio shared proxy (#494)"}
 {"at":"2026-11-19T21:53:35Z","by":"grenudi","id":"491640f","project":"linux-phone-oco/google-walleye-lab","says":"research: why the UFS link idles at HS gear 1 (idle clock scale-down) (#605)"}
 {"at":"2026-11-20T00:00:07Z","by":"grenudi","id":"492b7ad","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the four PMIC bites become one command first; the cable-out bite is one of them (#634)"}
+{"at":"2026-11-23T06:56:06Z","by":"grenudi","id":"4947574","project":"linux-phone-oco/google-walleye-lab","says":"walleye: stage 2 boot image and the bootloader-first way back queued, the reboot try rides stage 1 (#767)"}
 {"at":"2026-11-22T19:16:01Z","by":"grenudi","id":"49a35d6","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the root boot puts the slot on its run image's command line; the init fails closed (#715)"}
 {"at":"2026-11-18T12:16:50Z","by":"grenudi","id":"49a4403","project":"linux-phone-oco/google-walleye-lab","says":"feat: feat: upstreams name their fork; items name where carried and who reviewed (#203)"}
 {"at":"2026-11-17T20:01:33Z","by":"grenudi","id":"49a4712","project":"linux-phone-oco/google-walleye-lab","says":"walleye: vendor-gadget4 tried - idle init returns, bootreason reboot (#25)"}
@@ -1794,6 +1857,7 @@
 {"at":"2026-11-20T00:24:29Z","by":"grenudi","id":"4ffe810","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the splash alone did not hold; the handover is researched before another image (#643)"}
 {"at":"2026-11-19T23:06:35Z","by":"grenudi","id":"50354fb","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the Makefile has the land-regen target that land runs after a rebase (#620)"}
 {"at":"2026-11-19T07:39:46Z","by":"grenudi","id":"503e598","project":"linux-phone-oco/google-walleye-lab","says":"feat(walleye): boot chain read back twice; reader works under adb root (#384)"}
+{"at":"2026-11-23T07:07:46Z","by":"grenudi","id":"504f37e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: UFS try 2 reads ready: the stale wait is cleared, the go reopened on the one item (#771)"}
 {"at":"2026-11-20T22:51:49Z","by":"grenudi","id":"5062b97","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the current slot is read before the write command is built (#667)"}
 {"at":"2026-11-19T15:31:25Z","by":"grenudi","id":"5071378","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the procedures move is ready on lpoco-attended v0.31.1; the settings move still waits (#507)"}
 {"at":"2026-11-18T15:06:18Z","by":"grenudi","id":"50725d9","project":"linux-phone-oco/google-walleye-lab","says":"feat: feat: the pin says why each own file is kept (#254)"}
@@ -1805,6 +1869,7 @@
 {"at":"2026-11-19T07:42:34Z","by":"grenudi","id":"52b0e21","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the misaligned-image line is the bootloader's; item done (#385)"}
 {"at":"2026-11-17T22:29:03Z","by":"grenudi","id":"52d622a","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ml3 tried, pstore empty; ml3-ramoops-read proof test; records (#72)"}
 {"at":"2026-11-17T20:21:07Z","by":"grenudi","id":"5315bf5","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget-n1, n2, the ncm step without settings writes (walleye-ncm-noattr-images) (#35)"}
+{"at":"2026-11-23T07:22:09Z","by":"grenudi","id":"5377804","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the stage 1 way back tries the bootloader first, the forced reboot stays as the fallback (#773)"}
 {"at":"2026-11-19T17:24:44Z","by":"grenudi","id":"537855d","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the PMIC program needs a way back after any stop before its attended try (#535)"}
 {"at":"2026-11-17T20:02:36Z","by":"grenudi","id":"53a8965","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the gadget bring-up bisect (build item); cmdline-read and panic-time closed (#26)"}
 {"at":"2026-11-17T20:13:44Z","by":"grenudi","id":"54419ea","project":"linux-phone-oco/google-walleye-lab","says":"walleye: gadget bisect - 5a returns, 5b panics (ncm step) (#30)"}
@@ -1844,6 +1909,7 @@
 {"at":"2026-11-18T12:46:05Z","by":"grenudi","id":"6267eac","project":"linux-phone-oco/google-walleye-lab","says":"data: PMIC watchdog way back and sxmo fork proofs queued (docs decision 2026-11-18-upstream-forks) (#214)"}
 {"at":"2026-11-19T16:48:19Z","by":"grenudi","id":"62682ac","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the host's lpoco is too old for main's device.toml; waits for orchestration's host prepare (#526)"}
 {"at":"2026-11-19T12:45:27Z","by":"grenudi","id":"62b3f28","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the audio and haptics reading ranks first among research (#439)"}
+{"at":"2026-11-22T19:43:24Z","by":"grenudi","id":"62c99d5","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the author drops the attended look; the screen-text check is the result (#723)"}
 {"at":"2026-11-19T21:59:52Z","by":"grenudi","id":"6306b90","project":"linux-phone-oco/google-walleye-lab","says":"ci: device.toml is checked with the newest lpoco-lab release (from device-template PR 36) (#607)"}
 {"at":"2026-11-18T13:11:58Z","by":"grenudi","id":"63b6e44","project":"linux-phone-oco/google-walleye-lab","says":"walleye: c2, the charger on the z7 base (build item); the c1 try waits (#222)"}
 {"at":"2026-11-18T11:38:11Z","by":"grenudi","id":"63d68ce","project":"linux-phone-oco/google-walleye-lab","says":"walleye: dmesg-clean back to open while blocked, so the builder takes the shell fix (#197)"}
@@ -1851,6 +1917,7 @@
 {"at":"2026-11-19T14:58:11Z","by":"grenudi","id":"63ec67d","project":"linux-phone-oco/google-walleye-lab","says":"walleye: lpoco-attended v0.30.0 is out; the settings move waits for boot_once and back_to_known_good (#498)"}
 {"at":"2026-11-17T15:18:27Z","by":"grenudi","id":"6497db7","project":"linux-phone-oco/google-walleye-lab","says":"feat: the walleye lab's manifest and mark from the template (#1)"}
 {"at":"2026-11-19T07:49:39Z","by":"grenudi","id":"64a7097","project":"linux-phone-oco/google-walleye-lab","says":"walleye: retire the lab's own FunctionFS ACM helpers for lpoco-ffs-acm (#386)"}
+{"at":"2026-11-23T05:38:24Z","by":"grenudi","id":"64a88f4","project":"linux-phone-oco/google-walleye-lab","says":"walleye: check 17 accepts norecovery, tested against the phone's real lines (run 4) (#753)"}
 {"at":"2026-11-19T11:05:16Z","by":"grenudi","id":"64c5811","project":"linux-phone-oco/google-walleye-lab","says":"walleye: display late probe queued: modules loaded by hand with the log streamed (#409)"}
 {"at":"2026-11-19T18:23:48Z","by":"grenudi","id":"6558707","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the display-at-boot try as one Rust procedure (item walleye-display-at-boot) (#554)"}
 {"at":"2026-11-19T19:09:48Z","by":"grenudi","id":"65859c1","project":"linux-phone-oco/google-walleye-lab","says":"walleye: procedures to pin to lpoco-attended 0.34 and its answer file (#564)"}
@@ -1885,6 +1952,7 @@
 {"at":"2026-11-18T18:08:42Z","by":"grenudi","id":"7030088","project":"linux-phone-oco/google-walleye-lab","says":"walleye builder z10 pon regs (#270)"}
 {"at":"2026-11-19T10:32:33Z","by":"grenudi","id":"7073fe5","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the display try first in the phone queue (attended), touch z21 second (#397)"}
 {"at":"2026-11-19T21:46:13Z","by":"grenudi","id":"70e0668","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the UFS link check reads the link, 'works, slow' is a result (#599)"}
+{"at":"2026-11-22T19:52:41Z","by":"grenudi","id":"71001f7","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the getty on tty1 is alive but prints nothing; the cause is measured with live experiments (#725)"}
 {"at":"2026-11-19T13:53:10Z","by":"grenudi","id":"71882b7","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the dsi still defers on L3; a source read and an L4 with function tracing queued (#466)"}
 {"at":"2026-11-19T01:03:01Z","by":"grenudi","id":"725576f","project":"linux-phone-oco/google-walleye-lab","says":"walleye: shell past glue moves into Rust as it is touched (backlog item) (#336)"}
 {"at":"2026-11-18T22:50:42Z","by":"grenudi","id":"732c357","project":"linux-phone-oco/google-walleye-lab","says":"walleye: z17's spmi and gpio facts over the network shell (phone item) (#315)"}
@@ -1918,17 +1986,20 @@
 {"at":"2026-11-18T13:23:31Z","by":"grenudi","id":"826e5b2","project":"linux-phone-oco/google-walleye-lab","says":"walleye: c2 tried once - charger defers on tps61099 supplier (#227)"}
 {"at":"2026-11-19T01:35:24Z","by":"grenudi","id":"834cc72","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the touch events run is attended (the author is at the phone) (#355)"}
 {"at":"2026-11-17T19:48:29Z","by":"grenudi","id":"83984c0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the third try of vendor-gadget3, with the watcher kept alive (#16)"}
+{"at":"2026-11-23T07:29:37Z","by":"grenudi","id":"839be57","project":"linux-phone-oco/google-walleye-lab","says":"walleye: UFS try 2 held off the phone queue until the sample step is fixed (#777)"}
 {"at":"2026-11-20T00:16:13Z","by":"grenudi","id":"83c3a63","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the two older display items wait behind the splash try (#640)"}
 {"at":"2026-11-19T18:43:57Z","by":"grenudi","id":"844801f","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the UFS solution table and the refreshed go note (walleye-ufs-solution-extracted) (#559)"}
 {"at":"2026-11-21T00:23:39Z","by":"grenudi","id":"84c52ca","project":"linux-phone-oco/google-walleye-lab","says":"walleye: device.toml declares transport = telnet and login = none (walleye-declare-transport-login) (#684)"}
 {"at":"2026-11-17T23:02:56Z","by":"grenudi","id":"84f8e82","project":"linux-phone-oco/google-walleye-lab","says":"walleye: a known-good mainline kernel (porthole's) as the next bisect (build item) (#84)"}
 {"at":"2026-11-18T03:43:34Z","by":"grenudi","id":"8522e7b","project":"linux-phone-oco/google-walleye-lab","says":"walleye: vf1 tried twice, gadget up and header empty; hand-over (#125)"}
 {"at":"2026-11-18T15:21:18Z","by":"grenudi","id":"855d43e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: follow the device template (build item) (#262)"}
+{"at":"2026-11-23T03:06:41Z","by":"grenudi","id":"85ef7e2","project":"linux-phone-oco/google-walleye-lab","says":"docs: a README for every top-level folder and a map at the top of the README (#734)"}
 {"at":"2026-11-19T16:30:00Z","by":"grenudi","id":"85f28cf","project":"linux-phone-oco/google-walleye-lab","says":"fix(walleye): wdt-state and the petter find the watchdogs by device link when sysfs has no identity (#520)"}
 {"at":"2026-11-19T01:25:34Z","by":"grenudi","id":"86d77af","project":"linux-phone-oco/google-walleye-lab","says":"walleye: licences - LICENSE files, REUSE.toml, SPDX on our dts, licence-check in verify and CI (#348)"}
 {"at":"2026-11-18T09:19:52Z","by":"grenudi","id":"86e2271","project":"linux-phone-oco/google-walleye-lab","says":"feat(walleye): reader retries a denied tty node, root-exec fallback for that one node (#179)"}
 {"at":"2026-11-19T16:46:30Z","by":"grenudi","id":"8703257","project":"linux-phone-oco/google-walleye-lab","says":"walleye: L6 stripes tried again, drawer detached: exit 0, 60 s hold; hand-over (walleye-keeper) (#524)"}
 {"at":"2026-11-20T22:28:44Z","by":"grenudi","id":"8775da9","project":"linux-phone-oco/google-walleye-lab","says":"walleye: image B-q5 (B-d5 plus a read-only DPU/DSI register sampler) built, kept as a spare (#660)"}
+{"at":"2026-11-23T05:57:51Z","by":"grenudi","id":"87ad5de","project":"linux-phone-oco/google-walleye-lab","says":"walleye: check 17 accepts norecovery; checks 15-17 tested against runs 3 and 4's captures (#756)"}
 {"at":"2026-11-18T13:53:02Z","by":"grenudi","id":"87c4f4e","project":"linux-phone-oco/google-walleye-lab","says":"build: ideal-knowledge-base 0.15.0 (#234)"}
 {"at":"2026-11-18T00:38:19Z","by":"grenudi","id":"87d4a91","project":"linux-phone-oco/google-walleye-lab","says":"docs: the lab says the lpoco names in docs and comments (names-sweep, google-walleye-lab slice) (#100)"}
 {"at":"2026-11-18T05:55:20Z","by":"grenudi","id":"883e525","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the lab host is on lpoco 0.4.0; the bisect migration waits on nothing (#145)"}
@@ -1949,12 +2020,14 @@
 {"at":"2026-11-18T12:24:18Z","by":"grenudi","id":"8c6e4ec","project":"linux-phone-oco/google-walleye-lab","says":"walleye: z5b tried once - lab-agent token 401, reader job never ran; waits on the token (phone item) (#206)"}
 {"at":"2026-11-19T12:39:00Z","by":"grenudi","id":"8d18b5d","project":"linux-phone-oco/google-walleye-lab","says":"docs: Android never writes Hynix sync length, so the matched image does not carry it (#434)"}
 {"at":"2026-11-18T08:59:13Z","by":"grenudi","id":"8d40085","project":"linux-phone-oco/google-walleye-lab","says":"walleye charger smb2 c1 (#173)"}
+{"at":"2026-11-23T06:27:22Z","by":"grenudi","id":"8e97e0c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the go for UFS try 2 on the matched image, after the stage 1 boot passed (#761)"}
 {"at":"2026-11-19T00:42:55Z","by":"grenudi","id":"8f97ef8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the shared-proxy item waits for the UFS-off z21 (#335)"}
 {"at":"2026-11-18T13:18:30Z","by":"grenudi","id":"9009ef4","project":"linux-phone-oco/google-walleye-lab","says":"walleye: AGENTS.md names its owner by role (walleye-coordinator) (#226)"}
 {"at":"2026-11-19T14:41:35Z","by":"grenudi","id":"9028128","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ADSP, q6 and Quaternary MI2S as a nine-patch series with its host test (#484)"}
 {"at":"2026-11-18T07:27:14Z","by":"grenudi","id":"90427d2","project":"linux-phone-oco/google-walleye-lab","says":"walleye: after first light - PMIC first (build item), the bring-up order plan (research item) (#156)"}
 {"at":"2026-11-19T12:50:06Z","by":"grenudi","id":"90f6ca1","project":"linux-phone-oco/google-walleye-lab","says":"research: walleye audio and haptics - porthole already has the drivers; the amp needs its firmware (#441)"}
 {"at":"2026-11-19T23:03:32Z","by":"grenudi","id":"91219fb","project":"linux-phone-oco/google-walleye-lab","says":"walleye: step groups pin v0.37.3, the owed way back is settled (#618)"}
+{"at":"2026-11-23T06:34:38Z","by":"grenudi","id":"916a43d","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the init's say-before-the-moves item dropped, folded into the booted-slot init item (#763)"}
 {"at":"2026-11-19T14:43:39Z","by":"grenudi","id":"91d9837","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the L5 display image ranks first among builds (#487)"}
 {"at":"2026-11-19T21:57:03Z","by":"grenudi","id":"9228427","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): keeper's how-the-phone-stands, nothing taken (#606)"}
 {"at":"2026-11-18T23:55:13Z","by":"grenudi","id":"9380602","project":"linux-phone-oco/google-walleye-lab","says":"walleye: touch compare against Android, how the phone stands (#327)"}
@@ -1980,6 +2053,7 @@
 {"at":"2026-11-18T12:32:54Z","by":"grenudi","id":"9bb4fdd","project":"linux-phone-oco/google-walleye-lab","says":"walleye: z6 - a command loop instead of the silent interactive ash (build item) (#211)"}
 {"at":"2026-11-17T21:34:08Z","by":"grenudi","id":"9c17e0c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: device.toml declares what the host needs for our gadget (lab-prepare) (#54)"}
 {"at":"2026-11-17T22:42:28Z","by":"grenudi","id":"9c1dfdd","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the FunctionFS console on the vendor kernel parked (decision); n3r try closed (#77)"}
+{"at":"2026-11-23T06:48:04Z","by":"grenudi","id":"9c3766a","project":"linux-phone-oco/google-walleye-lab","says":"walleye: B-a5 v5 passes check 15 unattended, the getty item done (#766)"}
 {"at":"2026-11-19T00:01:57Z","by":"grenudi","id":"9c4552a","project":"linux-phone-oco/google-walleye-lab","says":"walleye: adopt the generic init of lpoco-bringup (build item, after the UFS gate) (#331)"}
 {"at":"2026-11-22T19:20:33Z","by":"grenudi","id":"9c93470","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the look runs from the first keeper's start; the second go is closed (#717)"}
 {"at":"2026-11-20T00:56:33Z","by":"grenudi","id":"9cf8d2d","project":"linux-phone-oco/google-walleye-lab","says":"walleye: paused at the author's word; the parked branch's records and the resume order are landed (#645)"}
@@ -2012,6 +2086,7 @@
 {"at":"2026-11-18T04:22:48Z","by":"grenudi","id":"a7608cf","project":"linux-phone-oco/google-walleye-lab","says":"record: vf3 tried twice, no gadget, back as Android at 78 s (#132)"}
 {"at":"2026-11-18T13:14:51Z","by":"grenudi","id":"a76de9e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the PMIC watchdog series is pushed - the build row ranked after the charger (#224)"}
 {"at":"2026-11-18T23:48:59Z","by":"grenudi","id":"a794dd7","project":"linux-phone-oco/google-walleye-lab","says":"walleye: part-compare tool, Android vs ours capture and diff, selftested (#326)"}
+{"at":"2026-11-23T05:07:59Z","by":"grenudi","id":"a7b809b","project":"linux-phone-oco/google-walleye-lab","says":"walleye: run 3 of the stage 1 boot replayed; the hand-over happened, check 17 is the fix (#746)"}
 {"at":"2026-11-19T13:49:42Z","by":"grenudi","id":"a812701","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): L3 display late-probe tried once, still defers silently, no card (#463)"}
 {"at":"2026-11-20T23:55:32Z","by":"grenudi","id":"a8a2cc9","project":"linux-phone-oco/google-walleye-lab","says":"walleye: UFS-root image, init and QEMU proof (walleye-install-ufs-root-image) (#676)"}
 {"at":"2026-11-19T07:02:00Z","by":"grenudi","id":"a966a98","project":"linux-phone-oco/google-walleye-lab","says":"walleye: one boot of the exact upstream dts queued (build item, unattended try) (#377)"}
@@ -2023,6 +2098,7 @@
 {"at":"2026-11-19T07:51:15Z","by":"grenudi","id":"ab935f5","project":"linux-phone-oco/google-walleye-lab","says":"walleye: build order: bisect and fuel gauge before the UFS image, which waits for the author (#387)"}
 {"at":"2026-11-18T12:38:48Z","by":"grenudi","id":"ab9ffb5","project":"linux-phone-oco/google-walleye-lab","says":"build: ideal-knowledge-base 0.14.0 (#213)"}
 {"at":"2026-11-17T21:07:48Z","by":"grenudi","id":"abbe728","project":"linux-phone-oco/google-walleye-lab","says":"walleye: n3 try - gadget enumerates, host lacks cdc_acm for its kernel (#49)"}
+{"at":"2026-11-23T07:26:00Z","by":"grenudi","id":"ac841ab","project":"linux-phone-oco/google-walleye-lab","says":"walleye: rerun 6 of the stage 1 boot is the bootloader way back try, go reopened on c3373d71 (#775)"}
 {"at":"2026-11-22T18:02:41Z","by":"grenudi","id":"ac95624","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the read-only UFS-on root boot as one command, with its record (#697)"}
 {"at":"2026-11-19T07:13:03Z","by":"grenudi","id":"aced460","project":"linux-phone-oco/google-walleye-lab","says":"walleye: image of the exact upstream board dts built (script, wrapper, research, item done) (#378)"}
 {"at":"2026-11-18T14:14:18Z","by":"grenudi","id":"ad03939","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the bite's recovery was slow, not dead; the record corrected (#243)"}
@@ -2031,6 +2107,7 @@
 {"at":"2026-11-19T10:54:20Z","by":"grenudi","id":"ae274e8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the full display try waits for the bisect; the phone-stands entry says what is known (#406)"}
 {"at":"2026-11-20T21:55:15Z","by":"grenudi","id":"ae9410b","project":"linux-phone-oco/google-walleye-lab","says":"walleye: B-r5 goes before the parked PMIC branch (#649)"}
 {"at":"2026-11-21T00:11:37Z","by":"grenudi","id":"aedcc1c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: keepers release the lease inside their worktree; the cause is found (#682)"}
+{"at":"2026-11-23T06:31:21Z","by":"grenudi","id":"aee61f8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: stage 2 gaps recorded: the reboot-to-bootloader try first, one init rebuild (#762)"}
 {"at":"2026-11-19T06:38:37Z","by":"grenudi","id":"aef4444","project":"linux-phone-oco/google-walleye-lab","says":"feat(device): declare walleye's device layer in device.toml ([layer], [boot]) (#372)"}
 {"at":"2026-11-18T08:39:20Z","by":"grenudi","id":"af4fdb9","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the host-side suspect for the silent tty added to the banner item (#166)"}
 {"at":"2026-11-19T23:53:32Z","by":"grenudi","id":"b0ed418","project":"linux-phone-oco/google-walleye-lab","says":"walleye: research why a PMIC-watchdog bite boots charger mode; queue the PON read-back (#630)"}
@@ -2052,6 +2129,7 @@
 {"at":"2026-11-18T14:46:32Z","by":"grenudi","id":"b601d30","project":"linux-phone-oco/google-walleye-lab","says":"walleye: why c3 hangs - SoC never reset; restart gate, c5/c6 before c4 (#250)"}
 {"at":"2026-11-18T21:16:35Z","by":"grenudi","id":"b716b6e","project":"linux-phone-oco/google-walleye-lab","says":"feat: backlog may name a witness and the go until when it is open (#302)"}
 {"at":"2026-11-19T01:21:48Z","by":"grenudi","id":"b7542dc","project":"linux-phone-oco/google-walleye-lab","says":"walleye: z21 touch part-compare captured and diffed (#347)"}
+{"at":"2026-11-23T07:17:35Z","by":"grenudi","id":"b7592c7","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): UFS try 2 run 1 stopped at step 16, how the phone stands (#772)"}
 {"at":"2026-11-22T18:47:13Z","by":"grenudi","id":"b8069c8","project":"linux-phone-oco/google-walleye-lab","says":"research: stage 3 UFS write path against Android's, verdict: nothing Android's did not (#708)"}
 {"at":"2026-11-18T03:55:48Z","by":"grenudi","id":"b848404","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the phone queue cleaned: stale in-progress tries closed, vf2 unblocked and first (#128)"}
 {"at":"2026-11-19T01:21:14Z","by":"grenudi","id":"b8b75c8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the licence change follows device-template #33 (model) (#346)"}
@@ -2060,7 +2138,9 @@
 {"at":"2026-11-19T16:23:29Z","by":"grenudi","id":"b919dcf","project":"linux-phone-oco/google-walleye-lab","says":"walleye: drv1 tried again, DRV2624 bound at 0-005a; haptics i2c item done (walleye-keeper) (#518)"}
 {"at":"2026-11-20T00:59:29Z","by":"grenudi","id":"b933954","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the pause log records the later phone reading (not on USB, not known why) (#646)"}
 {"at":"2026-11-19T19:02:53Z","by":"grenudi","id":"b98041d","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the UFS try as one Rust procedure, boot only under a go (walleye-attend-program-ufs) (#562)"}
+{"at":"2026-11-23T05:12:10Z","by":"grenudi","id":"b998247","project":"linux-phone-oco/google-walleye-lab","says":"walleye: item for the init's log line before the moves, after the check 17 fix (#747)"}
 {"at":"2026-11-19T19:36:32Z","by":"grenudi","id":"b9c88a3","project":"linux-phone-oco/google-walleye-lab","says":"keeper/walleye b1 tried 1795116849 (#569)"}
+{"at":"2026-11-23T07:35:09Z","by":"grenudi","id":"b9cf2b1","project":"linux-phone-oco/google-walleye-lab","says":"walleye: UFS try 2 sample step: state on its own shell, gear_wait, unanswered reads kept (#778)"}
 {"at":"2026-11-19T23:47:39Z","by":"grenudi","id":"b9d9de8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the cable-out bite is an optional item; the charger follow-up is noted (#629)"}
 {"at":"2026-11-18T15:25:59Z","by":"grenudi","id":"ba54be4","project":"linux-phone-oco/google-walleye-lab","says":"build: ideal-knowledge-base 0.20.0 (#264)"}
 {"at":"2026-11-19T15:23:00Z","by":"grenudi","id":"ba74cec","project":"linux-phone-oco/google-walleye-lab","says":"builder/l6 stripes image (#503)"}
@@ -2070,22 +2150,26 @@
 {"at":"2026-11-18T01:50:54Z","by":"grenudi","id":"bc28a5a","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the property-level bisect from the alive dtb (build item) (#105)"}
 {"at":"2026-11-19T19:43:03Z","by":"grenudi","id":"bc3d236","project":"linux-phone-oco/google-walleye-lab","says":"docs: record the Pixel 2 UFS card revision, read only (#571)"}
 {"at":"2026-11-21T00:38:17Z","by":"grenudi","id":"bc9599f","project":"linux-phone-oco/google-walleye-lab","says":"walleye: Alpine image v2 with the lab ssh key, and its .ssh and no-private-key checks (#688)"}
+{"at":"2026-11-23T04:31:02Z","by":"grenudi","id":"bc98972","project":"linux-phone-oco/google-walleye-lab","says":"walleye: resumes after the structure review; the run 2 log path and two kernel items recorded (#737)"}
 {"at":"2026-11-18T04:23:49Z","by":"grenudi","id":"bc9a622","project":"linux-phone-oco/google-walleye-lab","says":"walleye: vf4 - vf2's order with the progressive dump after the bind (build item) (#133)"}
 {"at":"2026-11-19T13:54:19Z","by":"grenudi","id":"bd9577f","project":"linux-phone-oco/google-walleye-lab","says":"walleye: touch unattended run repeated from Android before the attended try (#467)"}
 {"at":"2026-11-19T12:18:11Z","by":"grenudi","id":"be3bc00","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the attended program proofs name one runner line (#427)"}
 {"at":"2026-11-18T18:42:03Z","by":"grenudi","id":"be67990","project":"linux-phone-oco/google-walleye-lab","says":"walleye: UFS hazard research, decision and queued steps (#276)"}
 {"at":"2026-11-19T14:56:16Z","by":"grenudi","id":"bea08f7","project":"linux-phone-oco/google-walleye-lab","says":"walleye: pmic-try asks the author only after boot A, the shell and the S2-type read (#497)"}
 {"at":"2026-11-19T19:05:36Z","by":"grenudi","id":"bf4257e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the UFS try item names the rebuilt image the procedure accepts (#563)"}
+{"at":"2026-11-23T05:34:00Z","by":"grenudi","id":"bf4d160","project":"linux-phone-oco/google-walleye-lab","says":"test(rootfs): run 4 stopped at check 17, /proc/mounts says norecovery for noload (#752)"}
 {"at":"2026-11-19T18:14:20Z","by":"grenudi","id":"bf4f24a","project":"linux-phone-oco/google-walleye-lab","says":"walleye: why the stripes showed briefly: fbcon repaints on the drawer's set_par (#548)"}
 {"at":"2026-11-17T21:43:59Z","by":"grenudi","id":"c008d55","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the s3o try unblocked, first (#59)"}
 {"at":"2026-11-21T00:53:53Z","by":"grenudi","id":"c050f70","project":"linux-phone-oco/google-walleye-lab","says":"walleye: install stage 1 as one command, with its record (#689)"}
 {"at":"2026-11-18T14:06:12Z","by":"grenudi","id":"c07a41f","project":"linux-phone-oco/google-walleye-lab","says":"walleye: build c3 (c2 + fw_devlink=permissive), queue its try (#235)"}
 {"at":"2026-11-19T14:33:53Z","by":"grenudi","id":"c155bab","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the touch try's go is the go_until field; old go lines removed (#482)"}
 {"at":"2026-11-19T06:26:05Z","by":"grenudi","id":"c187e17","project":"linux-phone-oco/google-walleye-lab","says":"walleye: decision: the v1 bite try uses the series' type 0x07 (warm-first cannot be asked) (#369)"}
+{"at":"2026-11-23T06:52:11Z","by":"grenudi","id":"c1afe0e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the stage 2 init - walleye.booted-slot, say before the moves, pon test (#765)"}
 {"at":"2026-11-20T22:48:50Z","by":"grenudi","id":"c2950a1","project":"linux-phone-oco/google-walleye-lab","says":"walleye: both slots' partitions read back twice, the same bytes; the reader takes LIST (#666)"}
 {"at":"2026-11-19T15:07:28Z","by":"grenudi","id":"c2d0346","project":"linux-phone-oco/google-walleye-lab","says":"docs: walleye TAS2557 firmware pulled from the phone, how the phone stands (#501)"}
 {"at":"2026-11-20T22:41:41Z","by":"grenudi","id":"c346ccf","project":"linux-phone-oco/google-walleye-lab","says":"walleye: Alpine v1 is the stage 1 image; pd-mapper and lpoco-health are their own items (#665)"}
 {"at":"2026-11-19T04:35:10Z","by":"grenudi","id":"c4116ce","project":"linux-phone-oco/google-walleye-lab","says":"walleye: S6E3FA5 display driver with the Pixel 2's own init, image built (#359)"}
+{"at":"2026-11-23T07:21:12Z","by":"grenudi","id":"c4837ad","project":"linux-phone-oco/google-walleye-lab","says":"walleye: UFS try 2 run 1 follow-ups: the GPT read again from Android, and the sample step's timeout (#774)"}
 {"at":"2026-11-18T22:34:19Z","by":"grenudi","id":"c49a293","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the attended items marked witness=person (#308)"}
 {"at":"2026-11-19T12:13:05Z","by":"grenudi","id":"c572b3f","project":"linux-phone-oco/google-walleye-lab","says":"walleye: display dtb bisect images f0..f3 on the late-probe kernel (parts script, series, check) (#424)"}
 {"at":"2026-11-19T13:22:15Z","by":"grenudi","id":"c575239","project":"linux-phone-oco/google-walleye-lab","says":"walleye: TAS2557 has an upstream v3 on the list; weigh it before porthole's port (#452)"}
@@ -2101,6 +2185,7 @@
 {"at":"2026-11-19T14:01:46Z","by":"grenudi","id":"c744873","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the overlay-stub reference check ranks first among research (#472)"}
 {"at":"2026-11-19T23:04:31Z","by":"grenudi","id":"c76880e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: PMIC unattended run 5 passed, phone back on Android (#619)"}
 {"at":"2026-11-19T18:54:37Z","by":"grenudi","id":"c78593c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the card firmware read has its orders: read only, as root, compared with Sony's card (#561)"}
+{"at":"2026-11-23T06:59:37Z","by":"grenudi","id":"c7a9fe9","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the Alpine login prompt on the glass is measured (check 15 passes), both glass items done (#768)"}
 {"at":"2026-11-18T10:49:30Z","by":"grenudi","id":"c7cfa35","project":"linux-phone-oco/google-walleye-lab","says":"walleye: z3 try 3 - tty Permission denied was the vanished node, not the ACL (#190)"}
 {"at":"2026-11-19T07:24:05Z","by":"grenudi","id":"ca256b0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: upstream board dts image tried once, boots to usb0 shell (#380)"}
 {"at":"2026-11-19T14:51:25Z","by":"grenudi","id":"cada300","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the author's root tap for the TAS2557 firmware, with the keeper's read-only orders (#493)"}
@@ -2124,6 +2209,7 @@
 {"at":"2026-11-20T01:08:16Z","by":"grenudi","id":"d0acbcf","project":"linux-phone-oco/google-walleye-lab","says":"build: ideal-knowledge-base 0.25.0 (#647)"}
 {"at":"2026-11-19T01:26:24Z","by":"grenudi","id":"d0d257d","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the shared-proxy item done (z21 proved it) (#349)"}
 {"at":"2026-11-18T23:23:39Z","by":"grenudi","id":"d1ddbb2","project":"linux-phone-oco/google-walleye-lab","says":"walleye: z20 tried, touch gpio defers on the shared-gpio proxy; next item (#324)"}
+{"at":"2026-11-23T03:22:43Z","by":"grenudi","id":"d2ccf3b","project":"linux-phone-oco/google-walleye-lab","says":"research: run logs moved from the lab machine's root into their research folders (#735)"}
 {"at":"2026-11-18T13:38:09Z","by":"grenudi","id":"d2eb96c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the pmic watchdog proof ranked first; stale items settled (#232)"}
 {"at":"2026-11-19T10:04:40Z","by":"grenudi","id":"d37bead","project":"linux-phone-oco/google-walleye-lab","says":"walleye: UFS_HW_VERSION is read in the matched image's own probe, not on Android (#394)"}
 {"at":"2026-11-19T20:04:04Z","by":"grenudi","id":"d3d83db","project":"linux-phone-oco/google-walleye-lab","says":"walleye: copy device-template's device.toml CI check; queued (#579)"}
@@ -2132,10 +2218,13 @@
 {"at":"2026-11-21T01:04:24Z","by":"grenudi","id":"d46647b","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the install write's rehearsal as its own command (#692)"}
 {"at":"2026-11-18T06:42:07Z","by":"grenudi","id":"d486878","project":"linux-phone-oco/google-walleye-lab","says":"walleye battery ok timeout b2 (#148)"}
 {"at":"2026-11-19T20:16:42Z","by":"grenudi","id":"d48f8dd","project":"linux-phone-oco/google-walleye-lab","says":"walleye: UFS try 1 read the card on mainline; the go is spent; the link check and gear 1 are queued (#583)"}
+{"at":"2026-11-22T20:18:57Z","by":"grenudi","id":"d4a7466","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the spent go on the boot item is closed for the pause (#732)"}
 {"at":"2026-11-18T03:01:59Z","by":"grenudi","id":"d4d754e","project":"linux-phone-oco/google-walleye-lab","says":"walleye builder t3 image (#120)"}
 {"at":"2026-11-18T20:05:17Z","by":"grenudi","id":"d56ff70","project":"linux-phone-oco/google-walleye-lab","says":"builder/walleye z14 usb net (#288)"}
+{"at":"2026-11-23T05:42:04Z","by":"grenudi","id":"d5cfd65","project":"linux-phone-oco/google-walleye-lab","says":"walleye: checks 15-17 tested offline against what runs 3 and 4 captured, before rerun 5 (#754)"}
 {"at":"2026-11-18T23:04:10Z","by":"grenudi","id":"d5d4be8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: UFS read on live Android, what debugfs gives and what needs a reader (#322)"}
 {"at":"2026-11-20T21:52:59Z","by":"grenudi","id":"d5d675c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the goal is Linux installed and booting from its own storage; the install research leads (#648)"}
+{"at":"2026-11-23T06:36:02Z","by":"grenudi","id":"d670b18","project":"linux-phone-oco/google-walleye-lab","says":"walleye keeper/b a5 v5 run screen marker (#764)"}
 {"at":"2026-11-19T06:32:39Z","by":"grenudi","id":"d6a5b43","project":"linux-phone-oco/google-walleye-lab","says":"walleye: display image rebuilt with clock_gcc at the real gcc, overlay-clock-gcc checked (#371)"}
 {"at":"2026-11-20T22:17:09Z","by":"grenudi","id":"d6b7688","project":"linux-phone-oco/google-walleye-lab","says":"walleye: B-r5 (mdss resets MDSS_BCR) tried at 5 s: the three display signs vanish (#657)"}
 {"at":"2026-11-18T02:42:21Z","by":"grenudi","id":"d6dd89c","project":"linux-phone-oco/google-walleye-lab","says":"docs: research why walleye's pstore stays empty and how to get a warm reset (#113)"}
@@ -2147,9 +2236,11 @@
 {"at":"2026-11-19T05:08:34Z","by":"grenudi","id":"d900c64","project":"linux-phone-oco/google-walleye-lab","says":"walleye: backlog item to declare the device layer in device.toml (#365)"}
 {"at":"2026-11-17T20:17:20Z","by":"grenudi","id":"d9072bd","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget5b1..b4, the ncm step of the gadget bring-up split (walleye-ncm-split) (#32)"}
 {"at":"2026-11-22T18:28:31Z","by":"grenudi","id":"d91ddce","project":"linux-phone-oco/google-walleye-lab","says":"walleye: stage 2 vs Android's OTA: set_active is a GPT write, as the OTA's (#703)"}
+{"at":"2026-11-23T06:24:46Z","by":"grenudi","id":"d91f3ea","project":"linux-phone-oco/google-walleye-lab","says":"walleye: stage 2 as one command and its rehearsal (flash boot_<other>, set_active, observe, back) (#760)"}
 {"at":"2026-11-18T23:02:30Z","by":"grenudi","id":"d93eda3","project":"linux-phone-oco/google-walleye-lab","says":"walleye research touch gpio defer (#320)"}
 {"at":"2026-11-19T15:56:43Z","by":"grenudi","id":"d94553e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the settings move is unblocked on lpoco-attended v0.32.0; the procedures move follows (#513)"}
 {"at":"2026-11-19T01:04:45Z","by":"grenudi","id":"d9528bc","project":"linux-phone-oco/google-walleye-lab","says":"build: ideal-knowledge-base 0.22.0 (#337)"}
+{"at":"2026-11-22T19:58:39Z","by":"grenudi","id":"da273fa","project":"linux-phone-oco/google-walleye-lab","says":"walleye: B-a5 run: check 15 passes but the prompt is mid-screen, init output after (#727)"}
 {"at":"2026-11-18T18:16:06Z","by":"grenudi","id":"da76cfd","project":"linux-phone-oco/google-walleye-lab","says":"walleye: z10 tried once, PON registers not read; how the phone stands (#271)"}
 {"at":"2026-11-19T01:29:31Z","by":"grenudi","id":"daf9c31","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the init adoption no longer waits for the finished UFS gate (#351)"}
 {"at":"2026-11-19T21:37:53Z","by":"grenudi","id":"daf9d3f","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the L7 look is done; the unanswered way back gets its own run (#598)"}
@@ -2159,6 +2250,7 @@
 {"at":"2026-11-18T02:03:25Z","by":"grenudi","id":"dbbac67","project":"linux-phone-oco/google-walleye-lab","says":"walleye: wpa tried twice, alive at 60 s; how the phone stands (#107)"}
 {"at":"2026-11-18T02:38:15Z","by":"grenudi","id":"dbbf603","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): how the phone stands, gone from USB (#110)"}
 {"at":"2026-11-18T07:42:20Z","by":"grenudi","id":"dbeebf7","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the readers retry on permission denied (build item) (#161)"}
+{"at":"2026-11-23T07:38:56Z","by":"grenudi","id":"dc62ca3","project":"linux-phone-oco/google-walleye-lab","says":"walleye: UFS try 2 run 2 back on the phone queue, the sample step fixed, the go open to 11:05 (#779)"}
 {"at":"2026-11-17T17:08:03Z","by":"grenudi","id":"dc676bd","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants c and d carry an os version and patch level (#5)"}
 {"at":"2026-11-20T00:05:48Z","by":"grenudi","id":"dd04b6e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the delay bisect takes an image prefix, so B-s5 runs at 5 s (#636)"}
 {"at":"2026-11-18T15:09:43Z","by":"grenudi","id":"dd0a64e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: c5 tried once, restart gate passes (180 s) (#257)"}
@@ -2172,11 +2264,13 @@
 {"at":"2026-11-18T15:07:27Z","by":"grenudi","id":"df3c143","project":"linux-phone-oco/google-walleye-lab","says":"walleye: phone-state check over adb, fastboot, usb and the tty, never hung from lsusb alone (#255)"}
 {"at":"2026-11-18T05:13:36Z","by":"grenudi","id":"df8645f","project":"linux-phone-oco/google-walleye-lab","says":"walleye: vfa..vfd built - one hardware source per image on m1's structure (build item) (#139)"}
 {"at":"2026-11-18T20:17:54Z","by":"grenudi","id":"dfd35d1","project":"linux-phone-oco/google-walleye-lab","says":"walleye: z14 tried, USB networking up; gadget-up.sh falls back to telnet without nc (#295)"}
+{"at":"2026-11-23T05:04:00Z","by":"grenudi","id":"dfe3af0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: B-a5 rebuilt so the login prompt prints last (rootfs v4, check 15 on the cursor row) (#744)"}
 {"at":"2026-11-18T23:38:22Z","by":"grenudi","id":"dfe5aa4","project":"linux-phone-oco/google-walleye-lab","says":"walleye: compare with Android for every part - the method, the tool and the touch run (#325)"}
 {"at":"2026-11-17T19:55:45Z","by":"grenudi","id":"e00c523","project":"linux-phone-oco/google-walleye-lab","says":"feat: phone-stands, the keeper's last hand-over (#20)"}
 {"at":"2026-11-18T10:34:50Z","by":"grenudi","id":"e013b75","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the coordinator runs the tty reader in the background for the z3 try (#187)"}
 {"at":"2026-11-19T13:28:36Z","by":"grenudi","id":"e0414a7","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the attended programs use the library steps of lpoco-attended v0.29.2 (#456)"}
 {"at":"2026-11-17T21:47:09Z","by":"grenudi","id":"e0732fd","project":"linux-phone-oco/google-walleye-lab","says":"walleye: s4 overlay-symbols try, result recorded (#60)"}
+{"at":"2026-11-23T04:39:47Z","by":"grenudi","id":"e075ae6","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the rootfs boot reads its evidence on a failed check (run-2-diagnose) (#740)"}
 {"at":"2026-11-19T11:53:27Z","by":"grenudi","id":"e121ca2","project":"linux-phone-oco/google-walleye-lab","says":"walleye: display late-probe image (modules, netconsole, init-late) and its host script (#415)"}
 {"at":"2026-11-19T17:21:25Z","by":"grenudi","id":"e17a149","project":"linux-phone-oco/google-walleye-lab","says":"fix(walleye): display-late-probe polls for the drawer's stripes-rc, bounded (#532)"}
 {"at":"2026-11-17T21:48:18Z","by":"grenudi","id":"e180218","project":"linux-phone-oco/google-walleye-lab","says":"walleye: first light of our mainline kernel with the symbols dtb (build item) (#61)"}
@@ -2196,6 +2290,7 @@
 {"at":"2026-11-17T19:55:47Z","by":"grenudi","id":"e74e497","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget4.img, an idle init without a gadget (the panic bisect) (#walleye) (#19)"}
 {"at":"2026-11-18T09:16:07Z","by":"grenudi","id":"e792575","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the banner serial was the cause, not the host; root-exec withdrawn; fix queued (#178)"}
 {"at":"2026-11-18T17:33:33Z","by":"grenudi","id":"e93f630","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the charger init bisect waits on the c6 result (#266)"}
+{"at":"2026-11-23T04:43:54Z","by":"grenudi","id":"e95a8e8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the stage 1 boot rerun 3: a new go naming image c3373d71, the diagnose item built (#741)"}
 {"at":"2026-11-17T19:58:48Z","by":"grenudi","id":"ea0ffc0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: cmdline read first, the gadget4 try after it (#23)"}
 {"at":"2026-11-19T14:44:10Z","by":"grenudi","id":"ea6292d","project":"linux-phone-oco/google-walleye-lab","says":"walleye: tas2557 firmware not readable by the adb shell user; how the phone stands (#488)"}
 {"at":"2026-11-17T22:48:21Z","by":"grenudi","id":"ead9e60","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ml5, timing bins below the dead-kernel reset (build item) (#79)"}
@@ -2206,6 +2301,7 @@
 {"at":"2026-11-19T14:53:58Z","by":"grenudi","id":"ed653e3","project":"linux-phone-oco/google-walleye-lab","says":"walleye: rooted debugging is on; the TAS2557 firmware read can start (#496)"}
 {"at":"2026-11-19T01:09:13Z","by":"grenudi","id":"edbf082","project":"linux-phone-oco/google-walleye-lab","says":"walleye: UFS off in the shared dts and a gate on every boot image; z21 with UFS off (#338)"}
 {"at":"2026-11-22T19:20:36Z","by":"grenudi","id":"ee0c04b","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): the look at B-a5 saw no login prompt (#718)"}
+{"at":"2026-11-23T06:04:04Z","by":"grenudi","id":"ee22f41","project":"linux-phone-oco/google-walleye-lab","says":"walleye: rootfs v5 and B-a5 rebuilt with the console loglevel lowered before the prompt respawns (#758)"}
 {"at":"2026-11-19T11:16:35Z","by":"grenudi","id":"eebf6ea","project":"linux-phone-oco/google-walleye-lab","says":"walleye: attended programs read like a checklist at the entry file (the author's word) (#411)"}
 {"at":"2026-11-19T16:41:50Z","by":"grenudi","id":"eec25cf","project":"linux-phone-oco/google-walleye-lab","says":"walleye: a fresh worktree needs the build/images link; the battery floor goes into device.toml (#523)"}
 {"at":"2026-11-20T22:38:22Z","by":"grenudi","id":"ef194e8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: rootless Alpine rootfs look-around, gaps named (#664)"}
@@ -2228,8 +2324,10 @@
 {"at":"2026-11-17T20:58:55Z","by":"grenudi","id":"f64566d","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the ffs-acm try ranked second, unblocked (#45)"}
 {"at":"2026-11-19T17:18:27Z","by":"grenudi","id":"f74b391","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the display program item is one current instruction; it does not wait for the poll fix (#531)"}
 {"at":"2026-11-18T11:37:22Z","by":"grenudi","id":"f782f67","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the z3, c1 tries and dmesg-clean are blocked by the shell fix (the real dependency) (#196)"}
+{"at":"2026-11-22T20:02:20Z","by":"grenudi","id":"f7ee5fc","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the login prompt is on the screen but mid-screen; fix the order and tighten check 15 (#729)"}
 {"at":"2026-11-18T09:23:52Z","by":"grenudi","id":"f83f402","project":"linux-phone-oco/google-walleye-lab","says":"walleye: banner2 with the serial walleye-first-boot; every init's serial checked; try queued (#181)"}
 {"at":"2026-11-18T12:59:01Z","by":"grenudi","id":"f8694cf","project":"linux-phone-oco/google-walleye-lab","says":"walleye: map the z6 dmesg, order the fixes (#218)"}
+{"at":"2026-11-23T05:24:14Z","by":"grenudi","id":"f86a4d1","project":"linux-phone-oco/google-walleye-lab","says":"walleye: getty run 2 replayed; the kernel's late lines print below the prompt, loglevel item queued (#751)"}
 {"at":"2026-11-18T13:17:04Z","by":"grenudi","id":"f86e611","project":"linux-phone-oco/google-walleye-lab","says":"walleye c2 built (#225)"}
 {"at":"2026-11-18T01:19:17Z","by":"grenudi","id":"f888868","project":"linux-phone-oco/google-walleye-lab","says":"walleye: overlay analysed (inert on our dtb); pk5-to-walleye images w1..w5, wr, wa built; try queued (#102)"}
 {"at":"2026-11-18T14:27:12Z","by":"grenudi","id":"fa25966","project":"linux-phone-oco/google-walleye-lab","says":"walleye: c3 tried: charger probes; the phone hung afterwards (#246)"}
@@ -2276,6 +2374,7 @@
 {"at":"2026-11-19T10:12:58Z","by":"github-actions[bot]","id":"11ad95f","project":"linux-phone-oco/lab-tools","says":"chore: release v0.27.2 (#234)"}
 {"at":"2026-11-19T04:56:58Z","by":"grenudi","id":"11d8d2b","project":"linux-phone-oco/lab-tools","says":"feat(packaging): every lab apk names its licence, url, origin and public source (#211)"}
 {"at":"2026-11-17T21:27:13Z","by":"github-actions[bot]","id":"11fef21","project":"linux-phone-oco/lab-tools","says":"chore: release v0.2.0 (#84)"}
+{"at":"2026-11-23T05:47:33Z","by":"grenudi","id":"12b3983","project":"linux-phone-oco/lab-tools","says":"feat(host): follow holds every phone's keeper lease while it installs (#333)"}
 {"at":"2026-11-18T22:50:17Z","by":"grenudi","id":"1369cac","project":"linux-phone-oco/lab-tools","says":"feat(bringup): initramfs files - the init's DHCP and selftest files shipped with it (#186)"}
 {"at":"2026-11-19T17:01:23Z","by":"github-actions[bot]","id":"147b8a5","project":"linux-phone-oco/lab-tools","says":"chore: release v0.32.1 (#273)"}
 {"at":"2026-11-18T03:06:43Z","by":"grenudi","id":"15c7a7c","project":"linux-phone-oco/lab-tools","says":"feat: lpoco host reads each device from origin/main and names the commit and its lag (#108)"}
@@ -2296,6 +2395,7 @@
 {"at":"2026-11-18T13:16:38Z","by":"grenudi","id":"1b4fb08","project":"linux-phone-oco/lab-tools","says":"docs(agents): the owner is named by role, orchestration (#155)"}
 {"at":"2026-11-17T21:22:22Z","by":"grenudi","id":"1c28f4a","project":"linux-phone-oco/lab-tools","says":"feat(bringup): follow the family pin, extend by step hooks, library example (#88)"}
 {"at":"2026-11-19T22:53:19Z","by":"grenudi","id":"1d3616c","project":"linux-phone-oco/lab-tools","says":"feat(attended): a settling group settles the way backs of finished groups; leave_known_good is one (#302)"}
+{"at":"2026-11-23T06:12:48Z","by":"github-actions[bot]","id":"1e0dc28","project":"linux-phone-oco/lab-tools","says":"chore: release v0.44.2 (#337)"}
 {"at":"2026-11-19T22:41:39Z","by":"github-actions[bot]","id":"1e9dde0","project":"linux-phone-oco/lab-tools","says":"chore: release v0.37.2 (#301)"}
 {"at":"2026-11-17T19:38:11Z","by":"grenudi","id":"1f2b422","project":"linux-phone-oco/lab-tools","says":"feat: devlab gather files runs into the device's own base when the lab has a devicebase.toml (#82)"}
 {"at":"2026-11-18T17:54:35Z","by":"grenudi","id":"20e99da","project":"linux-phone-oco/lab-tools","says":"feat(manifest): device.toml declared once in Rust, unknown fields refused, schema projected (#179)"}
@@ -2313,6 +2413,7 @@
 {"at":"2026-11-10T11:43:09Z","by":"grenudi","id":"2b14996","project":"linux-phone-oco/lab-tools","says":"feat: devlab - the device lab for any phone, from its manifest; step 1, reaching the phone (#1)"}
 {"at":"2026-11-11T21:37:29Z","by":"grenudi","id":"2b36565","project":"linux-phone-oco/lab-tools","says":"chore: glimpses are recorded here from now on (#26)"}
 {"at":"2026-11-19T18:38:57Z","by":"grenudi","id":"2b7aed5","project":"linux-phone-oco/lab-tools","says":"feat(attended): boot_once and back_to_known_good skip when the kernel already runs (#286)"}
+{"at":"2026-11-23T03:30:18Z","by":"grenudi","id":"2b937fd","project":"linux-phone-oco/lab-tools","says":"docs: a map at the top of the README and a README per crate (#328)"}
 {"at":"2026-11-19T08:12:45Z","by":"grenudi","id":"2d3957b","project":"linux-phone-oco/lab-tools","says":"feat(layer): lpoco layer pack applies the systemd preset after install, on first install only (#223)"}
 {"at":"2026-11-19T10:02:52Z","by":"grenudi","id":"2fb8637","project":"linux-phone-oco/lab-tools","says":"feat(layer): apk -boot package with mkinitfs module globs and a feature scriptlet (#231)"}
 {"at":"2026-11-18T00:46:17Z","by":"grenudi","id":"2ff9599","project":"linux-phone-oco/lab-tools","says":"lab tools builder/lpoco tone argenv (#101)"}
@@ -2350,6 +2451,7 @@
 {"at":"2026-11-19T04:28:45Z","by":"github-actions[bot]","id":"4926adf","project":"linux-phone-oco/lab-tools","says":"chore: release v0.22.2 (#208)"}
 {"at":"2026-11-17T09:15:27Z","by":"grenudi","id":"4bf083d","project":"linux-phone-oco/lab-tools","says":"fix: suite put puts the lab as its main has it, never a clone that has fallen behind (#59)"}
 {"at":"2026-11-19T13:38:37Z","by":"github-actions[bot]","id":"4bf5b50","project":"linux-phone-oco/lab-tools","says":"chore: release v0.29.3 (#254)"}
+{"at":"2026-11-23T05:08:59Z","by":"github-actions[bot]","id":"4ca0128","project":"linux-phone-oco/lab-tools","says":"chore: release v0.44.0 (#332)"}
 {"at":"2026-11-18T07:44:53Z","by":"grenudi","id":"4ca6c44","project":"linux-phone-oco/lab-tools","says":"fix(host): lpoco host reads lab.toml from origin/main, naming the rev (#127)"}
 {"at":"2026-11-17T22:08:49Z","by":"grenudi","id":"4cf58de","project":"linux-phone-oco/lab-tools","says":"feat: --help and -h print the usage in lpoco, lpoco-host, lpoco-bringup and lpoco-health (#93)"}
 {"at":"2026-11-19T10:30:06Z","by":"grenudi","id":"4d24d96","project":"linux-phone-oco/lab-tools","says":"feat(layer): apk also writes the cmdline to /usr/lib/kernel-cmdline.d/50-NAME.conf (#237)"}
@@ -2379,6 +2481,7 @@
 {"at":"2026-11-19T08:14:38Z","by":"github-actions[bot]","id":"60e8f4c","project":"linux-phone-oco/lab-tools","says":"chore: release v0.25.0 (#224)"}
 {"at":"2026-11-21T00:22:54Z","by":"grenudi","id":"61ab8c5","project":"linux-phone-oco/lab-tools","says":"feat(host): follow installs only inside the [follow] window (#321)"}
 {"at":"2026-11-11T14:33:32Z","by":"grenudi","id":"62cc1e4","project":"linux-phone-oco/lab-tools","says":"feat(devlab): health waits for the phone to settle before checking (#25)"}
+{"at":"2026-11-23T05:49:04Z","by":"github-actions[bot]","id":"6354914","project":"linux-phone-oco/lab-tools","says":"chore: release v0.44.1 (#334)"}
 {"at":"2026-11-19T08:24:36Z","by":"github-actions[bot]","id":"6362f94","project":"linux-phone-oco/lab-tools","says":"chore: release v0.26.0 (#226)"}
 {"at":"2026-11-18T04:42:51Z","by":"github-actions[bot]","id":"6464b25","project":"linux-phone-oco/lab-tools","says":"chore: release v0.3.6 (#117)"}
 {"at":"2026-11-19T21:01:46Z","by":"github-actions[bot]","id":"648a222","project":"linux-phone-oco/lab-tools","says":"chore: release v0.37.0 (#297)"}
@@ -2392,6 +2495,7 @@
 {"at":"2026-11-19T17:44:35Z","by":"grenudi","id":"6aa4ac0","project":"linux-phone-oco/lab-tools","says":"feat(host): lpoco host follow installs a newer release in a lease-free window and lands its pin (#280)"}
 {"at":"2026-11-19T21:08:18Z","by":"grenudi","id":"6b76614","project":"linux-phone-oco/lab-tools","says":"feat(host): a follow killed mid-install is stepped back by the next run (#298)"}
 {"at":"2026-11-19T00:22:56Z","by":"grenudi","id":"6b9d527","project":"linux-phone-oco/lab-tools","says":"feat(bringup): dt-check binding|dtbs, the kernel's devicetree checks in a digest-pinned container (#199)"}
+{"at":"2026-11-23T06:12:01Z","by":"grenudi","id":"6c9a430","project":"linux-phone-oco/lab-tools","says":"docs(layer): say what the container proof does not cover (#336)"}
 {"at":"2026-11-20T23:05:40Z","by":"grenudi","id":"6d6a34a","project":"linux-phone-oco/lab-tools","says":"feat(devlab): a device with no login finds the suite commands not applicable (#312)"}
 {"at":"2026-11-19T20:59:39Z","by":"grenudi","id":"6f95357","project":"linux-phone-oco/lab-tools","says":"feat(host): the follow and clones services read the lab they were prepared from (#296)"}
 {"at":"2026-11-17T09:55:23Z","by":"grenudi","id":"701e299","project":"linux-phone-oco/lab-tools","says":"feat: devlab guard keeps only the phone's way; the shared ways are the ideal-agent plugin's (#65)"}
@@ -2416,6 +2520,7 @@
 {"at":"2026-11-18T22:44:13Z","by":"github-actions[bot]","id":"7ac32e8","project":"linux-phone-oco/lab-tools","says":"chore: release v0.18.2 (#184)"}
 {"at":"2026-11-18T14:00:13Z","by":"grenudi","id":"7b4a36a","project":"linux-phone-oco/lab-tools","says":"feat(host): check names a stale phone-side piece from the phone's last gathered report (#165)"}
 {"at":"2026-11-19T16:44:36Z","by":"grenudi","id":"7b894fb","project":"linux-phone-oco/lab-tools","says":"feat(devlab): kernel try --cmdline boots an installed kernel once with extra options (#272)"}
+{"at":"2026-11-23T04:47:10Z","by":"grenudi","id":"7c71a70","project":"linux-phone-oco/lab-tools","says":"feat(bringup): kernel assemble and publish: record checks, then rhizoid assemble (#330)"}
 {"at":"2026-11-18T23:58:24Z","by":"grenudi","id":"7cc5a0e","project":"linux-phone-oco/lab-tools","says":"feat(bringup): [boot.gadget] console = \"ffs\" makes the init start the FunctionFS ACM helper (#195)"}
 {"at":"2026-11-19T10:05:15Z","by":"github-actions[bot]","id":"7ce97b9","project":"linux-phone-oco/lab-tools","says":"chore: release v0.27.1 (#232)"}
 {"at":"2026-11-18T13:46:15Z","by":"grenudi","id":"7cffe4c","project":"linux-phone-oco/lab-tools","says":"fix(host): prepare installs tools by writing a new file and renaming it over the old (#162)"}
@@ -2470,6 +2575,7 @@
 {"at":"2026-11-18T13:57:41Z","by":"github-actions[bot]","id":"a7a69c9","project":"linux-phone-oco/lab-tools","says":"chore: release v0.14.2 (#166)"}
 {"at":"2026-11-17T13:16:38Z","by":"grenudi","id":"a7cc258","project":"linux-phone-oco/lab-tools","says":"feat(health): no_sim helper; mobile data and modem-registered skip 'no SIM card' (#73)"}
 {"at":"2026-11-17T14:14:03Z","by":"grenudi","id":"a96564a","project":"linux-phone-oco/lab-tools","says":"fix(devlab): suite put takes the Alpine package by default; the package keeps the old names (#78)"}
+{"at":"2026-11-23T07:21:23Z","by":"github-actions[bot]","id":"aab376e","project":"linux-phone-oco/lab-tools","says":"chore: release v0.44.3 (#338)"}
 {"at":"2026-11-17T14:11:39Z","by":"github-actions[bot]","id":"aad3648","project":"linux-phone-oco/lab-tools","says":"chore(lpoco-health): release v0.1.7 (#77)"}
 {"at":"2026-11-19T19:44:17Z","by":"github-actions[bot]","id":"acdfbd7","project":"linux-phone-oco/lab-tools","says":"chore: release v0.34.2 (#288)"}
 {"at":"2026-11-11T00:13:44Z","by":"grenudi","id":"acfc451","project":"linux-phone-oco/lab-tools","says":"docs: the ear on notice - the procedure, a guard to build, and a proper rig on the backlog (#19)"}
@@ -2479,6 +2585,7 @@
 {"at":"2026-11-19T13:57:05Z","by":"grenudi","id":"b06b19c","project":"linux-phone-oco/lab-tools","says":"feat(attended): --until FIRST_PROMPT and --part NAME (#259)"}
 {"at":"2026-11-18T19:40:11Z","by":"grenudi","id":"b0f4010","project":"linux-phone-oco/lab-tools","says":"docs(health): mark the keep-awake as a workaround for sxmo-autosuspend-backoff (#181)"}
 {"at":"2026-11-21T00:57:43Z","by":"github-actions[bot]","id":"b106588","project":"linux-phone-oco/lab-tools","says":"chore: release v0.42.2 (#327)"}
+{"at":"2026-11-23T04:50:39Z","by":"github-actions[bot]","id":"b19bb49","project":"linux-phone-oco/lab-tools","says":"chore: release v0.43.0 (#329)"}
 {"at":"2026-11-18T09:20:58Z","by":"github-actions[bot]","id":"b2de5a4","project":"linux-phone-oco/lab-tools","says":"chore: release v0.6.1 (#132)"}
 {"at":"2026-11-17T01:57:27Z","by":"grenudi","id":"b67c2c1","project":"linux-phone-oco/lab-tools","says":"feat: Deep sleep's check: soc-sleeps reads the SoC's own counters after every boot (#39)"}
 {"at":"2026-11-19T14:43:24Z","by":"grenudi","id":"b6bdd5a","project":"linux-phone-oco/lab-tools","says":"feat(attended): the log files what the phone said to a passing step (#262)"}
@@ -2505,6 +2612,7 @@
 {"at":"2026-11-18T22:42:23Z","by":"grenudi","id":"c10a85b","project":"linux-phone-oco/lab-tools","says":"feat(manifest): a bad [boot.gadget] word is refused when device.toml is read (#185)"}
 {"at":"2026-11-18T00:07:10Z","by":"grenudi","id":"c2063a4","project":"linux-phone-oco/lab-tools","says":"feat(host): script tools judged by a rev stamp, devices takes a list (#95)"}
 {"at":"2026-11-17T02:59:51Z","by":"grenudi","id":"c2dabac","project":"linux-phone-oco/lab-tools","says":"fix: Test sounds are quiet: a level and volume per phone, -40 dBFS at 25% by default (#45)"}
+{"at":"2026-11-23T05:07:06Z","by":"grenudi","id":"c32df85","project":"linux-phone-oco/lab-tools","says":"feat(host): [tools.NAME] installs another project's release binary at its pin, checked by its sha256 (#331)"}
 {"at":"2026-11-20T00:15:46Z","by":"grenudi","id":"c3b0798","project":"linux-phone-oco/lab-tools","says":"feat(attended): boot_once boots by fastboot from memory where the device says so (#308)"}
 {"at":"2026-11-18T00:46:53Z","by":"github-actions[bot]","id":"c67b70c","project":"linux-phone-oco/lab-tools","says":"chore: release v0.3.1 (#97)"}
 {"at":"2026-11-17T22:01:35Z","by":"github-actions[bot]","id":"c738ff3","project":"linux-phone-oco/lab-tools","says":"chore: release v0.2.1 (#89)"}
@@ -2540,6 +2648,7 @@
 {"at":"2026-11-18T13:17:37Z","by":"grenudi","id":"dff7ae7","project":"linux-phone-oco/lab-tools","says":"feat: lpoco-lab flash bakes the image without root or a mount (debugfs and mtools) (#156)"}
 {"at":"2026-11-20T23:28:59Z","by":"github-actions[bot]","id":"e020edd","project":"linux-phone-oco/lab-tools","says":"chore: release v0.40.0 (#315)"}
 {"at":"2026-11-18T07:47:09Z","by":"github-actions[bot]","id":"e1a08d5","project":"linux-phone-oco/lab-tools","says":"chore: release v0.5.0 (#128)"}
+{"at":"2026-11-23T06:07:25Z","by":"grenudi","id":"e328e3c","project":"linux-phone-oco/lab-tools","says":"feat(layer): boot.img trigger per base for android-bootimg layers (#335)"}
 {"at":"2026-11-10T16:26:44Z","by":"grenudi","id":"e330899","project":"linux-phone-oco/lab-tools","says":"feat(oco): devlab's own backlog and path (#10)"}
 {"at":"2026-11-17T05:11:58Z","by":"grenudi","id":"e383108","project":"linux-phone-oco/lab-tools","says":"fix: kernel remove never takes modules another kernel boots with (#54)"}
 {"at":"2026-11-17T14:06:46Z","by":"grenudi","id":"e3b9e1a","project":"linux-phone-oco/lab-tools","says":"feat(lpoco-health): one health suite with switches, reasons and run-time conditions (#75)"}
@@ -2556,6 +2665,7 @@
 {"at":"2026-11-18T11:30:44Z","by":"grenudi","id":"e91f3f4","project":"linux-phone-oco/lab-tools","says":"feat(host): [host] commands - plan names each, check fails a missing one, nothing installed (#138)"}
 {"at":"2026-11-18T00:07:41Z","by":"github-actions[bot]","id":"e92733b","project":"linux-phone-oco/lab-tools","says":"chore: release v0.2.2 (#94)"}
 {"at":"2026-11-19T20:15:20Z","by":"grenudi","id":"ea95212","project":"linux-phone-oco/lab-tools","says":"feat(lab): a try that no new boot answers reports the host's USB timeline for the phone (#291)"}
+{"at":"2026-11-23T07:19:12Z","by":"grenudi","id":"eba9fca","project":"linux-phone-oco/lab-tools","says":"fix(layer): boot.img plugin finds Debian's initrd; prove Debian through a real dpkg -i (#339)"}
 {"at":"2026-11-18T17:56:16Z","by":"github-actions[bot]","id":"ec6d328","project":"linux-phone-oco/lab-tools","says":"chore: release v0.18.0 (#180)"}
 {"at":"2026-11-19T13:44:14Z","by":"grenudi","id":"ecc4e01","project":"linux-phone-oco/lab-tools","says":"feat(attended): wait_for_usb is keyed to bring-up step gadget-enumerates (#255)"}
 {"at":"2026-11-19T04:49:09Z","by":"github-actions[bot]","id":"ecfea8d","project":"linux-phone-oco/lab-tools","says":"chore: release v0.23.0 (#210)"}
@@ -2824,6 +2934,7 @@
 {"at":"2026-11-18T07:26:13Z","by":"grenudi","id":"7c944bf","project":"linux-phone-oco/surya-lab","says":"docs: surya keeper session log, how the phone stands (#176)"}
 {"at":"2026-11-10T04:52:22Z","by":"grenudi","id":"7cbdc4e","project":"linux-phone-oco/surya-lab","says":"feat: kernel/test-entry.sh - boot a test kernel beside the stock one (#22)"}
 {"at":"2026-11-17T04:38:13Z","by":"grenudi","id":"7ce498d","project":"linux-phone-oco/surya-lab","says":"docs: The microphone hears the speaker: a quiet tone found by the phone itself (#99)"}
+{"at":"2026-11-23T04:27:37Z","by":"grenudi","id":"7d80015","project":"linux-phone-oco/surya-lab","says":"surya: backlog item - split the kernel into topic branches (#470)"}
 {"at":"2026-11-18T22:34:17Z","by":"grenudi","id":"7df82ca","project":"linux-phone-oco/surya-lab","says":"surya: the attended items marked witness=person (#311)"}
 {"at":"2026-11-19T14:53:16Z","by":"grenudi","id":"7e0e8f3","project":"linux-phone-oco/surya-lab","says":"surya: no unattended reboot until the calls4 hang is understood (#427)"}
 {"at":"2026-11-18T18:14:41Z","by":"grenudi","id":"7e553a7","project":"linux-phone-oco/surya-lab","says":"surya: sxmo config migration after the lab apk (queued) (#264)"}
@@ -2948,6 +3059,7 @@
 {"at":"2026-11-19T05:42:14Z","by":"grenudi","id":"bba05b2","project":"linux-phone-oco/surya-lab","says":"surya: the trace hook waits on lab-tools (docs) (#361)"}
 {"at":"2026-11-19T13:50:16Z","by":"grenudi","id":"bbd5769","project":"linux-phone-oco/surya-lab","says":"docs(surya): lpoco-health-suspend-trace-hook done, session log (#407)"}
 {"at":"2026-11-18T17:51:44Z","by":"grenudi","id":"bc42938","project":"linux-phone-oco/surya-lab","says":"surya: queue dropping the stale generic file (#263)"}
+{"at":"2026-11-23T03:07:47Z","by":"grenudi","id":"bd833ce","project":"linux-phone-oco/surya-lab","says":"docs: a README for every top-level folder and a map at the top of the README (#469)"}
 {"at":"2026-11-17T00:59:43Z","by":"grenudi","id":"bef4d2f","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#73)"}
 {"at":"2026-11-18T12:16:07Z","by":"grenudi","id":"bf6ac97","project":"linux-phone-oco/surya-lab","says":"feat: feat: upstreams name their fork; items name where carried and who reviewed (#214)"}
 {"at":"2026-11-10T03:10:44Z","by":"grenudi","id":"bfca5f7","project":"linux-phone-oco/surya-lab","says":"feat(tests): a run summary in the docs - one line per run, computed from its checks (#15)"}
@@ -3380,6 +3492,7 @@
 {"at":"2026-11-15T10:20:17Z","by":"oco observe","id":"70915cc","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T12:28:04Z","by":"oco observe","id":"70f5449","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:59:20Z","by":"oco observe","id":"7145a71","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-22T19:53:34Z","by":"oco observe","id":"71e1622","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T18:17:12Z","by":"oco observe","id":"73f2340","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T11:03:26Z","by":"oco observe","id":"743bfac","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T14:59:58Z","by":"oco observe","id":"746a414","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -4585,6 +4698,7 @@
 {"at":"2026-11-11T11:19:22Z","by":"grenudi","id":"23ec272","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the attention view is live; what waits on the author says so (#49)"}
 {"at":"2026-11-16T13:38:14Z","by":"oco harvest","id":"240d590","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T20:45:45Z","by":"oco harvest","id":"241ea92","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-22T19:44:04Z","by":"oco harvest","id":"24c9f9d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T16:29:34Z","by":"oco harvest","id":"24cffbe","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T20:58:44Z","by":"oco harvest","id":"24d9180","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T01:22:52Z","by":"oco harvest","id":"2526433","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
