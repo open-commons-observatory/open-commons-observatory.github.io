@@ -111,6 +111,7 @@
 {"bytes":3700,"id":"procedures/fastboot-reboot-twice-on-the-pixel-2.rs","lines":45,"path":"procedures/fastboot-reboot-twice-on-the-pixel-2.rs","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":6495,"id":"procedures/install-boot-on-the-pixel-2.rs","lines":57,"path":"procedures/install-boot-on-the-pixel-2.rs","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":3840,"id":"procedures/install-rootfs-on-the-pixel-2.rs","lines":44,"path":"procedures/install-rootfs-on-the-pixel-2.rs","project":"linux-phone-oco/google-walleye-lab"}
+{"bytes":5443,"id":"procedures/modem-boot-on-the-pixel-2.rs","lines":56,"path":"procedures/modem-boot-on-the-pixel-2.rs","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":3563,"id":"procedures/nfc-boot-on-the-pixel-2.rs","lines":39,"path":"procedures/nfc-boot-on-the-pixel-2.rs","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":3817,"id":"procedures/pmic-watchdog-v1-on-the-pixel-2.rs","lines":54,"path":"procedures/pmic-watchdog-v1-on-the-pixel-2.rs","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":2504,"id":"procedures/pon-control-read-on-the-pixel-2.rs","lines":33,"path":"procedures/pon-control-read-on-the-pixel-2.rs","project":"linux-phone-oco/google-walleye-lab"}
@@ -118,6 +119,7 @@
 {"bytes":2879,"id":"procedures/rehearse-fastboot-reboot-twice-on-the-pixel-2.rs","lines":39,"path":"procedures/rehearse-fastboot-reboot-twice-on-the-pixel-2.rs","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":4714,"id":"procedures/rehearse-install-boot-on-the-pixel-2.rs","lines":44,"path":"procedures/rehearse-install-boot-on-the-pixel-2.rs","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":3178,"id":"procedures/rehearse-install-rootfs-on-the-pixel-2.rs","lines":40,"path":"procedures/rehearse-install-rootfs-on-the-pixel-2.rs","project":"linux-phone-oco/google-walleye-lab"}
+{"bytes":3300,"id":"procedures/rehearse-modem-boot-on-the-pixel-2.rs","lines":42,"path":"procedures/rehearse-modem-boot-on-the-pixel-2.rs","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":3560,"id":"procedures/rehearse-rootfs-boots-on-the-pixel-2.rs","lines":41,"path":"procedures/rehearse-rootfs-boots-on-the-pixel-2.rs","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":3556,"id":"procedures/rehearse-rw-write-on-the-pixel-2.rs","lines":39,"path":"procedures/rehearse-rw-write-on-the-pixel-2.rs","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":2971,"id":"procedures/rehearse-slpi-boot-on-the-pixel-2.rs","lines":40,"path":"procedures/rehearse-slpi-boot-on-the-pixel-2.rs","project":"linux-phone-oco/google-walleye-lab"}
@@ -136,7 +138,8 @@
 {"bytes":26529,"id":"procedures/steps/src/host.rs","lines":671,"path":"procedures/steps/src/host.rs","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":42997,"id":"procedures/steps/src/install.rs","lines":1003,"path":"procedures/steps/src/install.rs","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":17847,"id":"procedures/steps/src/lab.rs","lines":432,"path":"procedures/steps/src/lab.rs","project":"linux-phone-oco/google-walleye-lab"}
-{"bytes":977,"id":"procedures/steps/src/lib.rs","lines":36,"path":"procedures/steps/src/lib.rs","project":"linux-phone-oco/google-walleye-lab"}
+{"bytes":997,"id":"procedures/steps/src/lib.rs","lines":37,"path":"procedures/steps/src/lib.rs","project":"linux-phone-oco/google-walleye-lab"}
+{"bytes":63688,"id":"procedures/steps/src/modem_boot.rs","lines":1363,"path":"procedures/steps/src/modem_boot.rs","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":42992,"id":"procedures/steps/src/nfc_boot.rs","lines":991,"path":"procedures/steps/src/nfc_boot.rs","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":15125,"id":"procedures/steps/src/phone.rs","lines":364,"path":"procedures/steps/src/phone.rs","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":33070,"id":"procedures/steps/src/pmic.rs","lines":824,"path":"procedures/steps/src/pmic.rs","project":"linux-phone-oco/google-walleye-lab"}
@@ -145,10 +148,10 @@
 {"bytes":6106,"id":"procedures/steps/src/reader.rs","lines":163,"path":"procedures/steps/src/reader.rs","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":5226,"id":"procedures/steps/src/reboot_tool.rs","lines":106,"path":"procedures/steps/src/reboot_tool.rs","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":17529,"id":"procedures/steps/src/reboot_twice.rs","lines":408,"path":"procedures/steps/src/reboot_twice.rs","project":"linux-phone-oco/google-walleye-lab"}
-{"bytes":147968,"id":"procedures/steps/src/rootfs_boot.rs","lines":3344,"path":"procedures/steps/src/rootfs_boot.rs","project":"linux-phone-oco/google-walleye-lab"}
+{"bytes":149934,"id":"procedures/steps/src/rootfs_boot.rs","lines":3388,"path":"procedures/steps/src/rootfs_boot.rs","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":51140,"id":"procedures/steps/src/rw_write.rs","lines":1073,"path":"procedures/steps/src/rw_write.rs","project":"linux-phone-oco/google-walleye-lab"}
-{"bytes":51048,"id":"procedures/steps/src/settings.rs","lines":1072,"path":"procedures/steps/src/settings.rs","project":"linux-phone-oco/google-walleye-lab"}
-{"bytes":23770,"id":"procedures/steps/src/slpi_boot.rs","lines":547,"path":"procedures/steps/src/slpi_boot.rs","project":"linux-phone-oco/google-walleye-lab"}
+{"bytes":53812,"id":"procedures/steps/src/settings.rs","lines":1124,"path":"procedures/steps/src/settings.rs","project":"linux-phone-oco/google-walleye-lab"}
+{"bytes":24011,"id":"procedures/steps/src/slpi_boot.rs","lines":553,"path":"procedures/steps/src/slpi_boot.rs","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":16963,"id":"procedures/steps/src/touch.rs","lines":465,"path":"procedures/steps/src/touch.rs","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":13543,"id":"procedures/steps/src/transport.rs","lines":325,"path":"procedures/steps/src/transport.rs","project":"linux-phone-oco/google-walleye-lab"}
 {"bytes":51584,"id":"procedures/steps/src/ufs.rs","lines":1218,"path":"procedures/steps/src/ufs.rs","project":"linux-phone-oco/google-walleye-lab"}

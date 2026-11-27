@@ -1544,6 +1544,7 @@
 {"at":"2026-11-17T09:50:32Z","by":"grenudi","id":"b5c0222","project":"linux-phone-oco/docs","says":"feat: support status looks past skips to each test's latest measurement (#158)"}
 {"at":"2026-11-11T14:44:34Z","by":"grenudi","id":"b640902","project":"linux-phone-oco/docs","says":"feat(data): export the community's claims, to be drawn beside our checks (#57)"}
 {"at":"2026-11-17T18:19:47Z","by":"grenudi","id":"b650c26","project":"linux-phone-oco/docs","says":"docs: walleye: first state restored, phone in fastboot on slot a, load-error-first-state done (#297)"}
+{"at":"2026-11-27T13:49:15Z","by":"feeds","id":"b6ccbba","project":"linux-phone-oco/docs","says":"chore(feed): data from the scheduled feeds"}
 {"at":"2026-11-18T19:24:34Z","by":"grenudi","id":"b6e0ef4","project":"linux-phone-oco/docs","says":"feat(queries): milestones name goal steps - step:daily-usable-phone@DEVICE (#540)"}
 {"at":"2026-11-17T01:38:21Z","by":"grenudi","id":"b6f5db4","project":"linux-phone-oco/docs","says":"feat: Tests: a known gap counted apart from a failure, in every run (#98)"}
 {"at":"2026-11-17T16:43:25Z","by":"grenudi","id":"b7c01a1","project":"linux-phone-oco/docs","says":"walleye first boot tries (#247)"}
@@ -1684,6 +1685,7 @@
 {"at":"2026-11-25T04:20:44Z","by":"grenudi","id":"db46412","project":"linux-phone-oco/docs","says":"docs(backlog): host-tool-pinned-sha256 so the lab host can carry shellcheck (#900)"}
 {"at":"2026-11-17T16:20:20Z","by":"github-actions[bot]","id":"db52082","project":"linux-phone-oco/docs","says":"chore(main): release 0.9.0 (#239)"}
 {"at":"2026-11-17T13:07:32Z","by":"grenudi","id":"dbb228d","project":"linux-phone-oco/docs","says":"docs: the SIM is out of surya: device note, skip-checks backlog item (#200)"}
+{"at":"2026-11-27T10:37:22Z","by":"grenudi","id":"dc1f607","project":"linux-phone-oco/docs","says":"docs(briefs): the keeper reads step ids from docs' bringup-chain and claims them in its lab's base (#950)"}
 {"at":"2026-11-23T07:34:03Z","by":"grenudi","id":"dc3e8c2","project":"linux-phone-oco/docs","says":"chore(backlog): sxmo-fork-retired removes the sxmo-utils graph edge; its rhizoid import dropped (#775)"}
 {"at":"2026-11-23T11:06:34Z","by":"grenudi","id":"dc5018d","project":"linux-phone-oco/docs","says":"chore(backlog): attended's tests on manifest 0.44.5, the gated-out timer bump (lab-tools) (#814)"}
 {"at":"2026-11-23T09:22:29Z","by":"grenudi","id":"dcf4111","project":"linux-phone-oco/docs","says":"chore(backlog): docs' CI checks the graph with the rhizoid the host pins (#801)"}
@@ -1740,6 +1742,7 @@
 {"at":"2026-11-17T17:10:03Z","by":"grenudi","id":"eb317a8","project":"linux-phone-oco/docs","says":"docs: walleye coordinator brief: the lane's launchers and decision routing (#255)"}
 {"at":"2026-11-23T05:55:25Z","by":"grenudi","id":"eb393e6","project":"linux-phone-oco/docs","says":"chore(backlog): graph-records-the-forks, with rhizoid v0.3.1 on the host (#770)"}
 {"at":"2026-11-20T23:47:43Z","by":"grenudi","id":"ebb3c4f","project":"linux-phone-oco/docs","says":"docs(lab-tools): boot-once-pre-boot-gates done (lab-tools #317, v0.41.0), with its record (#738)"}
+{"at":"2026-11-27T10:15:44Z","by":"grenudi","id":"ec0e7d6","project":"linux-phone-oco/docs","says":"docs(data): walleye-modem-up test, the modem present: mss running, qrtr services 2 and 21 (#949)"}
 {"at":"2026-11-18T14:28:52Z","by":"grenudi","id":"ec371ae","project":"linux-phone-oco/docs","says":"docs(bringup-steps): the summary says the tables, records and seed are in docs (#506)"}
 {"at":"2026-11-24T07:55:45Z","by":"grenudi","id":"ec7ffe8","project":"linux-phone-oco/docs","says":"docs(backlog): lab-tools - the firmware extractor's entry, deb rpm archlinux done (#417) (#881)"}
 {"at":"2026-11-19T18:40:43Z","by":"grenudi","id":"ecf154c","project":"linux-phone-oco/docs","says":"docs(lab-tools): attended-skip-when-in-state done, session log (#676)"}
@@ -1831,6 +1834,7 @@
 {"at":"2026-11-19T16:14:30Z","by":"grenudi","id":"028ff63","project":"linux-phone-oco/google-walleye-lab","says":"walleye: display-late-probe.sh runs the stripe drawer detached, reads its log after the hold (#515)"}
 {"at":"2026-11-19T10:06:53Z","by":"grenudi","id":"02aeca3","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the matched UFS image is built before the go, never booted; rank 5 (#395)"}
 {"at":"2026-11-17T23:01:26Z","by":"grenudi","id":"02de1d0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ml5 try done - kernel never reaches init (4 timed boots) (#83)"}
+{"at":"2026-11-27T12:44:58Z","by":"grenudi","id":"031a2db","project":"linux-phone-oco/google-walleye-lab","says":"walleye: pin nixpkgs for every nix build, first in the builder queue (#1282)"}
 {"at":"2026-11-17T19:59:32Z","by":"grenudi","id":"0333021","project":"linux-phone-oco/google-walleye-lab","says":"chore: tad 0.7.1 (#24)"}
 {"at":"2026-11-24T19:04:12Z","by":"grenudi","id":"033723e","project":"linux-phone-oco/google-walleye-lab","says":"chore(deps): lpoco-attended 0.45.4 -> 0.45.5 (#1048)"}
 {"at":"2026-11-19T04:32:44Z","by":"grenudi","id":"036fb15","project":"linux-phone-oco/google-walleye-lab","says":"walleye: backlog item to claim test-layer-boots once the test layer reports booted=test (#360)"}
@@ -1853,6 +1857,7 @@
 {"at":"2026-11-27T03:25:48Z","by":"grenudi","id":"07285f9","project":"linux-phone-oco/google-walleye-lab","says":"builder/walleye run 1127b (#1255)"}
 {"at":"2026-11-19T22:24:53Z","by":"grenudi","id":"072c30f","project":"linux-phone-oco/google-walleye-lab","says":"walleye: delay bisect images B-d5..B-d50 and their unattended procedure (#610)"}
 {"at":"2026-11-23T10:48:22Z","by":"grenudi","id":"079d3b4","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the flash resetting the slot's flags is documented (AOSP A/B spec), research and sources (#833)"}
+{"at":"2026-11-27T13:25:01Z","by":"grenudi","id":"08ad549","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the modem boot pushes the ModemManager rootfs and starts mm-up (#1287)"}
 {"at":"2026-11-25T03:31:11Z","by":"grenudi","id":"0949632","project":"linux-phone-oco/google-walleye-lab","says":"go: the capture run's go names [images.ufs-root] c3373d71 in full (was the wrong image) (#1076)"}
 {"at":"2026-11-19T14:19:14Z","by":"grenudi","id":"097c6c0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the touch try is one command away; the plain-words ask is in the item (#478)"}
 {"at":"2026-11-17T22:23:57Z","by":"grenudi","id":"0999efe","project":"linux-phone-oco/google-walleye-lab","says":"walleye: m1 window read on host 7.3.4 (lpoco-host acceptance passes) (#70)"}
@@ -1888,9 +1893,12 @@
 {"at":"2026-11-18T14:07:41Z","by":"grenudi","id":"0e864fe","project":"linux-phone-oco/google-walleye-lab","says":"walleye: z9 (qcom-pon built in), PMIC watchdog bite test, records (#236)"}
 {"at":"2026-11-17T22:13:22Z","by":"grenudi","id":"0e91bfd","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ml3, our kernel's ramoops at the phone's own region (0xa1100000); try queued (#69)"}
 {"at":"2026-11-17T19:27:08Z","by":"grenudi","id":"0f14a92","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget3.img, vendor-gadget2 plus a self-reboot timer and a kmsg marker (#13)"}
+{"at":"2026-11-27T18:24:36Z","by":"grenudi","id":"0f29bbc","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the IPA rebind is a build; mm-sees-modem waits on the IPA try (#1313)"}
 {"at":"2026-11-18T20:32:16Z","by":"grenudi","id":"0f36671","project":"linux-phone-oco/google-walleye-lab","says":"walleye: touch on the RMI4 controller - dts, kernel config, z15 build, reader and check (#298)"}
+{"at":"2026-11-27T11:57:38Z","by":"grenudi","id":"0f933e4","project":"linux-phone-oco/google-walleye-lab","says":"walleye: research where ModemManager runs before mm-sees-modem (#1278)"}
 {"at":"2026-11-19T14:17:36Z","by":"grenudi","id":"0fb262f","project":"linux-phone-oco/google-walleye-lab","says":"docs: walleye touch program unattended run 2 clean (#471)"}
 {"at":"2026-11-19T23:35:47Z","by":"grenudi","id":"0fb55b8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: correct the bite record - reset into charger mode, not Android; open the follow-up (#625)"}
+{"at":"2026-11-27T14:22:41Z","by":"grenudi","id":"0fc90e8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the rootfs gets the whole set dbus and ModemManager read at start (#1295)"}
 {"at":"2026-11-18T15:11:15Z","by":"grenudi","id":"0fe1b21","project":"linux-phone-oco/google-walleye-lab","says":"walleye: c6 waits for the author's presence; safe tries and builds first (decision) (#258)"}
 {"at":"2026-11-22T18:32:33Z","by":"grenudi","id":"0feac83","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the login prompt on the glass, quick (Alpine in RAM) and real (UFS root plus display) (#704)"}
 {"at":"2026-11-19T15:29:00Z","by":"grenudi","id":"104221b","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the settings move waits for manifest keys from lab-tools; the builder takes the next item (#506)"}
@@ -1913,6 +1921,7 @@
 {"at":"2026-11-17T20:22:02Z","by":"grenudi","id":"14a4a4c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the noattr try waits on nothing (rank 2, after the ncm split) (#36)"}
 {"at":"2026-11-19T20:16:45Z","by":"grenudi","id":"14c963c","project":"linux-phone-oco/google-walleye-lab","says":"build: ideal-knowledge-base 0.24.0 (#582)"}
 {"at":"2026-11-24T04:04:28Z","by":"grenudi","id":"1508699","project":"linux-phone-oco/google-walleye-lab","says":"walleye: stage 3's procedure ranks 2, the go-consumed gate 3; its kernel is a sha256 part for now (#999)"}
+{"at":"2026-11-27T18:39:16Z","by":"grenudi","id":"1517acb","project":"linux-phone-oco/google-walleye-lab","says":"builder/ipa rebind (#1314)"}
 {"at":"2026-11-24T16:48:24Z","by":"grenudi","id":"1548e8b","project":"linux-phone-oco/google-walleye-lab","says":"walleye: rw image ends the root clean (init adds mount-ro, walleye-end); way back asks init to end (#1035)"}
 {"at":"2026-11-18T19:00:42Z","by":"grenudi","id":"154c6d0","project":"linux-phone-oco/google-walleye-lab","says":"walleye builder z12 (#277)"}
 {"at":"2026-11-24T14:48:06Z","by":"grenudi","id":"156b475","project":"linux-phone-oco/google-walleye-lab","says":"walleye: pmic-dmesg selftest on the z7 read a phone printed; typed faults split out (#1023)"}
@@ -1962,12 +1971,14 @@
 {"at":"2026-11-18T15:14:11Z","by":"grenudi","id":"1e01dda","project":"linux-phone-oco/google-walleye-lab","says":"feat(walleye): wire phone-state.sh into restart-check and the gadget readers (#259)"}
 {"at":"2026-11-19T21:49:24Z","by":"grenudi","id":"1e48d8b","project":"linux-phone-oco/google-walleye-lab","says":"walleye: L7 unanswered run proven, the phone back by its own way back (#602)"}
 {"at":"2026-11-23T12:27:30Z","by":"grenudi","id":"1e54ee0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: pstore read after stage 2 run 4 (empty; phone had rebooted), cmdline compared (#851)"}
+{"at":"2026-11-27T19:43:51Z","by":"grenudi","id":"1eb315f","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): modem try 7 - ipa bound, rmnet_ipa0 not candidate for MM (#1315)"}
 {"at":"2026-11-19T12:03:53Z","by":"grenudi","id":"1ebab1e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: UFS gap research: lane 1 under the 3.0.0 PHY table, a down lane costs speed only (#423)"}
 {"at":"2026-11-17T20:05:19Z","by":"grenudi","id":"1eee99d","project":"linux-phone-oco/google-walleye-lab","says":"walleye builder gadget5 (#27)"}
 {"at":"2026-11-19T22:46:06Z","by":"grenudi","id":"1f239c6","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the procedures move to lpoco-attended step groups; queued (#613)"}
 {"at":"2026-11-26T22:07:31Z","by":"grenudi","id":"1f59194","project":"linux-phone-oco/google-walleye-lab","says":"walleye: z21 hold-init dropped, the touch window sufficed (#1237)"}
 {"at":"2026-11-23T05:50:53Z","by":"grenudi","id":"1fa1f50","project":"linux-phone-oco/google-walleye-lab","says":"walleye: image U-d5, the UFS root with the display in one kernel (ufs-root-display-image) (#755)"}
 {"at":"2026-11-23T20:11:54Z","by":"grenudi","id":"1fbdc9a","project":"linux-phone-oco/google-walleye-lab","says":"walleye: stage 2 done for the debug image (run 11); the production image queued first (#934)"}
+{"at":"2026-11-27T09:09:16Z","by":"grenudi","id":"20174ce","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the modem image, its ramdisk, tests and records (#1261)"}
 {"at":"2026-11-19T17:22:44Z","by":"grenudi","id":"201af25","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the script's poll proof waits for an idle phone slot; the display procedure goes first (#533)"}
 {"at":"2026-11-18T18:17:21Z","by":"grenudi","id":"202297a","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the PMIC register reads parked behind storage, networking, touch and display (#272)"}
 {"at":"2026-11-22T17:09:05Z","by":"grenudi","id":"209257c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the author's go for the stage 1 write is recorded and open until three hours from now (#694)"}
@@ -1980,6 +1991,7 @@
 {"at":"2026-11-23T19:07:05Z","by":"grenudi","id":"2156ed7","project":"linux-phone-oco/google-walleye-lab","says":"test(walleye-tries): the four-state walk reaches step 21 and the way back on run 9's captured text (#921)"}
 {"at":"2026-11-19T14:40:34Z","by":"grenudi","id":"2167cdd","project":"linux-phone-oco/google-walleye-lab","says":"docs: walleye touch try on z21 passed, 3593 EV_ABS events; how the phone stands (#485)"}
 {"at":"2026-11-18T20:07:33Z","by":"grenudi","id":"21bd32f","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the EDL way back researched - none known; the UFS wait holds; boot-chain read-back queued (#290)"}
+{"at":"2026-11-27T09:27:20Z","by":"grenudi","id":"21eabad","project":"linux-phone-oco/google-walleye-lab","says":"feat(walleye): the modem boot procedure, firmware pushed in Rust (#1262)"}
 {"at":"2026-11-19T23:50:50Z","by":"grenudi","id":"21eb6a2","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the cable-out bite's result goes to the upstreams coordinator (#631)"}
 {"at":"2026-11-19T08:23:53Z","by":"grenudi","id":"2244c33","project":"linux-phone-oco/google-walleye-lab","says":"walleye: old PMIC read items wait on the v1 try; session log of the night (#393)"}
 {"at":"2026-11-19T01:32:27Z","by":"grenudi","id":"225339f","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the touch events go reopened for 90 minutes (the author is still here) (#353)"}
@@ -1998,6 +2010,7 @@
 {"at":"2026-11-20T22:00:46Z","by":"grenudi","id":"24ac2d5","project":"linux-phone-oco/google-walleye-lab","says":"walleye: image B-r5 (B-d5 plus mdss resets) built and queued for the keeper (#651)"}
 {"at":"2026-11-19T07:26:55Z","by":"grenudi","id":"24f579a","project":"linux-phone-oco/google-walleye-lab","says":"walleye: z19 and c4 moved out of the keeper order; boot-chain read-back scripts queued test first (#381)"}
 {"at":"2026-11-18T09:05:09Z","by":"grenudi","id":"2560a7f","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the banner image (y2 + a banner init), host check, try queued (build item) (#174)"}
+{"at":"2026-11-27T16:35:10Z","by":"grenudi","id":"261bd93","project":"linux-phone-oco/google-walleye-lab","says":"walleye: modem boot run 5 - mmcli -L runs, MM finds no net port (#1303)"}
 {"at":"2026-11-19T13:12:00Z","by":"grenudi","id":"2629920","project":"linux-phone-oco/google-walleye-lab","says":"walleye: display late-probe L1 tried: modules load, no drm card; hand-over (#449)"}
 {"at":"2026-11-24T16:03:40Z","by":"grenudi","id":"26699d8","project":"linux-phone-oco/google-walleye-lab","says":"backlog: walleye-procedures-run-own-cli (no host lpoco-attended) (#1030)"}
 {"at":"2026-11-19T16:32:14Z","by":"grenudi","id":"26b55b9","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the PMIC program boots the rebuilt image pair; the unattended run sets it (#521)"}
@@ -2011,6 +2024,7 @@
 {"at":"2026-11-19T21:31:21Z","by":"grenudi","id":"289ca1f","project":"linux-phone-oco/google-walleye-lab","says":"walleye: more of the author's words on the held stripes: they look perfect (#595)"}
 {"at":"2026-11-23T18:43:57Z","by":"grenudi","id":"290d849","project":"linux-phone-oco/google-walleye-lab","says":"walleye: idealkb 0.26.0 enforces a go's outcomes; the local gate is not needed once the pin moves (#915)"}
 {"at":"2026-11-23T15:57:45Z","by":"grenudi","id":"293128a","project":"linux-phone-oco/google-walleye-lab","says":"walleye: stage 2 state model applied - the keep/relax/drop table, the way back good before the flash (#893)"}
+{"at":"2026-11-27T12:08:59Z","by":"grenudi","id":"2935526","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the ModemManager rootfs is built by nix, Alpine as the fallback (#1280)"}
 {"at":"2026-11-17T21:20:40Z","by":"grenudi","id":"2983098","project":"linux-phone-oco/google-walleye-lab","says":"walleye: both host-bound tries re-queued after the lab reboot (#50)"}
 {"at":"2026-11-19T12:41:24Z","by":"grenudi","id":"29b323e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the late-probe try waits for the f3 split result (#436)"}
 {"at":"2026-11-23T20:49:49Z","by":"grenudi","id":"29d9eb0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the stage 2 production image from int/walleye/ufs-on/v7.3/1, petters first, no gadget (#937)"}
@@ -2070,6 +2084,7 @@
 {"at":"2026-11-24T01:28:53Z","by":"grenudi","id":"33ee788","project":"linux-phone-oco/google-walleye-lab","says":"feat(walleye-tries): UFS procedure takes the pin as a choice (WALLEYE_UFS_PIN) (#985)"}
 {"at":"2026-11-19T18:28:31Z","by":"grenudi","id":"3430cf4","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the matched UFS image prints host and PHY registers read-only (walleye-ufs-match-prints) (#555)"}
 {"at":"2026-11-19T14:10:16Z","by":"grenudi","id":"3430fd9","project":"linux-phone-oco/google-walleye-lab","says":"docs: walleye radios research, decision, backlog and failing checks (#474)"}
+{"at":"2026-11-27T10:12:53Z","by":"grenudi","id":"344395e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the modem-up suite check, proven on the first modem boot's read (#1267)"}
 {"at":"2026-11-19T19:09:10Z","by":"grenudi","id":"34ac836","project":"linux-phone-oco/google-walleye-lab","says":"docs: walleye keeper's how the phone stands (banner shell) (#565)"}
 {"at":"2026-11-27T06:21:46Z","by":"grenudi","id":"34f1b98","project":"linux-phone-oco/google-walleye-lab","says":"walleye: static rmtfs by nix fails; the cross-gcc way recorded on walleye-modem-mss-image (#1258)"}
 {"at":"2026-11-23T13:15:16Z","by":"grenudi","id":"3511302","project":"linux-phone-oco/google-walleye-lab","says":"walleye: run 5 stopped at check 18 again, the unbootable bit; audit by state and the GPT read queued (#860)"}
@@ -2088,6 +2103,7 @@
 {"at":"2026-11-18T10:50:54Z","by":"grenudi","id":"37a1491","project":"linux-phone-oco/google-walleye-lab","says":"walleye: why the shell was silent - the port closes per command; reliable shell (build item) (#191)"}
 {"at":"2026-11-26T03:47:35Z","by":"grenudi","id":"37a767c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: queue the transport procedure, the first live use of the android connection (#1159)"}
 {"at":"2026-11-21T00:05:46Z","by":"grenudi","id":"37e020a","project":"linux-phone-oco/google-walleye-lab","says":"walleye: a keeper reads its lease back after releasing it (#680)"}
+{"at":"2026-11-27T11:26:04Z","by":"grenudi","id":"37f3426","project":"linux-phone-oco/google-walleye-lab","says":"walleye: qmicli needs libqmi's QRTR transport; build it, then re-read (#1275)"}
 {"at":"2026-11-23T17:13:07Z","by":"grenudi","id":"3813abe","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the command line fix goes first in the build queue, the state walk item closed (#905)"}
 {"at":"2026-11-19T13:16:08Z","by":"grenudi","id":"381fe5b","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the display program waits for a DRM card on L1 (#451)"}
 {"at":"2026-11-23T08:20:37Z","by":"grenudi","id":"3823d03","project":"linux-phone-oco/google-walleye-lab","says":"chore(deps): lpoco-attended 0.41.0 -> 0.44.3 (#790)"}
@@ -2096,6 +2112,7 @@
 {"at":"2026-11-19T16:57:32Z","by":"grenudi","id":"3906cb6","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the record says no password file is needed: this phone has no login for suite or phone (#528)"}
 {"at":"2026-11-26T05:04:58Z","by":"grenudi","id":"3924f74","project":"linux-phone-oco/google-walleye-lab","says":"chore(deps): lpoco-bringup 0.53.3 -> 0.53.4 (#1164)"}
 {"at":"2026-11-26T22:03:10Z","by":"grenudi","id":"3926cc0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the way back's shell legs have tests again (reboot -f, sysrq, power-hold, phone stays away) (#1236)"}
+{"at":"2026-11-27T13:30:02Z","by":"grenudi","id":"392a5c7","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ready the ModemManager try - tar placed, the time guard counts the rootfs push (#1288)"}
 {"at":"2026-11-18T14:50:41Z","by":"grenudi","id":"39500d9","project":"linux-phone-oco/google-walleye-lab","says":"walleye: a lit screen is not evidence of Android; the hang judged by USB only (#251)"}
 {"at":"2026-11-19T15:26:58Z","by":"grenudi","id":"3958dc1","project":"linux-phone-oco/google-walleye-lab","says":"walleye: no login on this phone, so no password file; the TAS2557 firmware is read and hashed (#505)"}
 {"at":"2026-11-23T21:44:51Z","by":"grenudi","id":"39a0b65","project":"linux-phone-oco/google-walleye-lab","says":"walleye: check 22 xbl cross-disk item done on run 12 (the fix is on main) (#944)"}
@@ -2121,6 +2138,7 @@
 {"at":"2026-11-19T16:59:02Z","by":"grenudi","id":"3e8d560","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the display program is ready to be written after the stripes poll fix (#529)"}
 {"at":"2026-11-24T12:12:28Z","by":"grenudi","id":"3f9c808","project":"linux-phone-oco/google-walleye-lab","says":"builder/rw write plumbing (#1009)"}
 {"at":"2026-11-17T22:30:41Z","by":"grenudi","id":"3fc61fd","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ml4, a timing channel from our mainline init (build item) (#73)"}
+{"at":"2026-11-27T20:05:45Z","by":"grenudi","id":"3fde43e","project":"linux-phone-oco/google-walleye-lab","says":"builder/mm udev candidate (#1318)"}
 {"at":"2026-11-23T15:22:58Z","by":"grenudi","id":"404cba4","project":"linux-phone-oco/google-walleye-lab","says":"walleye: a rehearsal for real of the debug image's declaration before the stage 2 run (#885)"}
 {"at":"2026-11-23T06:01:23Z","by":"grenudi","id":"4075309","project":"linux-phone-oco/google-walleye-lab","says":"walleye: rerun 5 of the stage 1 boot, the fixes landed, the run sheet on the item (#757)"}
 {"at":"2026-11-18T11:10:03Z","by":"grenudi","id":"415114a","project":"linux-phone-oco/google-walleye-lab","says":"walleye: patrol sign, stale waits on done items (#193)"}
@@ -2146,6 +2164,7 @@
 {"at":"2026-11-25T16:38:28Z","by":"grenudi","id":"44c213b","project":"linux-phone-oco/google-walleye-lab","says":"builder/slpi boot procedure 2 (#1123)"}
 {"at":"2026-11-19T06:46:01Z","by":"grenudi","id":"44d7d40","project":"linux-phone-oco/google-walleye-lab","says":"walleye: claim-test-layer-boots waits on a keeper read, after the dts polish in the build order (#375)"}
 {"at":"2026-11-19T17:07:24Z","by":"grenudi","id":"4502f75","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the host's lpoco 0.32.1 accepts main's device.toml; keepers can run again (#530)"}
+{"at":"2026-11-27T19:48:20Z","by":"grenudi","id":"4513b10","project":"linux-phone-oco/google-walleye-lab","says":"walleye: research the modem's DOG_HB crash and the slow way back of run 202446 (#1316)"}
 {"at":"2026-11-17T21:43:15Z","by":"grenudi","id":"45284b3","project":"linux-phone-oco/google-walleye-lab","says":"feat: our dtb carries -@ symbols and 130 overlay stubs; image s3o queued (#58)"}
 {"at":"2026-11-22T20:15:34Z","by":"grenudi","id":"45413e6","project":"linux-phone-oco/google-walleye-lab","says":"walleye: a stable pause for the structure review; the run 2 diagnosis is queued first (#731)"}
 {"at":"2026-11-27T00:41:33Z","by":"grenudi","id":"454b27e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: retire-build-scripts waits on what its last 13 scripts need (#1244)"}
@@ -2181,6 +2200,7 @@
 {"at":"2026-11-17T21:01:50Z","by":"grenudi","id":"4af8d9b","project":"linux-phone-oco/google-walleye-lab","says":"walleye: how the phone stands (#48)"}
 {"at":"2026-11-23T09:12:19Z","by":"grenudi","id":"4b0852e","project":"linux-phone-oco/google-walleye-lab","says":"feat: the way back pushes a static reboot tool to /tmp and sends bootloader by RESTART2 (#809)"}
 {"at":"2026-11-18T23:03:29Z","by":"grenudi","id":"4b16a8c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the gpio diag kernel first (unblocked from the leaf read) (#321)"}
+{"at":"2026-11-27T12:52:07Z","by":"grenudi","id":"4b33b17","project":"linux-phone-oco/google-walleye-lab","says":"build: pin nixpkgs for the modem nix builds (#1283)"}
 {"at":"2026-11-19T05:38:03Z","by":"grenudi","id":"4b4a142","project":"linux-phone-oco/google-walleye-lab","says":"walleye: display item waits on its attended try so the builder takes the next item (#366)"}
 {"at":"2026-11-23T11:26:27Z","by":"grenudi","id":"4b78858","project":"linux-phone-oco/google-walleye-lab","says":"walleye: a rehearsal for real of the amended check 9 wiring before the stage 2 rerun (#842)"}
 {"at":"2026-11-23T12:31:51Z","by":"grenudi","id":"4b80d1b","project":"linux-phone-oco/google-walleye-lab","says":"walleye: after run 4 the pstore read comes first on a fallback, the causes of no ssh researched (#852)"}
@@ -2201,11 +2221,14 @@
 {"at":"2026-11-23T12:42:04Z","by":"grenudi","id":"4d501ee","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the pstore try is the stage 2 rerun itself, one vehicle with the pstore read first (#854)"}
 {"at":"2026-11-19T13:25:09Z","by":"grenudi","id":"4db6aa1","project":"linux-phone-oco/google-walleye-lab","says":"walleye: L1 read - the DRM master waits for c994000.dsi, deferred silently, no vdd-supply; hand-over (#454)"}
 {"at":"2026-11-19T07:37:19Z","by":"grenudi","id":"4dbeff0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the boot-chain read-back first in the keeper's order (#383)"}
+{"at":"2026-11-27T14:09:51Z","by":"grenudi","id":"4dee5c1","project":"linux-phone-oco/google-walleye-lab","says":"feat(modem): mm-up prints the logs of a stop and the run keeps the read (#1293)"}
 {"at":"2026-11-19T21:34:41Z","by":"grenudi","id":"4e192d6","project":"linux-phone-oco/google-walleye-lab","says":"walleye: L7 stripes run for real by the keeper, 18/18, looks answered by a file (#593)"}
 {"at":"2026-11-17T18:27:57Z","by":"grenudi","id":"4eb1a74","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants g, h, i answer on 172.16.43.1 (e, b, f); a-f byte for byte (#9)"}
+{"at":"2026-11-27T15:50:19Z","by":"grenudi","id":"4eeda44","project":"linux-phone-oco/google-walleye-lab","says":"walleye: mm-up drops dbus --system, and a stopped modem boot still measures (#1299)"}
 {"at":"2026-11-25T13:22:25Z","by":"grenudi","id":"4efa364","project":"linux-phone-oco/google-walleye-lab","says":"walleye: PAS driver, sysmon and glink-smem built in for the SLPI image, with a host check (#1117)"}
 {"at":"2026-11-19T12:13:42Z","by":"grenudi","id":"4f01b83","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the attended runner is the crate lpoco-attended v0.29.0 (final); programs corrected (#426)"}
 {"at":"2026-11-24T03:59:57Z","by":"grenudi","id":"4f0cc9c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the kernel build row waits on a lpoco-attended release with manifest 0.47.0 (#998)"}
+{"at":"2026-11-27T13:05:41Z","by":"grenudi","id":"4f43d4e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the ModemManager try waits on its image and the rootfs push (#1285)"}
 {"at":"2026-11-19T11:55:27Z","by":"grenudi","id":"4f8cc1e","project":"linux-phone-oco/google-walleye-lab","says":"docs: research walleye-ufs-ice-verdict, skip ICE for the read-only UFS probe (#417)"}
 {"at":"2026-11-17T18:23:44Z","by":"grenudi","id":"4fa476d","project":"linux-phone-oco/google-walleye-lab","says":"address 43 (#7)"}
 {"at":"2026-11-20T00:24:29Z","by":"grenudi","id":"4ffe810","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the splash alone did not hold; the handover is researched before another image (#643)"}
@@ -2221,14 +2244,18 @@
 {"at":"2026-11-18T19:55:55Z","by":"grenudi","id":"5209a71","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the author's word on Android; the card identity read as root (#282)"}
 {"at":"2026-11-17T21:49:13Z","by":"grenudi","id":"520a680","project":"linux-phone-oco/google-walleye-lab","says":"walleye: code hygiene item (C probe removal, Rust CI) queued after the n3r try (#62)"}
 {"at":"2026-11-22T18:39:57Z","by":"grenudi","id":"5225f64","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the root boot rehearsal ran for real, 14 of 14 pass, nothing booted (#707)"}
+{"at":"2026-11-27T21:06:57Z","by":"grenudi","id":"526380f","project":"linux-phone-oco/google-walleye-lab","says":"docs(modem): IPA runs end late because reboot -f hangs with ipa bound (#1323)"}
 {"at":"2026-11-19T07:42:34Z","by":"grenudi","id":"52b0e21","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the misaligned-image line is the bootloader's; item done (#385)"}
 {"at":"2026-11-17T22:29:03Z","by":"grenudi","id":"52d622a","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ml3 tried, pstore empty; ml3-ramoops-read proof test; records (#72)"}
 {"at":"2026-11-17T20:21:07Z","by":"grenudi","id":"5315bf5","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget-n1, n2, the ncm step without settings writes (walleye-ncm-noattr-images) (#35)"}
+{"at":"2026-11-27T19:53:15Z","by":"grenudi","id":"531683e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the ModemManager net-port candidate item is a build (read MM's rule, change the chroot) (#1317)"}
 {"at":"2026-11-23T07:22:09Z","by":"grenudi","id":"5377804","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the stage 1 way back tries the bootloader first, the forced reboot stays as the fallback (#773)"}
 {"at":"2026-11-19T17:24:44Z","by":"grenudi","id":"537855d","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the PMIC program needs a way back after any stop before its attended try (#535)"}
 {"at":"2026-11-25T20:33:00Z","by":"grenudi","id":"5390339","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the kernel-build declaration no longer waits; attended 0.45.7 carries manifest 0.49.1 (#1134)"}
+{"at":"2026-11-27T10:41:56Z","by":"grenudi","id":"539964e","project":"linux-phone-oco/google-walleye-lab","says":"research(walleye): modem to calls - signalling first, audio last; steps, check modem-calls (#1271)"}
 {"at":"2026-11-17T20:02:36Z","by":"grenudi","id":"53a8965","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the gadget bring-up bisect (build item); cmdline-read and panic-time closed (#26)"}
 {"at":"2026-11-23T22:02:27Z","by":"grenudi","id":"5401e32","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the ramped UFS try pins low by the userspace governor, queued first (#950)"}
+{"at":"2026-11-27T11:53:03Z","by":"grenudi","id":"54082ef","project":"linux-phone-oco/google-walleye-lab","says":"keeper/walleye modem qmi ids read run3 (#1277)"}
 {"at":"2026-11-17T20:13:44Z","by":"grenudi","id":"54419ea","project":"linux-phone-oco/google-walleye-lab","says":"walleye: gadget bisect - 5a returns, 5b panics (ncm step) (#30)"}
 {"at":"2026-11-26T20:52:03Z","by":"grenudi","id":"544dedf","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the PON control procedure first in the builder queue (rank 7): it readies an attended step (#1228)"}
 {"at":"2026-11-26T12:41:25Z","by":"grenudi","id":"5460cb4","project":"linux-phone-oco/google-walleye-lab","says":"walleye: retire 5 more history build scripts (batch 2 of walleye-retire-build-scripts) (#1197)"}
@@ -2245,12 +2272,15 @@
 {"at":"2026-11-27T01:36:20Z","by":"grenudi","id":"5608657","project":"linux-phone-oco/google-walleye-lab","says":"walleye: part_builds item takes orchestration's scope; waits only on the two attended runs (#1246)"}
 {"at":"2026-11-18T12:26:41Z","by":"grenudi","id":"56be2e5","project":"linux-phone-oco/google-walleye-lab","says":"feat: feat: decisions say what they supersede, amend, bind and are tracked by (#209)"}
 {"at":"2026-11-23T19:32:06Z","by":"grenudi","id":"56e95df","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the Top's additions to check 22: strict, by name across six disks, every capture we hold (#927)"}
+{"at":"2026-11-27T13:42:43Z","by":"grenudi","id":"5709ff3","project":"linux-phone-oco/google-walleye-lab","says":"walleye: claim bring-up step remoteprocs-running as partial (mss runs; adsp, cdsp not measured) (#1290)"}
+{"at":"2026-11-27T09:52:40Z","by":"grenudi","id":"5724113","project":"linux-phone-oco/google-walleye-lab","says":"feat(walleye): first modem boot passed 21 of 21, remoteproc_mss runs (#1265)"}
 {"at":"2026-11-18T08:28:36Z","by":"grenudi","id":"57c6bdc","project":"linux-phone-oco/google-walleye-lab","says":"walleye: control y2 then z1 with the same reader (phone item) (#164)"}
 {"at":"2026-11-17T20:54:51Z","by":"grenudi","id":"57fe926","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ffs ACM helper researched, build and phone items queued (#43)"}
 {"at":"2026-11-17T19:56:52Z","by":"grenudi","id":"585debd","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the keeper's try of vendor-gadget4 placed (#21)"}
 {"at":"2026-11-27T00:50:00Z","by":"grenudi","id":"5867249","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the S2 reset type patch is topic/pmic-wdt-s2-type (item walleye-wdt-s2-type-topic-branch) (#1245)"}
 {"at":"2026-11-24T16:27:29Z","by":"grenudi","id":"5897a6e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: rw root ends through mount-ro and a last service that always reboots (#1033)"}
 {"at":"2026-11-23T22:51:28Z","by":"grenudi","id":"58b22d9","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the header RAM try is superseded by the slot a check the first research queued (#962)"}
+{"at":"2026-11-27T13:54:55Z","by":"grenudi","id":"58e64e7","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): first ModemManager try stopped at the bus socket, builder item queued (#1292)"}
 {"at":"2026-11-26T05:22:58Z","by":"grenudi","id":"58f09db","project":"linux-phone-oco/google-walleye-lab","says":"builder/wb 1126 a (#1166)"}
 {"at":"2026-11-23T16:16:17Z","by":"grenudi","id":"58f9622","project":"linux-phone-oco/google-walleye-lab","says":"walleye: Android's kernel held as a read-only reference, matched to LineageOS 22.1 (#897)"}
 {"at":"2026-11-26T09:27:25Z","by":"grenudi","id":"590a9ab","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): touch events on step groups run, recorded (#1182)"}
@@ -2281,6 +2311,7 @@
 {"at":"2026-11-19T07:58:23Z","by":"grenudi","id":"5c87f47","project":"linux-phone-oco/google-walleye-lab","says":"feat: walleye bisects as lpoco-bringup series files; retire build-bisect, check-bisect, build-pk456 (#388)"}
 {"at":"2026-11-24T21:09:52Z","by":"grenudi","id":"5cced96","project":"linux-phone-oco/google-walleye-lab","says":"feat(walleye-tries): the way back sends a second fastboot reboot, timed (#1054)"}
 {"at":"2026-11-23T20:20:42Z","by":"grenudi","id":"5cf2eb7","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the kernel build declared for lpoco image ensure queued; the recipe and pin items ranked up (#935)"}
+{"at":"2026-11-27T13:12:47Z","by":"grenudi","id":"5dbc538","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the modem image rebuilt with rootfs-recv and mm-up (e6e846bd) (#1286)"}
 {"at":"2026-11-19T01:19:17Z","by":"grenudi","id":"5e0bfa4","project":"linux-phone-oco/google-walleye-lab","says":"build: ideal-knowledge-base 0.23.0 (#345)"}
 {"at":"2026-11-24T23:41:02Z","by":"grenudi","id":"5e2d582","project":"linux-phone-oco/google-walleye-lab","says":"builder/wdt0 try procedure (#1064)"}
 {"at":"2026-11-22T18:23:16Z","by":"grenudi","id":"5ec736b","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the author's rule: research against Android, then proceed; stage 2 and 3 verdicts queued (#702)"}
@@ -2317,6 +2348,7 @@
 {"at":"2026-11-17T20:18:12Z","by":"grenudi","id":"65aae52","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the superseded vendor-gadget-try closed (#34)"}
 {"at":"2026-11-24T17:39:47Z","by":"grenudi","id":"65b18ed","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the sources gate reads procedures: every check_from cites a row that exists (#item) (#1043)"}
 {"at":"2026-11-23T11:02:54Z","by":"grenudi","id":"65b789e","project":"linux-phone-oco/google-walleye-lab","says":"fix(walleye): stage 2 check 18 allows exactly the flashed slot's successful and retry count (#836)"}
+{"at":"2026-11-27T10:34:31Z","by":"grenudi","id":"65c8188","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): second modem boot passes (run 2) (#1270)"}
 {"at":"2026-11-18T02:51:32Z","by":"grenudi","id":"65e51c5","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): how the phone stands after a repeat of g1 and g2 (#117)"}
 {"at":"2026-11-23T16:06:30Z","by":"grenudi","id":"66a80cc","project":"linux-phone-oco/google-walleye-lab","says":"walleye: stage 2 review fixes - a copy of unrecorded boot content, the stop at 13 asserted (#894)"}
 {"at":"2026-11-17T18:26:59Z","by":"grenudi","id":"66e330d","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants g and h answer on 172.16.43.1 (walleye's own address); a-f byte for byte (#8)"}
@@ -2327,6 +2359,7 @@
 {"at":"2026-11-19T10:07:54Z","by":"grenudi","id":"6779b58","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the matched UFS image build is in the build queue; the try waits as its own item (#396)"}
 {"at":"2026-11-24T03:55:08Z","by":"grenudi","id":"67bc80a","project":"linux-phone-oco/google-walleye-lab","says":"builder/kernel build declared (#997)"}
 {"at":"2026-11-17T19:57:53Z","by":"grenudi","id":"67f8e76","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the 60 s panic researched - read order decided, three phone reads queued (#22)"}
+{"at":"2026-11-27T17:57:17Z","by":"grenudi","id":"67fcb84","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): modem boot run 6, ipa probes before the firmware is pushed (#1310)"}
 {"at":"2026-11-19T15:33:32Z","by":"grenudi","id":"683acc0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the manifest keys for the attended settings are decided; the map is in the item (#508)"}
 {"at":"2026-11-18T14:12:26Z","by":"grenudi","id":"683f1af","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the phone is back after the power-cycle; the wait cleared (#241)"}
 {"at":"2026-11-18T02:52:56Z","by":"grenudi","id":"6869ea1","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the T1 gate lifted (decision): our kernel has shown life (#118)"}
@@ -2340,8 +2373,10 @@
 {"at":"2026-11-18T19:48:53Z","by":"grenudi","id":"6abd24d","project":"linux-phone-oco/google-walleye-lab","says":"keeper/ufs card identity (#279)"}
 {"at":"2026-11-18T05:51:50Z","by":"grenudi","id":"6ac4639","project":"linux-phone-oco/google-walleye-lab","says":"walleye: battery-ok.sh timeout (build item) (#144)"}
 {"at":"2026-11-18T04:30:56Z","by":"grenudi","id":"6afc4e5","project":"linux-phone-oco/google-walleye-lab","says":"walleye builder vf4 build (#134)"}
+{"at":"2026-11-27T09:40:42Z","by":"grenudi","id":"6afd382","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): modem boot rehearsal passed 14 of 14, how the phone stands (#1264)"}
 {"at":"2026-11-17T19:30:44Z","by":"grenudi","id":"6b3fdd7","project":"linux-phone-oco/google-walleye-lab","says":"feat: walleye's own device base, from device-template (#4, #5) (#14)"}
 {"at":"2026-11-24T22:49:27Z","by":"grenudi","id":"6b8173e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: phone-text capture item; the sources item waits on it (#1062)"}
+{"at":"2026-11-27T09:32:50Z","by":"grenudi","id":"6b9bacf","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the modem proof waits on its try, so the rehearsal runs first (#1263)"}
 {"at":"2026-11-18T02:50:56Z","by":"grenudi","id":"6c37696","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): g1 tried twice, g2 once, no gadget light (#116)"}
 {"at":"2026-11-24T00:50:47Z","by":"grenudi","id":"6cd40d2","project":"linux-phone-oco/google-walleye-lab","says":"feat(walleye-tries): UFS procedure fits the image's 180 s reboot (#980)"}
 {"at":"2026-11-18T15:17:45Z","by":"grenudi","id":"6ce6ca2","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): phone-state.sh outputs on the real phone in android, fastboot and mainline (#260)"}
@@ -2350,6 +2385,7 @@
 {"at":"2026-11-18T12:10:18Z","by":"grenudi","id":"6d10b73","project":"linux-phone-oco/google-walleye-lab","says":"walleye: z5 - the banner reports the shell's state; built, reviewed, try queued (#202)"}
 {"at":"2026-11-19T12:52:47Z","by":"grenudi","id":"6d3f05c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the TAS2557 firmware stays the phone's own; audio items ordered (#444)"}
 {"at":"2026-11-23T10:08:11Z","by":"grenudi","id":"6d5f2c6","project":"linux-phone-oco/google-walleye-lab","says":"walleye: UFS try 2 closed on the facts after three runs, the silence under load a research item (#820)"}
+{"at":"2026-11-27T16:41:37Z","by":"grenudi","id":"6d8a01f","project":"linux-phone-oco/google-walleye-lab","says":"docs(research): net port for ModemManager from mainline ipa (msm8998), decision and steps (#1304)"}
 {"at":"2026-11-26T18:29:18Z","by":"grenudi","id":"6dbde1c","project":"linux-phone-oco/google-walleye-lab","says":"walleye research config parts 3 6 (#1222)"}
 {"at":"2026-11-23T10:02:44Z","by":"grenudi","id":"6dc738a","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the stage 2 rehearsal once more for real after the way back changed, before the go (#818)"}
 {"at":"2026-11-26T05:33:09Z","by":"grenudi","id":"6ddf75a","project":"linux-phone-oco/google-walleye-lab","says":"walleye: way-back procedure run proven, how the phone stands (#1168)"}
@@ -2364,6 +2400,7 @@
 {"at":"2026-11-24T16:58:35Z","by":"grenudi","id":"70dfbfa","project":"linux-phone-oco/google-walleye-lab","says":"build: ideal-knowledge-base 0.27.0 (#1037)"}
 {"at":"2026-11-19T21:46:13Z","by":"grenudi","id":"70e0668","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the UFS link check reads the link, 'works, slow' is a result (#599)"}
 {"at":"2026-11-22T19:52:41Z","by":"grenudi","id":"71001f7","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the getty on tty1 is alive but prints nothing; the cause is measured with live experiments (#725)"}
+{"at":"2026-11-27T13:47:12Z","by":"grenudi","id":"7141ab3","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the ModemManager try ahead of the deep-sleep baseline (rank 22) (#1291)"}
 {"at":"2026-11-19T13:53:10Z","by":"grenudi","id":"71882b7","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the dsi still defers on L3; a source read and an L4 with function tracing queued (#466)"}
 {"at":"2026-11-19T01:03:01Z","by":"grenudi","id":"725576f","project":"linux-phone-oco/google-walleye-lab","says":"walleye: shell past glue moves into Rust as it is touched (backlog item) (#336)"}
 {"at":"2026-11-18T22:50:42Z","by":"grenudi","id":"732c357","project":"linux-phone-oco/google-walleye-lab","says":"walleye: z17's spmi and gpio facts over the network shell (phone item) (#315)"}
@@ -2372,6 +2409,7 @@
 {"at":"2026-11-23T11:11:10Z","by":"grenudi","id":"73a4f4a","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): stage 2 rerun 2 stopped at check 9, boot_a already holds the image (#839)"}
 {"at":"2026-11-20T22:11:34Z","by":"grenudi","id":"73ac418","project":"linux-phone-oco/google-walleye-lab","says":"walleye: stock fstab and recovery read from Google's wahoo tree (#656)"}
 {"at":"2026-11-23T21:11:45Z","by":"grenudi","id":"73ca4bb","project":"linux-phone-oco/google-walleye-lab","says":"walleye: stage 2 run 12 with the production image passed all 29 steps; two items done (#941)"}
+{"at":"2026-11-27T18:02:27Z","by":"grenudi","id":"745d8ee","project":"linux-phone-oco/google-walleye-lab","says":"walleye: bind IPA after the firmware push and before modem-up (#1311)"}
 {"at":"2026-11-27T04:33:04Z","by":"grenudi","id":"7479f8d","project":"linux-phone-oco/google-walleye-lab","says":"walleye: modem image's kernel list ufs-off-modem and config fragment, with host checks (#1257)"}
 {"at":"2026-11-18T10:33:34Z","by":"grenudi","id":"74dce47","project":"linux-phone-oco/google-walleye-lab","says":"docs: walleye z3 try 1, reader job not picked up (#186)"}
 {"at":"2026-11-19T22:54:00Z","by":"grenudi","id":"74e2ae7","project":"linux-phone-oco/google-walleye-lab","says":"walleye: a late optional item: verified boot with our own key, ranked last (#615)"}
@@ -2380,6 +2418,7 @@
 {"at":"2026-11-19T18:01:12Z","by":"grenudi","id":"75d1df6","project":"linux-phone-oco/google-walleye-lab","says":"docs: walleye display stripes try ran, no witness answer; how the phone stands (#544)"}
 {"at":"2026-11-19T03:33:03Z","by":"grenudi","id":"7645b17","project":"linux-phone-oco/google-walleye-lab","says":"walleye: touch try record corrected (the author swiped; window missed) and the retry recipe (#357)"}
 {"at":"2026-11-25T13:07:54Z","by":"grenudi","id":"7684b44","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the ufs-on kernel build declared, two Nix builds equal (declares-ufs-on-kernel-build) (#1115)"}
+{"at":"2026-11-27T16:21:18Z","by":"grenudi","id":"7687502","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the modem boot lists what ModemManager sees, modem-mm-starts.sh judges it (#1302)"}
 {"at":"2026-11-20T22:31:42Z","by":"grenudi","id":"76cfe7a","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the author's stage 1 yes is recorded; each step gets its one command first (#662)"}
 {"at":"2026-11-19T16:21:24Z","by":"grenudi","id":"76da90b","project":"linux-phone-oco/google-walleye-lab","says":"refactor(walleye-tries): one Lab type for the shared plumbing; the PMIC try goes to fastboot itself (#517)"}
 {"at":"2026-11-24T01:21:54Z","by":"grenudi","id":"7817d8c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: builder order: land 966, z21's recipe row, the kernel build declared, then the gates (#984)"}
@@ -2409,6 +2448,7 @@
 {"at":"2026-11-22T19:23:50Z","by":"grenudi","id":"7fd9b58","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the login prompt is not on the glass yet; the lab measures the screen before the next look (#719)"}
 {"at":"2026-11-18T09:11:02Z","by":"grenudi","id":"800d719","project":"linux-phone-oco/google-walleye-lab","says":"walleye: banner try - banner bytes on the host; ttyACM0 is root:uucp so the plain read was denied (#175)"}
 {"at":"2026-11-19T21:40:14Z","by":"grenudi","id":"8072eca","project":"linux-phone-oco/google-walleye-lab","says":"docs: walleye display early-load research, decision, steps and check (#597)"}
+{"at":"2026-11-27T16:47:07Z","by":"grenudi","id":"808d9d3","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the IPA node's proof - each value cited, binding check, IPA's firmware loader settled (#1305)"}
 {"at":"2026-11-27T00:30:13Z","by":"grenudi","id":"811987f","project":"linux-phone-oco/google-walleye-lab","says":"walleye: keep the two tool build scripts until lab-tools packs parts into ramdisks (#1242)"}
 {"at":"2026-11-19T06:42:24Z","by":"grenudi","id":"81b1daa","project":"linux-phone-oco/google-walleye-lab","says":"walleye builder init gadget declared (#373)"}
 {"at":"2026-11-18T13:24:40Z","by":"grenudi","id":"81cc2f5","project":"linux-phone-oco/google-walleye-lab","says":"walleye: charger supplier, permissive devlink then a modelled regulator (#228)"}
@@ -2423,6 +2463,7 @@
 {"at":"2026-11-20T00:16:13Z","by":"grenudi","id":"83c3a63","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the two older display items wait behind the splash try (#640)"}
 {"at":"2026-11-23T08:59:22Z","by":"grenudi","id":"841acf1","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the SLPI carve-out settled from the phone's own firmware and dtbo (15 MiB at 0x94c00000) (#806)"}
 {"at":"2026-11-19T18:43:57Z","by":"grenudi","id":"844801f","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the UFS solution table and the refreshed go note (walleye-ufs-solution-extracted) (#559)"}
+{"at":"2026-11-27T21:19:01Z","by":"grenudi","id":"8498365","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the modem's DOG_HB crash comes with ModemManager, not IPA (#1325)"}
 {"at":"2026-11-23T10:36:14Z","by":"grenudi","id":"84c4dd3","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the ramped pinned UFS try gets its build item, the phone try waits for it (#830)"}
 {"at":"2026-11-21T00:23:39Z","by":"grenudi","id":"84c52ca","project":"linux-phone-oco/google-walleye-lab","says":"walleye: device.toml declares transport = telnet and login = none (walleye-declare-transport-login) (#684)"}
 {"at":"2026-11-23T08:27:04Z","by":"grenudi","id":"84cf592","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the attended pin item dropped, orchestration landed PR 790 with the headers on 0.44.3 (#795)"}
@@ -2456,8 +2497,10 @@
 {"at":"2026-11-24T01:10:22Z","by":"grenudi","id":"8973e7b","project":"linux-phone-oco/google-walleye-lab","says":"walleye: after run 9 the unpinned read-only ramp is next, then stage 3's procedure (#983)"}
 {"at":"2026-11-18T08:47:23Z","by":"grenudi","id":"897c274","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the banner init and the reader work ranked first (#170)"}
 {"at":"2026-11-27T00:36:25Z","by":"grenudi","id":"898f956","project":"linux-phone-oco/google-walleye-lab","says":"walleye: retire build-display-image (batch 5 of walleye-retire-build-scripts) (#1243)"}
+{"at":"2026-11-27T10:23:43Z","by":"grenudi","id":"8992cc5","project":"linux-phone-oco/google-walleye-lab","says":"walleye: a second modem boot measures the check live; research the way to calls (#1269)"}
 {"at":"2026-11-23T18:08:45Z","by":"grenudi","id":"89a929e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: stage 2 rehearsal 7 passed 18/18; the run waits for a go naming the new sha (#909)"}
 {"at":"2026-11-19T12:43:00Z","by":"grenudi","id":"8a1e24d","project":"linux-phone-oco/google-walleye-lab","says":"docs: walleye audio and haptics way, decision, backlog and amp-present check (#437)"}
+{"at":"2026-11-27T10:18:16Z","by":"grenudi","id":"8a3136d","project":"linux-phone-oco/google-walleye-lab","says":"docs: close walleye-modem-mss-proof, how the phone stands (#1268)"}
 {"at":"2026-11-19T11:46:48Z","by":"grenudi","id":"8a486b8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: UFS is the lane's own work: Android-derived solution, seven gap items, go note refreshed (#413)"}
 {"at":"2026-11-18T21:23:31Z","by":"grenudi","id":"8a8892a","project":"linux-phone-oco/google-walleye-lab","says":"build: ideal-knowledge-base 0.21.0 (#305)"}
 {"at":"2026-11-19T12:36:57Z","by":"grenudi","id":"8ab1068","project":"linux-phone-oco/google-walleye-lab","says":"walleye: UFS order after the gaps: Hynix quirk, read-only prints, then the extraction (#433)"}
@@ -2471,6 +2514,7 @@
 {"at":"2026-11-27T02:02:17Z","by":"grenudi","id":"8c2648e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: list topics retagged OURS(item), trees equal; assemble accepts all four lists (#1250)"}
 {"at":"2026-11-18T19:41:31Z","by":"grenudi","id":"8c48582","project":"linux-phone-oco/google-walleye-lab","says":"walleye: UFS card identity research - vendor Hynix only, model/fw queued for keeper (#278)"}
 {"at":"2026-11-18T12:24:18Z","by":"grenudi","id":"8c6e4ec","project":"linux-phone-oco/google-walleye-lab","says":"walleye: z5b tried once - lab-agent token 401, reader job never ran; waits on the token (phone item) (#206)"}
+{"at":"2026-11-27T14:35:37Z","by":"grenudi","id":"8cc99cf","project":"linux-phone-oco/google-walleye-lab","says":"builder/mm rootfs dbus config (#1296)"}
 {"at":"2026-11-19T12:39:00Z","by":"grenudi","id":"8d18b5d","project":"linux-phone-oco/google-walleye-lab","says":"docs: Android never writes Hynix sync length, so the matched image does not carry it (#434)"}
 {"at":"2026-11-18T08:59:13Z","by":"grenudi","id":"8d40085","project":"linux-phone-oco/google-walleye-lab","says":"walleye charger smb2 c1 (#173)"}
 {"at":"2026-11-24T12:27:38Z","by":"grenudi","id":"8d68461","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the rw write as one command and its rehearsal, the root boot in an rw mode (#1010)"}
@@ -2480,14 +2524,17 @@
 {"at":"2026-11-23T13:56:28Z","by":"grenudi","id":"8e98493","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the shared clone may move, surya's ok given by the Top, with three conditions (#866)"}
 {"at":"2026-11-24T17:27:37Z","by":"grenudi","id":"8ec9b23","project":"linux-phone-oco/google-walleye-lab","says":"walleye: run 4 read - the rw image header must equal its recipe (rank 1) (#1040)"}
 {"at":"2026-11-26T13:40:53Z","by":"grenudi","id":"8f06af7","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the NFC node (nfc@28 on blsp2_i2c2) and the nfc test image, built and rebuilt equal (#1206)"}
+{"at":"2026-11-27T14:18:30Z","by":"grenudi","id":"8f45ac8","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): second ModemManager try stopped at dbus config, builder item queued (#1294)"}
 {"at":"2026-11-23T10:19:00Z","by":"grenudi","id":"8f5d806","project":"linux-phone-oco/google-walleye-lab","says":"docs: UFS silent under load - causes ranked, one ramped pinned-low try, failing check (#824)"}
 {"at":"2026-11-23T12:04:06Z","by":"grenudi","id":"8f869e8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: stage 2 run back on the phone queue after the repeat audit, a fresh go (#848)"}
 {"at":"2026-11-25T03:57:08Z","by":"grenudi","id":"8f886ba","project":"linux-phone-oco/google-walleye-lab","says":"walleye: kernel text capture run (stage 2 read-only boot), fixtures and record (#1078)"}
 {"at":"2026-11-19T00:42:55Z","by":"grenudi","id":"8f97ef8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the shared-proxy item waits for the UFS-off z21 (#335)"}
+{"at":"2026-11-27T20:23:35Z","by":"grenudi","id":"8fd8703","project":"linux-phone-oco/google-walleye-lab","says":"walleye: modem run 8 - the chroot's udevadm trigger refuses, so the replay is a build item (#1319)"}
 {"at":"2026-11-24T13:17:12Z","by":"grenudi","id":"9008bc2","project":"linux-phone-oco/google-walleye-lab","says":"walleye: rw run 1 refused by its own walleye.booted-slot; fix items and a failing test (#1014)"}
 {"at":"2026-11-18T13:18:30Z","by":"grenudi","id":"9009ef4","project":"linux-phone-oco/google-walleye-lab","says":"walleye: AGENTS.md names its owner by role (walleye-coordinator) (#226)"}
 {"at":"2026-11-19T14:41:35Z","by":"grenudi","id":"9028128","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ADSP, q6 and Quaternary MI2S as a nine-patch series with its host test (#484)"}
 {"at":"2026-11-18T07:27:14Z","by":"grenudi","id":"90427d2","project":"linux-phone-oco/google-walleye-lab","says":"walleye: after first light - PMIC first (build item), the bring-up order plan (research item) (#156)"}
+{"at":"2026-11-27T09:57:35Z","by":"grenudi","id":"9079a44","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the modem is up - a suite check, then the parent proof (#1266)"}
 {"at":"2026-11-24T13:03:25Z","by":"grenudi","id":"90df66f","project":"linux-phone-oco/google-walleye-lab","says":"walleye: rw write run 1 stopped at check 14 (no USB gadget), nothing written; recorded (#1012)"}
 {"at":"2026-11-23T18:49:09Z","by":"grenudi","id":"90f4442","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the production init's petter ranked 2, the WDT0 first-instant read behind it (#917)"}
 {"at":"2026-11-19T12:50:06Z","by":"grenudi","id":"90f6ca1","project":"linux-phone-oco/google-walleye-lab","says":"research: walleye audio and haptics - porthole already has the drivers; the amp needs its firmware (#441)"}
@@ -2499,6 +2546,7 @@
 {"at":"2026-11-19T21:57:03Z","by":"grenudi","id":"9228427","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): keeper's how-the-phone-stands, nothing taken (#606)"}
 {"at":"2026-11-24T03:24:58Z","by":"grenudi","id":"92762d2","project":"linux-phone-oco/google-walleye-lab","says":"walleye: z21's recipe row, ensure serves it equal; proof test and its CI selftest (#993)"}
 {"at":"2026-11-23T13:11:20Z","by":"grenudi","id":"92d29fa","project":"linux-phone-oco/google-walleye-lab","says":"walleye: stage 2 run 5 stops at check 18, the flash clears the unbootable bit too (#859)"}
+{"at":"2026-11-27T12:03:11Z","by":"grenudi","id":"92ea656","project":"linux-phone-oco/google-walleye-lab","says":"research: where ModemManager runs on walleye (pushed Alpine rootfs), decision and steps (#1279)"}
 {"at":"2026-11-18T23:55:13Z","by":"grenudi","id":"9380602","project":"linux-phone-oco/google-walleye-lab","says":"walleye: touch compare against Android, how the phone stands (#327)"}
 {"at":"2026-11-20T23:23:40Z","by":"grenudi","id":"93870f5","project":"linux-phone-oco/google-walleye-lab","says":"walleye: Alpine v1 hardened - pins, apk modes, new checks; sha256 57cf5fd1 (#673)"}
 {"at":"2026-11-18T08:38:10Z","by":"grenudi","id":"938f5b8","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): y2 and z1 control tries both silent, banner-init queued (#165)"}
@@ -2517,6 +2565,7 @@
 {"at":"2026-11-19T00:04:40Z","by":"grenudi","id":"966e419","project":"linux-phone-oco/google-walleye-lab","says":"walleye builder/z21 touch gpio single claimant (#332)"}
 {"at":"2026-11-25T19:30:19Z","by":"grenudi","id":"96a2406","project":"linux-phone-oco/google-walleye-lab","says":"walleye: wdt1 recipes rebuild equal but wdt1-a's command line is over budget; measurement kept (#1128)"}
 {"at":"2026-11-21T00:57:48Z","by":"grenudi","id":"96ead7d","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the stage 1 write is rehearsed for real before the author is asked (#690)"}
+{"at":"2026-11-27T13:00:29Z","by":"grenudi","id":"9705223","project":"linux-phone-oco/google-walleye-lab","says":"walleye: rootfs-recv and mm-up run ModemManager in a chroot, proved on a fake phone (#1284)"}
 {"at":"2026-11-23T22:28:05Z","by":"grenudi","id":"973de5c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the UFS pin item no longer waits on its finished research (#958)"}
 {"at":"2026-11-23T08:39:25Z","by":"grenudi","id":"9776a8b","project":"linux-phone-oco/google-walleye-lab","says":"walleye keeper/rehearsal install boot 1 (#798)"}
 {"at":"2026-11-23T08:16:47Z","by":"grenudi","id":"97b9382","project":"linux-phone-oco/google-walleye-lab","says":"walleye: frozen lists reproduce the shipped images, the live lists take the tips (decision) (#791)"}
@@ -2585,6 +2634,7 @@
 {"at":"2026-11-23T21:00:17Z","by":"grenudi","id":"a661f1e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: stage 2 rehearsal 8 with the production image passed 18 of 18; two items closed on run 11 (#939)"}
 {"at":"2026-11-26T12:01:57Z","by":"grenudi","id":"a68424c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: adb root left to the library where its call comes first; schema pin 0.53.5 (#1190)"}
 {"at":"2026-11-26T06:40:41Z","by":"grenudi","id":"a6d9319","project":"linux-phone-oco/google-walleye-lab","says":"walleye: queue adb root from the library (lab-tools 0.53.5) (#1170)"}
+{"at":"2026-11-27T21:14:09Z","by":"grenudi","id":"a7315c4","project":"linux-phone-oco/google-walleye-lab","says":"walleye: modem reference is stock Android; without a SIM the goal stops at the modem listed (#1324)"}
 {"at":"2026-11-18T04:22:48Z","by":"grenudi","id":"a7608cf","project":"linux-phone-oco/google-walleye-lab","says":"record: vf3 tried twice, no gadget, back as Android at 78 s (#132)"}
 {"at":"2026-11-18T13:14:51Z","by":"grenudi","id":"a76de9e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the PMIC watchdog series is pushed - the build row ranked after the charger (#224)"}
 {"at":"2026-11-18T23:48:59Z","by":"grenudi","id":"a794dd7","project":"linux-phone-oco/google-walleye-lab","says":"walleye: part-compare tool, Android vs ours capture and diff, selftested (#326)"}
@@ -2592,6 +2642,7 @@
 {"at":"2026-11-23T05:07:59Z","by":"grenudi","id":"a7b809b","project":"linux-phone-oco/google-walleye-lab","says":"walleye: run 3 of the stage 1 boot replayed; the hand-over happened, check 17 is the fix (#746)"}
 {"at":"2026-11-25T22:09:28Z","by":"grenudi","id":"a7cfd53","project":"linux-phone-oco/google-walleye-lab","says":"chore(deps): lpoco-attended 0.45.7 -> 0.45.8 (#1138)"}
 {"at":"2026-11-19T13:49:42Z","by":"grenudi","id":"a812701","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): L3 display late-probe tried once, still defers silently, no card (#463)"}
+{"at":"2026-11-27T16:06:36Z","by":"grenudi","id":"a834970","project":"linux-phone-oco/google-walleye-lab","says":"walleye: mmcli -L in the modem boot before mm-sees-modem; tqftpserv's asked files queued (#1301)"}
 {"at":"2026-11-26T11:28:09Z","by":"grenudi","id":"a855d3a","project":"linux-phone-oco/google-walleye-lab","says":"walleye: PMIC on the step groups is not blocked (way back settled since lab-tools #302) (#1186)"}
 {"at":"2026-11-20T23:55:32Z","by":"grenudi","id":"a8a2cc9","project":"linux-phone-oco/google-walleye-lab","says":"walleye: UFS-root image, init and QEMU proof (walleye-install-ufs-root-image) (#676)"}
 {"at":"2026-11-23T20:07:30Z","by":"grenudi","id":"a924205","project":"linux-phone-oco/google-walleye-lab","says":"walleye: stage 2 run 11 passed all 29 steps; the phone on Android b (#933)"}
@@ -2599,6 +2650,7 @@
 {"at":"2026-11-19T07:02:00Z","by":"grenudi","id":"a966a98","project":"linux-phone-oco/google-walleye-lab","says":"walleye: one boot of the exact upstream dts queued (build item, unattended try) (#377)"}
 {"at":"2026-11-27T03:01:23Z","by":"grenudi","id":"a99acdb","project":"linux-phone-oco/google-walleye-lab","says":"walleye: wdt2-hard and wdt2-warm rebuilt from the int/ tag (item walleye-wdt2-images-from-tag) (#1252)"}
 {"at":"2026-11-17T23:41:11Z","by":"grenudi","id":"a9a9c22","project":"linux-phone-oco/google-walleye-lab","says":"feat(walleye): build pk4, pk5, pk6 - porthole's kernel against ours, one swap each (#91)"}
+{"at":"2026-11-27T16:01:10Z","by":"grenudi","id":"a9d5c80","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): modem mm-first-try run 4 passes, mm-up runs dbus and ModemManager (#1300)"}
 {"at":"2026-11-19T14:42:19Z","by":"grenudi","id":"a9d8111","project":"linux-phone-oco/google-walleye-lab","says":"walleye: no password file: the firmware read uses adb, the haptics read the mainline shell (#486)"}
 {"at":"2026-11-25T01:33:01Z","by":"grenudi","id":"a9f0e29","project":"linux-phone-oco/google-walleye-lab","says":"backlog: walleye-kernel-series-to-topics done; step 5 lives in three items (#1069)"}
 {"at":"2026-11-19T19:57:08Z","by":"grenudi","id":"a9f58fb","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the go window for the UFS read-only try is open for 45 minutes (#577)"}
@@ -2615,6 +2667,7 @@
 {"at":"2026-11-19T07:13:03Z","by":"grenudi","id":"aced460","project":"linux-phone-oco/google-walleye-lab","says":"walleye: image of the exact upstream board dts built (script, wrapper, research, item done) (#378)"}
 {"at":"2026-11-18T14:14:18Z","by":"grenudi","id":"ad03939","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the bite's recovery was slow, not dead; the record corrected (#243)"}
 {"at":"2026-11-18T13:03:30Z","by":"grenudi","id":"ad227f0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: z7 built - the GPU smmu off in the dtb, gpu_gx WARN counted (build item) (#220)"}
+{"at":"2026-11-27T11:08:16Z","by":"grenudi","id":"ad6d5c6","project":"linux-phone-oco/google-walleye-lab","says":"walleye: static qmicli in the modem image, modem boot reads DMS ids (#1273)"}
 {"at":"2026-11-23T11:22:48Z","by":"grenudi","id":"ad88d6a","project":"linux-phone-oco/google-walleye-lab","says":"fix(walleye): stage 2 check 9 accepts boot_a holding the declared image with the backup on file (#841)"}
 {"at":"2026-11-19T23:06:38Z","by":"grenudi","id":"ad984aa","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the Makefile has the land-regen target that land runs after a rebase (#620)"}
 {"at":"2026-11-19T10:54:20Z","by":"grenudi","id":"ae274e8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the full display try waits for the bisect; the phone-stands entry says what is known (#406)"}
@@ -2659,6 +2712,7 @@
 {"at":"2026-11-25T03:27:34Z","by":"grenudi","id":"b77f9ce","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): keeper stands, rootfs-boots stopped at the go's sha256 (#1075)"}
 {"at":"2026-11-22T18:47:13Z","by":"grenudi","id":"b8069c8","project":"linux-phone-oco/google-walleye-lab","says":"research: stage 3 UFS write path against Android's, verdict: nothing Android's did not (#708)"}
 {"at":"2026-11-23T10:15:25Z","by":"grenudi","id":"b833021","project":"linux-phone-oco/google-walleye-lab","says":"walleye: lab-tools' real-phone transport item on the phone queue at low rank (#822)"}
+{"at":"2026-11-27T10:47:44Z","by":"grenudi","id":"b83a5a1","project":"linux-phone-oco/google-walleye-lab","says":"walleye: qmicli into the modem image before the read-only QMI read (#1272)"}
 {"at":"2026-11-18T03:55:48Z","by":"grenudi","id":"b848404","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the phone queue cleaned: stale in-progress tries closed, vf2 unblocked and first (#128)"}
 {"at":"2026-11-19T01:21:14Z","by":"grenudi","id":"b8b75c8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the licence change follows device-template #33 (model) (#346)"}
 {"at":"2026-11-19T19:45:53Z","by":"grenudi","id":"b8c254f","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the go note names the card's firmware revision, D003, risk not known (#573)"}
@@ -2687,6 +2741,7 @@
 {"at":"2026-11-23T04:31:02Z","by":"grenudi","id":"bc98972","project":"linux-phone-oco/google-walleye-lab","says":"walleye: resumes after the structure review; the run 2 log path and two kernel items recorded (#737)"}
 {"at":"2026-11-18T04:23:49Z","by":"grenudi","id":"bc9a622","project":"linux-phone-oco/google-walleye-lab","says":"walleye: vf4 - vf2's order with the progressive dump after the bind (build item) (#133)"}
 {"at":"2026-11-24T02:11:21Z","by":"grenudi","id":"bd21a05","project":"linux-phone-oco/google-walleye-lab","says":"walleye: 0.45.2 and the 145 sources landed; z21's recipe row is next, the gate parts after (#992)"}
+{"at":"2026-11-27T13:42:17Z","by":"grenudi","id":"bd43d70","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ready the ModemManager try, one guard cost set (#1289)"}
 {"at":"2026-11-19T13:54:19Z","by":"grenudi","id":"bd9577f","project":"linux-phone-oco/google-walleye-lab","says":"walleye: touch unattended run repeated from Android before the attended try (#467)"}
 {"at":"2026-11-24T15:06:33Z","by":"grenudi","id":"be0dbac","project":"linux-phone-oco/google-walleye-lab","says":"builder/run ensured image (#1025)"}
 {"at":"2026-11-19T12:18:11Z","by":"grenudi","id":"be3bc00","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the attended program proofs name one runner line (#427)"}
@@ -2702,6 +2757,7 @@
 {"at":"2026-11-26T02:32:25Z","by":"grenudi","id":"bfc77d0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: install steps from the library unblocked by named connections (#1149)"}
 {"at":"2026-11-23T16:34:23Z","by":"grenudi","id":"bff0d54","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the stage 2 go is open for the debug image ec741a98, with its OUTCOMES (#902)"}
 {"at":"2026-11-17T21:43:59Z","by":"grenudi","id":"c008d55","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the s3o try unblocked, first (#59)"}
+{"at":"2026-11-27T20:35:56Z","by":"grenudi","id":"c01d1fa","project":"linux-phone-oco/google-walleye-lab","says":"walleye: mm-up replays the devices by uevent writes, image 492253d9 (#1320)"}
 {"at":"2026-11-21T00:53:53Z","by":"grenudi","id":"c050f70","project":"linux-phone-oco/google-walleye-lab","says":"walleye: install stage 1 as one command, with its record (#689)"}
 {"at":"2026-11-18T14:06:12Z","by":"grenudi","id":"c07a41f","project":"linux-phone-oco/google-walleye-lab","says":"walleye: build c3 (c2 + fw_devlink=permissive), queue its try (#235)"}
 {"at":"2026-11-25T17:03:59Z","by":"grenudi","id":"c13f976","project":"linux-phone-oco/google-walleye-lab","says":"walleye: SLPI judges and health check on captured text; ids 349-362 not known (#1126)"}
@@ -2772,6 +2828,7 @@
 {"at":"2026-11-21T00:30:09Z","by":"grenudi","id":"ceebe41","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the helper swap is open and waits for its keeper try (#687)"}
 {"at":"2026-11-19T08:17:22Z","by":"grenudi","id":"cf0fa72","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the fuel gauge try first in the keeper's order (#390)"}
 {"at":"2026-11-19T17:55:27Z","by":"grenudi","id":"cf23e1e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: what stands between the display and using the phone, and the next upstream series, as items (#545)"}
+{"at":"2026-11-27T11:21:41Z","by":"grenudi","id":"cf4e879","project":"linux-phone-oco/google-walleye-lab","says":"walleye: first qmicli run on the modem image - qrtr:// URI refused (modem-calls) (#1274)"}
 {"at":"2026-11-18T19:52:10Z","by":"grenudi","id":"cf65c74","project":"linux-phone-oco/google-walleye-lab","says":"walleye: z13 (Hynix quirks review fixes) built, try queued; build-z13.sh (#281)"}
 {"at":"2026-11-22T18:50:03Z","by":"grenudi","id":"cf69e52","project":"linux-phone-oco/google-walleye-lab","says":"walleye: stage 2 and stage 3 each get their one command; the stage 3 verdict is in (#710)"}
 {"at":"2026-11-23T10:03:47Z","by":"grenudi","id":"cf8dbdd","project":"linux-phone-oco/google-walleye-lab","says":"walleye: UFS try 2 run 3 stopped at step 16 as run 2; GPT EQUAL (research, item note, session log) (#819)"}
@@ -2794,6 +2851,7 @@
 {"at":"2026-11-18T13:38:09Z","by":"grenudi","id":"d2eb96c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the pmic watchdog proof ranked first; stale items settled (#232)"}
 {"at":"2026-11-23T08:57:37Z","by":"grenudi","id":"d2f79d8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the kernel topics item back to open so the RESTART2 tool is the builder's next item (#805)"}
 {"at":"2026-11-19T10:04:40Z","by":"grenudi","id":"d37bead","project":"linux-phone-oco/google-walleye-lab","says":"walleye: UFS_HW_VERSION is read in the matched image's own probe, not on Android (#394)"}
+{"at":"2026-11-27T17:07:34Z","by":"grenudi","id":"d3921a8","project":"linux-phone-oco/google-walleye-lab","says":"feat(modem): ipa node and CONFIG_QCOM_IPA=y, checked against their sources (#1306)"}
 {"at":"2026-11-19T20:04:04Z","by":"grenudi","id":"d3d83db","project":"linux-phone-oco/google-walleye-lab","says":"walleye: copy device-template's device.toml CI check; queued (#579)"}
 {"at":"2026-11-19T04:39:09Z","by":"grenudi","id":"d3fb770","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the PMIC watchdog v1 test queued (build item, attended try with its plain-words ask) (#361)"}
 {"at":"2026-11-20T22:34:14Z","by":"grenudi","id":"d41b68a","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the stage 1 builds go first, before the display any-order images (#663)"}
@@ -2838,9 +2896,11 @@
 {"at":"2026-11-19T01:04:45Z","by":"grenudi","id":"d9528bc","project":"linux-phone-oco/google-walleye-lab","says":"build: ideal-knowledge-base 0.22.0 (#337)"}
 {"at":"2026-11-24T11:58:22Z","by":"grenudi","id":"d9f8b4d","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the rw-write image, the production init behind one word walleye.rw (#1008)"}
 {"at":"2026-11-22T19:58:39Z","by":"grenudi","id":"da273fa","project":"linux-phone-oco/google-walleye-lab","says":"walleye: B-a5 run: check 15 passes but the prompt is mid-screen, init output after (#727)"}
+{"at":"2026-11-27T15:32:48Z","by":"grenudi","id":"da63734","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): ModemManager try run 3 stops at dbus --system with --config-file (#1297)"}
 {"at":"2026-11-18T18:16:06Z","by":"grenudi","id":"da76cfd","project":"linux-phone-oco/google-walleye-lab","says":"walleye: z10 tried once, PON registers not read; how the phone stands (#271)"}
 {"at":"2026-11-19T01:29:31Z","by":"grenudi","id":"daf9c31","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the init adoption no longer waits for the finished UFS gate (#351)"}
 {"at":"2026-11-19T21:37:53Z","by":"grenudi","id":"daf9d3f","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the L7 look is done; the unanswered way back gets its own run (#598)"}
+{"at":"2026-11-27T11:41:43Z","by":"grenudi","id":"db132a7","project":"linux-phone-oco/google-walleye-lab","says":"builder/walleye qmicli qrtr (#1276)"}
 {"at":"2026-11-18T02:46:44Z","by":"grenudi","id":"db1abcf","project":"linux-phone-oco/google-walleye-lab","says":"walleye: T1 image (sysrq c, panic=5, ramoops at the phone's region) built; try queued (#115)"}
 {"at":"2026-11-25T15:11:31Z","by":"grenudi","id":"db1e5dd","project":"linux-phone-oco/google-walleye-lab","says":"walleye: qrtr-lookup in the SLPI ramdisk, image slpi rebuilt equal (slpi-boot-procedure, part 1) (#1122)"}
 {"at":"2026-11-19T15:17:02Z","by":"grenudi","id":"db4e1c7","project":"linux-phone-oco/google-walleye-lab","says":"walleye: lpoco-attended v0.31.0: the settings and procedures moves are ready (#502)"}
@@ -2848,6 +2908,8 @@
 {"at":"2026-11-18T02:03:25Z","by":"grenudi","id":"dbbac67","project":"linux-phone-oco/google-walleye-lab","says":"walleye: wpa tried twice, alive at 60 s; how the phone stands (#107)"}
 {"at":"2026-11-18T02:38:15Z","by":"grenudi","id":"dbbf603","project":"linux-phone-oco/google-walleye-lab","says":"docs(walleye): how the phone stands, gone from USB (#110)"}
 {"at":"2026-11-26T01:58:58Z","by":"grenudi","id":"dbc845e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: install steps wait on lab-tools' named connections (#1148)"}
+{"at":"2026-11-27T15:37:14Z","by":"grenudi","id":"dbd4866","project":"linux-phone-oco/google-walleye-lab","says":"walleye: drop dbus --system, and a stopped run still reads card, chain and flags after (#1298)"}
+{"at":"2026-11-27T17:46:19Z","by":"grenudi","id":"dbe83dd","project":"linux-phone-oco/google-walleye-lab","says":"walleye: queue the review the IPA image build skipped (#1309)"}
 {"at":"2026-11-18T07:42:20Z","by":"grenudi","id":"dbeebf7","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the readers retry on permission denied (build item) (#161)"}
 {"at":"2026-11-23T08:47:08Z","by":"grenudi","id":"dc09415","project":"linux-phone-oco/google-walleye-lab","says":"walleye: after the kernel steps 1 to 3 the phone path (RESTART2 tool, silent shell) goes first (#801)"}
 {"at":"2026-11-25T07:10:17Z","by":"grenudi","id":"dc272a2","project":"linux-phone-oco/google-walleye-lab","says":"docs: go for check C1 (rehearsal first, then the one run), image a0a55cd0 (#1091)"}
@@ -2898,7 +2960,9 @@
 {"at":"2026-11-18T22:49:27Z","by":"grenudi","id":"e3e5a51","project":"linux-phone-oco/google-walleye-lab","says":"walleye: z18 not built, its premise (pmi8998@3 reg) is the overlay's reg-less node and is skipped (#314)"}
 {"at":"2026-11-26T16:56:26Z","by":"grenudi","id":"e42dd4c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: walleye-nfc-up --poll, procedure reads it, NFC image rebuilt (nfc-poll-in-tool) (#1220)"}
 {"at":"2026-11-18T05:58:41Z","by":"grenudi","id":"e48dbf9","project":"linux-phone-oco/google-walleye-lab","says":"walleye: compare our dtb with the alive one and the running fdt; x1..x7, xa images (#146)"}
+{"at":"2026-11-27T20:54:19Z","by":"grenudi","id":"e4954b1","project":"linux-phone-oco/google-walleye-lab","says":"walleye: modem run 9 - rmnet_ipa0 is a candidate, modem0 created, mmcli -L still empty (#1321)"}
 {"at":"2026-11-18T19:58:54Z","by":"grenudi","id":"e4b0a3c","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the next parts ranked: USB networking, touch, display (#284)"}
+{"at":"2026-11-27T17:12:16Z","by":"grenudi","id":"e4b2fed","project":"linux-phone-oco/google-walleye-lab","says":"walleye: before the IPA try - ipa_fws pushed, optional interconnect cited, image rebuilt (#1307)"}
 {"at":"2026-11-24T13:39:50Z","by":"grenudi","id":"e4d30a4","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the rw write reads the previous boot's console on a stop and names what the init got to (#1017)"}
 {"at":"2026-11-25T19:51:22Z","by":"grenudi","id":"e51b5df","project":"linux-phone-oco/google-walleye-lab","says":"docs: the wdt1 pair is at its declared path (walleye-image-recipes-other-images) (#1132)"}
 {"at":"2026-11-23T11:58:21Z","by":"grenudi","id":"e528496","project":"linux-phone-oco/google-walleye-lab","says":"walleye: stage 2 check 16 passes a flash of the image boot_a holds; 29 steps audited for a repeat (#847)"}
@@ -2919,6 +2983,7 @@
 {"at":"2026-11-24T21:25:15Z","by":"grenudi","id":"e9eef49","project":"linux-phone-oco/google-walleye-lab","says":"builder/go is consumed by its run (#1055)"}
 {"at":"2026-11-17T19:58:48Z","by":"grenudi","id":"ea0ffc0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: cmdline read first, the gadget4 try after it (#23)"}
 {"at":"2026-11-19T14:44:10Z","by":"grenudi","id":"ea6292d","project":"linux-phone-oco/google-walleye-lab","says":"walleye: tas2557 firmware not readable by the adb shell user; how the phone stands (#488)"}
+{"at":"2026-11-27T12:40:28Z","by":"grenudi","id":"ead192a","project":"linux-phone-oco/google-walleye-lab","says":"builder/modem mm rootfs (#1281)"}
 {"at":"2026-11-17T22:48:21Z","by":"grenudi","id":"ead9e60","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ml5, timing bins below the dead-kernel reset (build item) (#79)"}
 {"at":"2026-11-17T22:31:40Z","by":"grenudi","id":"eae3d57","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the screen lock question closed; Android is a stepping stone (decision) (#74)"}
 {"at":"2026-11-24T13:43:26Z","by":"grenudi","id":"eb10067","project":"linux-phone-oco/google-walleye-lab","says":"go: walleye-rw-write-run run 2 until 19:30, image 1bfb3667 named in full (#1018)"}
@@ -2981,6 +3046,7 @@
 {"at":"2026-11-25T04:52:14Z","by":"grenudi","id":"f6c8440","project":"linux-phone-oco/google-walleye-lab","says":"backlog: the sources item waits on walleye-phone-text-captures-rest (#1083)"}
 {"at":"2026-11-23T23:06:39Z","by":"grenudi","id":"f6cb47a","project":"linux-phone-oco/google-walleye-lab","says":"walleye: UFS run 5 stop replayed, the go names the full sha256, two signs queued (#967)"}
 {"at":"2026-11-26T16:40:59Z","by":"grenudi","id":"f6e6d64","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the NFC poll tool first in the builder queue (rank 7) (#1219)"}
+{"at":"2026-11-27T20:59:47Z","by":"grenudi","id":"f710f39","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the slow way back first - run 9 sat in fastboot, a reboot gave Android in 30 s (#1322)"}
 {"at":"2026-11-19T17:18:27Z","by":"grenudi","id":"f74b391","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the display program item is one current instruction; it does not wait for the poll fix (#531)"}
 {"at":"2026-11-24T05:07:54Z","by":"grenudi","id":"f782d05","project":"linux-phone-oco/google-walleye-lab","says":"chore(deps): lpoco-attended 0.45.2 -> 0.45.3 (#1004)"}
 {"at":"2026-11-18T11:37:22Z","by":"grenudi","id":"f782f67","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the z3, c1 tries and dmesg-clean are blocked by the shell fix (the real dependency) (#196)"}
@@ -3005,6 +3071,7 @@
 {"at":"2026-11-23T16:20:19Z","by":"grenudi","id":"fb184c1","project":"linux-phone-oco/google-walleye-lab","says":"walleye: rehearsal 6, read only, the whole stdout kept as captured text (#898)"}
 {"at":"2026-11-18T12:59:43Z","by":"grenudi","id":"fb1b028","project":"linux-phone-oco/google-walleye-lab","says":"walleye: session log of the z6 dmesg map (#219)"}
 {"at":"2026-11-17T15:17:39Z","by":"grenudi","id":"fb58702","project":"linux-phone-oco/google-walleye-lab","says":"Initial commit"}
+{"at":"2026-11-27T17:41:39Z","by":"grenudi","id":"fbad3dd","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ipa_fws in the firmware tar, the IPA kernel and image rebuilt, icc optional cited (#1308)"}
 {"at":"2026-11-19T16:16:01Z","by":"grenudi","id":"fbba3c7","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the L6 stripes try repeats with the drawer detached; the display program follows it (#516)"}
 {"at":"2026-11-19T21:02:17Z","by":"grenudi","id":"fbc2a6e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: B2's unattended run for real stops at look 1; the phone returned by the init's deadman (#588)"}
 {"at":"2026-11-18T14:13:15Z","by":"grenudi","id":"fc30955","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the pmic bite proof waits on the reset-type research (#242)"}
@@ -3015,6 +3082,7 @@
 {"at":"2026-11-26T20:48:18Z","by":"grenudi","id":"fce49eb","project":"linux-phone-oco/google-walleye-lab","says":"walleye: TAS2557 from Boiano's v3 on v7.3, the pair's overlay, records (#1227)"}
 {"at":"2026-11-18T09:12:48Z","by":"grenudi","id":"fd35ee6","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the tty read through root-exec until the udev rule works (decision, item for orchestration) (#176)"}
 {"at":"2026-11-26T03:20:27Z","by":"grenudi","id":"fd46bd4","project":"linux-phone-oco/google-walleye-lab","says":"walleye: install steps parked on the lpoco-bringup pin; record (#1154)"}
+{"at":"2026-11-27T18:19:54Z","by":"grenudi","id":"fd7dee0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: wlanmdsp.mbn in the modem firmware tar; tqftpserv log checks (#1312)"}
 {"at":"2026-11-25T20:29:06Z","by":"grenudi","id":"fdb6ae4","project":"linux-phone-oco/google-walleye-lab","says":"walleye: manifest 0.47 item met; manifest-schema and init-from-roof moved here from docs (#1133)"}
 {"at":"2026-11-18T22:39:57Z","by":"grenudi","id":"fe23e1f","project":"linux-phone-oco/google-walleye-lab","says":"walleye builder z17 (#311)"}
 {"at":"2026-11-18T09:31:19Z","by":"grenudi","id":"fe881e4","project":"linux-phone-oco/google-walleye-lab","says":"walleye: banner2 tried, banner read as lab user; how the phone stands (#182)"}
@@ -4305,6 +4373,7 @@
 {"at":"2026-11-18T10:18:10Z","by":"oco observe","id":"6ef3028","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T18:25:40Z","by":"oco observe","id":"6f29636","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T10:48:09Z","by":"oco observe","id":"6f3612c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-27T08:50:56Z","by":"oco observe","id":"6fb89d9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:12:03Z","by":"oco observe","id":"6ffcd17","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T10:23:42Z","by":"oco observe","id":"7006122","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T10:20:17Z","by":"oco observe","id":"70915cc","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -6287,6 +6356,7 @@
 {"at":"2026-11-14T19:11:33Z","by":"oco harvest","id":"e53b04d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T18:38:32Z","by":"oco harvest","id":"e57565b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-19T07:29:28Z","by":"oco harvest","id":"e5a6278","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-27T08:36:42Z","by":"oco harvest","id":"e5d192d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-23T07:40:47Z","by":"oco harvest","id":"e628882","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T15:57:00Z","by":"oco harvest","id":"e64e0c4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T16:20:41Z","by":"oco harvest","id":"e6a65a6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
